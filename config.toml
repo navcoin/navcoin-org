@@ -1,0 +1,77 @@
+baseURL = "https://navcore.org"
+theme = "nav-community-v1"
+
+# English is the default language
+defaultContentLanguage = "en"
+# Force to have /en/my-page and /fr/my-page routes, even for default language.
+defaultContentLanguageInSubdir = false
+
+[Languages]
+[Languages.en]
+title = "NavCoin Community Site"
+weight = 1
+languageName = "English"
+
+[Languages.fr]
+title = "Documentation du thème Hugo Learn"
+weight = 2
+languageName = "Français"
+
+
+twitter_username = "navcoin"
+
+
+#linkedin = "english-link"
+#
+#languageCode = "en"
+#DefaultContentLanguage = "en"
+#copyright = "Everything is mine"
+#
+#
+#[languages]
+#[languages.en]
+#title = "NavCoin Community Site"
+
+
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+
+
+# Main Menu
+[[menu.main]]
+    name = "Home"
+    title = "Home"
+    weight = -130
+    identifier = "home"
+    url = "/"
+[[menu.main]]
+    name = "News"
+    title = "News"
+    weight = -120
+    identifier = "news"
+    url = "/news/"
+[[menu.main]]
+    name = "Projects"
+    title = "Projects"
+    weight = -110
+    identifier = "Project"
+    url = "/projects/order-by-progress/"
+[[menu.main]]
+    name = "Get Involved"
+    title = "Get Involved"
+    weight = -100
+    url = "/get-involved/"
+    identifier = "get-involved"
+[[menu.main]]
+    name = "Roadmap"
+    title = "Roadmap"
+    weight = -105
+    url = "/roadmap/"
+    identifier = "roadmap"
+[[menu.main]]
+    name = "About"
+    title = "About"
+    weight = -90
+    url = "/about-this-website/"
+    identifier = "about-this-website"
