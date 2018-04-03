@@ -167,6 +167,13 @@ span.price-tag {
   width: 220px;
 }
 
+.themeix-section-heading-title .head-title::before {
+	content:none;
+}
+
+.themeix-section-heading-title .head-title::after {
+	content:none;
+}
 
 }
 
