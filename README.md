@@ -1,10 +1,10 @@
-# NAV community site
+# NavCoin.org
 Maintained by the global NAV community
 
 ## Contributing to the site
-Want to add a project, update or fix some errors. Then plase fork the project and get changing.
+Want to add a project, update or fix some errors. Then please fork the project and get changing.
 
-## Geting started
+## Getting started
 The NAV community site is built with the static site generator [Hugo](https://gohugo.io/).
 
 ### Install Hugo
@@ -16,7 +16,7 @@ You will need to fork and clone the project on github if you wish to make any ch
 
 ### Running the site
 After cloning the site, cd into the project directory and run it up:
-    `cd nav-community-site`
+    `cd navcoin-org`
     `hugo server`
 
 This will serve the site on http://localhost:1313
@@ -42,8 +42,8 @@ You should keep all the post related images in the folder with the index.md fold
     description: ""                     - currently unused
     categories: ["Nav Coin Updates"]    - Cats
     resources: []                       - currently unused
-    slug: ""                            - currenctly unused
-    feature_image: "image.png"          - The image that should be herored
+    slug: ""                            - currently unused
+    feature_image: "image.png"          - The image that should be hero'd
     show_title_text: false              - If you want to show the title below the image
 
 ### Adding projects
@@ -55,7 +55,7 @@ When adding a project it is recommend you use the Hugo commandline tool as this 
     title: "Project name"               - Project Name
     date: 2018-03-07T10:27:21+13:00     - The date and time published - defaults to date created
     lastmod: 2018-03-19T10:27:21+13:00  - The date md was last changed
-    draft: true                         - Is the item a draft - if true it is not incuded in the site
+    draft: true                         - Is the item a draft - if true it is not included in the site
     author: ""                          - Who is the project lead
     description: ""                     - currently unused
     resources: []                       - currently unused
@@ -72,9 +72,9 @@ When adding a project it is recommend you use the Hugo commandline tool as this 
     project_url: ""                     - The project URL - Optional
     reddit_url: ""                      - Reddit thread / URL - Optional
     twitter_url: ""                     - Project twitter url - Optional
-    card_color: ""                      - Change the card color - Optional
-    font_color: ""                      - Change the card font color - Optional
-    weight: 0                           - Allows the default postion on the roadmap to be overridden
+    card_color: ""                      - Change the card colour - Optional
+    font_color: ""                      - Change the card font colour - Optional
+    weight: 0                           - Allows the default position on the roadmap to be overridden
 
 ## Editing Layouts
 The layouts are held in the theme folder currently `nav-commnity-v1`. Please review the [Hugo documentation](https://gohugo.io/documentation/) for layout template information

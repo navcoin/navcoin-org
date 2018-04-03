@@ -1,0 +1,21 @@
+{
+  "name": "navcoin-org",
+  "version": "1.0.0",
+  "description": "Maintained by the global NAV community",
+  "dependencies": {
+    "gulp-sass": "^3.2.1",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "hugo server",
+    "sass": "gulp sass:watch"
+  },
+  "keywords": [
+    "NAV",
+    "NavCoin",
+    "Cryptorurrency"
+  ],
+  "author": "",
+  "license": "MIT"
+}
