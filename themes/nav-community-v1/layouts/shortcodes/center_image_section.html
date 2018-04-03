@@ -3,10 +3,10 @@
     <div class="row">
         <div class="col-md-12">
             <div class="col-md-12" style="text-align: center;">
-                <h2 class="themeix-title-h1" style="color: {{ .Get "fontColor" }}">{{ .Get "title"}}</h2>
+                <img src="{{ .Get "imgSrc" }}" style="max-height: {{ .Get "imgHeight"}};">
             </div>
             <div class="col-md-12" style="text-align: center;">
-                <img src="{{ .Get "imgSrc" }}" style="max-height: {{ .Get "imgHeight"}};">
+                <h2 class="themeix-title-h1" style="color: {{ .Get "fontColor" }}">{{ .Get "title"}}</h2>
             </div>
         </div>
     </div>

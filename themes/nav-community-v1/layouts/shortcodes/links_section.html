@@ -56,6 +56,14 @@
                   </div>
               </div>
           </div>
+          {{ if isset .Params "btnLink" }}
+          <div class="row">
+            <div class="themeix-button-group " style="text-align: center;">
+              <a href="{{ .Get "btnLink" }}" class="themeix-btn themeix-danger smoothScroll" style="background-color: {{ .Get "linkBgColor"}}">{{ .Get "btnTxt" }}</a>
+            </div>
+          </div>
+          {{ end }}
+        
         </div>
     </div>
 </section>
