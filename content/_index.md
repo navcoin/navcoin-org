@@ -3,17 +3,20 @@ title: "NavCoin Community Site"
 date: 2018-03-12T17:47:48+13:00
 draft: false
 ---
-{{< home_header
-    title="NavCoin Community Hub"
-    subhead=""
-    txtColor="#FFF"
-    text="NavCoin is a community initiative that allows anyone to contribute in a number of different ways. The Community Hub will help you learn about the range of NavCoin projects, and how you can get involved with your own."
-    button1Txt="Current Projects"
-    button1Link="/projects/"
-    button2Txt="Get Involved"
-    button2Link="/get-involved">}}
+{{< center_image_section
+    gradient="false"
+    end=""
+    bgColor="#FFF"
+    fontColor="#000"
+    title="Simplifying Cryptocurrency"
+    imgSrc="/images/logo-extended.png"
+    imgHeight="260px"
+    text="NavCoin is a community initiative that allows anyone to contribute in a number of different ways. The Community Hub will help you learn about the range of NavCoin projects, and how you can get involved with your own.">}}
 {{< left_image_section
     title="What Is NavCoin?"
+    bgColor="#7d5ab5"
+    fontColor="#FFF"
+    linkBgColor="#523971"
     imgSrc="/images/nav-logo-1.png"
     imgHeight="286px"
     imgPadding="44px"
@@ -36,29 +39,41 @@ draft: false
     feature3Img="images/icons/icon-lock.png"
     feature3Title="Private Payments"
     feature3Txt="Optionally send private transactions through the open source NavTech private payment platform.">}}
-{{< home_centre_text_section
-    title="This Site Is 100% Maintained By The Community"
-    text="">}}
-<p>The site and its content are open source through GitHub. This means that anyone can update, delete or add any NavCoin related projects and news.
-<p> If you would like to make a contribution, then please <a href="https://github.com/NAVCoin/nav-community-site">follow the readme file in GitHub</a>. Please note that all edits will need to be merged by senior community members, but this is only to avoid unwanted spam from being put on the site.</p>
-{{< /home_centre_text_section >}}
+{{< left_image_section
+    title="It's easy to use"
+    bgColor="#FFF"
+    titleFontColor="#858593"
+    textFontColor="#858593"
+    linkBgColor="#7d59b5"
+    imgSrc="/images/mac-navcoin.png"
+    imgHeight="286px"
+    imgPadding="44px"
+    btn1Txt="Download a Wallet"
+    btn1Link="http://www.navcoin.org/wallets">}}
+    <p>The NavCoin Core wallet has been carefully refined to be intuitive and easy to use. It comes with a setup wizard and everything you need to load the blockchain and start sending transactions in a secure environment.</p>
+{{< /left_image_section >}}
+
 {{< links_section
-    title="Join the Community"
-    subtitle="If you’re interested in contributing to NavCore.org or any NavCoin projects, get in touch with the NavCoin Community."
+    title="NavCoin Roadmap"
+    subtitle="Upcoming NavCoin Protocol features"
     fontColor="#FFF"
-    bgColor="#7d5ab5"
+    bgColor="#42b6eb"
     containerPadding="40px 0 60px 0"
     titleMargin="0 0 20px 0"
     gradient="false"
-    feature1Img="/images/icons/icon-github.png"
-    feature1Title="GitHub"
-    feature1Txt="Join us on GitHub »"
-    feature1Link="https://github.com/NavCoin"
-    feature2Img="/images/icons/icon-reddit.png"
-    feature2Title="Reddit"
-    feature2Txt="Join us on Reddit »"
-    feature2Link="https://reddit.com/r/NavCoin"
-    feature3Img="/images/icons/icon-discord.png"
-    feature3Title="Discord"
-    feature3Txt="Join us on Discord »"
-    feature3Link="https://discord.gg/y4Vu9jw">}}
+    feature1Img="/images/icons/icon-trophy.png"
+    feature1Title="Community Fund"
+    feature1Txt="The community have suggested a change in the consensus mechanism which would allow for community contributors to receive funding from the network for their efforts."
+    feature1Link="https://navcoin.org/community-roadmap"
+    feature2Img="/images/icons/icon-bolt.png"
+    feature2Title="Lightning Network"
+    feature2Txt="Implementing lightning network transactions to allow instant, cross chain, atomic swaps between NAV and other supported cryptocurrencies"
+    feature2Link="https://navcoin.org/community-roadmap"
+    feature3Img="/images/icons/icon-globe-blue.png"
+    feature3Title="NavMorph"
+    feature3Txt="NavMorph combines NavTech Private Payments and instant exchange technology to enable users to send any supported cryptocurrency privately."
+    feature3Link="https://navcoin.org/community-roadmap"
+    btnLink="https://navcoin.org/community-roadmap"
+    linkBgColor="#7d59b5"
+    btnTxt="View Full Roadmap">}}
+
