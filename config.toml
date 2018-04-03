@@ -46,14 +46,8 @@ twitter_username = "navcoin"
     identifier = "home"
     url = "/"
 [[menu.main]]
-    name = "News"
-    title = "News"
-    weight = -120
-    identifier = "news"
-    url = "/news/"
-[[menu.main]]
-    name = "Projects"
-    title = "Projects"
+    name = "Wallets"
+    title = "Wallets"
     weight = -110
     identifier = "Project"
     url = "/projects/order-by-progress/"
@@ -63,12 +57,6 @@ twitter_username = "navcoin"
     weight = -100
     url = "/get-involved/"
     identifier = "get-involved"
-[[menu.main]]
-    name = "Roadmap"
-    title = "Roadmap"
-    weight = -105
-    url = "/roadmap/"
-    identifier = "roadmap"
 [[menu.main]]
     name = "About"
     title = "About"
