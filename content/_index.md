@@ -55,7 +55,9 @@ draft: false
 {{< links_section
     title="NavCoin Protocol Roadmap"
     subtitle="Upcoming NavCoin Protocol features"
-    fontColor="#FFF"
+    titleFontColor="#ffffff"
+    subtitleFontColor="#fff"
+    txtFontColor="#fff"
     bgColor="#42b6eb"
     containerPadding="40px 0 60px 0"
     titleMargin="0 0 20px 0"
@@ -117,6 +119,9 @@ person2Contribs="1"
 >}}
 {{< links_section
   title="Get Involved"
+  titleFontColor="#333"
+  subtitleFontColor="#555"
+  txtFontColor="#777"
   containerPadding="40px 0 0 0"
   titleMargin="0 0 0 0"
   class="links-image-shadow-no-border"
@@ -136,6 +141,9 @@ person2Contribs="1"
   feature3Link="https://www.reddit.com/r/NavCoin"
 >}}
 {{< links_section
+  titleFontColor="#333"
+  subtitleFontColor="#555"
+  txtFontColor="#777"
   containerPadding="0 0 0 0"
   titleMargin="0 0 0 0"
   class="links-image-shadow-no-border"
@@ -155,6 +163,9 @@ person2Contribs="1"
   feature3Link="https://t.me/navcoin"
 >}}
 {{< links_section
+  titleFontColor="#333"
+  subtitleFontColor="#555"
+  txtFontColor="#777"
   containerPadding="0 0 60px 0"
   titleMargin="0 0 0 0"
   class="links-image-shadow-no-border"
