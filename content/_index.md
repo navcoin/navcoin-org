@@ -53,7 +53,7 @@ draft: false
     <p>The NavCoin Core wallet has been carefully refined to be intuitive and easy to use. It comes with a setup wizard and everything you need to load the blockchain and start sending transactions in a secure environment.</p>
 {{< /left_image_section >}}
 {{< links_section
-    title="NavCoin Roadmap"
+    title="NavCoin Protocol Roadmap"
     subtitle="Upcoming NavCoin Protocol features"
     fontColor="#FFF"
     bgColor="#42b6eb"
