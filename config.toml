@@ -49,7 +49,6 @@ twitter_username = "navcoin"
     name = "Information"
     title = "Information"
     weight = -90
-    url = "#"
     identifier = "information"
     depth = 1
 [[menu.main]]
