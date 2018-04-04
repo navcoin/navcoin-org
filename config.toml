@@ -42,24 +42,53 @@ twitter_username = "navcoin"
 [[menu.main]]
     name = "Home"
     title = "Home"
-    weight = -130
+    weight = -100
     identifier = "home"
     url = "/"
 [[menu.main]]
-    name = "Wallets"
-    title = "Wallets"
-    weight = -110
-    identifier = "Project"
-    url = "/projects/order-by-progress/"
-[[menu.main]]
-    name = "Get Involved"
-    title = "Get Involved"
-    weight = -100
-    url = "/get-involved/"
-    identifier = "get-involved"
-[[menu.main]]
-    name = "About"
-    title = "About"
+    name = "Information"
+    title = "Information"
     weight = -90
+    url = "#"
+    identifier = "information"
+    depth = 1
+[[menu.main]]
+    name = "About NavCoin"
+    title = "About NavCoin"
+    weight = 1
+    url = "/about-navcoin/"
+    identifier = "about-NavCoin"
+    parent = "information"
+[[menu.main]]
+    name = "FAQ"
+    title = "FAQ"
+    weight = 2
+    url = "https://info.navcoin.org/faq"
+    identifier = "faq"
+    parent = "information"
+[[menu.main]]
+    name = "Technical Support"
+    title = "Technical Support"
+    weight = 4
+    url = "https://info.navcoin.org/"
+    identifier = "technical-support"
+    parent = "information"
+[[menu.main]]
+    name = "About This Website"
+    title = "About This Website"
+    weight = 5
     url = "/about-this-website/"
     identifier = "about-this-website"
+    parent = "information"
+[[menu.main]]
+    name = "Get NAV"
+    title = "Get NAV"
+    weight = -80
+    identifier = "get-nav"
+    url = "/projects/order-by-progress/"
+[[menu.main]]
+    name = "Wallets"
+    title = "Wallets"
+    weight = -40
+    identifier = "wallets"
+    url = "/projects/order-by-progress/"
