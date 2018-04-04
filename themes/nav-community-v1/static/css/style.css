@@ -3286,7 +3286,8 @@ ul li.cat-item a {
    }
 
    #project .service-icon img {
-   	 max-width: 176px;
+        max-width: 100px;
+        border-radius: 1000px;
    }
 
    .about-appix-left-img {

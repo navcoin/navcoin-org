@@ -74,7 +74,8 @@ draft: false
     feature3Link="https://navcoin.org/community-roadmap"
     btnLink="https://navcoin.org/community-roadmap"
     linkBgColor="#7d59b5"
-    btnTxt="View Full Roadmap">}}
+    btnTxt="View Full Roadmap"
+>}}
 {{< contrib_list
 title="NavCoin Protocol Contributors"
 contribBgColor="#7d5ab5"
@@ -113,7 +114,61 @@ person2="kierenhyl"
 person2GithubUsername="kierenhyl"
 person2Contribs="1"
 >}}
-
-### Get Involved Section
-
----
+{{< links_section
+  title="Get Involved"
+  containerPadding="40px 0 60px 0"
+  titleMargin="0 0 0 0"
+  class="links-image-shadow"
+  bgColor="#FFF"
+  gradient="false"
+  feature1Img="/images/icons/icon-twitter.png"
+  feature1Title="Twitter"
+  feature1Txt="Follow us on Twitter »"
+  feature1Link="https://twitter.com/NavCoin"
+  feature2Img="/images/icons/icon-facebook.png"
+  feature2Title="Facebook"
+  feature2Txt="Like us on Facebook »"
+  feature2Link="https://facebook.com/NAVCoin"
+  feature3Img="/images/icons/icon-reddit.png"
+  feature3Title="Reddit"
+  feature3Txt="Read about us on Reddit »"
+  feature3Link="https://www.reddit.com/r/NavCoin"
+>}}
+{{< links_section
+  containerPadding="0px 0 0px 0"
+  titleMargin="0 0 0 0"
+  class="links-image-shadow"
+  bgColor="#FFF"
+  gradient="false"
+  feature1Img="/images/icons/icon-medium.jpg"
+  feature1Title="Medium"
+  feature1Txt="Browse our articles on Medium »"
+  feature1Link="http://medium.com/nav-coin"
+  feature2Img="/images/icons/discord.png"
+  feature2Title="Discord"
+  feature2Txt="Join us on Discord »"
+  feature2Link="https://discord.gg/y4Vu9jw"
+  feature3Img="/images/icons/icon-telegram.png"
+  feature3Title="Telegram"
+  feature3Txt="Chat with us on Telegram »"
+  feature3Link="https://t.me/navcoin"
+>}}
+{{< links_section
+  containerPadding="0px 0 60px 0"
+  titleMargin="0 0 0 0"
+  class="links-image-shadow"
+  bgColor="#FFF"
+  gradient="false"
+  feature1Img="/images/icons/icon-bitcoin-talk.png"
+  feature1Title="BitcoinTalk"
+  feature1Txt="Post on BitcoinTalk »"
+  feature1Link="https://bitcointalk.org/index.php?topic=679791"
+  feature2Img="/images/icons/icon-instagram.png"
+  feature2Title="Instagram"
+  feature2Txt="Check us out on Instagram »"
+  feature2Link="https://www.instagram.com/nav.coin.official/"
+  feature3Img="/images/icons/icon-n-purple-large.png"
+  feature3Title="Knowledge Base"
+  feature3Txt="Search the Knowledge Base »"
+  feature3Link="https://info.navcoin.org"
+>}}
