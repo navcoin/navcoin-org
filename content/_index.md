@@ -103,6 +103,7 @@ person3GithubUsername="colvano"
 person3Contribs="2"
 >}}
 {{< contrib_list
+section-margin="0 0 30px 0"
 btnLink="https://github.com/NAVCoin/navcoin-core/graphs/contributors"
 btnTxt="View on Github"
 linkBgColor="#7d5ab5"
@@ -116,7 +117,7 @@ person2Contribs="1"
 >}}
 {{< links_section
   title="Get Involved"
-  containerPadding="40px 0 60px 0"
+  containerPadding="40px 0 0 0"
   titleMargin="0 0 0 0"
   class="links-image-shadow-no-border"
   bgColor="#ebebeb"
@@ -135,7 +136,7 @@ person2Contribs="1"
   feature3Link="https://www.reddit.com/r/NavCoin"
 >}}
 {{< links_section
-  containerPadding="0px 0 0px 0"
+  containerPadding="0 0 0 0"
   titleMargin="0 0 0 0"
   class="links-image-shadow-no-border"
   bgColor="#ebebeb"
@@ -154,7 +155,7 @@ person2Contribs="1"
   feature3Link="https://t.me/navcoin"
 >}}
 {{< links_section
-  containerPadding="0px 0 60px 0"
+  containerPadding="0 0 60px 0"
   titleMargin="0 0 0 0"
   class="links-image-shadow-no-border"
   bgColor="#ebebeb"
