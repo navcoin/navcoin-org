@@ -45,63 +45,110 @@ twitter_username = "navcoin"
     weight = 1
     identifier = "home"
     url = "/"
+
+
 [[menu.main]]
     name = "Information"
     title = "Information"
     weight = 2
     identifier = "information"
     depth = 1
-[[menu.main]]
-    name = "About NavCoin"
-    title = "About NavCoin"
-    weight = 1
-    url = "/about-navcoin/"
-    identifier = "about-NavCoin"
-    parent = "information"
-[[menu.main]]
-    name = "Getting Started"
-    title = "Getting Started"
-    weight = 2
-    url = "/getting-started/"
-    identifier = "getting-started"
-    parent = "information"
-[[menu.main]]
-    name = "Buying NavCoin"
-    title = "Buying NavCoin"
-    weight = 3
-    url = "/buying-navcoin"
-    identifier = "buying-navcoin"
-    parent = "information"
-[[menu.main]]
-    name = "Knowledge Base"
-    title = "Knowledge Base"
-    weight = 4
-    url = "https://info.navcoin.org/"
-    identifier = "knowledge-base"
-    parent = "information"
-[[menu.main]]
-    name = "About This Website"
-    title = "About This Website"
-    weight = 5
-    url = "/about-this-website/"
-    identifier = "about-this-website"
-    parent = "information"
-[[menu.main]]
-    name = "Contribute"
-    title = "Contribute"
-    weight = 6
-    url = "/contribute/"
-    identifier = "contribute"
-    parent = "information"
+    [[menu.main]]
+        name = "About NavCoin"
+        title = "About NavCoin"
+        weight = 1
+        url = "/about-navcoin/"
+        identifier = "about-NavCoin"
+        parent = "information"
+    [[menu.main]]
+        name = "Getting Started"
+        title = "Getting Started"
+        weight = 2
+        url = "/getting-started/"
+        identifier = "getting-started"
+        parent = "information"
+    [[menu.main]]
+        name = "Buying NavCoin"
+        title = "Buying NavCoin"
+        weight = 3
+        url = "/buying-navcoin"
+        identifier = "buying-navcoin"
+        parent = "information"
+    [[menu.main]]
+        name = "Knowledge Base"
+        title = "Knowledge Base"
+        weight = 4
+        url = "https://info.navcoin.org/"
+        identifier = "knowledge-base"
+        parent = "information"
+    [[menu.main]]
+        name = "About This Website"
+        title = "About This Website"
+        weight = 5
+        url = "/about-this-website/"
+        identifier = "about-this-website"
+        parent = "information"
+    [[menu.main]]
+        name = "Contribute"
+        title = "Contribute"
+        weight = 6
+        url = "/contribute/"
+        identifier = "contribute"
+        parent = "information"
+
+
 [[menu.main]]
     name = "Wallets"
     title = "Wallets"
     weight = 3
     identifier = "wallets"
-    url = "/wallets/"
+    [[menu.main]]
+        name = "NavCoin Core"
+        title = "NavCoin Core"
+        weight = 3
+        identifier = "navcoin-core"
+        url = "/wallets/navcoin-core"
+        parent="wallets"
+    [[menu.main]]
+        name = "NavPay"
+        title = "NavPay"
+        weight = 3
+        identifier = "navpay"
+        url = "/wallets/navpay"
+        parent="wallets"
+    [[menu.main]]
+        name = "Other Wallets"
+        title = "Other Wallets"
+        weight = 3
+        identifier = "other-wallets"
+        url = "/wallets/"
+        parent="wallets"
+
+
 [[menu.main]]
     name = "Community"
     title = "Community"
     weight = 4
     identifier = "community"
-    url = "/community/"
+    [[menu.main]]
+        name = "Community Hub"
+        title = "Community Hub"
+        weight = 1
+        identifier = "community-hub"
+        url = "https://www.navcore.org"
+        parent="community"
+    [[menu.main]]
+        name = "NavTech Servers"
+        title = "NavTech Servers"
+        weight = 2
+        identifier = "navtech-servers"
+        url = "https://navtechservers.com/"
+        parent="community"
+    [[menu.main]]
+        name = "NavCommunity"
+        title = "NavCommunity"
+        weight = 3
+        identifier = "navcommunity"
+        url = "https://navcommunity.net/"
+        parent="community"
+
