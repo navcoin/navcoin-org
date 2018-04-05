@@ -2,6 +2,16 @@
     text-align: center;
 }
 
+.white-txt-underline {
+    color: #fff;
+    text-decoration: underline;
+    &:hover, &:active, &:visited {
+        color: #fff;
+        text-decoration: underline;
+    }
+}
+
+
 .contrib-list {
 
     .git-disp-pic {

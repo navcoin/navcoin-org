@@ -1,6 +1,13 @@
 .center {
   text-align: center; }
 
+.white-txt-underline {
+  color: #fff;
+  text-decoration: underline; }
+  .white-txt-underline:hover, .white-txt-underline:active, .white-txt-underline:visited {
+    color: #fff;
+    text-decoration: underline; }
+
 .contrib-list .git-disp-pic {
   max-height: 60px;
   border-radius: 30px;

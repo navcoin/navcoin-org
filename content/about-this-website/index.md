@@ -13,22 +13,30 @@ type: "default"
     bgColor="#7d5ab5"
     linkBgColor="#523971"
     gradient=""
-    btn1Link="https://github.com/NAVCoin/nav-community-site"
-    btn1Txt="Contribute to NavCore.org"
+    btn1Link="https://discord.gg/y4Vu9jw"
+    btn1Txt="NavCoin Discord"
     fontColor="#FFF">}}
 
-    <p>NavCore.org is maintained by the NavCoin Core Developers and other NavCoin Community Members. The site and its content are open source. This means that anyone can update, delete or add their own NavCoin related projects and news.</p>
+    <p>Navcoin.org is maintained by the NavCore team and other NavCoin Community Members. NavCoin is a community project and we are exploring ways to further decentralise the management of this website and it’s content.</p>
 
-<p> If you would like to add or update anything on the site, then please follow the instructions in the readme file on GitHub.</p>
+<p>If you have a suggestion, or want to get your project added to the roadmap, talk to a community member on the <a href="https://discord.gg/y4Vu9jw" class="white-txt-underline">NavCoin Discord</a> who can help get your update integrated.</p>
 {{< /left_image_section >}}
+{{< home_centre_text_section
+    title="Separating concerns"
+    bgColor="#7d5ab5"
+    titleColor="#333">}}
 
+    <p>The NavCoin Core Developers are working towards making the navcoin.org website fully open source so anyone from the community can submit updates or changes through GitHub. A change request would be directly made to the public GitHub repository for review. Once this is setup, the responsibility for approving pull requests into the site can be spread out to include a wider section of the NavCoin community.</p>
+
+<p>Until this site is open source, please bear with us and raise any projects you want added, or content updated through the NavCoin community channels. The NavCore team or a community member can help you to get your suggestions integrated into this website.</p>
+{{< /home_centre_text_section >}}
 {{< links_section
-    title="Join the Community"
-    subtitle="If you’re interested in contributing to NavCore.org or any NavCoin projects, get in touch with the NavCoin Community."
-    titleFontColor="#333"
-    subtitleFontColor="#555"
-    txtFontColor="#777"
-    bgColor=""
+    title="NavCoin Communities"
+    subtitle="If you’re interested in contributing to navcoin.org please connect with the NavCore team and other NavCoin community members through one of these community channels."
+    titleFontColor="#fff"
+    subtitleFontColor="#fff"
+    txtFontColor="#fff"
+    bgColor="#7d5ab5"
     containerPadding="40px 0 60px 0"
     titleMargin="0 0 20px 0"
     gradient="false"
