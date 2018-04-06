@@ -1,3 +1,33 @@
+.box-list {
+    .single-item {
+        box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
+        border-left: 1px solid #EEE;
+        border-top: 1px solid #EEE;
+    }
+    .service-main {
+        padding-top: 30px;
+        padding-bottom: 0px;
+    }
+    img {
+        padding-bottom: 10px;
+        max-height: 150px;
+    }
+    h3 {
+        background-color: #523971;
+        margin-bottom: 5px;
+        padding: 10px 0;
+    }
+    a {
+        color: #555;
+        &:hover, &:active, &:visited {
+            color: #555;
+        }
+    }   
+
+    .box-section-item:hover img {
+        opacity: 0.75;
+    }
+}
 .center {
     text-align: center;
 }
@@ -11,6 +41,18 @@
     }
 }
 
+.dark-grey-txt-underline {
+    color: #333;
+    text-decoration: underline;
+    &:active, &:visited {
+        color: #333;
+        text-decoration: underline;
+    }
+    &:hover {
+        color: #7d59b5;
+        text-decoration: underline;
+    }
+}
 
 .contrib-list {
 

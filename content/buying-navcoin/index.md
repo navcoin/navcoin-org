@@ -4,35 +4,117 @@ date: 2018-03-20T07:41:22+13:01
 draft: false
 type: "default"
 ---
-
 {{< left_image_section
-    title="Who maintains NavCore.org?"
-    imgSrc="/images/icons/icon-earth-purple-large.png"
+    title="Cryptocurrency Exchanges"
+    imgSrc="/images/icons/purple-scales.png"
     imgHeight="400px"
     imgPadding="20px"
     bgColor="#7d5ab5"
-    linkBgColor="#523971"
     gradient=""
-    btn1Link="https://discord.gg/y4Vu9jw"
-    btn1Txt="NavCoin Discord"
     fontColor="#FFF">}}
-
-    <p>Navcoin.org is maintained by the NavCore team and other NavCoin Community Members. NavCoin is a community project and we are exploring ways to further decentralise the management of this website and it’s content.</p>
-
-<p>If you have a suggestion, or want to get your project added to the roadmap, talk to a community member on the <a href="https://discord.gg/y4Vu9jw" class="white-txt-underline">NavCoin Discord</a> who can help get your update integrated.</p>
+    <p>NavCoin is publicly mined and ran no token sale. The only way to get NAV is to purchase it from a third party or exchange. Exchanges provide highly varying degrees of safety, security, privacy, and control over your funds and information. Perform your own due diligence and choose a wallet where you will keep your NavCoin before selecting an exchange.</p>
 {{< /left_image_section >}}
-{{< home_centre_text_section
-    title="Separating concerns"
-    bgColor="#7d5ab5"
-    titleColor="#333">}}
-
-    <p>The NavCoin Core Developers are working towards making the navcoin.org website fully open source so anyone from the community can submit updates or changes through GitHub. A change request would be directly made to the public GitHub repository for review. Once this is setup, the responsibility for approving pull requests into the site can be spread out to include a wider section of the NavCoin community.</p>
-
-<p>Until this site is open source, please bear with us and raise any projects you want added, or content updated through the NavCoin community channels. The NavCore team or a community member can help you to get your suggestions integrated into this website.</p>
-{{< /home_centre_text_section >}}
+{{< box_links_section
+    subtitleFontColor="#fff"
+    titleFontColor="#fff"
+    txtFontColor="#555"
+    bgColor="#fff"
+    linkBgColor="#523971"
+    containerPadding="40px 0 0 0"
+    titleMargin="0"
+    gradient="false"
+    feature1Img="/images/service/poloniex.png"
+    feature1Title="Poloniex"
+    feature1Txt="BTC / NAV"
+    feature1Link="https://poloniex.com/exchange#btc_nav"
+    feature2Img="/images/service/bittrex.png"
+    feature2Title="Bittrex"
+    feature2Txt="BTC / NAV"
+    feature2Link="https://bittrex.com/Market/Index?MarketName=BTC-NAV"
+    feature3Img="/images/service/binance.jpg"
+    feature3Title="Binance"
+    feature3Txt="BTC / NAV"
+    feature3Link="https://www.binance.com/trade.html?symbol=NAV_BTC">}}
+{{< box_links_section
+    subtitleFontColor="#fff"
+    titleFontColor="#fff"
+    txtFontColor="#555"
+    bgColor="#fff"
+    linkBgColor="#523971"
+    containerPadding="0 0 0 0"
+    titleMargin="0"
+    gradient="false"
+    feature1Img="/images/service/cryptopia.png"
+    feature1Title="Cryptopia"
+    feature1Txt="BTC, USD, NZD / NAV"
+    feature1Link="https://www.cryptopia.co.nz/Exchange/?market=NAV_BTC"
+    feature2Img="/images/service/alcurex.png"
+    feature2Title="Alcurex"
+    feature2Txt="Multi Exchange Platform"
+    feature2Link="https://alcurex.com/#NAV-BTC"
+    feature3Img="/images/service/litebit.png"
+    feature3Title="Litebit"
+    feature3Txt="Euro Direct Purchase"
+    feature3Link="https://www.litebit.eu/en/buy/navcoin">}}
+{{< box_links_section
+    subtitleFontColor="#fff"
+    titleFontColor="#fff"
+    txtFontColor="#555"
+    bgColor="#fff"
+    linkBgColor="#523971"
+    containerPadding="0 0 40px 0"
+    titleMargin="0"
+    gradient="false"
+    feature1Img="/images/service/bitsquare.png"
+    feature1Title="Bitsquare"
+    feature1Txt="Decentralised Exchange"
+    feature1Link="https://bitsquare.io/"
+    feature2Img="/images/service/changelly.png"
+    feature2Title="Changelly"
+    feature2Txt="Instant Exchange"
+    feature2Link="https://changelly.com/"
+    feature3Img="/images/service/bestrate.jpg"
+    feature3Title="Best Rate"
+    feature3Txt="Instant Exchange"
+    feature3Link="https://bestrate.org/">}}
+{{< box_links_section
+    subtitleFontColor="#fff"
+    titleFontColor="#fff"
+    txtFontColor="#555"
+    bgColor="#fff"
+    linkBgColor="#523971"
+    containerPadding="0 0 0 0"
+    titleMargin="0"
+    gradient="false"
+    feature1Img="/images/service/cryptopia.png"
+    feature1Title="Cryptopia"
+    feature1Txt="BTC, USD, NZD / NAV"
+    feature1Link="https://www.cryptopia.co.nz/Exchange/?market=NAV_BTC"
+    feature2Img="/images/service/alcurex.png"
+    feature2Title="Alcurex"
+    feature2Txt="Multi Exchange Platform"
+    feature2Link="https://alcurex.com/#NAV-BTC"
+    feature3Img="/images/service/litebit.png"
+    feature3Title="Litebit"
+    feature3Txt="Euro Direct Purchase"
+    feature3Link="https://www.litebit.eu/en/buy/navcoin">}}
+{{< box_links_section
+    subtitleFontColor="#fff"
+    titleFontColor="#fff"
+    txtFontColor="#555"
+    bgColor="#fff"
+    linkBgColor="#523971"
+    containerPadding="0 0 40px 0"
+    titleMargin="0"
+    gradient="false"
+    feature1Img="/images/service/godex.png"
+    feature1Title="Godex"
+    feature1Txt="Decentralised Exchange"
+    feature1Link="https://godex.io/"
+    >}}
 {{< links_section
     title="NavCoin Communities"
-    subtitle="If you’re interested in contributing to navcoin.org please connect with the NavCore team and other NavCoin community members through one of these community channels."
+    subtitle="If you’re unsure which exchange to use or how they work, talk to one of the many helpful NavCoin community members through these channels."
     titleFontColor="#fff"
     subtitleFontColor="#fff"
     txtFontColor="#fff"

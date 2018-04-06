@@ -1,3 +1,29 @@
+.box-list .single-item {
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+  border-left: 1px solid #EEE;
+  border-top: 1px solid #EEE; }
+
+.box-list .service-main {
+  padding-top: 30px;
+  padding-bottom: 0px; }
+
+.box-list img {
+  padding-bottom: 10px;
+  max-height: 150px; }
+
+.box-list h3 {
+  background-color: #523971;
+  margin-bottom: 5px;
+  padding: 10px 0; }
+
+.box-list a {
+  color: #555; }
+  .box-list a:hover, .box-list a:active, .box-list a:visited {
+    color: #555; }
+
+.box-list .box-section-item:hover img {
+  opacity: 0.75; }
+
 .center {
   text-align: center; }
 
@@ -6,6 +32,16 @@
   text-decoration: underline; }
   .white-txt-underline:hover, .white-txt-underline:active, .white-txt-underline:visited {
     color: #fff;
+    text-decoration: underline; }
+
+.dark-grey-txt-underline {
+  color: #333;
+  text-decoration: underline; }
+  .dark-grey-txt-underline:active, .dark-grey-txt-underline:visited {
+    color: #333;
+    text-decoration: underline; }
+  .dark-grey-txt-underline:hover {
+    color: #7d59b5;
     text-decoration: underline; }
 
 .contrib-list .git-disp-pic {
