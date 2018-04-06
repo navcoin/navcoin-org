@@ -1,5 +1,5 @@
 <section class="box-list {{ .Get "class"}}">
-    <div class="our-service-section {{ if eq (.Get "gradient") "true" }} bg-gradient {{ end }}">
+    <div class="{{ if eq (.Get "gradient") "true" }} bg-gradient {{ end }}">
         <div style="background-image: url({{ .Get "bgImgSrc" }}); background-color: {{ .Get "bgColor" }}; padding: {{ .Get "containerPadding" }};">
             <div class="container">
                 <div class="row" style="margin: {{ .Get "titleMargin"}}">
@@ -11,7 +11,7 @@
                 <div class="row">
                     <div class="col-sm-4">
                         {{  if isset .Params "feature1Title" }}  
-                        <div class="single-item">
+                        <div class="single-item {{ if eq (.Get "dropShadow") "true" }}drop-shadow{{end}}" style="background-color: {{ .Get "boxBgColor" }};">
                             <a href="{{ .Get "feature1Link" }}" target="e" class="box-section-item">
                                 <div class="service-main">
                                     <div class="service-icon">
@@ -20,7 +20,8 @@
                                     <div class="box-content">
                                         <p class="themeix-para-style" style="color: {{ .Get "txtFontColor" }}">{{ .Get "feature1Txt"  }}</p>
                                         <p class="themeix-para-style links-desc" style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "feature1Desc"  }}</p>
-                                        <h3 style="color: {{ .Get "titleFontColor" }}; margin-bottom: 5px;">{{ .Get "feature1Title" }}</h3>
+                                        <h3 style="color: {{ .Get "featureTitleFontColor" }}; margin-bottom: 10px;">{{ .Get "feature1Title" }}</h3>
+                                        <p class="themeix-para-style extra-subtitle" style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "feature1ExtraSubtitle"  }}</p>
                                     </div>
                                 </div>
                             </a>
@@ -29,7 +30,7 @@
                     </div>
                     <div class="col-sm-4">
                         {{  if isset .Params "feature2Title" }}  
-                        <div class="single-item">
+                        <div class="single-item {{ if eq (.Get "dropShadow") "true" }}drop-shadow{{end}}" style="background-color: {{ .Get "boxBgColor" }};">
                             <a href="{{ .Get "feature2Link" }}" target="e" class="box-section-item">
                                 <div class="service-main">
                                     <div class="service-icon">
@@ -38,7 +39,8 @@
                                     <div class="box-content">
                                         <p class="themeix-para-style" style="color: {{ .Get "txtFontColor" }}">{{ .Get "feature2Txt"  }}</p>
                                         <p class="themeix-para-style links-desc" style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "feature2Desc"  }}</p>
-                                        <h3 style="color: {{ .Get "titleFontColor" }}; margin-bottom: 5px;">{{ .Get "feature2Title" }}</h3>
+                                        <h3 style="color: {{ .Get "featureTitleFontColor" }}; margin-bottom: 10px;">{{ .Get "feature2Title" }}</h3>
+                                        <p class="themeix-para-style extra-subtitle" style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "feature2ExtraSubtitle"  }}</p>
                                     </div>
                                 </div>
                             </a>
@@ -47,7 +49,7 @@
                     </div>
                     <div class="col-sm-4">
                         {{  if isset .Params "feature3Title" }}  
-                        <div class="single-item">
+                        <div class="single-item {{ if eq (.Get "dropShadow") "true" }}drop-shadow{{end}}" style="background-color: {{ .Get "boxBgColor" }};">
                             <a href="{{ .Get "feature3Link" }}" target="e" class="box-section-item">
                                 <div class="service-main">
                                     <div class="service-icon">
@@ -56,7 +58,8 @@
                                     <div class="box-content">
                                         <p class="themeix-para-style" style="color: {{ .Get "txtFontColor" }}">{{ .Get "feature3Txt"  }}</p>
                                         <p class="themeix-para-style links-desc" style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "feature3Desc"  }}</p>
-                                        <h3 style="color: {{ .Get "titleFontColor" }}; margin-bottom: 5px;">{{ .Get "feature3Title" }}</h3>
+                                        <h3 style="color: {{ .Get "featureTitleFontColor" }}; margin-bottom: 10px;">{{ .Get "feature3Title" }}</h3>
+                                        <p class="themeix-para-style extra-subtitle" style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "feature3ExtraSubtitle"  }}</p>
                                     </div>
                                 </div>
                             </a>
@@ -65,6 +68,12 @@
                     </div>
                 </div>
             </div>
+            {{ if isset .Params "bottomText" }}
+            <div class="col-xs-12 center">
+                <p class="bottom-text" style="color: {{.Get subtitleFontColor}};">{{ .Get "bottomText" }}</p>
+            </div>
+            {{ end }}
+
             {{ if isset .Params "btnLink" }}
             <div class="themeix-button-group col-xs-12 center">
                 <a href="{{ .Get "btnLink" }}" class="themeix-btn themeix-danger smoothScroll" style="background-color: {{ .Get "linkBgColor"}}">{{ .Get "btnTxt" }}</a>

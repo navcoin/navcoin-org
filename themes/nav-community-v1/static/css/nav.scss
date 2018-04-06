@@ -1,5 +1,5 @@
 .box-list {
-    .single-item {
+    .drop-shadow {
         box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
         border-left: 1px solid #EEE;
         border-top: 1px solid #EEE;
@@ -8,13 +8,15 @@
         padding-top: 30px;
         padding-bottom: 0px;
     }
+    .extra-subtitle {
+        padding: 15px 0;
+    }
     img {
         padding-bottom: 10px;
         max-height: 150px;
     }
     h3 {
         background-color: #523971;
-        margin-bottom: 5px;
         padding: 10px 0;
     }
     a {

@@ -15,8 +15,9 @@ type: "default"
     <p>NavCoin is publicly mined and ran no token sale. The only way to get NAV is to purchase it from a third party or exchange. Exchanges provide highly varying degrees of safety, security, privacy, and control over your funds and information. Perform your own due diligence and choose a wallet where you will keep your NavCoin before selecting an exchange.</p>
 {{< /left_image_section >}}
 {{< box_links_section
+    dropShadow="true"
     subtitleFontColor="#fff"
-    titleFontColor="#fff"
+    featureTitleFontColor="#fff"
     txtFontColor="#555"
     bgColor="#fff"
     linkBgColor="#523971"
@@ -36,8 +37,9 @@ type: "default"
     feature3Txt="BTC / NAV"
     feature3Link="https://www.binance.com/trade.html?symbol=NAV_BTC">}}
 {{< box_links_section
+    dropShadow="true"
     subtitleFontColor="#fff"
-    titleFontColor="#fff"
+    featureTitleFontColor="#fff"
     txtFontColor="#555"
     bgColor="#fff"
     linkBgColor="#523971"
@@ -57,8 +59,9 @@ type: "default"
     feature3Txt="Euro Direct Purchase"
     feature3Link="https://www.litebit.eu/en/buy/navcoin">}}
 {{< box_links_section
+    dropShadow="true"
     subtitleFontColor="#fff"
-    titleFontColor="#fff"
+    featureTitleFontColor="#fff"
     txtFontColor="#555"
     bgColor="#fff"
     linkBgColor="#523971"
@@ -78,8 +81,9 @@ type: "default"
     feature3Txt="Instant Exchange"
     feature3Link="https://bestrate.org/">}}
 {{< box_links_section
+    dropShadow="true"
     subtitleFontColor="#fff"
-    titleFontColor="#fff"
+    featureTitleFontColor="#fff"
     txtFontColor="#555"
     bgColor="#fff"
     linkBgColor="#523971"
@@ -99,8 +103,9 @@ type: "default"
     feature3Txt="Euro Direct Purchase"
     feature3Link="https://www.litebit.eu/en/buy/navcoin">}}
 {{< box_links_section
+    dropShadow="true"
     subtitleFontColor="#fff"
-    titleFontColor="#fff"
+    featureTitleFontColor="#fff"
     txtFontColor="#555"
     bgColor="#fff"
     linkBgColor="#523971"
@@ -115,7 +120,7 @@ type: "default"
 {{< links_section
     title="NavCoin Communities"
     subtitle="If you’re unsure which exchange to use or how they work, talk to one of the many helpful NavCoin community members through these channels."
-    titleFontColor="#fff"
+    featureTitleFontColor="#fff"
     subtitleFontColor="#fff"
     txtFontColor="#fff"
     bgColor="#7d5ab5"
