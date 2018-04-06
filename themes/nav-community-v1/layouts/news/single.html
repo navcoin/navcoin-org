@@ -27,7 +27,6 @@
                       {{ template "theme/partials/social_share.html" . }}
                   </div>
                   <div class="clearfix"></div>
-
                     <div class="details-img"><img alt="{{.Params.title}}" src="{{ .Params.feature_image }}"></div>
                     <div class="blog-details">
                         {{if .Params.show_title}}
@@ -56,7 +55,6 @@
                         </div>
                         <div class="clearfix"></div>
                     </div>
-
                 </div>
             </div>
             <div class="col-md-3 col-sm-12 col-md-offset-1">
@@ -64,11 +62,9 @@
                     <div class="widget">
                         <h3 class="widget-title">Topics Category</h3>
                         <ul>
-
                             {{ range first 10 .Site.Taxonomies.categories.ByCount }}
                                 <li class="cat-item" ><a href="/categories/{{ .Name | urlize }}">{{ .Name }}</a> </li>
                             {{ end }}
-
                         </ul>
                     </div>
                     <div class="widget custom recent-posts">
@@ -79,7 +75,6 @@
                                     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
                                 {{ end }}
                             {{ end }}
-
                         </ul>
                     </div>
                 </div>

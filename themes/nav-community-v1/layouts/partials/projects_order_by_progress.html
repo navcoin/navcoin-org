@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html>
 
-
 {{ partial "head.html" . }}
 
 <body data-spy="scroll" data-target="#header-menu">
 
   {{ partial "header_three_title.html" .  }}
-
 
   <div class="row">
     <div class="col-sm-12">
@@ -16,12 +14,9 @@
       </div>
     </div>
   </div>
-
   <div class="container" style="margin-bottom: 50px;">
-
         <div class="row">
             <div class="col-sm-9">
-
                 <div class="projects-card-container">
                     {{range .Site.Pages.ByWeight  }}
                         {{ if .Params.completed }}
@@ -47,18 +42,12 @@
                         {{end}}
                     {{end}}
                 </div>
-
             </div>
-
             <div class="col-sm-3 project-sidebar">
                 {{ partial "projects_sidebar.html" . }}
             </div>
         </div>
-
-
-
     </div>
-
 
     {{ partial "footer.html" .  }}
 

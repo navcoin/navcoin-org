@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-
 {{ partial "head.html" . }}
 
 <body data-spy="scroll" data-target="#header-menu">
@@ -15,12 +14,9 @@
       </div>
     </div>
   </div>
-
   <div class="container" style="margin-bottom: 50px;">
-
         <div class="row">
             <div class="col-sm-9">
-
                 <div class="projects-card-container">
                     {{range .Data.Pages.ByWeight }}
                         {{ if and (.Params.completed) (.Params.show_on_projects) }}
@@ -42,18 +38,12 @@
                         {{end}}
                     {{end}}
                 </div>
-
             </div>
-
             <div class="col-sm-3 project-sidebar">
                {{ partial "projects_sidebar.html" . }}
             </div>
         </div>
-
-
-
     </div>
-
 
     {{ partial "footer.html" .  }}
 

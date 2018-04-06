@@ -1,9 +1,9 @@
 <nav>
-        <ul class="nav navbar-nav">
-            {{ $currentPage := . }}
-            {{ range .Site.Menus.main }}
-            {{ if .HasChildren }}
-            <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }} nav-dropdown">
+    <ul class="nav navbar-nav">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        {{ if .HasChildren }}
+        <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }} nav-dropdown">
             <span class="nav-top-item">
                 {{ .Pre }}
                 <span>{{ .Name }}</span>
@@ -21,19 +21,18 @@
                     {{ .Pre }}
                     <span>{{ .Name }}</span>
                 </a>
-                {{end}}
-                {{end}}
-            </li>
+            {{end}}
+        </li>
+        {{end}}
     
-            {{ range $.Site.Home.AllTranslations }}
-                <!--<li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>-->
-            {{ end }}
-    
-            <!--<li>-->
-                <!--<a href="#" target="blank">Hardcoded Link 1</a> </li>-->
-            <!--<li>-->
-                <!--<a href="#" target="blank">Hardcoded Link 2</a>-->
-            <!--</li>-->
-        </ul>
-    </nav>
-    
+        {{ range $.Site.Home.AllTranslations }}
+            <!--<li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>-->
+        {{ end }}
+
+        <!--<li>-->
+            <!--<a href="#" target="blank">Hardcoded Link 1</a> </li>-->
+        <!--<li>-->
+            <!--<a href="#" target="blank">Hardcoded Link 2</a>-->
+        <!--</li>-->
+    </ul>
+</nav>    
