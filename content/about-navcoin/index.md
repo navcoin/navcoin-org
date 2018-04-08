@@ -68,7 +68,7 @@ type: "default"
     feature3Txt="Each week the NavCoin Core team publishes a community update to keep you informed.">}}
 {{< left_image_section
     title="NavCoin Community Fund"
-    imgSrc="/images/icons/icon-globe.png"
+    imgSrc="/images/icons/icon-globe-purple-large.png"
     imgHeight="400px"
     imgPadding="20px"
     bgColor="#7d5ab5"
@@ -102,5 +102,4 @@ feature3Img="/images/icons/icon-n-purple-large.png"
 feature3Title="NavCommunity"
 feature3Desc="Discussion forums, tools and more."
 feature3Txt="Visit website »"
-feature3Link="http://navcommunity.net/"
->}}
+feature3Link="http://navcommunity.net/">}}

@@ -84,7 +84,7 @@ weight: 100
     bgColor="#7d5ab5"
     linkBgColor="#523971"
     gradient=""
-    feature1Img="/images/icons/icon-globe.png"
+    feature1Img="/images/icons/icon-globe-purple-large.png"
     feature1Title="Web Wallet (v4.0.0)"
     feature1Url="https://navpay.navcoin.org"
     feature2Img="/images/icons/icon-android.png"

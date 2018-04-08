@@ -47,7 +47,7 @@ type: "default"
 {{< /left_image_section >}}
 {{< left_image_section
     title="4. Enable staking in your wallet (core wallet only)"
-    imgSrc="/images/icons/icon-globe.png"
+    imgSrc="/images/icons/icon-globe-purple-large.png"
     imgHeight="175px"
     imgPadding="20px"
     containerPadding="0"
