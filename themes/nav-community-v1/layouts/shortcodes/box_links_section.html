@@ -20,8 +20,10 @@
                                     <div class="box-content">
                                         <p class="themeix-para-style" style="color: {{ .Get "txtFontColor" }}">{{ .Get "feature1Txt"  }}</p>
                                         <p class="themeix-para-style links-desc" style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "feature1Desc"  }}</p>
-                                        <h3 style="color: {{ .Get "featureTitleFontColor" }}; margin-bottom: 10px;">{{ .Get "feature1Title" }}</h3>
+                                        <h3 style="color: {{ .Get "featureTitleFontColor" }}; background-color: {{ .Get "featureTitleBgColor" }} ; margin-bottom: 10px;">{{ .Get "feature1Title" }}</h3>
+                                        {{ if isset .Params "feature1ExtraSubtitle" }}
                                         <p class="themeix-para-style extra-subtitle" style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "feature1ExtraSubtitle"  }}</p>
+                                        {{end}}
                                     </div>
                                 </div>
                             </a>
@@ -39,8 +41,10 @@
                                     <div class="box-content">
                                         <p class="themeix-para-style" style="color: {{ .Get "txtFontColor" }}">{{ .Get "feature2Txt"  }}</p>
                                         <p class="themeix-para-style links-desc" style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "feature2Desc"  }}</p>
-                                        <h3 style="color: {{ .Get "featureTitleFontColor" }}; margin-bottom: 10px;">{{ .Get "feature2Title" }}</h3>
+                                        <h3 style="color: {{ .Get "featureTitleFontColor" }}; background-color: {{ .Get "featureTitleBgColor" }} ; margin-bottom: 10px;">{{ .Get "feature2Title" }}</h3>
+                                        {{ if isset .Params "feature2ExtraSubtitle" }}
                                         <p class="themeix-para-style extra-subtitle" style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "feature2ExtraSubtitle"  }}</p>
+                                        {{end}}
                                     </div>
                                 </div>
                             </a>
@@ -58,8 +62,10 @@
                                     <div class="box-content">
                                         <p class="themeix-para-style" style="color: {{ .Get "txtFontColor" }}">{{ .Get "feature3Txt"  }}</p>
                                         <p class="themeix-para-style links-desc" style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "feature3Desc"  }}</p>
-                                        <h3 style="color: {{ .Get "featureTitleFontColor" }}; margin-bottom: 10px;">{{ .Get "feature3Title" }}</h3>
+                                        <h3 style="color: {{ .Get "featureTitleFontColor" }}; background-color: {{ .Get "featureTitleBgColor" }} ; margin-bottom: 10px;">{{ .Get "feature3Title" }}</h3>
+                                        {{ if isset .Params "feature3ExtraSubtitle" }}
                                         <p class="themeix-para-style extra-subtitle" style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "feature3ExtraSubtitle"  }}</p>
+                                        {{end}}
                                     </div>
                                 </div>
                             </a>
@@ -70,7 +76,7 @@
             </div>
             {{ if isset .Params "bottomText" }}
             <div class="col-xs-12 center">
-                <p class="bottom-text" style="color: {{.Get subtitleFontColor}};">{{ .Get "bottomText" }}</p>
+                <p class="bottom-text" style="color: {{.Get "subtitleFontColor"}};">{{ .Get "bottomText" }}</p>
             </div>
             {{ end }}
 
