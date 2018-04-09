@@ -58,12 +58,12 @@
                         </div>
                     </div>
                 </div>
+                {{ if isset .Params "btnLink" }}
+                <div class="themeix-button-group col-xs-12 center">
+                    <a href="{{ .Get "btnLink" }}" class="themeix-btn themeix-danger smoothScroll" style="background-color: {{ .Get "linkBgColor"}}">{{ .Get "btnTxt" }}</a>
+                </div>
+                {{ end }}
             </div>
-            {{ if isset .Params "btnLink" }}
-            <div class="themeix-button-group col-xs-12 center">
-                <a href="{{ .Get "btnLink" }}" class="themeix-btn themeix-danger smoothScroll" style="background-color: {{ .Get "linkBgColor"}}">{{ .Get "btnTxt" }}</a>
-            </div>
-            {{ end }}
         </div>
     </div>
 </section>
