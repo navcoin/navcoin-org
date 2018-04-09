@@ -6,8 +6,10 @@ draft: false
 {{< center_image_section
     gradient="false"
     end=""
+    containerMargin="180px 0 120px 0"
+    textMargin="70px 0 0 0"
     bgColor="#FFF"
-    fontColor="#000"
+    fontColor="#bbb"
     title="Simplifying Cryptocurrency"
     imgSrc="/images/logo-extended.png"
     imgHeight="260px"
