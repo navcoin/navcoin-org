@@ -25,7 +25,6 @@ card_color: "#7d5ab5"
 font_color: "#fff"
 weight: 100
 ---
-
 {{< project_header
     title="NavPay Wallet"
     subhead=""
@@ -37,8 +36,6 @@ weight: 100
     imgPadding="0px"
     bgColor="#FFF"
     fontColor="#333">}}
-
-
 {{< left_image_section
     title="What Is NavPay?"
     imgSrc="navpay-phone1.png"
@@ -52,9 +49,6 @@ weight: 100
     <p>You can use it on your mobile device or even in your browser – giving you the flexibility to protect your NAV in a way that’s most convenient for you.</p>
     <p>Don’t risk having your coins on an exchange – download NavPay and take control today.</p>
 {{< /left_image_section >}}
-
-
-
 {{< project_features
     fontColor="#333"
     gradient="false"
@@ -76,7 +70,6 @@ weight: 100
     feature6Img="/images/icons/icon-person.png"
     feature6Title="Save Your Friends"
     feature6Txt="An easy way to pay your friends! Save your contacts into your NavPay address book, and make payments easier to manage than ever.">}}
-
 {{< project_links
     title="Get NavPay"
     subtitle="NavPay is available on a range of devices."

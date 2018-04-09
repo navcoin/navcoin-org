@@ -11,7 +11,6 @@ slug: ""
 order_page: true
 order_by: "lastmod"
 ---
-
 {{< left_image_section
     title="NavCoin Projects"
     imgSrc="/images/icons/icon-n-purple-large.png"

@@ -7,5 +7,3 @@ secIntroTitle: "NavCoin - Simplifying"
 secIntroSecondLine: "This site is by the community for the community. Here you will find so sweet text all about "
 secIntroThirdLine: "Want to make NavCoin better, or see something you don't like? There are plenty of ways to contribute, whether it's writing code, making translations or simply the NavCoin Love"
 ---
-
-

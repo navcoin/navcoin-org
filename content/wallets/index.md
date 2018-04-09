@@ -71,4 +71,3 @@ description: ""
     feature2Title="Coinomi Wallet"
     feature2Txt=""
     feature2Link="https://play.google.com/store/apps/details?id=com.coinomi.wallet">}}
-    
