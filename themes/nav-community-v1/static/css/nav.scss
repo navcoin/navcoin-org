@@ -13,7 +13,11 @@
     }
     img {
         padding-bottom: 10px;
-        max-height: 150px;
+        height: 100%;
+    }
+
+    .service-icon {
+        height:150px;
     }
     h3 {
         padding: 10px 0;
