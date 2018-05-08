@@ -112,22 +112,22 @@
 
 
 .bg-gradient {
-    background: -moz-linear-gradient(35deg, rgb(197, 41, 181) 0%, rgb(68, 178, 233) 100%); 
+    background: -moz-linear-gradient(90deg,#56b6e7 0%, #c63db8 100%); 
     /* ff3.6+ */
 
-    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgb(197, 41, 181)), color-stop(100%, rgb(68, 178, 233))); 
+    background: -webkit-gradient(90deg, linear, left bottom, right top, color-stop(0%, #56b6e7), color-stop(100%, #c63db8)); 
     /* safari4+,chrome */
 
-    background: -webkit-linear-gradient(35deg, rgb(197, 41, 181) 0%, rgb(68, 178, 233) 100%); 
+    background: -webkit-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%); 
     /* safari5.1+,chrome10+ */
 
-    background: -o-linear-gradient(35deg, rgb(197, 41, 181) 0%, rgb(68, 178, 233) 100%); 
+    background: -o-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%); 
     /* opera 11.10+ */
 
-    background: -ms-linear-gradient(35deg, rgb(197, 41, 181) 0%, rgb(68, 178, 233) 100%); 
+    background: -ms-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%); 
     /* ie10+ */
 
-    background: linear-gradient(55deg, rgb(197, 41, 181) 0%, rgb(68, 178, 233) 100%); 
+    background: linear-gradient(90deg, #56b6e7 0%, #c63db8 100%); 
     /* w3c */
 
 }
@@ -194,4 +194,66 @@
         color: #fff;
     }
 
+}
+
+.flex {
+    display: flex;
+}
+
+.hero-image-section {
+    height: 100vh; 
+    .image-container {
+        display: flex;
+        height: inherit;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        img{
+            max-height: 243px;
+            max-width: 500px;
+        }
+        .round-btn-purple {
+            border: purple 1px solid;
+            padding: 5px 10px;
+            border-radius: 20px;
+            margin-top: 10vh;
+            margin-bottom: 1vh;
+            font-size: 20px;
+            font-weight: 600;
+            font-family: 'Raleway', sans-serif;
+        }
+        h2 {
+            font-size: 25px;
+            opacity: 0.47;
+            line-height: 1.16;
+            // letter-spacing: 61px;
+            color: #707070;
+            font-weight: normal;
+        }
+    }
+}
+
+.left-image-section {
+    height: 550px; 
+    &.flex {
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+        div {
+            flex-grow: 1;
+            padding: 0 15px;
+        }
+    }
+    .img-container {
+        display: flex;
+        align-items: flex-end;
+        flex-direction: column;
+    }
+
+    // img {
+    //     justify-self: flex-end;
+    // }
+    .text-content {
+        max-width: 592px;
+    }
 }

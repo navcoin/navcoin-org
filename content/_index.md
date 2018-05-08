@@ -3,30 +3,29 @@ title: "NavCoin Community Site"
 date: 2018-03-12T17:47:48+13:00
 draft: false
 ---
-{{< center_image_section
+{{< hero_image_section
     gradient="false"
     end=""
-    containerMargin="180px 0 120px 0"
+    containerMargin="0px 0 0px 0"
     textMargin="70px 0 0 0"
     bgColor="#FFF"
     fontColor="#bbb"
     title="Simplifying Cryptocurrency"
     imgSrc="/images/logo-extended.png"
-    imgHeight="260px"
-    text="NavCoin is a community initiative that allows anyone to contribute in a number of different ways. The Community Hub will help you learn about the range of NavCoin projects, and how you can get involved with your own.">}}
+    imgHeight="260px">}}
 {{< left_image_section
     title="What Is NavCoin?"
+    gradient="true"
     bgColor="#7d5ab5"
     fontColor="#FFF"
     linkBgColor="#523971"
     imgSrc="/images/nav-logo-1.png"
-    imgHeight="286px"
-    imgPadding="44px"
+    imgHeight="128px"
     btn1Txt="Learn About NavCoin"
     btn1Link="http://www.navcoin.org">}}
-    <p>NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of NavCoin is carried out collectively by the network.</p>
-    <p>NavCoin is open-source. Its design is public, nobody owns or controls NavCoin and everyone can take part.</p>
-    <p>Find out more about the protocol at the NavCoin website.</p>
+    <p>NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; 
+    managing transactions and the issuing of NavCoin is carried out collectively by the network. NavCoin is open-source; its design is public, 
+    nobody owns or controls NavCoin and everyone can take part.</p>
 {{< /left_image_section >}}
 {{< home_features
     bgColor="#42b6eb"
