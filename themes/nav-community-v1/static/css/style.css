@@ -3511,11 +3511,6 @@ nav li ul {
 }
 
 .links-image-shadow .service-icon img {
-    border: 1px solid #EEE;
-    filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.2))
-}
-
-.links-image-shadow-no-border .service-icon img {
     filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.2))
 }
 

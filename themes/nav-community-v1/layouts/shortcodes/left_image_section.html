@@ -1,15 +1,13 @@
-<div class="left-image-section flex {{ if eq (.Get "gradient") "true" }} bg-gradient {{ end }}" style="background-color: {{ .Get "bgColor" }};">
+<div class="left-image-section flex{{ if eq (.Get "gradient") "true" }} bg-gradient {{ end }} {{ if eq (.Get "minHeight") "true" }} small {{end}}" style="background-color: .Get {{"bgColor"}};" >
     <div class="img-container">
-        <img src="{{ .Get "imgSrc" }}" style="max-height: {{ .Get "imgHeight"}};">
+        <img src="{{ .Get "imgSrc" }}">
     </div>
     <div>
         <div class="text-content">
-            <h2 class="" style="color: {{ .Get "fontColor" }}">{{ .Get "title"}}</h2>
-            <div class="" style="color: {{ .Get "fontColor" }}">{{ .Inner }}</div>
+            <h2 class="" style="color: {{ .Get "titleColor" }}">{{ .Get "title"}}</h2>
+            <div class="" style="color: {{ .Get "textColor" }}">{{ .Inner }}</div>
             {{ if isset .Params "btn1Link" }}
-            <div class="">
-                <a href="{{ .Get "btn1Link" }}" class="themeix-btn themeix-danger smoothScroll" style="background-color: {{ .Get "linkBgColor"}}">{{ .Get "btn1Txt" }}</a>
-            </div>
+            <a href="{{ .Get "btn1Link" }}" class="round-btn purple-btn" style="margin-top: {{ .Get "btnMarginTop" }}; margin-bottom: {{ .Get "btnMarginBtm" }};">{{ .Get "btn1Txt" }}</a>
             {{ end }}
         </div>
     </div>

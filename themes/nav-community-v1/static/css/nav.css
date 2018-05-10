@@ -142,6 +142,31 @@
 .flex {
   display: flex; }
 
+.round-btn {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  padding: 12px 28px;
+  border-radius: 37px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: black 1px solid;
+  display: inline-block; }
+
+.purple-btn {
+  border-color: white;
+  color: white;
+  background-color: #7d59b5; }
+
+.white-btn {
+  border-color: #7d59b5;
+  color: #7d59b5;
+  background-color: white; }
+
+.blue-btn {
+  border-color: white;
+  color: white;
+  background-color: #42b6eb; }
+
 .hero-image-section {
   height: 100vh; }
   .hero-image-section .image-container {
@@ -153,24 +178,23 @@
     .hero-image-section .image-container img {
       max-height: 243px;
       max-width: 500px; }
-    .hero-image-section .image-container .round-btn-purple {
-      border: purple 1px solid;
-      padding: 5px 10px;
-      border-radius: 20px;
-      margin-top: 10vh;
-      margin-bottom: 1vh;
-      font-size: 20px;
-      font-weight: 600;
-      font-family: 'Raleway', sans-serif; }
     .hero-image-section .image-container h2 {
       font-size: 25px;
       opacity: 0.47;
       line-height: 1.16;
       color: #707070;
-      font-weight: normal; }
+      font-weight: normal;
+      letter-spacing: 2px; }
+  .hero-image-section .round-btn {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+    padding: 18px 28px; }
 
 .left-image-section {
-  height: 550px; }
+  min-height: 550px; }
+  .left-image-section.small {
+    min-height: 400px; }
   .left-image-section.flex {
     flex-direction: row;
     align-items: center;
@@ -178,9 +202,43 @@
     .left-image-section.flex div {
       flex-grow: 1;
       padding: 0 15px; }
+      .left-image-section.flex div div {
+        padding: 0; }
   .left-image-section .img-container {
     display: flex;
     align-items: flex-end;
     flex-direction: column; }
+  .left-image-section img {
+    width: 100%;
+    max-width: 295px; }
   .left-image-section .text-content {
     max-width: 592px; }
+
+.home-features {
+  min-height: 455px;
+  background-color: #fff; }
+  .home-features h3 {
+    font-size: 26px; }
+  .home-features .text-content {
+    max-width: 330px; }
+  .home-features .service-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    padding-top: 65px; }
+
+.home-links-section {
+  min-height: 900px; }
+  .home-links-section .text-content {
+    max-width: 330px; }
+  .home-links-section .service-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    padding-top: 30px; }
+
+.links-section h3 {
+  font-weight: normal;
+  font-size: 26px; }

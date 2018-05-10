@@ -12,48 +12,54 @@ draft: false
     fontColor="#bbb"
     title="Simplifying Cryptocurrency"
     imgSrc="/images/logo-extended.png"
-    imgHeight="260px">}}
+    imgHeight="260px"
+    btnMarginTop="50px"
+    btnMarginBtm="50px">}}
 {{< left_image_section
     title="What Is NavCoin?"
     gradient="true"
     bgColor="#7d5ab5"
-    fontColor="#FFF"
+    titleColor="#fff"
+    textColor="#FFF"
     linkBgColor="#523971"
     imgSrc="/images/nav-logo-1.png"
     imgHeight="128px"
-    btn1Txt="Learn About NavCoin"
-    btn1Link="http://www.navcoin.org">}}
+    btn1Txt="Contribute to NavCoin"
+    btn1Link="http://www.navcoin.org"
+    btnMarginTop="40px"
+    btnMarginBtm="10px">}}
     <p>NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; 
     managing transactions and the issuing of NavCoin is carried out collectively by the network. NavCoin is open-source; its design is public, 
     nobody owns or controls NavCoin and everyone can take part.</p>
 {{< /left_image_section >}}
 {{< home_features
-    bgColor="#42b6eb"
-    txtColor="#FFF"
-    fontColor="#FFF"
+    bgColor="#fff"
+    titleColor="#aeaeae"
+    textColor="#707070"
     feature1Img="images/icons/icon-bolt.png"
     feature1Title="Fast Transactions"
     feature1Txt="No need to wait 10 minutes. Send NAV anywhere on the planet instantly and have it confirmed within 30 seconds."
     feature2Img="images/icons/icon-bulb.png"
     feature2Title="Energy Efficient"
-    feature2Txt="Nav Coin uses Proof of Stake which only consumes a fraction of the energy used to mine using Proof of Work."
+    feature2Txt="NavCoin uses Proof of Stake which only consumes a fraction of the energy used to mine using Proof of Work."
     feature3Img="images/icons/icon-lock.png"
     feature3Title="Private Payments"
     feature3Txt="Optionally send private transactions through the open source NavTech private payment platform.">}}
 {{< left_image_section
     title="It's easy to use"
     bgColor="#FFF"
-    titleFontColor="#858593"
-    textFontColor="#858593"
+    minHeight="true"
+    titleColor="#707070"
+    textColor="#707070"
     linkBgColor="#7d59b5"
     imgSrc="/images/mac-navcoin.png"
     imgHeight="286px"
     imgPadding="44px"
-    btn1Txt="Download a Wallet"
+    btn1Txt="Download your Wallet"
     btn1Link="http://www.navcoin.org/wallets">}}
     <p>The NavCoin Core wallet has been carefully refined to be intuitive and easy to use. It comes with a setup wizard and everything you need to load the blockchain and start sending transactions in a secure environment.</p>
 {{< /left_image_section >}}
-{{< links_section
+{{< home_links_section
     title="NavCoin Protocol Roadmap"
     subtitle="Upcoming NavCoin Protocol features"
     titleFontColor="#ffffff"
@@ -77,8 +83,7 @@ draft: false
     feature3Link="https://navcoin.org/community-roadmap"
     btnLink="https://navcoin.org/community-roadmap"
     linkBgColor="#7d59b5"
-    btnTxt="View Full Roadmap"
->}}
+    btnTxt="View Full Roadmap →">}}
 {{< contrib_list
 title="NavCoin Protocol Contributors"
 contribBgColor="#7d5ab5"
@@ -90,8 +95,7 @@ person2GithubUsername="craigmacgregor"
 person2Contribs="14"
 person3="Leobouloc"
 person3GithubUsername="Leobouloc"
-person3Contribs="4"
->}}
+person3Contribs="4">}}
 {{< contrib_list
 contribBgColor="#7d5ab5"
 person1="rex-kwon"
@@ -103,8 +107,7 @@ person2Contribs="2"
 person2PicUrl="https://avatars2.githubusercontent.com/u/12672050"
 person3="colvano"
 person3GithubUsername="colvano"
-person3Contribs="2"
->}}
+person3Contribs="2">}}
 {{< contrib_list
 section-margin="0 0 30px 0"
 btnLink="https://github.com/NAVCoin/navcoin-core/graphs/contributors"
@@ -116,11 +119,10 @@ person1GithubUsername="taskula"
 person1Contribs="1"
 person2="kierenhyl"
 person2GithubUsername="kierenhyl"
-person2Contribs="1"
->}}
+person2Contribs="1">}}
 {{< links_section
   title="Get Involved"
-  titleFontColor="#333"
+  titleFontColor="#707070"
   subtitleFontColor="#555"
   txtFontColor="#777"
   containerPadding="40px 0 0 0"
@@ -130,19 +132,15 @@ person2Contribs="1"
   gradient="false"
   feature1Img="/images/icons/icon-twitter.png"
   feature1Title="Twitter"
-  feature1Txt="Follow us on Twitter »"
   feature1Link="https://twitter.com/NavCoin"
   feature2Img="/images/icons/icon-facebook.png"
   feature2Title="Facebook"
-  feature2Txt="Like us on Facebook »"
   feature2Link="https://facebook.com/NAVCoin"
   feature3Img="/images/icons/icon-reddit.png"
   feature3Title="Reddit"
-  feature3Txt="Read about us on Reddit »"
-  feature3Link="https://www.reddit.com/r/NavCoin"
->}}
+  feature3Link="https://www.reddit.com/r/NavCoin">}}
 {{< links_section
-  titleFontColor="#333"
+  titleFontColor="#707070"
   subtitleFontColor="#555"
   txtFontColor="#777"
   containerPadding="0 0 0 0"
@@ -152,19 +150,15 @@ person2Contribs="1"
   gradient="false"
   feature1Img="/images/icons/icon-medium.jpg"
   feature1Title="Medium"
-  feature1Txt="Browse our articles on Medium »"
   feature1Link="http://medium.com/nav-coin"
   feature2Img="/images/icons/discord.png"
   feature2Title="Discord"
-  feature2Txt="Join us on Discord »"
   feature2Link="https://discord.gg/y4Vu9jw"
   feature3Img="/images/icons/icon-telegram.png"
   feature3Title="Telegram"
-  feature3Txt="Chat with us on Telegram »"
-  feature3Link="https://t.me/navcoin"
->}}
+  feature3Link="https://t.me/navcoin">}}
 {{< links_section
-  titleFontColor="#333"
+  titleFontColor="#707070"
   subtitleFontColor="#555"
   txtFontColor="#777"
   containerPadding="0 0 60px 0"
@@ -174,14 +168,10 @@ person2Contribs="1"
   gradient="false"
   feature1Img="/images/icons/icon-bitcoin-talk.png"
   feature1Title="BitcoinTalk"
-  feature1Txt="Post on BitcoinTalk »"
   feature1Link="https://bitcointalk.org/index.php?topic=679791"
   feature2Img="/images/icons/icon-instagram.png"
   feature2Title="Instagram"
-  feature2Txt="Check us out on Instagram »"
   feature2Link="https://www.instagram.com/nav.coin.official/"
   feature3Img="/images/icons/icon-n-purple-large.png"
   feature3Title="Knowledge Base"
-  feature3Txt="Search the Knowledge Base »"
-  feature3Link="https://info.navcoin.org"
->}}
+  feature3Link="https://info.navcoin.org">}}
