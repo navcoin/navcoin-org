@@ -1,26 +1,14 @@
-<div class="{{ if eq (.Get "gradient") "true" }} bg-gradient {{ end }}" style="background-color: {{ .Get "bgColor" }};">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="about-pb" style="padding: {{ .Get "containerPadding" }};">
-                    <div class="col-md-6">
-                        <div class="about-appix-left-img" style="padding: {{ .Get "imgPadding"}} 0; margin-top: {{ .Get "imgMarginTop"}};">
-                            <img src="{{ .Get "imgSrc" }}" style="max-height: {{ .Get "imgHeight"}};">
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="about-appix-right-content">
-                            <h2 class="themeix-title-h1" style="color: {{ .Get "fontColor" }}">{{ .Get "title"}}</h2>
-                            <div class="para-mb" style="color: {{ .Get "fontColor" }}">{{ .Inner }}</div>
-                            {{ if isset .Params "btn1Link" }}
-                            <div class="themeix-button-group">
-                                <a href="{{ .Get "btn1Link" }}" class="themeix-btn themeix-danger smoothScroll" style="background-color: {{ .Get "linkBgColor"}}">{{ .Get "btn1Txt" }}</a>
-                            </div>
-                            {{ end }}
-                        </div>
-                    </div>
-                </div>
-            </div>
+<div class="left-image-section flex{{ if eq (.Get "gradient") "true" }} bg-gradient {{ end }} {{ if eq (.Get "minHeight") "true" }} small {{end}}" style="background-color:{{ .Get "bgColor"}};" >
+    <div class="img-container">
+        <img src="{{ .Get "imgSrc" }}">
+    </div>
+    <div>
+        <div class="text-content">
+            <h2 class="" style="color: {{ .Get "titleColor" }}">{{ .Get "title"}}</h2>
+            <div class="" style="color: {{ .Get "textColor" }}">{{ .Inner }}</div>
+            {{ if isset .Params "btn1Link" }}
+            <a href="{{ .Get "btn1Link" }}" class="round-btn purple-btn" style="margin-top: {{ .Get "btnMarginTop" }}; margin-bottom: {{ .Get "btnMarginBtm" }};">{{ .Get "btn1Txt" }}</a>
+            {{ end }}
         </div>
     </div>
 </div>

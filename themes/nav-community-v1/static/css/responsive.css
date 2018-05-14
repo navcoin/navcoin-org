@@ -27,7 +27,6 @@ span.price-tag {
 		text-transform: uppercase;
 		display: block;
 		transition: all 0.5s ease-in-out;
-		font-weight: 700;
 }
 .themeix-sub-title::after {
 	position: absolute;
@@ -293,11 +292,11 @@ h1 {
 }
 
 .main-menu ul.navbar-nav li a:hover, .main-menu ul.navbar-nav li:hover .nav-top-item {
-	color: #7d5ab5;
+	color: #6d7680;
 }
 
 .stickey .main-menu ul li a:hover{
-    color: #7d5ab5 !important;
+    color: #6d7680 !important;
 }
 .custom-toggle i{
 	color:#424242;

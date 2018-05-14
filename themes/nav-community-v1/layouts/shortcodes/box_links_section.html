@@ -73,18 +73,18 @@
                     {{end}}
                     </div>
                 </div>
-            </div>
-            {{ if isset .Params "bottomText" }}
-            <div class="col-xs-12 center">
-                <p class="bottom-text" style="color: {{.Get "subtitleFontColor"}};">{{ .Get "bottomText" }}</p>
-            </div>
-            {{ end }}
+                {{ if isset .Params "bottomText" }}
+                <div class="col-xs-12 center">
+                    <div class="bottom-text" style="color: {{.Get "subtitleFontColor"}};">{{ .Get "bottomText" }}</div>
+                </div>
+                {{ end }}
 
-            {{ if isset .Params "btnLink" }}
-            <div class="themeix-button-group col-xs-12 center">
-                <a href="{{ .Get "btnLink" }}" class="themeix-btn themeix-danger smoothScroll" style="background-color: {{ .Get "linkBgColor"}}">{{ .Get "btnTxt" }}</a>
+                {{ if isset .Params "btnLink" }}
+                <div class="themeix-button-group col-xs-12 center">
+                    <a href="{{ .Get "btnLink" }}" class="themeix-btn themeix-danger smoothScroll" style="background-color: {{ .Get "linkBgColor"}}">{{ .Get "btnTxt" }}</a>
+                </div>
+                {{ end }}
             </div>
-            {{ end }}
         </div>
     </div>
 </section>

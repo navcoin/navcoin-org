@@ -48,23 +48,6 @@
     color: #7d59b5;
     text-decoration: underline; }
 
-.contrib-list .git-disp-pic {
-  max-height: 60px;
-  border-radius: 30px;
-  float: left;
-  margin-right: 5px; }
-
-.contrib-list .single-item {
-  overflow: auto;
-  padding: 10px;
-  margin-bottom: 10px;
-  border-radius: 0px;
-  box-shadow: #ccc 0px 0px 10px; }
-  .contrib-list .single-item a, .contrib-list .single-item a:visited {
-    color: #d4d4d4; }
-  .contrib-list .single-item a:hover, .contrib-list .single-item a:active {
-    color: #fff; }
-
 .news-content ul {
   display: block;
   list-style-type: disc;
@@ -86,17 +69,17 @@
   background: linear-gradient(45deg, rgba(68, 178, 233, 0.88) 0%, rgba(197, 41, 181, 0.88) 100%, rgba(197, 41, 181, 0.88) 100%); }
 
 .bg-gradient {
-  background: -moz-linear-gradient(35deg, #c529b5 0%, #44b2e9 100%);
+  background: -moz-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
   /* ff3.6+ */
-  background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, #c529b5), color-stop(100%, #44b2e9));
+  background: -webkit-gradient(90deg, linear, left bottom, right top, color-stop(0%, #56b6e7), color-stop(100%, #c63db8));
   /* safari4+,chrome */
-  background: -webkit-linear-gradient(35deg, #c529b5 0%, #44b2e9 100%);
+  background: -webkit-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
   /* safari5.1+,chrome10+ */
-  background: -o-linear-gradient(35deg, #c529b5 0%, #44b2e9 100%);
+  background: -o-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
   /* opera 11.10+ */
-  background: -ms-linear-gradient(35deg, #c529b5 0%, #44b2e9 100%);
+  background: -ms-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
   /* ie10+ */
-  background: linear-gradient(55deg, #c529b5 0%, #44b2e9 100%);
+  background: linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
   /* w3c */ }
 
 .page-header-bg {
@@ -138,3 +121,173 @@
       padding: 6px 10px; }
     .info-links label i {
       padding: 10px; }
+
+.flex {
+  display: flex; }
+
+.round-btn {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  padding: 12px 28px;
+  border-radius: 37px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: black 1px solid;
+  display: inline-block;
+  min-width: 210px; }
+
+.purple-btn {
+  border-color: white;
+  color: white;
+  background-color: #7d59b5; }
+  .purple-btn:hover, .purple-btn:active {
+    border-color: #cccccc;
+    color: #cccccc; }
+
+.white-btn {
+  border-color: #7d59b5;
+  color: #7d59b5;
+  background-color: white; }
+  .white-btn:hover, .white-btn:active {
+    border-color: #4d3474;
+    color: #4d3474; }
+
+.blue-btn {
+  border-color: white;
+  color: white;
+  background-color: #42b6eb; }
+  .blue-btn:hover, .blue-btn:active {
+    border-color: #1381b4;
+    color: #1381b4; }
+
+.hero-image-section {
+  height: 100vh; }
+  .hero-image-section .image-container {
+    display: flex;
+    height: inherit;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; }
+    .hero-image-section .image-container img {
+      max-height: 243px;
+      max-width: 500px; }
+    .hero-image-section .image-container h2 {
+      font-size: 25px;
+      opacity: 0.47;
+      line-height: 1.16;
+      color: #707070;
+      font-weight: normal;
+      letter-spacing: 2px; }
+  .hero-image-section .round-btn {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 19px;
+    padding: 18px 28px; }
+
+.left-image-section {
+  min-height: 550px; }
+  .left-image-section.small {
+    min-height: 400px; }
+  .left-image-section.flex {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around; }
+    .left-image-section.flex div {
+      flex-grow: 1;
+      padding: 0 15px; }
+      .left-image-section.flex div div {
+        padding: 0; }
+  .left-image-section .img-container {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column; }
+  .left-image-section img {
+    width: 100%;
+    max-width: 295px; }
+  .left-image-section .text-content {
+    max-width: 592px; }
+
+.home-features {
+  min-height: 455px;
+  background-color: #fff; }
+  .home-features h3 {
+    font-size: 26px; }
+  .home-features .text-content {
+    max-width: 330px; }
+  .home-features .service-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    padding-top: 65px; }
+  .home-features img {
+    max-width: 178px; }
+
+.home-links-section {
+  min-height: 600px; }
+  .home-links-section .text-content {
+    max-width: 330px; }
+  .home-links-section .service-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    padding-top: 30px; }
+    .home-links-section .service-main h3 {
+      font-weight: normal;
+      font-size: 26px; }
+  .home-links-section h2 {
+    font-family: 'Raleway', sans-serif; }
+  .home-links-section img {
+    max-width: 178px; }
+
+.links-section h3, .contrib-list h3, .home-links-section h3 {
+  font-weight: normal;
+  font-size: 26px; }
+
+.contrib-list .contrib-list-title {
+  margin: 50px 0; }
+
+.contrib-list .git-disp-pic {
+  height: 88px;
+  border-radius: 225px;
+  float: left;
+  margin: 13px 15px 8px 5px; }
+
+.contrib-list .single-item {
+  overflow: auto;
+  padding: 15px;
+  margin-bottom: 25px;
+  border-radius: 10px;
+  box-shadow: #ccc 0px 0px 10px; }
+  .contrib-list .single-item .name {
+    font-size: 24px; }
+  .contrib-list .single-item .contrib-number {
+    font-size: 43px;
+    margin-top: 5px; }
+  .contrib-list .single-item .faded-text {
+    font-size: 16px;
+    color: #ffffff;
+    opacity: 0.54; }
+  .contrib-list .single-item a, .contrib-list .single-item a:visited {
+    color: #d4d4d4; }
+  .contrib-list .single-item a:hover, .contrib-list .single-item a:active {
+    color: #fff;
+    text-underline: none; }
+
+.box-list h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 19px;
+  font-weight: normal; }
+
+.box-list .bottom-text {
+  margin: 30px 0 0 0; }
+
+.main-menu {
+  font-family: 'Source Sans Pro', sans-serif; }
+  .main-menu .logo-brand {
+    height: inherit; }
+    .main-menu .logo-brand a {
+      display: block;
+      height: inherit; }
+      .main-menu .logo-brand a img {
+        height: inherit; }

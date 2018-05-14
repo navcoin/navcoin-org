@@ -53,7 +53,7 @@ type: "default"
 
     <p>There are a variety of NavCoin wallets which help you keep your private keys secure on most operating systems.</p>
 {{< /left_image_section >}}
-{{< home_features
+{{< features
     bgColor="#f5f5f5"
     txtColor="#747474"
     fontColor="#333333"

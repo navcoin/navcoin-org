@@ -1,6 +1,7 @@
-<section class="home-features {{ if eq (.Get "gradient") "true" }} bg-gradient {{ end }}">
-    <div style="padding: 40px 0; background-image: url({{ .Get "bgImgSrc" }}); background-color: {{ .Get "bgColor" }};">
-        <div class="container">
+<section id="project">
+    <div class="our-service-section {{ if eq (.Get "gradient") "true" }} bg-gradient {{ end }}">
+        <div style="padding: 40px 0; background-image: url({{ .Get "bgImgSrc" }}); background-color: {{ .Get "bgColor" }};">
+          <div class="container">
             <div class="row">
                 <div class="col-md-4">
                     <div class="single-item">
@@ -8,9 +9,9 @@
                             <div class="service-icon">
                                 <img src="{{ .Get "feature1Img" }}" alt="">
                             </div>
-                            <div class="text-content">
-                                <h3 style="color: {{ .Get "titleColor" }}">{{ .Get "feature1Title" }}</h3>
-                                <p class="themeix-para-style" style="color: {{ .Get "textColor" }}">{{ .Get "feature1Txt" }}</p>
+                            <div class="service-content">
+                                <h3 style="color: {{ .Get "fontColor" }}">{{ .Get "feature1Title" }}</h3>
+                                <p class="themeix-para-style" style="color: {{ .Get "fontColor" }}">{{ .Get "feature1Txt"  }}</p>
                             </div>
                         </div>
                     </div>
@@ -21,9 +22,9 @@
                             <div class="service-icon">
                                 <img src="{{ .Get "feature2Img" }}" alt="">
                             </div>
-                            <div class="text-content">
-                                <h3 style="color: {{ .Get "titleColor" }}">{{ .Get "feature2Title" }}</h3>
-                                <p class="themeix-para-style" style="color: {{ .Get "textColor" }}">{{ .Get "feature2Txt"  }}</p>
+                            <div class="service-content">
+                                <h3 style="color: {{ .Get "fontColor" }}">{{ .Get "feature2Title" }}</h3>
+                                <p class="themeix-para-style" style="color: {{ .Get "fontColor" }}">{{ .Get "feature2Txt"  }}</p>
                             </div>
                         </div>
                     </div>
@@ -34,9 +35,9 @@
                             <div class="service-icon">
                                 <img src="{{ .Get "feature3Img" }}" alt="">
                             </div>
-                            <div class="text-content">
-                                <h3 style="color: {{ .Get "titleColor" }}">{{ .Get "feature3Title" }}</h3>
-                                <p class="themeix-para-style" style="color: {{ .Get "textColor" }}">{{ .Get "feature3Txt"  }}</p>
+                            <div class="service-content">
+                                <h3 style="color: {{ .Get "fontColor" }}">{{ .Get "feature3Title" }}</h3>
+                                <p class="themeix-para-style" style="color: {{ .Get "fontColor" }}">{{ .Get "feature3Txt"  }}</p>
                             </div>
                         </div>
                     </div>
@@ -50,9 +51,9 @@
                             <div class="service-icon">
                                 <img src="{{ .Get "feature4Img" }}" alt="">
                             </div>
-                            <div class="text-content">
-                                <h3 style="color: {{ .Get "titleColor" }}">{{ .Get "feature4Title" }}</h3>
-                                <p class="themeix-para-style" style="color: {{ .Get "textColor" }}">{{ .Get "feature4Txt"  }}</p>
+                            <div class="service-content">
+                                <h3 style="color: {{ .Get "fontColor" }}">{{ .Get "feature4Title" }}</h3>
+                                <p class="themeix-para-style" style="color: {{ .Get "fontColor" }}">{{ .Get "feature4Txt"  }}</p>
                             </div>
                         </div>
                     </div>
@@ -63,9 +64,9 @@
                             <div class="service-icon">
                                 <img src="{{ .Get "feature5Img" }}" alt="">
                             </div>
-                            <div class="text-content">
-                                <h3 style="color: {{ .Get "titleColor" }}">{{ .Get "feature5Title" }}</h3>
-                                <p class="themeix-para-style" style="color: {{ .Get "textColor" }}">{{ .Get "feature5Txt"  }}</p>
+                            <div class="service-content">
+                                <h3 style="color: {{ .Get "fontColor" }}">{{ .Get "feature5Title" }}</h3>
+                                <p class="themeix-para-style" style="color: {{ .Get "fontColor" }}">{{ .Get "feature5Txt"  }}</p>
                             </div>
                         </div>
                     </div>
@@ -76,15 +77,16 @@
                             <div class="service-icon">
                                 <img src="{{ .Get "feature6Img" }}" alt="">
                             </div>
-                            <div class="text-content">
-                                <h3 style="color: {{ .Get "titleColor" }}">{{ .Get "feature6Title" }}</h3>
-                                <p class="themeix-para-style" style="color: {{ .Get "textColor" }}">{{ .Get "feature6Txt"  }}</p>
+                            <div class="service-content">
+                                <h3 style="color: {{ .Get "fontColor" }}">{{ .Get "feature6Title" }}</h3>
+                                <p class="themeix-para-style" style="color: {{ .Get "fontColor" }}">{{ .Get "feature6Txt"  }}</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             {{ end }}
+          </div>
         </div>
     </div>
 </section>
