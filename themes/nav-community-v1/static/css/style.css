@@ -116,9 +116,9 @@ h2 {
 }
 h3 {
     font-family: 'Raleway', sans-serif;
-    font-size: 21px;
-    font-weight: bold;
+    font-size: 26px;
 }
+
 h4 {
     font-family: 'Raleway', sans-serif;
     font-size: 14px;
@@ -355,8 +355,7 @@ header {
     transition: none;
     text-transform: uppercase;
     line-height: 20px;
-    font-weight: 400;
-  	color: #333;
+  	color: #6d7680;
     border-bottom: 2px solid #FFF;
 }
 .main-menu .navbar-nav li a:hover, .main-menu .navbar-nav li:hover .nav-top-item {
@@ -374,15 +373,7 @@ header {
 .logo-title {
     font-size: 30px;
 }
-.logo-brand img {
-    height: 47px;
-    width: auto!Important;
-}
-header.stickey .logo-brand img{
-	height: 30px;
-    width: auto!Important;
-    margin-top: 9px;
-}
+
 
 /* ==========================================
 	4. Slider
@@ -648,7 +639,7 @@ header.stickey .logo-brand img{
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     background: #FFFFFF;
     left: 0;
-    color: #303030 !important;
+    color: #6d7680 !important;
     margin: 0 auto;
     position: fixed;
     right: 0;
@@ -658,7 +649,7 @@ header.stickey .logo-brand img{
     border: 0;
 }
 .stickey .main-menu ul li a {
-    color: #303030;
+    color: #6d7680;
 }
 /* ==========================================
 7. About Fixing
@@ -1609,7 +1600,8 @@ transform: scale(0.9)!important;
 a.themeix-tool .fa { 
     color: #FFFFFF; 
     font-size: 24px; 
-    text-indent: .6px; 
+    text-indent: .6px;
+    margin-top: 7px;
 } 
   
 /* ==========================================

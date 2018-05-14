@@ -1,4 +1,4 @@
-<div class="left-image-section flex{{ if eq (.Get "gradient") "true" }} bg-gradient {{ end }} {{ if eq (.Get "minHeight") "true" }} small {{end}}" style="background-color: .Get {{"bgColor"}};" >
+<div class="left-image-section flex{{ if eq (.Get "gradient") "true" }} bg-gradient {{ end }} {{ if eq (.Get "minHeight") "true" }} small {{end}}" style="background-color:{{ .Get "bgColor"}};" >
     <div class="img-container">
         <img src="{{ .Get "imgSrc" }}">
     </div>

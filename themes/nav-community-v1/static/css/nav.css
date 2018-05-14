@@ -48,23 +48,6 @@
     color: #7d59b5;
     text-decoration: underline; }
 
-.contrib-list .git-disp-pic {
-  max-height: 60px;
-  border-radius: 30px;
-  float: left;
-  margin-right: 5px; }
-
-.contrib-list .single-item {
-  overflow: auto;
-  padding: 10px;
-  margin-bottom: 10px;
-  border-radius: 0px;
-  box-shadow: #ccc 0px 0px 10px; }
-  .contrib-list .single-item a, .contrib-list .single-item a:visited {
-    color: #d4d4d4; }
-  .contrib-list .single-item a:hover, .contrib-list .single-item a:active {
-    color: #fff; }
-
 .news-content ul {
   display: block;
   list-style-type: disc;
@@ -150,22 +133,32 @@
   margin-top: 10px;
   margin-bottom: 10px;
   border: black 1px solid;
-  display: inline-block; }
+  display: inline-block;
+  min-width: 210px; }
 
 .purple-btn {
   border-color: white;
   color: white;
   background-color: #7d59b5; }
+  .purple-btn:hover, .purple-btn:active {
+    border-color: #cccccc;
+    color: #cccccc; }
 
 .white-btn {
   border-color: #7d59b5;
   color: #7d59b5;
   background-color: white; }
+  .white-btn:hover, .white-btn:active {
+    border-color: #4d3474;
+    color: #4d3474; }
 
 .blue-btn {
   border-color: white;
   color: white;
   background-color: #42b6eb; }
+  .blue-btn:hover, .blue-btn:active {
+    border-color: #1381b4;
+    color: #1381b4; }
 
 .hero-image-section {
   height: 100vh; }
@@ -188,7 +181,6 @@
   .hero-image-section .round-btn {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 19px;
-    font-weight: 600;
     padding: 18px 28px; }
 
 .left-image-section {
@@ -227,6 +219,8 @@
     align-items: center;
     padding: 0;
     padding-top: 65px; }
+  .home-features img {
+    max-width: 178px; }
 
 .home-links-section {
   min-height: 600px; }
@@ -238,7 +232,62 @@
     align-items: center;
     padding: 0;
     padding-top: 30px; }
+    .home-links-section .service-main h3 {
+      font-weight: normal;
+      font-size: 26px; }
+  .home-links-section h2 {
+    font-family: 'Raleway', sans-serif; }
+  .home-links-section img {
+    max-width: 178px; }
 
-.links-section h3 {
+.links-section h3, .contrib-list h3, .home-links-section h3 {
   font-weight: normal;
   font-size: 26px; }
+
+.contrib-list .contrib-list-title {
+  margin: 50px 0; }
+
+.contrib-list .git-disp-pic {
+  height: 88px;
+  border-radius: 225px;
+  float: left;
+  margin: 13px 15px 8px 5px; }
+
+.contrib-list .single-item {
+  overflow: auto;
+  padding: 15px;
+  margin-bottom: 25px;
+  border-radius: 10px;
+  box-shadow: #ccc 0px 0px 10px; }
+  .contrib-list .single-item .name {
+    font-size: 24px; }
+  .contrib-list .single-item .contrib-number {
+    font-size: 43px;
+    margin-top: 5px; }
+  .contrib-list .single-item .faded-text {
+    font-size: 16px;
+    color: #ffffff;
+    opacity: 0.54; }
+  .contrib-list .single-item a, .contrib-list .single-item a:visited {
+    color: #d4d4d4; }
+  .contrib-list .single-item a:hover, .contrib-list .single-item a:active {
+    color: #fff;
+    text-underline: none; }
+
+.box-list h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 19px;
+  font-weight: normal; }
+
+.box-list .bottom-text {
+  margin: 30px 0 0 0; }
+
+.main-menu {
+  font-family: 'Source Sans Pro', sans-serif; }
+  .main-menu .logo-brand {
+    height: inherit; }
+    .main-menu .logo-brand a {
+      display: block;
+      height: inherit; }
+      .main-menu .logo-brand a img {
+        height: inherit; }
