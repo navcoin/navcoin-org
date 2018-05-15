@@ -14,7 +14,7 @@
                 <div class="single-item" style="background-color: {{ .Get "contribBgColor" }}">
                     <a href="https://github.com/{{ .Get "person1GithubUsername" }}">
                         <img src="{{ if .Get "person1PicUrl" }}{{.Get "person1PicUrl"}}{{else}}/images/circle-icons/nav_color-nav.png{{end}}" class="git-disp-pic">
-                        <div>
+                        <div class="contrib-info">
                             <div class="faded-text">Name:</div>
                             <div class="name">{{ .Get "person1" }}</div>
                             <div class="faded-text">Number of Commits:</div>
@@ -29,7 +29,7 @@
                 <div class="single-item" style="background-color: {{ .Get "contribBgColor" }}">
                     <a href="https://github.com/{{ .Get "person2GithubUsername" }}">
                         <img src="{{ if .Get "person2PicUrl" }}{{.Get "person2PicUrl"}}{{else}}/images/circle-icons/nav_color-nav.png{{end}}" class="git-disp-pic">
-                        <div>
+                        <div class="contrib-info">
                             <div class="faded-text">Name:</div>
                             <div class="name">{{ .Get "person2" }}</div>
                             <div class="faded-text">Number of Commits:</div>
@@ -41,10 +41,10 @@
             {{end}}
             {{ if isset .Params "person3" }}
             <div class="col-xs-12 col-md-4">
-                <div class="single-item" style="background-color: {{ .Get "contribBgColor" }}">
+                <div class="single-item final-item" style="background-color: {{ .Get "contribBgColor" }}">
                     <a href="https://github.com/{{ .Get "person3GithubUsername" }}">
                         <img src="{{ if .Get "person3PicUrl" }}{{.Get "person3PicUrl"}}{{else}}/images/circle-icons/nav_color-nav.png{{end}}" class="git-disp-pic">
-                        <div>
+                        <div class="contrib-info">
                             <div class="faded-text">Name:</div>
                             <div class="name">{{ .Get "person3" }}</div>
                             <div class="faded-text">Number of Commits:</div>
@@ -56,7 +56,7 @@
             {{end}}
             {{ if isset .Params "btnLink" }}
             <div class="col-xs-12 center"  >
-                <a href="{{ .Get "btnLink" }}" class="round-btn purple-btn" style="background-color: {{ .Get "linkBgColor"}}">{{ .Get "btnTxt" }}</a>
+                <a href="{{ .Get "btnLink" }}" class="round-btn purple-btn">{{ .Get "btnTxt" }}</a>
             </div>
             {{ end }}
         </div>

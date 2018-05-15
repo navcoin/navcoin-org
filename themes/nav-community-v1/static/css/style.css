@@ -348,19 +348,26 @@ header {
     padding: 0 5px;
 }
 
-.main-menu .navbar-nav li a, .main-menu .navbar-nav li .nav-top-item  {
+.main-menu .navbar-nav li a, .main-menu .navbar-nav li .nav-top-item  {    
     padding: 8px 10px;
-    font-size: 16px;
     display: block;
     transition: none;
     text-transform: uppercase;
     line-height: 20px;
-  	color: #6d7680;
-    border-bottom: 2px solid #FFF;
+    color: #6d7680;
+    border-bottom: 3px solid #fff;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-family: roboto;
+    font-size: 16px;
+    margin-top: 4px;
+    cursor: pointer;
+    transition: 0.2s ease;
 }
 .main-menu .navbar-nav li a:hover, .main-menu .navbar-nav li:hover .nav-top-item {
-    border-bottom: 2px solid #999;
-}
+    border-bottom: 3px solid #999;
+    transition: 0.2s ease;
+  }
 
 .stickey .main-menu .navbar-nav li.active a {
     border-bottom: 2px solid #999;
@@ -636,7 +643,7 @@ header {
    ========================================== */
 
 .stickey .main-menu {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.05);
     background: #FFFFFF;
     left: 0;
     color: #6d7680 !important;
@@ -647,10 +654,12 @@ header {
     z-index: 10;
     padding: 0px 0;
     border: 0;
+    opacity: 0.95;
 }
 .stickey .main-menu ul li a {
     color: #6d7680;
 }
+
 /* ==========================================
 7. About Fixing
    ========================================== */
@@ -1570,11 +1579,8 @@ textarea:-moz-placeholder {
     font-weight: 400;
     padding: 0 11px;
 }
-.footer-overlay {
-    background: rgba(0, 0, 0, .10);
-}
-.inner-section {
-    color: #ffffff;
+.footer-overlay, .inner-section {
+    color:#cfcbcb;
 }
  
 .themeix-tool{ 
@@ -1990,11 +1996,11 @@ a {
 /* ==========================================
            22. Blog Footer
  ========================================== */
-
+/* 
 .footer-area {
   background: #fAfafa;
   border-top: 1px solid #EEE;
-}
+} */
 .column {
     overflow: hidden;
 }
@@ -2102,15 +2108,7 @@ a {
 .mar-top {
     margin-top: -12px;
 }
-.blog-footere {
-    background: url(../images/blog-image/footer-image.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-.blog-footer-overlya {
-    background-color: rgba(68, 178, 233, .80); 
-}
+
 /* ==========================================
            23. Blog sidebar
    ========================================== */

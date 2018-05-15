@@ -1,8 +1,12 @@
-$nav-purple-dark: #7d59b5;
-$nav-purple: #fff;
-$nav-blue: #42b6eb;
-$nav-blue-dark: #fff;
-$txt-grey: #aeaeae;
+@import "./colors.scss";
+@import "./button.scss";
+@import "./contrib-list.scss";
+
+a {
+  &:hover, &:active, &:focus, &:visited {
+  text-decoration:none;
+  }
+}
 
 .box-list {
   .drop-shadow {
@@ -155,23 +159,18 @@ $txt-grey: #aeaeae;
 }
 
 .info-links {
-
   display: flex;
   align-items: center;
 
-
   label {
     cursor: pointer;
-
     &.card-author {
       font-size: 12px;
       padding: 6px 10px;
     }
-
     i {
       padding:10px;
     }
-
     margin-right: 5px;
     background-color: hsla(0, 0%, 13%, 0.5);;
     color: #fff;
@@ -183,46 +182,6 @@ $txt-grey: #aeaeae;
   display: flex;
 }
 
-.round-btn {
-  font-family: 'Roboto', sans-serif;
-  font-size: 16px;
-  padding: 12px 28px;
-  border-radius: 37px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  border: black 1px solid;
-  display: inline-block;
-  min-width: 210px;
-}
-
-.purple-btn{
-  border-color: white;
-  color: white;
-  background-color: $nav-purple-dark;
-  &:hover, &:active{
-    border-color: darken(white, 20%);
-    color: darken(white, 20%);
-  }
-}
-.white-btn{
-  border-color: $nav-purple-dark;
-  color: $nav-purple-dark;
-  background-color: white;
-  &:hover, &:active{
-    border-color: darken( $nav-purple-dark, 20%);
-    color: darken( $nav-purple-dark, 20%);
-  }
-}
-
-.blue-btn{
-  border-color: white;
-  color: white;
-  background-color: $nav-blue;
-  &:hover, &:active{
-    border-color: darken($nav-blue, 20%);
-    color: darken($nav-blue, 20%);
-  }
-}
 
 .hero-image-section {
   height: 100vh;
@@ -233,23 +192,19 @@ $txt-grey: #aeaeae;
     align-items: center;
     justify-content: center;
     img{
-      max-height: 243px;
-      max-width: 500px;
+      max-width: 700px;
     }
-
+    
     h2 {
       font-size: 25px;
-      opacity: 0.47;
+      opacity: 0.8;
       line-height: 1.16;
       color: #707070;
-      font-weight: normal;
-      letter-spacing: 2px;
+      letter-spacing: 1.8px;
+      text-transform: uppercase;
+      font-family: source sans pro;
+      font-weight: 300;  
     }
-  }
-  .round-btn {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 19px;
-    padding: 18px 28px;
   }
 }
 
@@ -340,50 +295,6 @@ $txt-grey: #aeaeae;
   }
 }
 
-.contrib-list {
-  .contrib-list-title  {
-    margin: 50px 0;
-  }
-
-  .git-disp-pic {
-    height: 88px;
-    border-radius: 225px;
-    float:left;
-    margin: 13px 15px 8px 5px;
-  }
-
-  .single-item {
-    overflow: auto;
-    padding: 15px;
-    margin-bottom: 25px;
-    border-radius: 10px;
-    box-shadow: #ccc 0px 0px 10px;
-    .name {
-      font-size: 24px;
-    }
-    .contrib-number {
-      font-size: 43px;
-      margin-top: 5px;
-    }
-    .faded-text {
-      font-size: 16px;
-      color: #ffffff;
-      opacity: 0.54;
-    }
-
-
-
-    a, a:visited {
-      color: #d4d4d4;
-    }
-
-    a:hover, a:active {
-      color: #fff;
-      text-underline: none;
-    }
-  }
-}
-
 .box-list {
   h3 {
     font-family: "Roboto", sans-serif;
@@ -408,3 +319,16 @@ $txt-grey: #aeaeae;
     }
   }
 }
+
+.arrow {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: -1px;
+  margin-left: 4px;
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 5px solid #ccc;
+}
+ 

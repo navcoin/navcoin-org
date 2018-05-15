@@ -11,7 +11,7 @@ draft: false
     bgColor="#FFF"
     fontColor="#bbb"
     title="Simplifying Cryptocurrency"
-    imgSrc="/images/Symbol 2 – 1.png"
+    imgSrc="/images/nav_blue-trend.png"
     imgHeight="260px"
     btnMarginTop="50px"
     btnMarginBtm="50px">}}
