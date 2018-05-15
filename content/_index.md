@@ -46,7 +46,7 @@ draft: false
     feature3Title="Private Payments"
     feature3Txt="Optionally send private transactions through the open source NavTech private payment platform.">}}
 {{< left_image_section
-    title="It's easy to use"
+    title="It's Easy To Use"
     bgColor="#FFF"
     minHeight="true"
     titleColor="#707070"
