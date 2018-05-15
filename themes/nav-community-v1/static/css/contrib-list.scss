@@ -2,19 +2,11 @@
   .contrib-list-title  {
     margin: 50px 0;
   }
-  a {
-    display: flex;
-  flex-direction: row;
-  justify-content: center;
-  }
+
   .git-disp-pic {
     height: 88px;
     border-radius: 225px;
-    // float:left;
     margin: 13px 15px 8px 5px;
-  }
-  .contrib-info {
-    // float:right;
   }
   .single-item {
     overflow: auto;
@@ -42,6 +34,16 @@
     a:hover, a:active {
       color: #fff;
     }
+    a {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+    }
+    @media (max-width: 767px) {
+      a {
+        justify-content: space-around;
+      }
+    }
   }
   @media (max-width: 1199px) {
     .single-item {
@@ -59,11 +61,7 @@
       .faded-text {
         font-size: 15px;
       }
-    }
-  }
-  @media (max-width: 767px) {
-    a {
-      justify-content: space-around;
+
     }
   }
 }
