@@ -4,7 +4,6 @@ date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
 ---
-
 {{< left_image_section
     title="Who maintains NavCore.org?"
     imgSrc="/images/circle-icons/nav_purple-navcoinmaintain.png"

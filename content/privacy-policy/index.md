@@ -4,9 +4,9 @@ date: 2018-03-12T17:47:48+13:00
 draft: false
 ---
 {{< home_centre_text_section
+    title="Privacy Policy"
     bgColor="#7d5ab5"
     titleColor="#333">}}
-
 <p>This page informs you of our policies regarding the collection, use and disclosure of personal information we receive from users of our site (https://navcoin.org). We use your personal information to better understand your usage of the site, and to collect traffic statistics.</p>
 
 <p>By using the site, you agree to the collection and use of information in accordance with this policy.</p>

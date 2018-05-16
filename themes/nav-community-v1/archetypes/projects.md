@@ -25,4 +25,3 @@ card_color: ""
 font_color: ""
 weight: 0
 ---
-

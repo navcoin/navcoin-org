@@ -35,7 +35,7 @@ type: "default"
 {{< left_image_section
     title="Energy Efficient"
     smallSize="true"
-    imgSrc="/images/circle-icons/nav_blue-blub.png"
+    imgSrc="/images/circle-icons/nav_blue-energy-efficent.png"
     imgHeight="176px"
     imgPadding="0px"
     containerPadding="0"

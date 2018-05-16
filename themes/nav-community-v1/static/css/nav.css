@@ -106,6 +106,9 @@
     .contrib-list .single-item .faded-text {
       font-size: 15px; } }
 
+body:nth-child(2) {
+  margin-top: 54px; }
+
 a:hover, a:active, a:focus, a:visited {
   text-decoration: none; }
 
@@ -237,7 +240,7 @@ a:hover, a:active, a:focus, a:visited {
   display: flex; }
 
 .hero-image-section {
-  height: 100vh; }
+  height: calc(100vh - 54px); }
   .hero-image-section .image-container {
     display: flex;
     height: inherit;

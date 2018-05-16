@@ -68,7 +68,7 @@ type: "default"
 {{< left_image_section
     title="5. Learn more about NAV & join the community"
     smallSize="true"
-    imgSrc="/images/circle-icons/nav_purple-bulb.png"
+    imgSrc="/images/circle-icons/nav_purple-energy-efficent.png"
     imgHeight=""
     imgPadding="0px"
     containerPadding="0"

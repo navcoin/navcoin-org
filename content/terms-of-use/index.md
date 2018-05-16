@@ -4,6 +4,7 @@ date: 2018-03-12T17:47:48+13:00
 draft: false
 ---
 {{< home_centre_text_section
+    title="Terms of Use"
     bgColor="#7d5ab5"
     titleColor="#333">}}
 

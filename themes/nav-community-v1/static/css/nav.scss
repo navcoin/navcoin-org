@@ -2,6 +2,10 @@
 @import "./button.scss";
 @import "./contrib-list.scss";
 
+body:nth-child(2) {
+  margin-top: 54px;
+}
+
 a {
   &:hover, &:active, &:focus, &:visited {
   text-decoration:none;
@@ -182,7 +186,7 @@ a {
 }
 
 .hero-image-section {
-  height: 100vh;
+  height: calc(100vh - 54px);
   .image-container {
     display: flex;
     height: inherit;

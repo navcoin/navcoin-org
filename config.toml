@@ -133,14 +133,14 @@ twitter_username = "navcoin"
         title = "NavCoin Core"
         weight = 1
         identifier = "navcoin-core"
-        url = "/wallets/navcoin-core"
+        url = "/downloads/navcoin-core"
         parent="downloads"
     [[menu.main]]
         name = "NavPay"
         title = "NavPay"
         weight = 2
         identifier = "navpay"
-        url = "/wallets/navpay"
+        url = "/downloads/navpay"
         parent="downloads"
     [[menu.main]]
         name = "All Downloads"
