@@ -13,10 +13,8 @@
         </div>
         {{end}}
         <div class="row">
+
             {{ range $element := sort $.Site.Data.contributors "total" "desc" }}
-
-
-
 
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="single-item" style="background-color: #7d5ab5">
@@ -33,7 +31,6 @@
             </div>
 
             {{end}}
-
 
 
             <div class="col-xs-12 center"  >
