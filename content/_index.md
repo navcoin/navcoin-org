@@ -85,40 +85,14 @@ draft: false
     btnTxt="View Full Roadmap →">}}
 {{< contrib_list
 title="NavCoin Protocol Contributors"
-contribBgColor="#7d5ab5"
-person1="aguycalled"
-person1GithubUsername="aguycalled"
-person1Contribs="2"
-person2="craigmacgregor"
-person2GithubUsername="craigmacgregor"
-person2Contribs="14"
-person3="Leobouloc"
-person3GithubUsername="Leobouloc"
-person3Contribs="4">}}
-{{< contrib_list
-contribBgColor="#7d5ab5"
-person1="rex-kwon"
-person1GithubUsername="rex-kwon"
-person1Contribs="2"
-person2="matt-auckland"
-person2GithubUsername="matt-auckland"
-person2Contribs="2"
-person2PicUrl="https://avatars2.githubusercontent.com/u/12672050"
-person3="colvano"
-person3GithubUsername="colvano"
-person3Contribs="2">}}
-{{< contrib_list
 section-margin="0 0 30px 0"
 btnLink="https://github.com/NAVCoin/navcoin-core/graphs/contributors"
 btnTxt="View on Github"
 linkBgColor="#7d5ab5"
 contribBgColor="#7d5ab5"
-person1="taskula"
-person1GithubUsername="taskula"
-person1Contribs="1"
-person2="kierenhyl"
-person2GithubUsername="kierenhyl"
-person2Contribs="1">}}
+>}}
+
+
 {{< links_section
   title="Get Involved"
   titleFontColor="#707070"
