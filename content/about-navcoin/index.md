@@ -6,12 +6,13 @@ type: "default"
 ---
 {{< left_image_section
     title="Simple but Powerful"
-    imgSrc="/images/icons/icon-key.png"
+    imgSrc="/images/circle-icons/nav_purple-key.png"
     imgHeight="400px"
     imgPadding="20px"
     bgColor="#7d5ab5"
     gradient=""
-    fontColor="#FFF">}}
+    titleColor="#FFF"
+    textColor="#FFF">}}
 
     <p>NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of NavCoin is carried out collectively by the network. <b>NavCoin is open-source; its design is public, nobody owns or controls NavCoin and everyone can take part.</b></p>
 
@@ -19,37 +20,43 @@ type: "default"
 {{< /left_image_section >}}
 {{< left_image_section
     title="Faster Transaction Times"
-    imgSrc="/images/icons/icon-bolt.png"
+    smallSize="true"
+    imgSrc="/images/circle-icons/nav_blue-fast.png"
     imgHeight="176px"
     imgPadding="0px"
-    containerPadding="80px 0 20px 0"
+    containerPadding="0"
     bgColor="#42b6eb"
     gradient=""
-    fontColor="#FFF">}}
+    titleColor="#FFF"
+    textColor="#FFF">}}
 
     <p>No need to wait 10 minutes. Send NAV anywhere on the planet instantly and have it confirmed within 30 seconds.</p>
 {{< /left_image_section >}}
 {{< left_image_section
     title="Energy Efficient"
-    imgSrc="/images/icons/icon-lock.png"
+    smallSize="true"
+    imgSrc="/images/circle-icons/nav_blue-blub.png"
     imgHeight="176px"
     imgPadding="0px"
-    containerPadding="0 0 20px 0"
+    containerPadding="0"
     bgColor="#42b6eb"
     gradient=""
-    fontColor="#FFF">}}
+    titleColor="#FFF"
+    textColor="#FFF">}}
 
     <p>NavCoin uses Proof of Stake which only consumes a fraction of the energy used to mine using Proof of Work.</p>
 {{< /left_image_section >}}
 {{< left_image_section
     title="Secure Wallets"
-    imgSrc="/images/icons/icon-bolt.png"
+    smallSize="true"
+    imgSrc="/images/circle-icons/nav_blue-secure.png"
     imgHeight="176px"
     imgPadding="0px"
-    containerPadding="0 0 20px 0"
+    containerPadding="0"
     bgColor="#42b6eb"
     gradient=""
-    fontColor="#FFF">}}
+    titleColor="#FFF"
+    textColor="#FFF">}}
 
     <p>There are a variety of NavCoin wallets which help you keep your private keys secure on most operating systems.</p>
 {{< /left_image_section >}}
@@ -57,18 +64,19 @@ type: "default"
     bgColor="#f5f5f5"
     txtColor="#747474"
     fontColor="#333333"
-    feature1Img="/images/icons/icon-plant.png"
+    feature1Img="/images/circle-icons/nav_blue-ecofriendly.png"
     feature1Title="Eco-friendly"
     feature1Txt="Proof of Stake mining doesn’t require expensive hardware or server farms."
-    feature2Img="/images/icons/icon-person.png"
+    feature2Img="/images/circle-icons/nav_blue-community.png"
     feature2Title="Great Community"
-    feature2Txt="Our community is friendly, supportive and actively participate in improving Nav Coin."
-    feature3Img="/images/icons/icon-clipboard.png"
+    feature2Txt="Our community is friendly, supportive and actively participate in improving NavCoin."
+    feature3Img="/images/circle-icons/nav_blue-news.png"
     feature3Title="Weekly Updates"
     feature3Txt="Each week the NavCoin Core team publishes a community update to keep you informed.">}}
 {{< left_image_section
     title="NavCoin Community Fund"
-    imgSrc="/images/icons/icon-globe-purple-large.png"
+    smallSize="true"
+    imgSrc="/images/circle-icons/nav_purple-decentralized.png"
     imgHeight="400px"
     imgPadding="20px"
     bgColor="#7d5ab5"
@@ -76,7 +84,8 @@ type: "default"
     linkBgColor="#523971"
     btn1Link="https://navcoin.org/community-fund"
     gradient=""
-    fontColor="#FFF">}}
+    titleColor="#FFF"
+    textColor="#FFF">}}
 
     <p>NavCoin is an open-source project to which anyone can contribute. It is a community initiative that ran no pre-mine or initial coin offering. NavCoin Contributors do their best to find funding and build projects independently.</p>
 
@@ -88,17 +97,17 @@ subtitle="If you’re interested in learning more about NavCoin, more informatio
 titleFontColor="#333"
 subtitleFontColor="#555"
 txtFontColor="#777"
-feature1Img="/images/icons/icon-n-purple-large.png"
+feature1Img="/images/circle-icons/nav_color-nav.png"
 feature1Title="NavCore Hub"
 feature1Desc="Roadmap, projects, news and more."
 feature1Txt="Visit website »"
 feature1Link="https://navcore.org/"
-feature2Img="/images/icons/icon-n-purple-large.png"
+feature2Img="/images/circle-icons/nav_color-nav.png"
 feature2Title="NavTech Servers"
 feature2Desc="Videos, written tutorials and more."
 feature2Txt="Visit website »"
 feature2Link="https://navtechservers.com/"
-feature3Img="/images/icons/icon-n-purple-large.png"
+feature3Img="/images/circle-icons/nav_color-nav.png"
 feature3Title="NavCommunity"
 feature3Desc="Discussion forums, tools and more."
 feature3Txt="Visit website »"

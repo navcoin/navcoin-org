@@ -29,8 +29,7 @@ draft: false
     btnMarginTop="40px"
     btnMarginBtm="10px">}}
     <p>NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; 
-    managing transactions and the issuing of NavCoin is carried out collectively by the network. NavCoin is open-source; its design is public, 
-    nobody owns or controls NavCoin and everyone can take part.</p>
+    managing transactions and the issuing of NavCoin is carried out collectively by the network. <b>NavCoin is open-source; its design is public, nobody owns or controls NavCoin and everyone can take part.</b></p>
 {{< /left_image_section >}}
 {{< home_features
     bgColor="#fff"
@@ -43,8 +42,8 @@ draft: false
     feature2Title="Energy Efficient"
     feature2Txt="NavCoin uses Proof of Stake which only consumes a fraction of the energy used to mine using Proof of Work."
     feature3Img="images/circle-icons/nav_blue-secure.png"
-    feature3Title="Private Payments"
-    feature3Txt="Optionally send private transactions through the open source NavTech private payment platform.">}}
+    feature3Title="Secure Wallets"
+    feature3Txt="There are a variety of NavCoin wallets which help you keep your private keys secure on most operating systems.">}}
 {{< left_image_section
     title="It's Easy To Use"
     bgColor="#FFF"
@@ -60,7 +59,7 @@ draft: false
     <p>The NavCoin Core wallet has been carefully refined to be intuitive and easy to use. It comes with a setup wizard and everything you need to load the blockchain and start sending transactions in a secure environment.</p>
 {{< /left_image_section >}}
 {{< home_links_section
-    title="NavCoin Protocol Roadmap"
+    title="Community Roadmap"
     subtitle="Upcoming NavCoin Protocol features"
     titleFontColor="#ffffff"
     subtitleFontColor="#fff"
@@ -72,16 +71,16 @@ draft: false
     feature1Img="/images/circle-icons/nav_blue-trend.png"
     feature1Title="Community Fund"
     feature1Txt="The community have suggested a change in the consensus mechanism which would allow for community contributors to receive funding from the network for their efforts."
-    feature1Link="https://navcoin.org/community-roadmap"
+    feature1Link="https://navhub.org/roadmap/"
     feature2Img="/images/circle-icons/nav_blue-fast.png"
     feature2Title="Lightning Network"
     feature2Txt="Implementing lightning network transactions to allow instant, cross chain, atomic swaps between NAV and other supported cryptocurrencies"
-    feature2Link="https://navcoin.org/community-roadmap"
+    feature2Link="https://navhub.org/roadmap/"
     feature3Img="/images/circle-icons/nav_blue-pi.png"
-    feature3Title="Cold Staking"
-    feature3Txt="Cold Staking allows users with NAV that is stored offline to stake. This will greatly increase the security of staking funds as they don't need to be stored in hot-wallets."
-    feature3Link="https://navcoin.org/community-roadmap"
-    btnLink="https://navcoin.org/community-roadmap"
+    feature3Title="NavPi Kowhai"
+    feature3Txt="NavPi Kowhai is a complete rebuild of the NavPi StakeBox software with improved performance, security and usability. Making staking NAV even easier."
+    feature3Link="https://navhub.org/roadmap/"
+    btnLink="https://navhub.org/roadmap/"
     linkBgColor="#7d59b5"
     btnTxt="View Full Roadmap →">}}
 {{< contrib_list

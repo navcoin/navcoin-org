@@ -6,7 +6,7 @@ type: "default"
 ---
 {{< left_image_section
     title="NavCoin Development"
-    imgSrc="/images/icons/icon-n-purple-large.png"
+    imgSrc="/images/circle-icons/nav_color-nav.png"
     imgHeight="400px"
     imgPadding="20px"
     containerPadding="30px 0 20px 0"
@@ -15,7 +15,7 @@ type: "default"
     gradient=""
     btn1Link="https://github.com/NAVCoin/navcoin-core"
     btn1Txt="NavCoin GitHub"
-    fontColor="#FFF">}}
+    titleColor="#FFF"     textColor="#FFF">}}
 
     <p>NavCoin is free software and any developer can contribute to the project. Everything you need is in the GitHub repository. Please make sure to read and follow the development process described in the README, as well as to provide good quality code and respect all guidelines.</p>
 {{< /left_image_section >}}
@@ -79,15 +79,15 @@ type: "default"
     containerPadding="40px 0 60px 0"
     titleMargin="0 0 20px 0"
     gradient="false"
-    feature1Img="/images/icons/icon-github.png"
+    feature1Img="/images/circle-icons/github.png"
     feature1Title="GitHub"
     feature1Txt="Join us on GitHub »"
     feature1Link="https://github.com/NavCoin"
-    feature2Img="/images/icons/icon-reddit.png"
+    feature2Img="/images/circle-icons/reddit.png"
     feature2Title="Reddit"
     feature2Txt="Join us on Reddit »"
     feature2Link="https://reddit.com/r/NavCoin"
-    feature3Img="/images/icons/icon-discord.png"
+    feature3Img="/images/circle-icons/discord.png"
     feature3Title="Discord"
     feature3Txt="Join us on Discord »"
     feature3Link="https://discord.gg/y4Vu9jw">}}

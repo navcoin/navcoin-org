@@ -40,7 +40,7 @@ You should keep all the post related images in the folder with the index.md fold
     draft: false                        - Is the item a draft - if true it is not built
     author: ""                          - Who authored the article
     description: ""                     - currently unused
-    categories: ["Nav Coin Updates"]    - Cats
+    categories: ["NavCoin Updates"]    - Cats
     resources: []                       - currently unused
     slug: ""                            - currently unused
     feature_image: "image.png"          - The image that should be hero'd

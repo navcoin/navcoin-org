@@ -7,15 +7,14 @@ type: "default"
 
 {{< left_image_section
     title="Who maintains NavCore.org?"
-    imgSrc="/images/icons/icon-earth-purple-large.png"
-    imgHeight="400px"
-    imgPadding="20px"
+    imgSrc="/images/circle-icons/nav_purple-navcoinmaintain.png"
     bgColor="#7d5ab5"
     linkBgColor="#523971"
     gradient=""
     btn1Link="https://discord.gg/y4Vu9jw"
     btn1Txt="NavCoin Discord"
-    fontColor="#FFF">}}
+    titleColor="#FFF"
+    textColor="#FFF">}}
 
     <p>Navcoin.org is maintained by the NavCore team and other NavCoin Community Members. NavCoin is a community project and we are exploring ways to further decentralise the management of this website and it’s content.</p>
 
@@ -40,15 +39,15 @@ type: "default"
     containerPadding="40px 0 60px 0"
     titleMargin="0 0 20px 0"
     gradient="false"
-    feature1Img="/images/icons/icon-github.png"
+    feature1Img="/images/circle-icons/github.png"
     feature1Title="GitHub"
     feature1Txt="Join us on GitHub »"
     feature1Link="https://github.com/NavCoin"
-    feature2Img="/images/icons/icon-reddit.png"
+    feature2Img="/images/circle-icons/reddit.png"
     feature2Title="Reddit"
     feature2Txt="Join us on Reddit »"
     feature2Link="https://reddit.com/r/NavCoin"
-    feature3Img="/images/icons/icon-discord.png"
+    feature3Img="/images/circle-icons/discord.png"
     feature3Title="Discord"
     feature3Txt="Join us on Discord »"
     feature3Link="https://discord.gg/y4Vu9jw">}}

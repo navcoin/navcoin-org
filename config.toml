@@ -1,4 +1,4 @@
-baseURL = "https://navcore.org"
+baseURL = "https://navcoin.org"
 theme = "nav-community-v1"
 
 # English is the default language
@@ -8,7 +8,7 @@ defaultContentLanguageInSubdir = false
 
 [Languages]
 [Languages.en]
-title = "NavCoin Community Site"
+title = "NavCoin.org"
 weight = 1
 languageName = "English"
 
@@ -30,7 +30,7 @@ twitter_username = "navcoin"
 #
 #[languages]
 #[languages.en]
-#title = "NavCoin Community Site"
+#title = "NavCoin.org"
 
 
 [blackfriday]
@@ -98,7 +98,7 @@ twitter_username = "navcoin"
         title = "Community Hub"
         weight = 1
         identifier = "community-hub"
-        url = "https://www.navcore.org"
+        url = "https://www.navhub.org"
         parent="community"
     [[menu.main]]
         name = "NavTech Servers"
@@ -114,6 +114,14 @@ twitter_username = "navcoin"
         identifier = "navcommunity"
         url = "https://navcommunity.net/"
         parent="community"
+    [[menu.main]]
+        name = "NavCoin Italia"
+        title = "NavCoin Italia"
+        weight = 4
+        identifier = "navcoin-italia"
+        url = "https://www.navcoinitalia.com/"
+        parent="community"
+
 
 [[menu.main]]
     name = "Downloads"
