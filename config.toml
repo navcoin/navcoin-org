@@ -37,7 +37,6 @@ twitter_username = "navcoin"
   plainIDAnchors = true
   hrefTargetBlank = true
 
-
 # Main Menu
 [[menu.main]]
     name = "About"
@@ -70,7 +69,7 @@ twitter_username = "navcoin"
         name = "Knowledge Base"
         title = "Knowledge Base"
         weight = 4
-        url = "https://info.navcoin.org/"
+        url = "https://info.navcoin.org"
         identifier = "knowledge-base"
         parent = "learn"
     [[menu.main]]

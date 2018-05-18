@@ -10,7 +10,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-4">
-                        {{  if isset .Params "feature1Title" }}  
+                        {{  if isset .Params "feature1Title" }}
                         <div class="single-item {{ if eq (.Get "dropShadow") "true" }}drop-shadow{{end}}" style="background-color: {{ .Get "boxBgColor" }};">
                             <a href="{{ .Get "feature1Link" }}" target="e" class="box-section-item">
                                 <div class="service-main">
@@ -31,7 +31,7 @@
                         {{end}}
                     </div>
                     <div class="col-sm-4">
-                        {{  if isset .Params "feature2Title" }}  
+                        {{  if isset .Params "feature2Title" }}
                         <div class="single-item {{ if eq (.Get "dropShadow") "true" }}drop-shadow{{end}}" style="background-color: {{ .Get "boxBgColor" }};">
                             <a href="{{ .Get "feature2Link" }}" target="e" class="box-section-item">
                                 <div class="service-main">
@@ -52,7 +52,7 @@
                         {{ end }}
                     </div>
                     <div class="col-sm-4">
-                        {{  if isset .Params "feature3Title" }}  
+                        {{  if isset .Params "feature3Title" }}
                         <div class="single-item {{ if eq (.Get "dropShadow") "true" }}drop-shadow{{end}}" style="background-color: {{ .Get "boxBgColor" }};">
                             <a href="{{ .Get "feature3Link" }}" target="e" class="box-section-item">
                                 <div class="service-main">

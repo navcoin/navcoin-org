@@ -30,7 +30,7 @@ draft: false
     btn1Link="http://www.navcoin.org"
     btnMarginTop="40px"
     btnMarginBtm="10px">}}
-    <p>NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; 
+    <p>NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks;
     managing transactions and the issuing of NavCoin is carried out collectively by the network. <b>NavCoin is open-source; its design is public, nobody owns or controls NavCoin and everyone can take part.</b></p>
 {{< /left_image_section >}}
 {{< home_features
@@ -149,4 +149,4 @@ contribBgColor="#7d5ab5"
   feature2Link="https://www.instagram.com/nav.coin.official/"
   feature3Img="/images/circle-icons/nav_color-nav white.png"
   feature3Title="Knowledge Base"
-  feature3Link="https://info.navcoin.org">}}
+  feature3Link="https://info.navcoin.org" target="_blank">}}

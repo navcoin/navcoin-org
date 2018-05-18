@@ -83,14 +83,14 @@ weight: 100
     titleMargin="0 0 60px 0"
     gradient="false"
     feature1Img="/images/circle-icons/nav_purple-decentralized.png"
-    feature1Title="Web Wallet v4.1.0"
+    feature1Title="Web Wallet v4.1.1"
     feature1Link="https://navpay.navcoin.org/"
     feature2Img="/images/circle-icons/nav_purple-android.png"
-    feature2Title="Android v4.1.0"
+    feature2Title="Android v4.1.1"
     feature2Link="https://play.google.com/store/apps/details?id=org.navcoin.navpay"
     feature3Img="/images/circle-icons/nav_purple-apple.png"
-    feature3Title="iOS (Under Review)"
-    feature3Link="#">}}
+    feature3Title="iOS v4.1.1"
+    feature3Link="https://github.com/NAVCoin/navcoin-core/releases/download/4.1.1/navcoin-4.1.1-osx.dmg">}}
 {{< box_links_section
     featureTitleBgColor="#523971"
     titleFontColor="#fff"
@@ -103,11 +103,11 @@ weight: 100
     titleMargin="0"
     gradient="false"
     feature1Img="/images/circle-icons/nav_purple-windows.png"
-    feature1Title="Windows v4.1.0"
-    feature1Link="https://github.com/Encrypt-S/NavPay/releases/download/v4.1.0/NavPay-4.1.0-Windows.exe"
+    feature1Title="Windows v4.1.1"
+    feature1Link="https://github.com/NAVCoin/navcoin-core/releases/download/4.1.1/navcoin-4.1.1-win64-setup.exe"
     feature2Img="/images/circle-icons/nav_purple-linux.png"
-    feature2Title="Linux v4.1.0"
-    feature2Link="https://github.com/Encrypt-S/NavPay/releases/download/v4.1.0/NavPay-4.1.0-Linux.tar.gz"
+    feature2Title="Linux v4.1.1"
+    feature2Link="https://github.com/NAVCoin/navcoin-core/releases/download/4.1.1/navcoin-4.1.1-x86_64-linux-gnu.tar.gz"
     feature3Img="/images/circle-icons/nav_purple-apple.png"
-    feature3Title="OSX v4.1.0"
-    feature3Link="https://github.com/Encrypt-S/NavPay/releases/download/v4.1.0/NavPay-4.1.0-MacOS.dmg">}}
+    feature3Title="OSX v4.1.1"
+    feature3Link="https://github.com/NAVCoin/navcoin-core/releases/download/4.1.1/navcoin-4.1.1-osx.dmg">}}
