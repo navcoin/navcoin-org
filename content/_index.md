@@ -13,6 +13,8 @@ draft: false
     title="Simplifying Cryptocurrency"
     imgSrc="/images/nav_blue-trend.png"
     imgHeight="260px"
+    btn1Txt="Download Wallet"
+    btn1Link="http://www.navcoin.org/downloads"
     btnMarginTop="50px"
     btnMarginBtm="50px">}}
 {{< left_image_section
