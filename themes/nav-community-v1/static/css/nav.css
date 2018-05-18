@@ -256,10 +256,9 @@ a:hover, a:active, a:focus, a:visited {
       font-size: 25px;
       opacity: 0.8;
       line-height: 1.16;
-      color: #707070;
       letter-spacing: 1.8px;
       text-transform: uppercase;
-      font-family: source sans pro;
+      font-family: 'Source Sans Pro', sans-serif;
       font-weight: 300;
       text-align: center; }
 
