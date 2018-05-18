@@ -132,19 +132,19 @@ twitter_username = "navcoin"
         title = "NavCoin Core"
         weight = 1
         identifier = "navcoin-core"
-        url = "/downloads/navcoin-core"
+        url = "/downloads-core/"
         parent="downloads"
     [[menu.main]]
         name = "NavPay"
         title = "NavPay"
         weight = 2
         identifier = "navpay"
-        url = "/downloads/navpay"
+        url = "/downloads-navpay/"
         parent="downloads"
     [[menu.main]]
         name = "All Downloads"
         title = "All Downloads"
         weight = 3
         identifier = "all-downloads"
-        url = "/downloads/"
+        url = "/downloads-all/"
         parent="downloads"

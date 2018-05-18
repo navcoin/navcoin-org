@@ -6,7 +6,7 @@
         <h2 class="" style="color: {{ .Get "titleColor" }}">{{ .Get "title"}}</h2>
         <div class="" style="color: {{ .Get "textColor" }}">{{ .Inner }}</div>
         {{ if isset .Params "btn1Link" }}
-        <a href="{{ .Get "btn1Link" }}" class="round-btn purple-btn" style="margin-top: {{ .Get "btnMarginTop" }}; margin-bottom: {{ .Get "btnMarginBtm" }};">{{ .Get "btn1Txt" }}</a>
+        <a href="{{ .Get "btn1Link" }}" target="{{ .Get "target" }}" class="round-btn purple-btn" style="margin-top: {{ .Get "btnMarginTop" }}; margin-bottom: {{ .Get "btnMarginBtm" }};">{{ .Get "btn1Txt" }}</a>
         {{ end }}
     </div>
 </div>

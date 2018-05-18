@@ -16,11 +16,12 @@ description: ""
     imgSrc="/images/circle-icons/nav_purple-wallet.png"
     imgHeight="128px"
     btn1Txt="Ask the Community"
-    btn1Link="https://navcoin.org/#community"
+    btn1Link="https://navhub.org/"
+    target="blank"
     btnMarginTop="40px"
     btnMarginBtm="10px">}}
-    <p>NavCoin is an open source protocol and NavCoin wallets are maintained by a range of organisations and individuals. 
-    It’s advised to take the time to educate yourself about the wallets listed on this page and how to secure your funds. 
+    <p>NavCoin is an open source protocol and NavCoin wallets are maintained by a range of organisations and individuals.
+    It’s advised to take the time to educate yourself about the wallets listed on this page and how to secure your funds.
     Always remember that it is your responsibility to choose your wallet carefully and adopt good practices in order to protect your money.</p>
 {{< /left_image_section >}}
 {{< box_links_section

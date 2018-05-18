@@ -109,17 +109,21 @@ p {
 h1 {
     font-family: 'Raleway', sans-serif;
     font-size: 48px;
+    font-weight: 700;
 }
 h2 {
     font-family: 'Raleway', sans-serif;
-    font-size: 36px;
+    font-size: 34px;
 }
 h3 {
     font-family: 'Raleway', sans-serif;
     font-size: 26px;
 }
-
 h4 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 19px;
+}
+h5 {
     font-family: 'Raleway', sans-serif;
     font-size: 14px;
 }
