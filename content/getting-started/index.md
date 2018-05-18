@@ -14,7 +14,7 @@ type: "default"
     bgColor="#7d5ab5"
     linkBgColor="#523971"
     gradient=""
-    btn1Link="https://navcoin.org/wallets/navcoin-core"
+    btn1Link="http://www.navcoin.org/downloads"
     btn1Txt="Download Your Wallet"
     titleColor="#FFF"
     textColor="#FFF">}}
