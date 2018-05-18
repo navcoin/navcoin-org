@@ -21,23 +21,24 @@
       font-size: 43px;
       margin-top: 5px;
     }
+    .contrib-info {
+      margin-top: 30px;
+      margin-left: 5px;
+    }
     .faded-text {
       font-size: 16px;
       color: #ffffff;
       opacity: 0.54;
     }
-    
     a, a:visited {
       color: #d4d4d4;
     }
-    
     a:hover, a:active {
       color: #fff;
     }
     a {
       display: flex;
       flex-direction: row;
-      justify-content: center;
     }
     @media (max-width: 767px) {
       a {

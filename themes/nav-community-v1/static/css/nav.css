@@ -76,6 +76,9 @@
   .contrib-list .single-item .contrib-number {
     font-size: 43px;
     margin-top: 5px; }
+  .contrib-list .single-item .contrib-info {
+    margin-top: 30px;
+    margin-left: 5px; }
   .contrib-list .single-item .faded-text {
     font-size: 16px;
     color: #ffffff;
@@ -86,8 +89,7 @@
     color: #fff; }
   .contrib-list .single-item a {
     display: flex;
-    flex-direction: row;
-    justify-content: center; }
+    flex-direction: row; }
   @media (max-width: 767px) {
     .contrib-list .single-item a {
       justify-content: space-around; } }
