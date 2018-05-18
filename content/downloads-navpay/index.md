@@ -11,20 +11,23 @@ description: ""
     subhead=""
     gradient=""
     text="Secure your NavCoin with an easy to use light wallet that allows you to take ownership of your private keys."
-    captionPadding="150px"
+    captionPadding="130px"
     imgSrc="/images/downloads/navpay/phone2.jpg"
     imgHeight="300px"
-    imgPadding="0px"
+    imgPadding="40px"
     bgColor="#FFF"
-    fontColor="#333">}}
+    fontColor="#333"
+    >}}
 {{< left_image_section
     title="What Is NavPay?"
-    imgSrc="navpay-phone1.png"
-    imgHeight="300px"
+    imgSrc="/images/downloads/navpay/phone1.png"
     imgPadding="30px"
+    textMargin="0 0 0 150px"
     bgColor="#42b6eb"
-    gradient=""
-    fontColor="#FFF">}}
+    textColor="#FFF"
+    textWidth="480px"
+    titleColor="#FFF"
+    >}}
     <p>NavPay is an easy to use light wallet, that allows you to securely store your NAV. There’s no blockchain to download, it’s just a quick &amp; simple way to take control of your private keys.</p>
     <p>You can use it on your mobile device or even in your browser – giving you the flexibility to protect your NAV in a way that’s most convenient for you.</p>
     <p>Don’t risk having your coins on an exchange – download NavPay and take control today.</p>
