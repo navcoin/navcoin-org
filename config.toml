@@ -146,5 +146,5 @@ twitter_username = "navcoin"
         title = "All Downloads"
         weight = 3
         identifier = "all-downloads"
-        url = "/downloads-all/"
+        url = "/downloads/"
         parent="downloads"
