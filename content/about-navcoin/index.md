@@ -9,7 +9,7 @@ type: "default"
     textColor="#333"
     textSize="38px"
     marginTop="5%"
-    paddingLeft="38%"
+    paddingLeft="34%"
     paddingBottom="2%">}}
 {{< left_image_section
     title="Simple but Powerful"
