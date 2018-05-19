@@ -4,6 +4,13 @@ date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
 ---
+{{< title_block
+    title="What is NavCoin?"
+    textColor="#333"
+    textSize="38px"
+    marginTop="5%"
+    paddingLeft="38%"
+    paddingBottom="2%">}}
 {{< left_image_section
     title="Simple but Powerful"
     imgSrc="/images/circle-icons/nav_purple-key.png"
@@ -11,11 +18,12 @@ type: "default"
     imgPadding="20px"
     bgColor="#7d5ab5"
     gradient=""
+    smallSize="true"
     titleColor="#FFF"
-    textColor="#FFF">}}
-
+    textColor="#FFF"
+    titleSize="27px"
+    textSize="16px">}}
     <p>NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of NavCoin is carried out collectively by the network. <b>NavCoin is open-source; its design is public, nobody owns or controls NavCoin and everyone can take part.</b></p>
-
     <p>NavCoin has a range of sleek and intuitive wallets that allows you to easily manage your NavCoin and keep your funds secure.</p>
 {{< /left_image_section >}}
 {{< left_image_section
@@ -28,7 +36,8 @@ type: "default"
     bgColor="#42b6eb"
     gradient=""
     titleColor="#FFF"
-    textColor="#FFF">}}
+    textColor="#FFF"
+    textSize="16px">}}
 
     <p>No need to wait 10 minutes. Send NAV anywhere on the planet instantly and have it confirmed within 30 seconds.</p>
 {{< /left_image_section >}}
@@ -42,8 +51,8 @@ type: "default"
     bgColor="#42b6eb"
     gradient=""
     titleColor="#FFF"
-    textColor="#FFF">}}
-
+    textColor="#FFF"
+    textSize="16px">}}
     <p>NavCoin uses Proof of Stake which only consumes a fraction of the energy used to mine using Proof of Work.</p>
 {{< /left_image_section >}}
 {{< left_image_section
@@ -56,8 +65,8 @@ type: "default"
     bgColor="#42b6eb"
     gradient=""
     titleColor="#FFF"
-    textColor="#FFF">}}
-
+    textColor="#FFF"
+    textSize="16px">}}
     <p>There are a variety of NavCoin wallets which help you keep your private keys secure on most operating systems.</p>
 {{< /left_image_section >}}
 {{< features
@@ -85,10 +94,10 @@ type: "default"
     btn1Link="https://navcoin.org/community-fund"
     gradient=""
     titleColor="#FFF"
-    textColor="#FFF">}}
-
+    textColor="#FFF"
+    titleSize="27px"
+    textSize="16px">}}
     <p>NavCoin is an open-source project to which anyone can contribute. It is a community initiative that ran no pre-mine or initial coin offering. NavCoin Contributors do their best to find funding and build projects independently.</p>
-
     <p>The community fund offers a decentralised way to fund NavCoin projects and further encourage the decentralisation of the development of NavCoin.</p>
 {{< /left_image_section >}}
 {{< links_section

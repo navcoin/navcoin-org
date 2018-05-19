@@ -4,15 +4,25 @@ date: 2018-03-20T07:41:22+13:01
 draft: false
 type: "default"
 ---
+{{< title_block
+    title="Buy NavCoin"
+    textColor="#333"
+    textSize="38px"
+    marginTop="5%"
+    paddingLeft="38%"
+    paddingBottom="2%">}}
 {{< left_image_section
     title="Cryptocurrency Exchanges"
     imgSrc="/images/circle-icons/nav_purple-merchants.png"
-    imgHeight="400px"
+    imgHeight=""
     imgPadding="20px"
     bgColor="#7d5ab5"
     gradient=""
-    titleColor="#FFF"     
-    textColor="#FFF">}}
+    smallSize="true"
+    titleColor="#FFF"
+    textColor="#FFF"
+    titleSize="27px"
+    textSize="16px">}}
     <p>NavCoin is publicly mined and ran no token sale. The only way to get NAV is to purchase it from a third party or exchange. Exchanges provide highly varying degrees of safety, security, privacy, and control over your funds and information. Perform your own due diligence and choose a wallet where you will keep your NavCoin before selecting an exchange.</p>
 {{< /left_image_section >}}
 {{< box_links_section

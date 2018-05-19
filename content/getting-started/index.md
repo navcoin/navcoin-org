@@ -24,7 +24,9 @@ type: "default"
     btn1Link="/downloads"
     btn1Txt="Download Your Wallet"
     titleColor="#FFF"
-    textColor="#FFF">}}
+    textColor="#FFF"
+    titleSize="27px"
+    textSize="16px">}}
     <p>This will allow you to send/receive transactions, take ownership of your private keys, and if you use the NavCoin core wallet you can contribute to transaction validation on the network.</p>
 {{< /left_image_section >}}
 {{< left_image_section
@@ -38,7 +40,9 @@ type: "default"
     linkBgColor="#523971"
     gradient=""
     titleColor="#FFF"
-    textColor="#FFF">}}
+    textColor="#FFF"
+    titleSize="27px"
+    textSize="16px">}}
     <p>Once you have installed the wallet, you should back up your keys and follow the installation process. If you use the NavCoin core wallet, it will take a number of hours to sync and catch up with the blockchain.</p>
 {{< /left_image_section >}}
 {{< left_image_section
@@ -52,7 +56,9 @@ type: "default"
     linkBgColor="#523971"
     gradient=""
     titleColor="#FFF"
-    textColor="#FFF">}}
+    textColor="#FFF"
+    titleSize="27px"
+    textSize="16px">}}
     <p>There are a couple of ways to get NAV:<br>
     1) Exchange Bitcoin for NAV on an exchange, such as <a href="https://poloniex.com/exchange#btc_nav" class="white-txt-underline">Poloniex</a> or <a href="https://bittrex.com/Market/Index?MarketName=BTC-nav" class="white-txt-underline">Bittrex</a>.<br>
     2) <a href="http://navcoin.org/buy-nav/" class="white-txt-underline">Use Changelly</a> to buy NAV directly using your credit card.<br>
@@ -69,7 +75,9 @@ type: "default"
     linkBgColor="#523971"
     gradient=""
     titleColor="#FFF"
-    textColor="#FFF">}}
+    textColor="#FFF"
+    titleSize="27px"
+    textSize="16px">}}
     <p>Once you have some NAV in your wallet, you can participate in transaction validation by having your wallet in staking mode. Remember to note that the time between finding a new block will depend on your network weight (read our FAQ for more information).</p>
 {{< /left_image_section >}}
 {{< left_image_section
@@ -83,7 +91,9 @@ type: "default"
     linkBgColor="#523971"
     gradient=""
     titleColor="#FFF"
-    textColor="#FFF">}}
+    textColor="#FFF"
+    titleSize="27px"
+    textSize="16px">}}
     <p>Check out our in depth FAQ page here to learn more about NavCoin, and how it works.
     We also have a number of community channels that you can use to talk to other NavCoin community members – the most popular being Discord, Twitter, and Reddit.</p>
 {{< /left_image_section >}}
