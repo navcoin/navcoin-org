@@ -4,6 +4,13 @@ date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
 ---
+{{< title_block
+    title="Getting Started With Nav Coin"
+    textColor="#333"
+    textSize="38px"
+    marginTop="5%"
+    paddingLeft="34%"
+    paddingBottom="2%">}}
 {{< left_image_section
     title="1. Download the latest version of the wallet"
     smallSize="true"
