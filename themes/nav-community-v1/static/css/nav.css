@@ -61,7 +61,7 @@
   margin: 50px 0; }
 
 .contrib-list .git-disp-pic {
-  height: 88px;
+  height: 48px;
   border-radius: 225px;
   margin: 13px 15px 8px 5px; }
 
@@ -72,12 +72,12 @@
   border-radius: 10px;
   box-shadow: #ccc 0px 0px 10px; }
   .contrib-list .single-item .name {
-    font-size: 24px; }
+    font-size: 20px; }
   .contrib-list .single-item .contrib-number {
     font-size: 43px;
     margin-top: 5px; }
   .contrib-list .single-item .contrib-info {
-    margin-top: 30px;
+    margin-top: 10px;
     margin-left: 5px; }
   .contrib-list .single-item .faded-text {
     font-size: 16px;
@@ -256,6 +256,7 @@ a:hover, a:active, a:focus, a:visited {
       font-size: 25px;
       opacity: 0.8;
       line-height: 1.16;
+      color: #6d7680;
       letter-spacing: 1.8px;
       text-transform: uppercase;
       font-family: 'Source Sans Pro', sans-serif;
