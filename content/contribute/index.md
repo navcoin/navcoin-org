@@ -1,5 +1,5 @@
 ---
-title: "Contribute" 
+title: "Contribute"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
@@ -9,7 +9,6 @@ type: "default"
     imgSrc="/images/circle-icons/nav_color-nav.png"
     imgHeight="400px"
     imgPadding="20px"
-    containerPadding="30px 0 20px 0"
     bgColor="#7d5ab5"
     linkBgColor="#523971"
     gradient=""
@@ -22,7 +21,7 @@ type: "default"
 {{< center_text_section
     bgColor="#FFF"
     gradient=""
-    containerPadding="30px 0 20px 0"
+    containerPadding="40px 0 0 0"
     title="Beyond NavCoin Core"
     txtColor="#7a7a7a">}}
     <p>There is a whole eco-system of software which developers have created to operate on or alongside the NavCoin protocol. All software the NavCoin Core developers create is also free and open-source. Any developer can contribute to these projects through the many <a href="https://github.com/NAVCoin" class="dark-grey-txt-underline" target="e">NavCoin GitHub</a> repositories.</p>
@@ -37,12 +36,10 @@ type: "default"
 {{< center_text_section
     bgColor="#FFF"
     gradient=""
-    containerPadding="0 0 20px 0"
+    containerPadding="0"
     title="Code Review"
     txtColor="#7a7a7a">}}
-    <p>NavCoin and its associated projects are security software that help protect assets worth millions of dollars, so every code change needs to be reviewed by experienced developers.</p>
-
-    <p>It can take a long time for other developers to review your pull requests. Remember that all reviewers are taking time away from their own projects to review your pull requests, so be patient and respectful of their time.</p>
+    <p>NavCoin and its associated projects are security software that help protect assets worth millions of dollars, so every code change needs to be reviewed by experienced developers. It can take a long time for other developers to review your pull requests. Remember that all reviewers are taking time away from their own projects to review your pull requests, so be patient and respectful of their time.</p>
 
     <p>Please also consider helping to review other people’s pull requests. You don’t need to be an expert in NavCoin, the NavCoin Core codebase, or C++ (although all these things help). There are almost always open pull requests that any programmer can review.</p>
 
@@ -51,7 +48,7 @@ type: "default"
 {{< center_text_section
     bgColor="#FFF"
     gradient=""
-    containerPadding="0px 0"
+    containerPadding="0"
     title="Starter Projects"
     txtColor="#7a7a7a">}}
     <p>Do you want to begin coding for NavCoin but don’t have a specific improvement in mind? Here are a few ideas:</p>
@@ -64,7 +61,7 @@ type: "default"
 {{< center_text_section
     bgColor="#FFF"
     gradient=""
-    containerPadding="0 0 40px 0"
+    containerPadding="0 0 70px 0"
     title="Documentation"
     txtColor="#7a7a7a">}}
     <p>If you are interested in learning more about the technical details of NavCoin and how to use existing tools and APIs, it is recommended you start by exploring the self documented code in GitHub or join the discussion on the <a href="https://discord.gg/y4Vu9jw" target="e" class="dark-grey-txt-underline">NavCoin Discord</a>.
@@ -76,7 +73,7 @@ type: "default"
     subtitleFontColor="#fff"
     txtFontColor="#fff"
     bgColor="#7d5ab5"
-    containerPadding="40px 0 60px 0"
+    containerPadding="70px 0"
     titleMargin="0 0 20px 0"
     gradient="false"
     feature1Img="/images/circle-icons/github.png"

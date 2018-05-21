@@ -1,6 +1,6 @@
 <section id="project">
     <div class="our-service-section {{ if eq (.Get "gradient") "true" }} bg-gradient {{ end }}">
-        <div style="padding: 40px 0; background-image: url({{ .Get "bgImgSrc" }}); background-color: {{ .Get "bgColor" }};">
+        <div style="padding: {{ .Get "containerPadding" }}; background-image: url({{ .Get "bgImgSrc" }}); background-color: {{ .Get "bgColor" }};">
           <div class="container">
             <div class="row">
                 <div class="col-md-4">

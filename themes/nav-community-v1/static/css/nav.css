@@ -264,7 +264,7 @@ a:hover, a:active, a:focus, a:visited {
       text-align: center; }
 
 .left-image-section {
-  min-height: 550px; }
+  min-height: 500px; }
   .left-image-section .img-container {
     display: flex;
     align-items: flex-end;

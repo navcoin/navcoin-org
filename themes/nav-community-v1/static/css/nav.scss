@@ -213,14 +213,13 @@ a {
 }
 
 .left-image-section {
-  min-height: 550px;
+  min-height: 500px;
   .img-container {
     display: flex;
     align-items: flex-end;
     flex-direction: column;
   }
   img {
-     width: 100%;
      max-width: 295px;
      min-width: 175px;
    }

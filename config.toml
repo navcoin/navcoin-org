@@ -66,23 +66,30 @@ twitter_username = "navcoin"
         identifier = "buying-navcoin"
         parent = "learn"
     [[menu.main]]
+        name = "Community Fund"
+        title = "Community Fund"
+        weight = 4
+        identifier = "community-fund"
+        url = "/community-fund/"
+        parent="learn"
+    [[menu.main]]
         name = "Knowledge Base"
         title = "Knowledge Base"
-        weight = 4
+        weight = 5
         url = "https://info.navcoin.org"
         identifier = "knowledge-base"
         parent = "learn"
     [[menu.main]]
         name = "About This Website"
         title = "About This Website"
-        weight = 5
+        weight = 6
         url = "/about-this-website/"
         identifier = "about-this-website"
         parent = "learn"
     [[menu.main]]
         name = "Contribute"
         title = "Contribute"
-        weight = 6
+        weight = 7
         url = "/contribute/"
         identifier = "contribute"
         parent = "learn"
@@ -92,13 +99,6 @@ twitter_username = "navcoin"
     title = "Community"
     weight = 3
     identifier = "community"
-    [[menu.main]]
-        name = "Community Fund"
-        title = "Community Fund"
-        weight = 1
-        identifier = "community-fund"
-        url = "/community-fund/"
-        parent="community"
     [[menu.main]]
         name = "Community Hub"
         title = "Community Hub"

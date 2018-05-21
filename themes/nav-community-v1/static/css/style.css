@@ -186,8 +186,8 @@ section.pt-25 {
 }
 
 .section-ptb {
-    padding-top: 90px;
-    padding-bottom: 90px;
+    padding-top: 70px;
+    padding-bottom: 70px;
 }
 .section-ptb-2 {
     padding-top: 60px;
@@ -3278,10 +3278,6 @@ ul li.cat-item a {
    	padding: 15px 0;
    }
 
-   #project #links {
-     padding: 40px 20px;
-   }
-
    #project #links .single-item {
      padding: 40px 20px;
    }
@@ -3522,4 +3518,16 @@ body > p {
 
 .title-block-section {
   text-align: center;
+}
+
+.community-fund-section ul {
+  list-style: disc;
+  padding-left: 40px;
+  margin: 20px 0;
+}
+
+.community-fund-section ol {
+  list-style: decimal;
+  padding-left: 40px;
+  margin: 20px 0;
 }

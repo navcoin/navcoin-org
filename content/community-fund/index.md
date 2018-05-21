@@ -4,23 +4,27 @@ date: 2018-05-21
 draft: false
 type: "default"
 ---
-{{< title_block
-    title="Community Fund"
-    textColor="#333"
-    textSize="38px"
-    marginTop="5%"
-    paddingLeft="34%"
-    paddingBottom="2%">}}
-{{< community_fund_section
-    title="Proposal Details"
-    imgSrc="/images/circle-icons/nav_blue-community.png"
+{{< left_image_section
+    title="NavCoin Community Fund"
+    imgSrc="/images/circle-icons/nav_purple-key.png"
     imgHeight="400px"
     imgPadding="20px"
+    bgColor="#7d5ab5"
+    linkBgColor="#523971"
+    gradient=""
+    titleColor="#FFF"     
+    textColor="#FFF">}}
+    <p>NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of NavCoin is carried out collectively by the network. <b>NavCoin is open-source; its design is public, nobody owns or controls NavCoin and everyone can take part.</b></p>
+    <p>NavCoin has a range of sleek and intuitive wallets that allows you to easily manage your NavCoin and keep your funds secure.</p>
+{{< /left_image_section >}}
+{{< community_fund_section
+    title="Proposal Details"
     bgColor="#FFF"
     linkBgColor="#523971"
     titleColor="#FFF"
     textColor="#7a7a7a"
-    textMargin="15%">}}
+    containerPadding="40px 0">}}
+<h3>What is the NavCoin Community Fund?</h3>
 
 <p>NavCoin is an open-source project to which anyone can contribute. It is a community initiative that ran no pre-mine or initial coin offering. NavCoin contributors do their best to find funding and build projects independently. The community fund offers a decentralised way to fund NavCoin projects and further encourage the decentralisation of the development of NavCoin.</p>
 
@@ -40,7 +44,9 @@ type: "default"
 
 <p>Currently approximately 40% of the 62M NAV in the network are used for staking. This means the network generates approximately 1.24M NAV per year. Therefore 1% of the proof of stake rewards approximately equals 250k NAV per year which is roughly 0.237 NAV per block with NavCoin’s 30 second block time. The NavCoin Core developers suggest using a fixed amount of 0.25 NAV per block rather than a calculation based on 1% of the amount staked to protect the network against attackers who could aim to remove coins from staking to constrain the financial capabilities of the community and to protect the fund from extreme fluctuations.</p>
 
-<h5>How the proposal process works</h5>
+<hr />
+
+<h3>How the proposal process works</h3>
 
 <ol class="" start="1">
     <li>Dream up the&nbsp;changes you would like to see&nbsp;within the NavCoin eco-system. These can be&nbsp;everything&nbsp;from protocol changes, new applications that run on top of the NavCoin protocol, third party services, websites, promotional activities or even non-NavCoin related things like charity donations.</li>
@@ -54,7 +60,9 @@ type: "default"
     <li>Retrieve the funds from your proposal as payment for the work you’ve done.</li>
 </ol>
 
-<h5>Voting to implement the Community Fund</h5>
+<hr />
+
+<h3>Voting to implement the Community Fund</h3>
 
 <p>Because we are a community project, we take the democratic process especially seriously. We would never attempt to make changes to the consensus mechanism without due process. The first step in this process is to initiate a network vote to see the community’s interest in reducing the stake reward and implementing a Community Fund.</p>
 
@@ -72,7 +80,9 @@ type: "default"
 
 <p>This proposal would be considered approved when 8640 blocks signal a positive vote over a 11520 (~4 days) block period (75% acceptance).</p>
 
-<h5>TL;DR</h5>
+<hr />
+
+<h3>TL;DR</h3>
 
 <p>The NavCoin Core developers propose some changes to the NavCoin consensus protocol. In short:</p>
 
@@ -86,4 +96,3 @@ type: "default"
 </ul>
 
 {{< /community_fund_section >}}
-
