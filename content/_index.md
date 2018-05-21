@@ -146,7 +146,7 @@ contribBgColor="#7d5ab5"
   feature1Link="https://bitcointalk.org/index.php?topic=679791"
   feature2Img="/images/circle-icons/instagram.png"
   feature2Title="Instagram"
-  feature2Link="https://www.instagram.com/nav.coin.official/"
+  feature2Link="https://www.instagram.com/navcore/"
   feature3Img="/images/circle-icons/nav_color-nav white.png"
   feature3Title="Knowledge Base"
   feature3Link="https://info.navcoin.org" target="_blank">}}

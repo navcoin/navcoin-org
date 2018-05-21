@@ -93,6 +93,13 @@ twitter_username = "navcoin"
     weight = 3
     identifier = "community"
     [[menu.main]]
+        name = "Community Fund"
+        title = "Community Fund"
+        weight = 1
+        identifier = "community-fund"
+        url = "/community-fund/"
+        parent="community"
+    [[menu.main]]
         name = "Community Hub"
         title = "Community Hub"
         weight = 1
