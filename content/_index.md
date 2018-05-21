@@ -25,7 +25,6 @@ draft: false
     textColor="#FFF"
     linkBgColor="#523971"
     imgSrc="/images/circle-icons/nav_color-nav.png"
-    imgHeight="128px"
     btn1Txt="Contribute to NavCoin"
     btn1Link="https://navhub.org/get-involved/"
     btnMarginTop="40px"

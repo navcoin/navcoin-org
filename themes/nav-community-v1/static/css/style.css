@@ -2005,9 +2005,7 @@ a {
            22. Blog Footer
  ========================================== */
 
-.footer-area {
-  margin-left: 13%
-}
+
 .column {
     overflow: hidden;
 }
@@ -3513,4 +3511,15 @@ nav li ul {
 
 .links-desc {
   padding: 0 20px;
+}
+
+.footer-area {
+  border-top: 1px solid #e2e2e2;
+}
+body > p {
+  display: none;
+}
+
+.title-block-section {
+  text-align: center;
 }

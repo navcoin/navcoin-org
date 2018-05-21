@@ -4,26 +4,18 @@ date: 2018-03-20T07:41:22+13:01
 draft: false
 type: "default"
 ---
-{{< title_block
-    title="Buy NavCoin"
-    textColor="#333"
-    textSize="38px"
-    marginTop="5%"
-    paddingLeft="38%"
-    paddingBottom="2%">}}
 {{< left_image_section
     title="Cryptocurrency Exchanges"
     imgSrc="/images/circle-icons/nav_purple-merchants.png"
-    imgHeight=""
+    imgHeight="400px"
     imgPadding="20px"
+    containerPadding="30px 0 20px 0"
     bgColor="#7d5ab5"
+    linkBgColor="#523971"
     gradient=""
-    smallSize="true"
-    titleColor="#FFF"
-    textColor="#FFF"
-    titleSize="27px"
-    textSize="16px">}}
-    <p>NavCoin is publicly mined and ran no token sale. The only way to get NAV is to purchase it from a third party or exchange. Exchanges provide highly varying degrees of safety, security, privacy, and control over your funds and information. Perform your own due diligence and choose a wallet where you will keep your NavCoin before selecting an exchange.</p>
+    titleColor="#FFF"     
+    textColor="#FFF">}}
+      <p>NavCoin is publicly mined and ran no token sale. The only way to get NAV is to purchase it from a third party or exchange. Exchanges provide highly varying degrees of safety, security, privacy, and control over your funds and information. Perform your own due diligence and choose a wallet where you will keep your NavCoin before selecting an exchange.</p>
 {{< /left_image_section >}}
 {{< box_links_section
     dropShadow="true"
@@ -108,8 +100,7 @@ type: "default"
     feature1Img="/images/service/godex.png"
     feature1Title="Godex"
     feature1Txt="Decentralised Exchange"
-    feature1Link="https://godex.io/"
-    >}}
+    feature1Link="https://godex.io/">}}
 {{< links_section
     title="NavCoin Communities"
     subtitle="If you’re unsure which exchange to use or how they work, talk to one of the many helpful NavCoin community members through these channels."
@@ -117,7 +108,7 @@ type: "default"
     subtitleFontColor="#fff"
     txtFontColor="#fff"
     bgColor="#7d5ab5"
-    containerPadding="40px 0 60px 0"
+    containerPadding="70px 0"
     titleMargin="0 0 20px 0"
     gradient="false"
     feature1Img="/images/circle-icons/github.png"
