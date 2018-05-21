@@ -72,5 +72,18 @@ type: "default"
 
 <p>This proposal would be considered approved when 8640 blocks signal a positive vote over a 11520 (~4 days) block period (75% acceptance).</p>
 
+<h5>TL;DR</h5>
+
+<p>The NavCoin Core developers propose some changes to the NavCoin consensus protocol. In short:</p>
+
+<ul>
+    <li><span style="font-weight: 400;">Creating a decentralized NavCoin Community fund</span></li>
+    <li><span style="font-weight: 400;"> Staking reward changes from 5% to 4% </span></li>
+    <li><span style="font-weight: 400;"> Fixed amount of 0.25 NAV Coin/block to NavCoin Community fund</span></li>
+    <li><span style="font-weight: 400;"> Anyone can make a funding proposal</span></li>
+    <li><span style="font-weight: 400;"> Payout’s of NAV happen when everyone votes that the work is completed</span></li>
+    <li><span style="font-weight: 400;"> The aim of this is to fund the&nbsp;decentralised development of&nbsp;NavCoin amongst the community.</span></li>
+</ul>
+
 {{< /community_fund_section >}}
 
