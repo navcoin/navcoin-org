@@ -11,49 +11,66 @@ type: "default"
     marginTop="5%"
     paddingLeft="34%"
     paddingBottom="2%">}}
-{{< left_image_section
-    title="Who maintains NavCore.org?"
-    imgSrc="/images/circle-icons/nav_purple-navcoinmaintain.png"
-    bgColor="#7d5ab5"
+{{< community_fund_section
+    title="Proposal Details"
+    imgSrc="/images/circle-icons/nav_blue-community.png"
+    imgHeight="400px"
+    imgPadding="20px"
+    bgColor="#FFF"
     linkBgColor="#523971"
-    gradient=""
-    btn1Link="https://discord.gg/y4Vu9jw"
-    btn1Txt="NavCoin Discord"
     titleColor="#FFF"
-    textColor="#FFF">}}
+    textColor="#7a7a7a"
+    textMargin="15%">}}
 
-    <p>Navcoin.org is maintained by the NavCore team and other NavCoin Community Members. NavCoin is a community project and we are exploring ways to further decentralise the management of this website and it’s content.</p>
+<p>NavCoin is an open-source project to which anyone can contribute. It is a community initiative that ran no pre-mine or initial coin offering. NavCoin contributors do their best to find funding and build projects independently. The community fund offers a decentralised way to fund NavCoin projects and further encourage the decentralisation of the development of NavCoin.</p>
 
-<p>If you have a suggestion, or want to get your project added to the roadmap, talk to a community member on the <a href="https://discord.gg/y4Vu9jw" class="white-txt-underline">NavCoin Discord</a> who can help get your update integrated.</p>
-{{< /left_image_section >}}
-{{< home_centre_text_section
-    title="Separating concerns"
-    bgColor="#7d5ab5"
-    titleColor="#333">}}
+<p>The community have suggested a change in the consensus mechanism which would allow for community contributors to receive funding from the network for their efforts. The NavCoin Core developers agree that implementing community led funding will best serve the interests of this open-source project and foster it’s decentralised nature.</p>
 
-    <p>The NavCoin Core Developers are working towards making the navcoin.org website fully open source so anyone from the community can submit updates or changes through GitHub. A change request would be directly made to the public GitHub repository for review. Once this is setup, the responsibility for approving pull requests into the site can be spread out to include a wider section of the NavCoin community.</p>
+<p>After consideration and discussion within the community, the NavCoin Core developers have proposed the following changes.</p>
 
-<p>Until this site is open source, please bear with us and raise any projects you want added, or content updated through the NavCoin community channels. The NavCore team or a community member can help you to get your suggestions integrated into this website.</p>
-{{< /home_centre_text_section >}}
-{{< links_section
-    title="NavCoin Communities"
-    subtitle="If you’re interested in contributing to navcoin.org please connect with the NavCore team and other NavCoin community members through one of these community channels."
-    titleFontColor="#fff"
-    subtitleFontColor="#fff"
-    txtFontColor="#fff"
-    bgColor="#7d5ab5"
-    containerPadding="40px 0 60px 0"
-    titleMargin="0 0 20px 0"
-    gradient="false"
-    feature1Img="/images/circle-icons/github.png"
-    feature1Title="GitHub"
-    feature1Txt="Join us on GitHub »"
-    feature1Link="https://github.com/NavCoin"
-    feature2Img="/images/circle-icons/reddit.png"
-    feature2Title="Reddit"
-    feature2Txt="Join us on Reddit »"
-    feature2Link="https://reddit.com/r/NavCoin"
-    feature3Img="/images/circle-icons/discord.png"
-    feature3Title="Discord"
-    feature3Txt="Join us on Discord »"
-    feature3Link="https://discord.gg/y4Vu9jw">}}
+<ul>
+    <li>Proof of Stake rewards will be reduced from 5% to 4% per annum.</li>
+    <li>Each block staked will generate 0.25 NAV per block for the NavCoin Community Fund.</li>
+    <li>Anyone and everyone on the network&nbsp;will be able to propose projects, budgets and initiate network votes to schedule funds.</li>
+    <li>The NavCoin Community Fund will be protected by the consensus layer – proposals to schedule funds will never be accepted without the positive vote from a majority of NavCoin stakers.</li>
+    <li>Scheduled funds&nbsp;can only be&nbsp;released&nbsp;by a 2nd network vote when NavCoin stakers achieve consensus on whether the proposal was completed successfully. No funds are received until work is agreed as complete.</li>
+    <li>If the work is never completed, the scheduled funds are returned to the NavCoin Community Fund.</li>
+    <li>No one (not even the NavCoin Core developers) owns or can directly access, manage or curate the NAV in the Community Fund or how it is distributed.&nbsp;The fund has no private key which can spend the NAV, the only way they can ever be spent is by the dual network consensus vote.</li>
+</ul>
+
+<p>Currently approximately 40% of the 62M NAV in the network are used for staking. This means the network generates approximately 1.24M NAV per year. Therefore 1% of the proof of stake rewards approximately equals 250k NAV per year which is roughly 0.237 NAV per block with NavCoin’s 30 second block time. The NavCoin Core developers suggest using a fixed amount of 0.25 NAV per block rather than a calculation based on 1% of the amount staked to protect the network against attackers who could aim to remove coins from staking to constrain the financial capabilities of the community and to protect the fund from extreme fluctuations.</p>
+
+<h5>How the proposal process works</h5>
+
+<ol class="" start="1">
+    <li>Dream up the&nbsp;changes you would like to see&nbsp;within the NavCoin eco-system. These can be&nbsp;everything&nbsp;from protocol changes, new applications that run on top of the NavCoin protocol, third party services, websites, promotional activities or even non-NavCoin related things like charity donations.</li>
+    <li>Document your ideas on the NavCoin Community site and&nbsp;and discuss it with other people involved in the NavCoin community.</li>
+    <li>If you’re unable to complete the work involved in your proposal yourself, you will need to&nbsp;build the team&nbsp;necessary&nbsp;to make your proposal a reality.</li>
+    <li>Figure out how much&nbsp;NAV you need to complete your proposal.</li>
+    <li>Create and submit the Community Fund proposal to the NavCoin blockchain for voting.</li>
+    <li>Promote your proposal to NavCoin stakers and convince them to accept your proposal.</li>
+    <li>If the proposal gets locked in, now it’s time to do the work. You and your team need to complete whatever task you set yourselves in the proposal so you can claim the NAV scheduled for your proposal.</li>
+    <li>Once you’ve done the work outlined in your proposal, a second round of voting will take place to release the funds. Present and promote your work to the NavCoin stakers to get them to agree that you have finished the work.</li>
+    <li>Retrieve the funds from your proposal as payment for the work you’ve done.</li>
+</ol>
+
+<h5>Voting to implement the Community Fund</h5>
+
+<p>Because we are a community project, we take the democratic process especially seriously. We would never attempt to make changes to the consensus mechanism without due process. The first step in this process is to initiate a network vote to see the community’s interest in reducing the stake reward and implementing a Community Fund.</p>
+
+<p>Since network votes are cast when a user stakes a block, a network vote on this issue gives us the capability to get consensus from those who will be directly affected by a change in the staking rewards.</p>
+
+<p>This proposal is a work in progress and we would love to hear your feedback. If you want to make a suggestion, comment or contribution please join us on <a href="https://reddit.com/r/navcoin" target="_blank">reddit</a>.</p>
+
+<p>In order to facilitate the voting process the NavCoin Core developers have released version 4.0.6 of the NavCoin Core wallet. Users using the graphical interface will be shown with a dialog once the voting period starts allowing them to choose their vote. Users of the headless version of the wallet may add the following line</p>
+
+<p>votefunding=n (being n=1 for YES, n=0 for NO)</p>
+
+<p>to the navcoin.conf file and restart the daemon to start voting. In both cases the wallet should be actively staking to cast votes, every minted block will represent 1 vote. Voting period will start at 00:00 on the 18th October 2017 (GMT) and be counted as a percentage per block period (~4 days).</p>
+
+<p>NavPi users will need to log into their device and update the Nav Coin wallet to cast their vote. More detailed instructions for NavPi users will be posted in the coming days.</p>
+
+<p>This proposal would be considered approved when 8640 blocks signal a positive vote over a 11520 (~4 days) block period (75% acceptance).</p>
+
+{{< /community_fund_section >}}
+
