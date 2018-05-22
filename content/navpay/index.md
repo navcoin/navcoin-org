@@ -73,8 +73,8 @@ description: ""
     feature2Title="Android v4.1.1"
     feature2Link="https://play.google.com/store/apps/details?id=org.navcoin.navpay"
     feature3Img="/images/circle-icons/nav_purple-apple.png"
-    feature3Title="iOS v4.1.1"
-    feature3Link="https://github.com/NAVCoin/navcoin-core/releases/download/4.1.1/navcoin-4.1.1-osx.dmg">}}
+    feature3Title="iOS PWA v4.1.1"
+    feature3Link="https://navpay.navcoin.org/">}}
 {{< box_links_section
     featureTitleBgColor="#523971"
     titleFontColor="#fff"
