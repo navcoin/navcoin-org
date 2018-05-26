@@ -10,4 +10,5 @@ slug: ""
 type: "news"
 feature_image: ""
 show_title_text: false
+post_type: ""
 ---
