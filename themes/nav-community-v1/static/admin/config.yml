@@ -8,7 +8,7 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 
 collections:
   - name: "notices" # Used in routes, e.g., /admin/collections/blog
-    label: "Notices" # Used in the UI
+    label: "Notice" # Used in the UI
     folder: "content/notices" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -18,10 +18,10 @@ collections:
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "feature_image", widget: "image"}
-      - {label: "Categories", name: "categories", widget: "list", default: ["Nav News"]}
+      - {label: "Categories", name: "categories", widget: "list", default: ["Notices"]}
       - {label: "Body", name: "body", widget: "markdown", buttons: ["bold", "italic", "link", "image", "code", "heading-two", "quote", "bulleted-list", "numbered-list"]}
   - name: "navcoin-pips" # Used in routes, e.g., /admin/collections/blog
-    label: "Protocol Improvement Proposals" # Used in the UI
+    label: "NavCoin PIP" # Used in the UI
     folder: "content/navcoin-pips" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -31,5 +31,5 @@ collections:
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "feature_image", widget: "image"}
-      - {label: "Categories", name: "categories", widget: "list", default: ["Nav News"]}
+      - {label: "Categories", name: "categories", widget: "list", default: ["NavCoin PIPs"]}
       - {label: "Body", name: "body", widget: "markdown", buttons: ["bold", "italic", "link", "image", "code", "heading-two", "quote", "bulleted-list", "numbered-list"]}
