@@ -57,8 +57,13 @@ fields:
   type: boolean
   hidden: false
   default: true
-- name: post_type
-  label: Post Type
-  type: text
+- name: pip
+  label: PIP
+  type: boolean
   hidden: true
-  default: ''
+  default: false
+- name: notice
+  label: Notice
+  type: boolean
+  hidden: true
+  default: false
