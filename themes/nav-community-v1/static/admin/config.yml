@@ -28,7 +28,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "news"}
-      - {label: "Post Type", name: "post_type", widget: "hidden", default: "PIP"}
+      - {label: "Post Type", name: "post_type", widget: "hidden", default: "pip"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
