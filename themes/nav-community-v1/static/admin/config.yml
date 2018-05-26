@@ -8,7 +8,7 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 
 collections:
   - name: "notices" # Used in routes, e.g., /admin/collections/blog
-    label: "Notice" # Used in the UI
+    label: "Notices" # Used in the UI
     folder: "content/notices" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -21,7 +21,7 @@ collections:
       - {label: "Categories", name: "categories", widget: "list", default: ["Notices"]}
       - {label: "Body", name: "body", widget: "markdown", buttons: ["bold", "italic", "link", "image", "code", "heading-two", "quote", "bulleted-list", "numbered-list"]}
   - name: "navcoin-pips" # Used in routes, e.g., /admin/collections/blog
-    label: "NavCoin PIP" # Used in the UI
+    label: "NavCoin PIPs" # Used in the UI
     folder: "content/navcoin-pips" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
