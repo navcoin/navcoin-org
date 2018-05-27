@@ -1642,7 +1642,7 @@ a.themeix-tool .fa {
    ========================================== */
 
 .page-header-bg {
-    background: url(../images/blog-image/header-bg.jpg);
+    background-color: #42b6eb;
     background-size: cover;
     background-position: 50% 14px;
     width: 100%;
@@ -1651,8 +1651,7 @@ a.themeix-tool .fa {
     background-position: top center;
 }
 .page-header-bg {
-    padding-top: 110px;
-    padding-bottom: 72px;
+    padding: 20px 0;
     color: #FFFFFF;
 }
 ul.page-list {
@@ -3530,4 +3529,9 @@ body > p {
   list-style: decimal;
   padding-left: 40px;
   margin: 20px 0;
+}
+
+.news-content h2 {
+  font-size: 21px;
+  font-weight: bold;
 }

@@ -46,6 +46,26 @@ twitter_username = "navcoin"
     identifier = "about-NavCoin"
 
 [[menu.main]]
+    name = "Protocol"
+    title = "Protocol"
+    weight = 1
+    identifier = "protocol"
+    [[menu.main]]
+        name = "Notices"
+        title = "Notices"
+        weight = 2
+        url = "/notices/"
+        identifier = "notices"
+        parent = "protocol"
+    [[menu.main]]
+        name = "Proposals"
+        title = "Proposals"
+        weight = 3
+        url = "/navcoin-pips/"
+        identifier = "navcoin-pips"
+        parent = "protocol"
+
+[[menu.main]]
     name = "Learn"
     title = "Learn"
     weight = 2
