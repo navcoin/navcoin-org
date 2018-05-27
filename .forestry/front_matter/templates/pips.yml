@@ -17,11 +17,11 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: description
-  label: Description
-  type: text
+- name: show_title_text
+  label: Show title text
+  type: boolean
   hidden: false
-  default: ''
+  default: false
 - name: pip_categories
   label: Categories
   type: tag_list
