@@ -7,8 +7,7 @@ date: '2018-05-27T20:43:34+12:00'
 pip_categories:
   - New Proposals
 ---
-Vestibulum a ex fringilla, dignissim dolor eget, scelerisque quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed molestie tortor quis augue aliquet ornare. Suspendisse lacinia, magna molestie placerat scelerisque, diam neque venenatis odio, nec elementum mi arcu eget risus. 
-
+Vestibulum a ex fringilla, dignissim dolor eget, scelerisque quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed molestie tortor quis augue aliquet ornare. Suspendisse lacinia, magna molestie placerat scelerisque, diam neque venenatis odio, nec elementum mi arcu eget risus.
 <!--more-->
 
 Nullam urna augue, tincidunt quis magna in, eleifend faucibus turpis. Nullam eros velit, venenatis non lectus non, bibendum lacinia ipsum. Aliquam consectetur quis nisl quis rhoncus. Maecenas posuere convallis dui, at efficitur ipsum sollicitudin maximus. Vestibulum in neque ante. Mauris tristique dapibus odio a pretium. Donec ut elit sollicitudin, pretium neque ut, dapibus urna. Fusce vestibulum, leo sed dictum porta, urna diam varius dolor, in condimentum lacus sapien nec tellus. Etiam accumsan felis odio, id egestas mauris aliquet eu.
