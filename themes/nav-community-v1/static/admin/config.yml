@@ -32,6 +32,5 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "feature_image", widget: "image"}
       - {label: "Categories", name: "categories", widget: "list", default: ["New Proposals"]}
       - {label: "Body", name: "body", widget: "markdown", buttons: ["bold", "italic", "link", "image", "code", "heading-two", "quote", "bulleted-list", "numbered-list"]}
