@@ -9,7 +9,6 @@ categories:
   - Release Candidates
 ---
 The NavCoin Core developers have enacted a policy to create a release candidate and publicly notify all interested parties of any important updates prior to merging the changes into the master branch. This release schedule will be formalised into a process document to be published on the NavCoin.org website in the near future as reference.
-
 <!--more-->
 
 The NavCoin Core developers have enacted a policy to create a release candidate and publicly notify all interested parties of any important updates prior to merging the changes into the master branch. This release schedule will be formalised into a process document to be published on the NavCoin.org website in the near future as reference.
