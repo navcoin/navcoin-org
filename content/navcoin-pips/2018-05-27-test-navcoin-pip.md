@@ -1,5 +1,5 @@
 ---
-layout: pips
+layout: navcoin-pips
 title: Test NavCoin PIP
 pip_number: '002'
 author: Craig MacGregor
