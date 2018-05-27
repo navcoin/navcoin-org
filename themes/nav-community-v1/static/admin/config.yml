@@ -13,8 +13,7 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "news"}
-      - {label: "Notice", name: "notice", widget: "hidden", default: true}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "notices"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
@@ -27,8 +26,7 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "news"}
-      - {label: "PIP", name: "pip", widget: "hidden", default: true}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "pips"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "PIP Number", name: "pip_number", widget: "number"}
       - {label: "Author", name: "author", widget: "string"}
