@@ -53,7 +53,7 @@
                 <div class="sidebar">
                     <div class="widget">
                         <h3 class="widget-title">Notice Categories</h3>
-                        {{ if Site.Taxonomies.notice_categories }}
+                        {{ if .Site.Taxonomies.notice_categories }}
                         <ul>
                           {{ range first 10 .Site.Taxonomies.notice_categories.ByCount }}
                             {{ $filter := replace .Name "-" " " }}
