@@ -17,7 +17,7 @@
             {{ range $index, $element := .Data.Pages }}
               <div class="blog-item">
                   <div class="blog-details">
-                              <h3 style="margin-top: 0"><a href="{{ .URL }}">PIP{{ printf "%03d" .Params.pip_number }} - {{ .Title }}</a></h3>
+                              <h3 style="margin-top: 0"><a href="{{ .URL }}">PIP{{ .Params.pip_number }} - {{ .Title }}</a></h3>
                               <ul class="blog-author-name">
                                   <li><i class="fa fa-user-o"></i>{{ .Params.author }}</li>
                                   {{ range .Params.pip_categories }}

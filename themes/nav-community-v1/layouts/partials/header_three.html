@@ -32,7 +32,7 @@
         <div class="col-md-12">
           <div class="page-header-title">
             {{ if .Params.pip_number }}
-              <h2>PIP{{ printf "%03d" .Params.pip_number }} - {{ .Title }}</h2>
+              <h2>PIP{{ .Params.pip_number }} - {{ .Title }}</h2>
             {{ else }}
               <h2>PIP Category - {{ .Title }}</h2>
             {{ end }}
