@@ -22,7 +22,7 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: categories
+- name: pip_categories
   label: Categories
   type: tag_list
   hidden: false
@@ -37,33 +37,13 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: feature_image
-  label: Feature image
-  type: file
-  hidden: false
-  default: ''
-- name: show_title_text
-  label: Show title text
-  type: boolean
-  hidden: false
-  default: false
 - name: type
   label: Type
   type: text
   hidden: false
-  default: news
+  default: pips
 - name: draft
   label: Draft
   type: boolean
   hidden: false
   default: true
-- name: pip
-  label: PIP
-  type: boolean
-  hidden: true
-  default: false
-- name: notice
-  label: Notice
-  type: boolean
-  hidden: true
-  default: false

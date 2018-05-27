@@ -5,6 +5,8 @@
 
 <body data-spy="scroll" data-target="#header-menu">
 
+  {{ partial "header.html" .  }}
+
   {{ partial "header_two.html" .  }}
 
 <div class="appiex-blog-content section-ptb-2">
@@ -54,19 +56,22 @@
             <div class="col-md-3 col-sm-12 col-md-offset-1">
                 <div class="sidebar">
                     <div class="widget">
-                        <h3 class="widget-title">Topics Category</h3>
+                        <h3 class="widget-title">Notice Categories</h3>
                         <ul>
-                            {{ range first 10 .Site.Taxonomies.categories.ByCount }}
-                                <li class="cat-item" ><a href="/categories/{{ .Name | urlize }}">{{ .Name }}</a> </li>
+                            {{ range first 10 .Site.Taxonomies.notice_categories.ByCount }}
+                              {{ $filter := replace .Name "-" " " }}
+                                <li class="cat-item" ><a href="/notice_categories/{{ .Name | urlize }}">{{ $filter }}</a> </li>
                             {{ end }}
                         </ul>
                     </div>
                     <div class="widget custom recent-posts">
-                        <h3 class="widget-title">Recent Posts</h3>
+                        <h3 class="widget-title">Recent Notices</h3>
                         <ul>
                             {{ range .Site.Pages }}
-                                {{if (eq .Type "news") }}
+                                {{if (eq .Type "notices") }}
+                                  {{ if (ne .Title "Notices")}}
                                     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                                  {{ end }}
                                 {{ end }}
                             {{ end }}
                         </ul>

@@ -5,9 +5,7 @@
 
 <body data-spy="scroll" data-target="#header-menu">
 
-  {{ partial "header.html" .  }}
-
-  {{ partial "notices_header.html" .  }}
+  {{ partial "header_two.html" .  }}
 
 <div class="appix-blog-content section-ptb-2">
     <div class="container">
@@ -56,7 +54,7 @@
                         <ul>
                           {{ range first 10 .Site.Taxonomies.notice_categories.ByCount }}
                             {{ $filter := replace .Name "-" " " }}
-                              <li class="cat-item" ><a href="/notice_categories/{{ .Name | urlize }}">{{ $filter }}</a> </li>
+                              <li class="cat-item" ><a href="/notice-categories/{{ .Name | urlize }}">{{ $filter }}</a> </li>
                           {{ end }}
                         </ul>
                     </div>

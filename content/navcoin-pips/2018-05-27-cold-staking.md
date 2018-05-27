@@ -1,12 +1,15 @@
 ---
-layout: news
-pip: true
+layout: navcoin-pips
 title: Cold Staking
 author: Alex Vazquez
 date: '2018-05-27T13:44:40+12:00'
-categories:
+pip_categories:
   - Work in Progress
+pip_number: 1
+
 ---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo vitae felis ut fermentum. Quisque faucibus lacus eget ante pellentesque tempus. Vestibulum in tempor leo, a feugiat nulla. Phasellus sit amet mauris quis turpis venenatis venenatis nec et augue. Integer fermentum dolor ac quam condimentum, sit amet maximus mi auctor. Ut bibendum augue consequat massa porttitor, non ultricies nunc porttitor. Donec vitae tempor sem, ut condimentum felis. Vestibulum quis posuere risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla hendrerit lacinia consectetur. Sed tellus felis, mattis sed finibus at, imperdiet quis mi. Donec molestie tempor erat. Suspendisse commodo sem vitae orci aliquet, at accumsan purus luctus. Pellentesque congue mattis ultricies. Nam in purus sed purus convallis vulputate. Duis faucibus viverra justo, nec porta mauris.
+<!--more-->
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo vitae felis ut fermentum. Quisque faucibus lacus eget ante pellentesque tempus. Vestibulum in tempor leo, a feugiat nulla. Phasellus sit amet mauris quis turpis venenatis venenatis nec et augue. Integer fermentum dolor ac quam condimentum, sit amet maximus mi auctor. Ut bibendum augue consequat massa porttitor, non ultricies nunc porttitor. Donec vitae tempor sem, ut condimentum felis. Vestibulum quis posuere risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla hendrerit lacinia consectetur. Sed tellus felis, mattis sed finibus at, imperdiet quis mi. Donec molestie tempor erat. Suspendisse commodo sem vitae orci aliquet, at accumsan purus luctus. Pellentesque congue mattis ultricies. Nam in purus sed purus convallis vulputate. Duis faucibus viverra justo, nec porta mauris.
 
 Suspendisse vehicula a felis non viverra. Morbi maximus, tortor eu molestie lobortis, nisi sem euismod diam, vel tempus elit leo vitae ex. Fusce elementum vitae nisi ullamcorper aliquam. Maecenas dignissim iaculis nunc. Sed eget ligula a purus porttitor faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum et nisl lectus. Duis pretium, risus eget tempor sagittis, leo orci pellentesque metus, nec semper libero velit et turpis. Quisque sollicitudin ac mi vel porttitor. Duis a magna gravida, dapibus diam vitae, dapibus lectus. Pellentesque pharetra lorem nec gravida interdum. Nunc tincidunt eros nec ex ultricies, sed lacinia ex lobortis. In id bibendum nisl, id sollicitudin nulla. Phasellus egestas elit est, ac imperdiet justo feugiat et.
