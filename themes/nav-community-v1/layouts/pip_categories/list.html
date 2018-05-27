@@ -45,7 +45,7 @@
                         <ul>
                           {{ range first 10 .Site.Taxonomies.pip_categories.ByCount }}
                             {{ $filter := replace .Name "-" " " }}
-                              <li class="cat-item" ><a href="/notice-categories/{{ .Name | urlize }}">{{ $filter }}</a> </li>
+                              <li class="cat-item" ><a href="/pip-categories/{{ .Name | urlize }}">{{ $filter }}</a> </li>
                           {{ end }}
                         </ul>
                         {{ end }}
