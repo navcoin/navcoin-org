@@ -13,13 +13,12 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "news"}
-      - {label: "Notice", name: "notice", widget: "hidden", default: true}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "notices"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "feature_image", widget: "image"}
-      - {label: "Categories", name: "categories", widget: "list", default: ["General Notices"]}
+      - {label: "Notice Categories", name: "notice_categories", widget: "list", default: ["General Notices"]}
       - {label: "Body", name: "body", widget: "markdown", buttons: ["bold", "italic", "link", "image", "code", "heading-two", "quote", "bulleted-list", "numbered-list"]}
   - name: "navcoin-pips" # Used in routes, e.g., /admin/collections/blog
     label: "NavCoin PIPs" # Used in the UI
@@ -27,10 +26,10 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "news"}
-      - {label: "PIP", name: "pip", widget: "hidden", default: true}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "pips"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "PIP Number", name: "pip_number", widget: "number"}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Categories", name: "categories", widget: "list", default: ["New Proposals"]}
+      - {label: "PIP Categories", name: "pip_categories", widget: "list", default: ["New Proposals"]}
       - {label: "Body", name: "body", widget: "markdown", buttons: ["bold", "italic", "link", "image", "code", "heading-two", "quote", "bulleted-list", "numbered-list"]}

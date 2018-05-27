@@ -5,7 +5,9 @@
 
 <body data-spy="scroll" data-target="#header-menu">
 
-  {{ partial "header_two.html" .  }}
+  {{ partial "header.html" .  }}
+
+  {{ partial "header_three.html" . }}
 
 <div class="appiex-blog-content section-ptb-2">
     <div class="container">
@@ -19,17 +21,17 @@
                               <i class="fa fa-user-o"></i> {{.Params.author}}
                           </div>
                           {{end}}
+
                           <div class="blog-author">
-                              <i class="fa fa-calendar"></i>
-                              {{ dateFormat "2 Jan 2006" .Params.date }}
+                            {{ range .Params.pip_categories }}
+                            <i class="fa fa-folder-open-o"></i>{{.}}
+                            {{end}}
                           </div>
                       </div>
                       {{ template "theme/partials/social_share.html" . }}
                   </div>
                   <div class="clearfix"></div>
-                    <div class="details-img"><img alt="{{.Params.title}}" src="{{ .Params.feature_image }}"></div>
                     <div class="blog-details">
-                            <h3 class="blog-title">{{.Title}}</h3>
                             <div class="news-content">
                                 {{ .Content }}
                             </div>
@@ -41,8 +43,9 @@
                                 </div>
                                 {{end}}
                                 <div class="blog-author">
-                                    <i class="fa fa-calendar"></i>
-                                    {{ dateFormat "2 Jan 2006" .Params.date }}
+                                  {{ range .Params.pip_categories }}
+                                  <i class="fa fa-folder-open-o"></i>{{.}}
+                                  {{end}}
                                 </div>
                             </div>
                             {{ template "theme/partials/social_share.html" . }}
@@ -54,19 +57,22 @@
             <div class="col-md-3 col-sm-12 col-md-offset-1">
                 <div class="sidebar">
                     <div class="widget">
-                        <h3 class="widget-title">Topics Category</h3>
+                        <h3 class="widget-title">PIP Categories</h3>
                         <ul>
-                            {{ range first 10 .Site.Taxonomies.categories.ByCount }}
-                                <li class="cat-item" ><a href="/categories/{{ .Name | urlize }}">{{ .Name }}</a> </li>
-                            {{ end }}
+                          {{ range first 10 .Site.Taxonomies.pip_categories.ByCount }}
+                            {{ $filter := replace .Name "-" " " }}
+                              <li class="cat-item" ><a href="/pip_categories/{{ .Name | urlize }}">{{ $filter }}</a> </li>
+                          {{ end }}
                         </ul>
                     </div>
                     <div class="widget custom recent-posts">
-                        <h3 class="widget-title">Recent Posts</h3>
+                        <h3 class="widget-title">Recent PIPs</h3>
                         <ul>
                             {{ range .Site.Pages }}
-                                {{if (eq .Type "news") }}
+                                {{if (eq .Type "navcoin-pips") }}
+                                  {{if (ne .Title "Navcoin-pips")}}
                                     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                                  {{ end }}
                                 {{ end }}
                             {{ end }}
                         </ul>

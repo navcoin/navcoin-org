@@ -20,6 +20,10 @@ languageName = "Français"
 
 twitter_username = "navcoin"
 
+[taxonomies]
+  pip_category = "pip_categories"
+  notice_category = "notice_categories"
+
 
 #linkedin = "english-link"
 #

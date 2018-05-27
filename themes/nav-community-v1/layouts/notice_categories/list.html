@@ -5,9 +5,7 @@
 
 <body data-spy="scroll" data-target="#header-menu">
 
-  {{ partial "header.html" .  }}
-
-  {{ partial "notices_header.html" .  }}
+  {{ partial "header_two.html" .  }}
 
 <div class="appix-blog-content section-ptb-2">
     <div class="container">
@@ -25,10 +23,12 @@
                               <h3><a href="{{ .URL }}">{{ .Title }}</a></h3>
                               <ul class="blog-author-name">
                                   <li><i class="fa fa-user-o"></i>{{ .Params.author }}</li>
+                                  {{ if .Params.date }}
                                   <li>
                                       <i class="fa fa-calendar"></i>
                                       {{ dateFormat "2 Jan 2006" .Params.date }}
                                   </li>
+                                  {{ end }}
                               </ul>
                               <ul class="blog-author-name">
                                   {{ range .Params.categories }}
@@ -53,12 +53,14 @@
                 <div class="sidebar">
                     <div class="widget">
                         <h3 class="widget-title">Notice Categories</h3>
+                        {{ if .Site.Taxonomies.notice_categories }}
                         <ul>
                           {{ range first 10 .Site.Taxonomies.notice_categories.ByCount }}
                             {{ $filter := replace .Name "-" " " }}
-                              <li class="cat-item" ><a href="/notice_categories/{{ .Name | urlize }}">{{ $filter }}</a> </li>
+                              <li class="cat-item" ><a href="/notice-categories/{{ .Name | urlize }}">{{ $filter }}</a> </li>
                           {{ end }}
                         </ul>
+                        {{ end }}
                     </div>
                     <div class="widget custom recent-posts">
                         <h3 class="widget-title">Recent Notices</h3>
