@@ -41,12 +41,14 @@
                 <div class="sidebar">
                     <div class="widget">
                         <h3 class="widget-title">PIP Categories</h3>
+                        {{ if .Site.Taxonomies.pip_categories }}
                         <ul>
                           {{ range first 10 .Site.Taxonomies.pip_categories.ByCount }}
                             {{ $filter := replace .Name "-" " " }}
                               <li class="cat-item" ><a href="/notice-categories/{{ .Name | urlize }}">{{ $filter }}</a> </li>
                           {{ end }}
                         </ul>
+                        {{ end }}
                     </div>
                     <div class="widget custom recent-posts">
                         <h3 class="widget-title">Recent PIPs</h3>
