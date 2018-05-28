@@ -31,14 +31,14 @@
       <div class="row">
         <div class="col-md-12">
           <div class="page-header-title">
-            {{ if .Params.pip_number }}
-              <h2>PIP{{ .Params.pip_number }} - {{ .Title }}</h2>
+            {{ if .Params.npip_number }}
+              <h2>NPIP{{ .Params.npip_number }} - {{ .Title }}</h2>
             {{ else }}
-              <h2>PIP Category - {{ .Title }}</h2>
+              <h2>NPIP Category - {{ .Title }}</h2>
             {{ end }}
             <ul class="page-list">
               <li><a href="/">Home</a></li>
-              <li><a href="/navcoin-pips">NavCoin PIPs</a></li>
+              <li><a href="/npips">NPIPs</a></li>
               {{ if $lastUrlElement }}
               <li style="text-transform: capitalize;">{{ $filter }}</li>
               {{ end }}

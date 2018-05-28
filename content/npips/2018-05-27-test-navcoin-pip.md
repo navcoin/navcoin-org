@@ -1,10 +1,10 @@
 ---
-layout: navcoin-pips
-title: Test NavCoin PIP
-pip_number: '002'
+layout: npips
+title: Test NavCoin NPIP
+npip_number: '002'
 author: Craig MacGregor
 date: '2018-05-27T20:43:34+12:00'
-pip_categories:
+npip_categories:
   - New Proposals
 ---
 Vestibulum a ex fringilla, dignissim dolor eget, scelerisque quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed molestie tortor quis augue aliquet ornare. Suspendisse lacinia, magna molestie placerat scelerisque, diam neque venenatis odio, nec elementum mi arcu eget risus.

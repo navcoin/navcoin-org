@@ -23,7 +23,7 @@
                           {{end}}
 
                           <div class="blog-author">
-                            {{ range .Params.pip_categories }}
+                            {{ range .Params.npip_categories }}
                             <i class="fa fa-folder-open-o"></i>{{.}}
                             {{end}}
                           </div>
@@ -43,7 +43,7 @@
                                 </div>
                                 {{end}}
                                 <div class="blog-author">
-                                  {{ range .Params.pip_categories }}
+                                  {{ range .Params.npip_categories }}
                                   <i class="fa fa-folder-open-o"></i>{{.}}
                                   {{end}}
                                 </div>
@@ -57,20 +57,20 @@
             <div class="col-md-3 col-sm-12 col-md-offset-1">
                 <div class="sidebar">
                     <div class="widget">
-                        <h3 class="widget-title">PIP Categories</h3>
+                        <h3 class="widget-title">NPIP Categories</h3>
                         <ul>
-                          {{ range first 10 .Site.Taxonomies.pip_categories.ByCount }}
+                          {{ range first 10 .Site.Taxonomies.npip_categories.ByCount }}
                             {{ $filter := replace .Name "-" " " }}
-                              <li class="cat-item" ><a href="/pip_categories/{{ .Name | urlize }}">{{ $filter }}</a> </li>
+                              <li class="cat-item" ><a href="/npip_categories/{{ .Name | urlize }}">{{ $filter }}</a> </li>
                           {{ end }}
                         </ul>
                     </div>
                     <div class="widget custom recent-posts">
-                        <h3 class="widget-title">Recent PIPs</h3>
+                        <h3 class="widget-title">Recent NPIPs</h3>
                         <ul>
                             {{ range .Site.Pages }}
-                                {{if (eq .Type "navcoin-pips") }}
-                                  {{if (ne .Title "Navcoin-pips")}}
+                                {{if (eq .Type "npips") }}
+                                  {{if (ne .Title "Npips")}}
                                     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
                                   {{ end }}
                                 {{ end }}

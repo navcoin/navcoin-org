@@ -21,7 +21,7 @@ languageName = "Français"
 twitter_username = "navcoin"
 
 [taxonomies]
-  pip_category = "pip_categories"
+  npip_category = "npip_categories"
   notice_category = "notice_categories"
 
 
@@ -65,8 +65,8 @@ twitter_username = "navcoin"
         name = "Proposals"
         title = "Proposals"
         weight = 3
-        url = "/navcoin-pips/"
-        identifier = "navcoin-pips"
+        url = "/npips/"
+        identifier = "npips"
         parent = "protocol"
 
 [[menu.main]]
