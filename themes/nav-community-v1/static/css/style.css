@@ -3568,3 +3568,8 @@ body > p {
   font-size: 21px;
   font-weight: bold;
 }
+
+.news-content h3 {
+  font-size: 18px;
+  font-weight: bold;
+}
