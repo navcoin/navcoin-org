@@ -1,6 +1,6 @@
 ---
 layout: notices
-title: Navcoin Core 4.2.0 Release Candidate
+title: NavCoin Core 4.2.0 Release Candidate
 author: Craig MacGregor
 date: '2018-05-27T12:46:15+12:00'
 feature_image: /images/uploads/4.2.0-rc-hero.png
