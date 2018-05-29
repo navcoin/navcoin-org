@@ -61,13 +61,6 @@ twitter_username = "navcoin"
         url = "/notices/"
         identifier = "notices"
         parent = "protocol"
-    [[menu.main]]
-        name = "Proposals"
-        title = "Proposals"
-        weight = 3
-        url = "/npips/"
-        identifier = "npips"
-        parent = "protocol"
 
 [[menu.main]]
     name = "Learn"
