@@ -56,7 +56,7 @@ draft: false
     imgHeight="295px"
     imgPadding="44px"
     btn1Txt="Download your Wallet"
-    btn1Link="https://navcoin.org/downloads/">}}
+    btn1Link="https://www.navcoin.org/downloads/">}}
     <p>The NavCoin Core wallet has been carefully refined to be intuitive and easy to use. It comes with a setup wizard and everything you need to load the blockchain and start sending transactions in a secure environment.</p>
 {{< /left_image_section >}}
 {{< home_links_section
