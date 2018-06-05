@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: craigmacgregor/navcoin-org
+  repo: NavCoin/navcoin-org
   branch: master # Branch to update
 publish_mode: editorial_workflow
 media_folder: "themes/nav-community-v1/static/images/uploads" # Media files will be stored in the repo under static/images/uploads

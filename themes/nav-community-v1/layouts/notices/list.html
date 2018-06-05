@@ -36,7 +36,11 @@
                                   {{end}}
                               </ul>
                               <div class="blog-excerpt">
+                                {{ if .Summary }}
                                   {{.Summary}}
+                                {{ else }}
+                                  {{.Content}}
+                                {{ end }}
                               </div>
                               <div class="read-more">
                                   <div class="themeix-button-group">
