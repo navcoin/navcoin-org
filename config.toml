@@ -20,6 +20,10 @@ languageName = "Français"
 
 twitter_username = "navcoin"
 
+[taxonomies]
+  npip_category = "npip_categories"
+  notice_category = "notice_categories"
+
 
 #linkedin = "english-link"
 #
@@ -44,6 +48,19 @@ twitter_username = "navcoin"
     weight = 1
     url = "/about-navcoin/"
     identifier = "about-NavCoin"
+
+[[menu.main]]
+    name = "Protocol"
+    title = "Protocol"
+    weight = 1
+    identifier = "protocol"
+    [[menu.main]]
+        name = "Notices"
+        title = "Notices"
+        weight = 2
+        url = "/notices/"
+        identifier = "notices"
+        parent = "protocol"
 
 [[menu.main]]
     name = "Learn"

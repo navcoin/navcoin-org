@@ -1641,8 +1641,41 @@ a.themeix-tool .fa {
            19. Page Header Background (All)
    ========================================== */
 
+.categories-header {
+  background-color: #FAFAFA;
+  color: #7a7a7a;
+  background-size: cover;
+  background-position: 50% 14px;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  background-position: top center;
+  padding: 20px 0;
+}
+
+.categories-header.blue {
+  background-color: #42b6eb;
+  color: #FFF;
+}
+
+.categories-header.blue li, .categories-header.blue li a {
+  color: #FFF;
+}
+
+.categories-header.purple {
+  background-color: #7d5ab5;
+  color: #FFF;
+}
+
+.categories-header.purple li, .categories-header.purple li a {
+  color: #FFF;
+}
+
+
 .page-header-bg {
-    background: url(../images/blog-image/header-bg.jpg);
+    background-color: #FAFAFA;
+    border-bottom: 1px solid #CCC;
+    color: #7a7a7a;
     background-size: cover;
     background-position: 50% 14px;
     width: 100%;
@@ -1651,8 +1684,7 @@ a.themeix-tool .fa {
     background-position: top center;
 }
 .page-header-bg {
-    padding-top: 110px;
-    padding-bottom: 72px;
+    padding: 10px 0;
     color: #FFFFFF;
 }
 ul.page-list {
@@ -1662,7 +1694,7 @@ ul.page-list {
 }
 ul.page-list li {
     display: inline-block;
-    color: #e1e2e2;
+    color: #7a7a7a;
 }
 ul.page-list li + li::before {
     font-family: 'FontAwesome';
@@ -1670,7 +1702,7 @@ ul.page-list li + li::before {
     padding: 0px 8px;
 }
 ul.page-list li a {
-    color: #FFFFFF;
+    color: #7a7a7a;
 }
 /* ==========================================
            20. Blog
@@ -1739,7 +1771,7 @@ ul.page-list li a {
     opacity: 1;
 }
 .blog-details {
-    min-height: 275px;
+    min-height: 240px;
 }
 .blog-details h3 a {
     font-size:21px;
@@ -1899,7 +1931,7 @@ a {
 .share-icon {
     float: right;
     position: absolute;
-    bottom: 0;
+    bottom: 10px;
     right: 0;
 }
 .blog-navigation {
@@ -3530,4 +3562,14 @@ body > p {
   list-style: decimal;
   padding-left: 40px;
   margin: 20px 0;
+}
+
+.news-content h2 {
+  font-size: 21px;
+  font-weight: bold;
+}
+
+.news-content h3 {
+  font-size: 18px;
+  font-weight: bold;
 }
