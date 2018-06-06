@@ -8,6 +8,7 @@ notice_categories:
   - NavPi
 ---
 NavCoin Core 4.2.0 was released today which includes the NTP server check to make sure every device has their system clock synced correctly when minting blocks. An unforeseen issue has been found when updating the NavPi using the updater script.
+
 <!--more-->
 
 ## The Bug
@@ -39,3 +40,7 @@ This issue only effects users who are automatically starting their NavCoin daemo
 If you're unsure what to do, please join the community on Discord for further assistance.
 
 <https://discord.gg/y4Vu9jw>
+
+## TL:DR
++ There is a minor bug that only affects NavPi users.
++ Please ignore the notification saying to update, and wait for the 4.2.1 patch which should be available in the next few days.
