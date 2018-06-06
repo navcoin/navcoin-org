@@ -9,6 +9,8 @@ notice_categories:
 ---
 NavCoin Core 4.2.0 was released today which includes the NTP server check to make sure every device has their system clock synced correctly when minting blocks. An unforeseen issue has been found when updating the NavPi using the updater script.
 
+<!--more-->
+
 ## The Bug
 
 The NavPi uses a cron job to start the NavCoin daemon on reboot. When the device first boots the network port for the NTP server check is unavailable. This causes the NavCoin daemon to exit and the NavPi interface will report that it can not connect to the NavCoin daemon.
