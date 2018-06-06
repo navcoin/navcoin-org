@@ -20,7 +20,7 @@ We have removed the specific daemon for the NavPi from the GitHub release. This 
 
 If you're running the NavPi and the updater has triggered, you will see the notice saying there is a new version available. It will prompt you to reboot your device to install the new version.
 
-** You can ignore this notice and your NavPi device should continue to stake. **
+**You can ignore this notice and your NavPi device should continue to stake.**
 
 Alternatively, you can reboot your device at this point to dismiss the notice. When you reboot you will get a error message saying that the update was not applied.
 
