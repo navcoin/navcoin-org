@@ -18,9 +18,9 @@ The issue preventing NavPi users from successfully upgrading to 4.2.0 has now be
 
 https://github.com/NAVCoin/navcoin-core/releases/tag/4.2.1
 
-Your NavPi should auto update to the latest version within 24 hours. Or if you want to manually update, check the knowledge base article here:
+Your NavPi should auto update to the latest version within 24 hours at which point you need to login and restart the device. Or if you want to manually update, check the knowledge base article here:
 
-https://info.navcoin.org/knowledge-base/how-to-update-the-navpi/
+https://info.navcoin.org/knowledge-base/how-to-update-the-navpi
 
 If you have any problems updating please join the community on discord for further assistance.
 
