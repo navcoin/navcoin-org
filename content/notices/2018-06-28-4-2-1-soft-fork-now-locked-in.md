@@ -12,7 +12,7 @@ The soft forks in version 4.2.1 have now achieved lock in with an 82% approval, 
 
 ## Community Fund Accumulation
 
-Staking rewards will be reduced to 4% per annum and 0.25 NAV will be burned every block to the Community Fund. This fund will accrue approximately 250,000 NAV per year to be used as the NavCoin Network sees appropriate. This accumulation will begin at block 2237760 and a subsequent soft fork will be voted on to implement the proposal mechanism once testing is complete.
+Staking rewards will be reduced to 4% per annum and 0.25 NAV will be burned every block to the Community Fund. This fund will accrue approximately 250,000 NAV per year to be used as the NavCoin Network sees appropriate. This accumulation will begin at block 2237760.
 
 The Community Fund isn't a regular wallet address, it has no private key and no one is able to directly control the funds. The funds can only be accessed by a two step network vote which will be implemented in a subsequent soft fork once the testing is completed. For more information on the NavCoin Community Fund see the NavHub.
 
