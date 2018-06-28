@@ -8,6 +8,7 @@ notice_categories:
   - Mandatory Update
 ---
 The soft forks in version 4.2.1 have now achieved lock in with an 82% approval, and will soon activate two changes to NavCoin's consensus mechanism. All users are required to update to 4.2.1 by block 2237760 to remain connected to the network.
+<!--more-->
 
 ## Community Fund Accumulation
 
