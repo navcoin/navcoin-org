@@ -20,7 +20,7 @@ The Community Fund isn't a regular wallet address, it has no private key and no 
 
 ## NTP Sync
 
-To prevent network instability caused by inaccurate system clocks each network node will be required to sync their clock global NTP servers. If the system clock is unable to sync with an NTP server the NavCoin daemon will not connect to the network. The threshold for minting blocks with incorrect timestamps has also been reduced to a two minute window. The network will reject blocks with a greater variance than this threshold.
+To prevent network instability caused by inaccurate system clocks each network node will be required to sync their clock using global NTP servers. If the system clock is unable to sync with an NTP server the NavCoin daemon will not connect to the network. The threshold for minting blocks with incorrect timestamps has also been reduced to a two minute window. The network will reject blocks with a greater variance than this threshold.
 
 ### TL;DR 
 
