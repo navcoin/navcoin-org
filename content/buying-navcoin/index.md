@@ -99,7 +99,15 @@ type: "default"
     feature1Img="/images/service/godex.png"
     feature1Title="Godex"
     feature1Txt="Decentralised Exchange"
-    feature1Link="https://godex.io/">}}
+    feature1Link="https://godex.io/"
+    feature2Img="/images/service/easy-crypto.jpg"
+    feature2Title="Easy Crypto"
+    feature2Txt="NZD Direct Purchase"
+    feature2Link="https://www.easycrypto.nz"
+    feature3Img="/images/service/bitprime.jpg"
+    feature3Title="BitPrime"
+    feature3Txt="NZD Direct Buy/Sell"
+    feature3Link="https://www.bitprime.co.nz/product/navcoin-nav">}}
 {{< links_section
     title="NavCoin Communities"
     subtitle="If you’re unsure which exchange to use or how they work, talk to one of the many helpful NavCoin community members through these channels."
