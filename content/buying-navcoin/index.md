@@ -108,6 +108,21 @@ type: "default"
     feature3Title="BitPrime"
     feature3Txt="NZD Direct Buy/Sell"
     feature3Link="https://www.bitprime.co.nz/product/navcoin-nav">}}
+{{< box_links_section
+    dropShadow="true"
+    subtitleFontColor="#fff"
+    featureTitleFontColor="#fff"
+    featureTitleBgColor="#523971"
+    txtFontColor="#555"
+    bgColor="#fff"
+    linkBgColor="#523971"
+    containerPadding="0 0 70px 0"
+    titleMargin="0"
+    gradient="false"
+    feature1Img="/images/service/change-now.jpg"
+    feature1Title="Change NOW"
+    feature1Txt="Instant Exchange"
+    feature1Link="https://changenow.io/">}}
 {{< links_section
     title="NavCoin Communities"
     subtitle="If you’re unsure which exchange to use or how they work, talk to one of the many helpful NavCoin community members through these channels."
