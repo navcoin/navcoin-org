@@ -1,7 +1,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>NavCoin - An Easy To Use Decentralised Cryptocurrency</title>
+    <title>{{ if .Title }} {{.Title}} | {{ end }}{{ .Site.Title }}</title>
     <meta name="author" content="NavCoin">
     <meta name="description" content="NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of NavCoin is carried out collectively by the network. NavCoin is open-source; its design is public, nobody owns or controls NavCoin and everyone can take part.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -17,7 +17,6 @@
     <!-- favi icon -->
     <link rel="shortcut icon" href="/images/favicon-1.png">
     <!-- Site Title -->
-    <title>{{ .Title }}</title>
 
     <!-- google font -->
     <link href="https://fonts.googleapis.com/css?family=Patua+One|Raleway|Roboto|Source+Sans+Pro" rel="stylesheet">
