@@ -113,7 +113,7 @@ description: ""
     feature3Img="/images/circle-icons/nav_purple-decentralized.png"
     feature3Title="Web v1.01"
             feature3Link="https://paper.navcoin.org">}}
-{{< box_links_section
+{{< box_links_section_two
     title="NavPi"
     subtitle="This software turns your Raspberry Pi into a low cost and convenient way to help maintain the network."
     featureTitleBgColor="#523971"
@@ -129,15 +129,11 @@ description: ""
     feature1Img="/images/circle-icons/nav_purple-pi.png"
     feature1Title="NavPi v1.0.9"
     feature1Link="https://nav.nyc3.digitaloceanspaces.com/navpi/navpi_1.0.9.torrent"
-    feature1ExtraSubtitle="Torrent Magnet"
+    feature1ExtraSubtitle="Torrent File"
     feature2Img="/images/circle-icons/nav_purple-pi.png"
     feature2Title="NavPi v1.0.9"
-    feature2Link="https://nav.nyc3.digitaloceanspaces.com/navpi/navpi_1.0.9.torrent"
-    feature2ExtraSubtitle="Torrent File"
-    feature3Img="/images/circle-icons/nav_purple-pi.png"
-    feature3Title="NavPi v1.0.9"
-    feature3Link="https://nav.nyc3.digitaloceanspaces.com/navpi/navpi_1.0.9.img"
-    feature3ExtraSubtitle="Direct Download"
+    feature2Link="https://nav.nyc3.digitaloceanspaces.com/navpi/navpi_1.0.9.img"
+    feature2ExtraSubtitle="Direct Download"
     bottomText="SHA256: 894c18ee2e7d8fc66a620b3fe5ac8aa5d3d0a0ea60d537c5e47d8c81ef70f721">}}
 {{< box_links_section
     title="Coinomi Wallet"
