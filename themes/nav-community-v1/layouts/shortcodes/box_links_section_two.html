@@ -9,7 +9,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-4" style="width: 50%;">
+                    <div class="col-md-4 col-md-offset-2">
                         {{  if isset .Params "feature1Title" }}
                         <div class="single-item {{ if eq (.Get "dropShadow") "true" }}drop-shadow{{end}}" style="background-color: {{ .Get "boxBgColor" }};">
                             <a href="{{ .Get "feature1Link" }}" target="e" class="box-section-item">
@@ -30,7 +30,7 @@
                         </div>
                         {{end}}
                     </div>
-                    <div class="col-md-4" style="width: 50%;">
+                    <div class="col-md-4">
                         {{  if isset .Params "feature2Title" }}
                         <div class="single-item {{ if eq (.Get "dropShadow") "true" }}drop-shadow{{end}}" style="background-color: {{ .Get "boxBgColor" }};">
                             <a href="{{ .Get "feature2Link" }}" target="e" class="box-section-item">
