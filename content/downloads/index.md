@@ -135,7 +135,7 @@ description: ""
     feature2Link="https://nav.nyc3.digitaloceanspaces.com/navpi/navpi_1.0.9.img"
     feature2ExtraSubtitle="Direct Download"
     bottomText="SHA256: 894c18ee2e7d8fc66a620b3fe5ac8aa5d3d0a0ea60d537c5e47d8c81ef70f721">}}
-{{< box_links_section
+{{< box_links_section_two
     title="Coinomi Wallet"
     subtitle="Coinomi is a Security-First Multi-Asset Wallet for Bitcoin, Altcoins and Tokens. It supports NavCoin and was first published in 2014."
     featureTitleBgColor="#523971"
@@ -148,7 +148,12 @@ description: ""
     containerPadding="40px 0 70px 0"
     titleMargin="0 0 60px 0"
     gradient="false"
+    feature1Img="/images/circle-icons/nav_purple-apple.png"
+    feature1Title="Coinomi iOS"
+    feature1Txt=""
+    feature1Link="https://itunes.apple.com/app/coinomi-wallet/id1333588809"
+    feature2Link="https://play.google.com/store/apps/details?id=com.coinomi.wallet"
     feature2Img="/images/circle-icons/nav_purple-android.png"
-    feature2Title="Coinomi Wallet"
+    feature2Title="Coinomi Android"
     feature2Txt=""
     feature2Link="https://play.google.com/store/apps/details?id=com.coinomi.wallet">}}
