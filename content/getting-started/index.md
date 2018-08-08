@@ -5,7 +5,7 @@ draft: false
 type: "default"
 ---
 {{< title_block
-    title="Getting Started With Nav Coin"
+    title="Getting Started With NavCoin"
     containerPadding="40px 0"
     textColor="#333"
     textSize="38px">}}

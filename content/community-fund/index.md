@@ -76,7 +76,7 @@ type: "default"
 
 <p>to the navcoin.conf file and restart the daemon to start voting. In both cases the wallet should be actively staking to cast votes, every minted block will represent 1 vote. Voting period will start at 00:00 on the 18th October 2017 (GMT) and be counted as a percentage per block period (~4 days).</p>
 
-<p>NavPi users will need to log into their device and update the Nav Coin wallet to cast their vote. More detailed instructions for NavPi users will be posted in the coming days.</p>
+<p>NavPi users will need to log into their device and update the NavCoin wallet to cast their vote. More detailed instructions for NavPi users will be posted in the coming days.</p>
 
 <p>This proposal would be considered approved when 8640 blocks signal a positive vote over a 11520 (~4 days) block period (75% acceptance).</p>
 
