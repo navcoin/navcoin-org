@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://navcoin.org/fr/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://navcoin.org/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://navcoin.org/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://navcoin.org/fr/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://navcoin.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://navcoin.org/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://navcoin.org/fr/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://navcoin.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://navcoin.org/fr/tags/"
+                />
+  </url>
+  
+</urlset>
