@@ -165,7 +165,7 @@ span.price-tag {
   visibility: hidden;
   width: 220px;
 }
-
+}
 /* Small mobile:320px  */
 @media (max-width: 767px){
 

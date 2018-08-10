@@ -4,7 +4,7 @@
 
 {{ partial "head.html" . }}
 
-<body>
+<body data-spy="scroll" data-target="#header-menu"> 
 
 {{ partial "header.html" .  }}
 
@@ -12,7 +12,7 @@
     {{ .Content }}
 </div>
 
-  {{ partial "footer.html" .  }}
+{{ partial "footer.html" . }}
 
 </body>
 </html>
