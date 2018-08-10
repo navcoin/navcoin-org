@@ -116,11 +116,11 @@ twitter_username = "navcoin"
         identifier = "manifestos"
         parent = "learn"
     [[menu.main]]
-        name = "Exchanges"
-        title = "Exchanges"
+        name = "Buying NavCoin"
+        title = "Buying NavCoin"
         weight = 8
-        url = "/exchanges"
-        identifier = "exchanges"
+        url = "/buying-navcoin"
+        identifier = "buying-navcoin"
         parent = "learn"
     [[menu.main]]
         name = "About This Website"
