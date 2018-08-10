@@ -100,6 +100,7 @@ twitter_username = "navcoin"
         title = "Knowledge Base"
         weight = 6
         url = "https://info.navcoin.org"
+        parent="learn"
     [[menu.main]]
         name = "Merchants"
         title = "Merchants"
@@ -108,12 +109,19 @@ twitter_username = "navcoin"
         identifier = "merchants"
         parent = "learn"
     [[menu.main]]
+        name = "Manifestos"
+        title = "Manifestos"
+        weight = 7
+        url = "/manifestos"
+        identifier = "manifestos"
+        parent = "learn"
+    [[menu.main]]
         name = "Exchanges"
         title = "Exchanges"
         weight = 8
         url = "/exchanges"
         identifier = "exchanges"
-        parent = "getting-started"
+        parent = "learn"
     [[menu.main]]
         name = "About This Website"
         title = "About This Website"

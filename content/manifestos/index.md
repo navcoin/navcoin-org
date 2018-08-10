@@ -15,7 +15,8 @@ type: "default"
     btn1Link="#download-links"
     btn1Txt="Download Manifestos"
     gradient=""
-    fontColor="#FFF">}}
+    titleColor="#FFF"
+    textColor="#FFF">}}
     <p>The objective of NavCoin Developer and Content Manifestos is to clearly set out the reasons contributors to the NavCoin community do what we do, how we do it and why. These documents cover guiding principles, purpose, scope of work and operational requirements to ensure we share the same values and always operate in the best interests of the network.</p>
 {{< /left_image_section >}}
 
@@ -85,7 +86,9 @@ You’ll see that the principles of decentralisation are central:</p>
     class="links-image"
     id="download-links"
     bgColor="#7d5ab5"
-    fontColor="#FFF"
+    titleFontColor="#FFF"
+    subtitleFontColor="#FFF"
+    txtFontColor="#FFF"
     gradient="false"
     feature1Img="/images/icons/icon-tick-purple.png"
     feature1Title="Developer Manifesto"
