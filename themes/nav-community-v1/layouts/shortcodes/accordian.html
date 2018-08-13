@@ -1,0 +1,116 @@
+<section id="accordian">
+    <div class="our-service-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12" style="text-align: center;">
+                    <h2 class="themeix-title-h1" style="color: {{ .Get "fontColor" }}">{{ .Get "title" }}</h2>
+                    <div style="color: {{ .Get "fontColor" }}">{{ .Get "subtitle" }}</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-1"></div>
+                    <div class="panel-group col-xs-12 col-md-10" id="accordion" role="tablist" aria-multiselectable="true">
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                {{ .Get "itemOneTitle" }}
+                                </a>
+                            </h4>
+                            </div>
+                            <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                            <div class="panel-body">
+                                {{ if "itemOneImage" }}
+                                    <img class="accordian-image" src="{{ .Get "itemOneImage" }}" >
+                                {{ end }}
+                                <div class="accodian-img-and-text">
+                                    {{ .Get "itemOneText" }}
+                                    {{ if "itemOneButtonText" }}
+                                        <div class="col-xs-12">
+                                            <a href="{{ .Get "itemOneButtonLink" }}" class="round-btn blue-btn">{{ .Get "itemOneButtonText" }}</a>
+                                        </div>
+                                    {{ end }}
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                    {{ if "itemTwoTitle" }}
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingTwo">
+                            <h4 class="panel-title">
+                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                {{ .Get "itemTwoTitle" }}
+                                </a>
+                            </h4>
+                            </div>
+                            <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                            <div class="panel-body">
+                                {{ if "itemTwoImage" }}
+                                    <img class="accordian-image"    src="{{ .Get "itemTwoImage" }}" >
+                                {{ end }}
+                                {{ .Get "itemTwoText" }}
+                                {{ if "itemTwoButtonText" }}
+                                    <div class="col-xs-12 center">
+                                        <a href="{{ .Get "itemTwoButtonLink" }}" class="round-btn blue-btn">{{ .Get "itemTwoButtonText" }}</a>
+                                    </div>
+                                {{ end }}
+                            </div>
+                            </div>
+                        </div>
+                    {{ end }}
+                    {{ if "itemThreeTitle" }}
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingThree">
+                            <h4 class="panel-title">
+                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                {{ .Get "itemThreeTitle" }}
+                                </a>
+                            </h4>
+                            </div>
+                            <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                            <div class="panel-body">
+                                {{ if "itemThreeImage" }}
+                                    <img class="accordian-image" src="{{ .Get "itemThreeImage" }}" >
+                                {{ end }}
+                                {{ .Get "itemThreeText" }}
+                                {{ if "itemThreeButtonText" }}
+                                    <div class="col-xs-12 center">
+                                        <a href="{{ .Get "itemThreeButtonLink" }}" class="round-btn blue-btn">{{ .Get "itemThreeButtonText" }}</a>
+                                    </div>
+                                {{ end }}          
+                                </div>
+                            </div>
+                        </div>
+                    {{ end }}
+                    {{ if "itemFourTitle" }}
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingFour">
+                                <h4 class="panel-title">
+                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    {{ .Get "itemFourTitle" }}
+                                </a>
+                                </h4>
+                            </div>
+                            <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+                                <div class="panel-body">
+                                    {{ if "itemFourImage" }}
+                                        <img class="accordian-image" src="{{ .Get "itemFourImage" }}" >
+                                    {{ end }}
+                                    {{ .Get "itemFourText" }}
+                                    {{ if "itemFourButtonText" }}
+                                    <div class="col-xs-12 center">
+                                        <a href="{{ .Get "itemFourButtonLink" }}" class="round-btn blue-btn">{{ .Get "itemFourButtonText" }}</a>
+                                    </div>
+                                {{ end }}
+                                </div>
+                            </div>
+                        </div>
+                    {{ end }}
+                </div>
+                <div class="col-md-1"></div>
+            </div>  
+        </div>
+    </div>
+</section>
+
+
