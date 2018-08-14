@@ -6,8 +6,8 @@
     "node": ">=8.9.0"
   },
   "dependencies": {
-    "gulp-sass": "^3.2.1",
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.2.1"
   },
   "devDependencies": {},
   "scripts": {
