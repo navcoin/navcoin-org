@@ -16,9 +16,7 @@ type: "default"
     btn1Link="https://github.com/NAVCoin/navcoin-core"
     btn1Txt="NavCoin GitHub"
     titleColor="#FFF"
-    textColor="#FFF"
-    >}}
-
+    textColor="#FFF">}}
     <p>NavCoin is free software and any developer can contribute to the project. Everything you need is in the GitHub repository. Please make sure to read and follow the development process described in the README, as well as to provide good quality code and respect all guidelines.</p>
 {{< /left_image_section >}}
 {{< center_text_section
