@@ -61,6 +61,16 @@ twitter_username = "navcoin"
         identifier = "notices"
         parent = "protocol"
 
+
+# Main Menu
+[[menu.main]]
+    name = "Contribute"
+    title = "How to Contribute"
+    weight = 2
+    url = "/how-to-contribute/"
+    identifier = "how-to-contribute"
+
+
 [[menu.main]]
     name = "Learn"
     title = "Learn"
