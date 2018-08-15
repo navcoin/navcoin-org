@@ -15,8 +15,8 @@ type: "default"
     gradient=""
     btn1Link="#merchant-tools"
     btn1Txt="Merchant Tools"
-    textColor="#FFF" 
-    titleColor="#FFF">}}
+    textColor="#FFF"
+    titleColor="#fff">}}
     <p>Accepting NavCoin in your online shopping cart or retail location is easy and convenient, with options to suit individuals and businesses of any size. </p>
 {{< /left_image_section >}}
 
@@ -60,13 +60,13 @@ NavCoin is one of the longest established digital currencies, and has an extreme
 
 <br /><br />
 </section>
-
-
 {{< links_section
     title="Merchant tools"
     subtitle="If you’re interested in accepting NavCoin in your store, here are some tools to get you started."
     id="merchant-tools"
-    fontColor="#FFF"
+    txtFontColor="#fff"
+    subtitleFontColor="#fff"
+    titleFontColor="#fff"
     bgColor="#7d5ab5"
     containerPadding="40px 0 60px 0"
     titleMargin="0 0 40px 0"
