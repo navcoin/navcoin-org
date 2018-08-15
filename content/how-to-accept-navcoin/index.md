@@ -15,7 +15,8 @@ type: "default"
     gradient=""
     btn1Link="#merchant-tools"
     btn1Txt="Merchant Tools"
-    fontColor="#FFF">}}
+    textColor="#FFF" 
+    titleColor="#FFF">}}
     <p>Accepting NavCoin in your online shopping cart or retail location is easy and convenient, with options to suit individuals and businesses of any size. </p>
 {{< /left_image_section >}}
 
