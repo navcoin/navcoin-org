@@ -6,6 +6,7 @@ type: "default"
 ---
 {{< left_image_section
     title="What is NavCoin?"
+    titleSize="27px"
     imgSrc="/images/circle-icons/nav_purple-key.png"
     imgHeight="400px"
     imgPadding="20px"

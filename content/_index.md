@@ -18,6 +18,7 @@ draft: false
     btnMarginBtm="50px">}}
 {{< left_image_section
     title="What Is NavCoin?"
+    titleSize="27px"
     gradient="true"
     bgColor="#7d5ab5"
     titleColor="#fff"
@@ -46,6 +47,7 @@ draft: false
     feature3Txt="There are a variety of NavCoin wallets which help you keep your private keys secure on most operating systems.">}}
 {{< left_image_section
     title="It's Easy To Use"
+    titleSize="27px"
     bgColor="#FFF"
     minHeight="true"
     titleColor="#707070"

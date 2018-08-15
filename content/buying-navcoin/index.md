@@ -12,6 +12,7 @@ type: "default"
     bgColor="#7d5ab5"
     linkBgColor="#523971"
     gradient=""
+    titleSize="27px"
     titleColor="#FFF"     
     textColor="#FFF">}}
       <p>NavCoin is publicly mined and ran no token sale. The only way to get NAV is to purchase it from a third party or exchange. Exchanges provide highly varying degrees of safety, security, privacy, and control over your funds and information. Perform your own due diligence and choose a wallet where you will keep your NavCoin before selecting an exchange.</p>
@@ -126,6 +127,7 @@ type: "default"
 {{< links_section
     title="NavCoin Communities"
     subtitle="If you’re unsure which exchange to use or how they work, talk to one of the many helpful NavCoin community members through these channels."
+    titleSize="27px"
     titleFontColor="#fff"
     subtitleFontColor="#fff"
     txtFontColor="#fff"

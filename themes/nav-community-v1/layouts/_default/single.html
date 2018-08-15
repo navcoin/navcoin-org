@@ -1,13 +1,16 @@
+
 <!DOCTYPE html>
 <html>
 
 {{ partial "head.html" . }}
 
-<body data-spy="scroll" data-target="#header-menu">
+<body data-spy="scroll" data-target="#header-menu"> 
 
 {{ partial "header.html" .  }}
 
-{{ .Content}}
+<div class="news-content" style="margin-bottom: 0px; margin-top: 2px;">
+    {{ .Content }}
+</div>
 
 {{ partial "footer.html" . }}
 
