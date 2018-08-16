@@ -136,6 +136,39 @@ type: "default"
     <hr style="margin: 30px 0 0 0" />
 {{< /center_text_section >}}
 
+{{< center_text_section
+    bgColor="#FFF"
+    gradient=""
+    containerPadding="40px 0 0 0"
+    title="Orienting yourself to the NavCoin project"
+    txtColor="#7a7a7a">}}
+    
+   
+    <div style="text-align:left; max-width: 700px; margin:0 auto;"> 
+    
+           
+        <p>For anything more than a typo fix, contributing to NavCoin is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they’ll probably look at you a little strangely.</p>
+        <p>Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.</p>
+        
+        <h3>Anatomy of the NavCoin open source project</h3>
+        <p>Every open source community is different.</p>
+        
+        <p>Spending years on one open source project means you’ve gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.</p>
+        
+        <p>That said, NavCoin operates simlar to  many open source projects with a few key differances. Understanding the different community roles and overall process will help you get quickly oriented to NavCoin.
+        
+        <ul>
+            <li><strong>Author:</strong> Generally this is the person/s or organization that created the project, But NavCoin is different in the fact that there is not author. </li>
+             <li><strong>Owner:</strong> Again this is  generally a person/s who has administrative ownership over the organization or repository. But NavCoin is completely owned byt the community. </li>
+             Maintainers: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
+             Contributors: Everyone who has contributed something back to the project.
+             Community Members: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
+        </ul>
+    <div>
+    
+    <hr style="margin: 30px 0 0 0" />
+{{< /center_text_section >}}
+
 
 {{< center_text_section
     bgColor="#FFF"
@@ -158,53 +191,15 @@ type: "default"
         
         
         
-        <h3>Anatomy of the NavCoin open source project</h3>
-        <p>Every open source community is different.</p>
-        
-        <p>Spending years on one open source project means you’ve gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.</p>
-        
-        <p>That said, NavCoin operates simlar to  many open source projects with a few key differances. Understanding the different community roles and overall process will help you get quickly oriented to NavCoin.
-        
-        <ul>
-            <li><strong>Author:</strong> Generally this is the person/s or organization that created the project, But NavCoin is different in the fact that there is not author. </li>
-                Owner: Again this is  generally a person/s who has administrative ownership over the organization or repository (not always the same as the original author). But a
-                Maintainers: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
-                Contributors: Everyone who has contributed something back to the project.
-                Community Members: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
-        </ul>
-        
-    <div>
-    
-    <hr style="margin: 30px 0 0 0" />
-{{< /center_text_section >}}
-
-
-{{< center_text_section
-    bgColor="#FFF"
-    gradient=""
-    containerPadding="40px 0 0 0"
-    title="How to submit a contribution"
-    txtColor="#7a7a7a">}}
-    
    
-    <div style="text-align:left; max-width: 700px; margin:0 auto;"> 
-    
-               
-        <p>For anything more than a typo fix, contributing to NavCoin is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they’ll probably look at you a little strangely.</p>
-        <p>Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.</p>
-        
-        
-        <h3>Anatomy of the NavCoin open source project</h3>
-        Every open source community is different.
-        
-        Spending years on one open source project means you’ve gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
-        
-        That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
         
     <div>
     
     <hr style="margin: 30px 0 0 0" />
 {{< /center_text_section >}}
+
+
+
 
 
 
