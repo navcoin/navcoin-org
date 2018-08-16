@@ -159,11 +159,19 @@ type: "default"
         
         
         <h3>Anatomy of the NavCoin open source project</h3>
-        Every open source community is different.
+        <p>Every open source community is different.</p>
         
-        Spending years on one open source project means you’ve gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+        <p>Spending years on one open source project means you’ve gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.</p>
         
-        That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+        <p>That said, NavCoin operates simlar to  many open source projects with a few key differances. Understanding the different community roles and overall process will help you get quickly oriented to NavCoin.
+        
+        <ul>
+            <li><strong>Author:</strong> Generally this is the person/s or organization that created the project, But NavCoin is different in the fact that there is not author. </li>
+                Owner: Again this is  generally a person/s who has administrative ownership over the organization or repository (not always the same as the original author). But a
+                Maintainers: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
+                Contributors: Everyone who has contributed something back to the project.
+                Community Members: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
+        </ul>
         
     <div>
     
