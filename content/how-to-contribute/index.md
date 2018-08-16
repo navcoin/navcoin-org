@@ -143,6 +143,12 @@ type: "default"
     title="Orienting yourself to the NavCoin project"
     txtColor="#7a7a7a">}}
     
+    <div style="border: 1px solid #ccc; padding: 60px;max-width: 800px;margin:0 auto 40px auto;">
+        <p>If you go to an issue tracker and things seem confusing, it’s not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.</p>
+        
+        — @shaunagm, <a href="https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/">How to Contribute to Open Source</a>
+    </div>
+    
    
     <div style="text-align:left; max-width: 700px; margin:0 auto;"> 
     
