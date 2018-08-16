@@ -212,7 +212,7 @@ a {
   }
 }
 
-.left-image-section {
+.left-image-section, .right-image-section {
   min-height: 500px;
   .img-container {
     display: flex;
@@ -259,8 +259,15 @@ a {
   }
 }
 
+@media (max-width: 989px) {
+  .right-image-section .img-container {
+    order: -1;
+  }
+
+}
+
 .home-features {
-  min-height: 455px;
+  min-height: 375px;
   background-color: #fff;
   h3 {
     font-size: 26px;
@@ -273,7 +280,7 @@ a {
     flex-direction: column;
     align-items: center;
     padding: 0;
-    padding-top: 65px;
+    padding-top: 45px;
   }
   img {
     max-width: 178px;

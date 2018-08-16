@@ -263,45 +263,49 @@ a:hover, a:active, a:focus, a:visited {
       font-weight: 300;
       text-align: center; }
 
-.left-image-section {
+.left-image-section, .right-image-section {
   min-height: 500px; }
-  .left-image-section .img-container {
+  .left-image-section .img-container, .right-image-section .img-container {
     display: flex;
     align-items: flex-end;
     flex-direction: column; }
-  .left-image-section img {
+  .left-image-section img, .right-image-section img {
     max-width: 295px;
     min-width: 175px; }
-  .left-image-section .text-content {
+  .left-image-section .text-content, .right-image-section .text-content {
     max-width: 650px;
     width: 100%; }
-  .left-image-section.small {
+  .left-image-section.small, .right-image-section.small {
     min-height: 200px; }
-    .left-image-section.small img {
+    .left-image-section.small img, .right-image-section.small img {
       max-width: 175px; }
     @media (max-width: 869px) {
-      .left-image-section.small {
+      .left-image-section.small, .right-image-section.small {
         text-align: center;
         padding: 30px 0; } }
-  .left-image-section.flex {
+  .left-image-section.flex, .right-image-section.flex {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
     flex-flow: row wrap; }
-    .left-image-section.flex div {
+    .left-image-section.flex div, .right-image-section.flex div {
       padding: 0 15px; }
-      .left-image-section.flex div div {
+      .left-image-section.flex div div, .right-image-section.flex div div {
         padding: 0; }
   @media (max-width: 989px) {
-    .left-image-section {
+    .left-image-section, .right-image-section {
       text-align: center;
       min-height: 600px; }
-      .left-image-section img {
+      .left-image-section img, .right-image-section img {
         max-width: 200px; } }
 
+@media (max-width: 989px) {
+  .right-image-section .img-container {
+    order: -1; } }
+
 .home-features {
-  min-height: 455px;
+  min-height: 375px;
   background-color: #fff; }
   .home-features h3 {
     font-size: 26px; }
@@ -312,7 +316,7 @@ a:hover, a:active, a:focus, a:visited {
     flex-direction: column;
     align-items: center;
     padding: 0;
-    padding-top: 65px; }
+    padding-top: 45px; }
   .home-features img {
     max-width: 178px; }
 
