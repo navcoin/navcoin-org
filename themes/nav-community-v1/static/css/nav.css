@@ -275,12 +275,12 @@ a:hover, a:active, a:focus, a:visited {
   .left-image-section .text-content, .right-image-section .text-content {
     max-width: 650px;
     width: 100%; }
-  .left-image-section.small, .right-image-section.small {
+  .left-image-section.small-section, .right-image-section.small-section {
     min-height: 200px; }
-    .left-image-section.small img, .right-image-section.small img {
-      max-width: 175px; }
+    .left-image-section.small-section img, .right-image-section.small-section img {
+      max-height: 175px; }
     @media (max-width: 869px) {
-      .left-image-section.small, .right-image-section.small {
+      .left-image-section.small-section, .right-image-section.small-section {
         text-align: center;
         padding: 30px 0; } }
   .left-image-section.flex, .right-image-section.flex {
