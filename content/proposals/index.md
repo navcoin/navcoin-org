@@ -8,6 +8,7 @@ type: "default"
     title="How to propose a project to the NavCoin Community Fund"
     gradient="true"
     bgColor="#7d5ab5"
+    titleSize="32px"
     titleColor="#fff"
     textColor="#FFF"
     linkBgColor="#523971"
@@ -25,6 +26,7 @@ type: "default"
     titleFontColor="#ffffff"
     subtitleFontColor="#fff"
     txtFontColor="#fff"
+    titleSize="32px"
     bgColor="#42b6eb"
     containerPadding="70px 0"
     titleMargin="0 0 20px 0"
@@ -45,28 +47,28 @@ type: "default"
     linkBgColor="#7d59b5"
     btnTxt="View Full Roadmap →">}}
 {{< accordian
-    itemOneTitle="Develop your ideas."
+    itemOneTitle="Step 1 - Develop your ideas."
     itemOneText="- Think of things that could inspire the NavCoin network. You can go it alone or discuss it with the community in <a href=\"https://reddit.com/r/navcoin\">Reddit</a> or <a href=\"https://discord.gg/dRyhDjm\">Discord</a>."
 
-    itemTwoTitle="Create a project page."
+    itemTwoTitle="Step 2 - Create a project page."
     itemTwoText="- It can be anywhere, but to give your project maximum visibility in the community consider using the <a href=\"\">Collab website</a>.<br>- Work out the details of the project. You need to communicate why the NavCoin community should fund it, if you need to tap into other people’s skills, and how long it will take from start to finish. Your proposal might suiting being funded in stages, especially if it’s long term - devising a roadmap will help."
 
-    itemThreeTitle="Create your team."
+    itemThreeTitle="Step 3 - Create your team."
     itemThreeText="- Do you need other skills to bring your project to life? Use NavCoin’s social channels and the Collab website to find community members who can help you complete your project."
     
-    itemFourTitle="Submit your proposal."
+    itemFourTitle="Step 4 - Submit your proposal."
     itemFourText="- Complete the proposal form, including a link to your project page.<br>- Pay the proposal fee. The projects that pay the highest fees to the network will be accepted first. A fee is necessary to stop people spamming the Community Fund with weak proposals."
     
-    itemFiveTitle="Promote your project to stakers."
+    itemFiveTitle="Step 5 - Promote your project to stakers."
     itemFiveText="- Once you’ve submitted your proposal, promote your project using the community channels. Communicate why you think it’s worth funding - what benefits will it bring? Why should the community support it?"
     
-    itemSixTitle="Voting begins."
+    itemSixTitle="Step 6 - Voting begins."
     itemSixText="- To be eligible to vote you must be staking NavCoin.<br>- Each voting period lasts 20,000 blocks.<br>- The minimum number of stakers voting yes/no needs to be 50%<br>- Of that 50%, a proposal must receive 75% ‘yes’ votes to be accepted<br>- 67.5% ‘no’ votes will result in it being rejected."
     
-    itemSevenTitle="Begin the work."
+    itemSevenTitle="Step 7 - Begin the work."
     itemSevenText="- Start work and do your best to stick to your timeline.<br>- Keep the community updated with how things are progressing in your project. It’s OK to ask for help along the way."
     
-    itemEightTitle="Apply for payment."
+    itemEightTitle="Step 8 - Apply for payment."
     itemEightText="- Once your project is complete you can apply for payment from the Community Fund. If there are clear milestones in your proposal you can apply to receive payments at scheduled points in the timeline.<br>- Payment is subject to a second consensus vote among NavCoin stakers. There must be a 50% minimum participation, with 50% ‘yes’ vote to be paid and 50% ‘no’ for payment to be rejected."
     
     titleColor="#FFF"     
