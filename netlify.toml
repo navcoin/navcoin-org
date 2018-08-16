@@ -1,12 +1,15 @@
 [context.production.environment]
 HUGO_VERSION = "0.37"
 
-
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.37"
-
-
 
 [build]
 publish = "public"
 command = "hugo"
+
+[[redirects]]
+  from = "/downloads"
+  to = "/wallets"
+  status = 301
+  force = true
