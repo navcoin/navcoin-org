@@ -3,9 +3,9 @@ title: "Privacy Policy"
 date: 2018-03-12T17:47:48+13:00
 draft: false
 ---
-{{< home_centre_text_section
+{{< center_text_section
     title="Privacy Policy"
-    bgColor="#7d5ab5"
+    bgColor="#fff"
     titleColor="#333">}}
 <p>This page informs you of our policies regarding the collection, use and disclosure of personal information we receive from users of our site (https://navcoin.org). We use your personal information to better understand your usage of the site, and to collect traffic statistics.</p>
 
@@ -38,4 +38,4 @@ This Privacy Policy was last updated: 26th March, 2018.</p>
 
 <h3>Contact Us</h3>
 <p>If you have any questions about our privacy policy, or how your data is being collected and processed, please join the <a href="https://discord.gg/y4Vu9jw" target="e">community discord channel</a>.</p>
-{{< /home_centre_text_section >}}
+{{< /center_text_section >}}
