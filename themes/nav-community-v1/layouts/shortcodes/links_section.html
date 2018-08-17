@@ -1,11 +1,15 @@
 <section id="project" class="{{ .Get "class"}}">
     <div class="our-service-section {{ if eq (.Get "gradient") "true" }} bg-gradient {{ end }}" id="{{ .Get "id"}}"> 
         <div style="background-image: url({{ .Get "bgImgSrc" }}); background-color: {{ .Get "bgColor" }}; padding: {{ .Get "containerPadding" }};">
-           <div class="container">
-                <div class="row" style="margin: {{ .Get "titleMargin"}}">
+            <div class="container">
+                <div class="row" style="margin: {{ .Get "titleMargin" }}">
                     <div class="col-md-12" style="text-align: center;">
-                      <h2 class="themeix-title-h1" style="color: {{ .Get "titleFontColor" }}">{{ .Get "title"}}</h2>
-                      <div style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "subtitle" }}</div>
+                        {{ if (isset .Params "title") }}
+                            <h2 class="themeix-title-h1" style="color: {{ .Get "titleFontColor" }}">{{ .Get "title"}}</h2>
+                        {{ end }}
+                        {{ if (isset .Params "subtitle") }}
+                            <div style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "subtitle" }}</div>
+                        {{ end }}
                     </div>
                 </div>
                 <div class="row">
@@ -24,8 +28,8 @@
                                 </div>
                             </a>
                         </div>
-                  </div>
-                  <div class="col-sm-4">
+                    </div>
+                    <div class="col-sm-4">
                         <div class="single-item">
                             <a href="{{ .Get "feature2Link" }}" target="e" class="link-section-item">
                                 <div class="service-main">
@@ -40,8 +44,8 @@
                                 </div>
                             </a>
                         </div>
-                  </div>
-                  <div class="col-sm-4">
+                    </div>
+                    <div class="col-sm-4">
                         <div class="single-item">
                             <a href="{{ .Get "feature3Link" }}" target="e" class="link-section-item">
                                 <div class="service-main">

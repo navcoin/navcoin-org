@@ -58,7 +58,8 @@
     transition: 0.2s ease; }
 
 .contrib-list .contrib-list-title {
-  margin: 50px 0; }
+  margin: 50px 0;
+  font-size: 28px; }
 
 .contrib-list .git-disp-pic {
   height: 48px;
