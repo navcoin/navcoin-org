@@ -304,6 +304,46 @@ a:hover, a:active, a:focus, a:visited {
   .right-image-section .img-container {
     order: -1; } }
 
+.half-image-half-text-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+  width: 100vw; }
+  .half-image-half-text-section .content {
+    max-width: 1000px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row wrap; }
+    .half-image-half-text-section .content div {
+      padding: 0 15px; }
+      .half-image-half-text-section .content div div {
+        padding: 0; }
+  .half-image-half-text-section img {
+    width: inherit;
+    height: inherit;
+    min-width: 175px;
+    max-height: 300px;
+    width: 50%;
+    height: inherit; }
+  .half-image-half-text-section .text-content {
+    width: 50%;
+    min-width: 400px; }
+  .half-image-half-text-section.left-image img {
+    order: -1; }
+  @media (max-width: 799px) {
+    .half-image-half-text-section {
+      text-align: center;
+      min-height: 600px; }
+      .half-image-half-text-section img {
+        max-height: 300px; }
+      .half-image-half-text-section.left-image img {
+        max-height: 300px; } }
+
 .home-features {
   min-height: 375px;
   background-color: #fff; }
