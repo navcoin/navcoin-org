@@ -313,6 +313,7 @@ a {
     min-height: 600px;
     img {
       max-height: 300px;
+      order: -1;
     }
     &.left-image {
       img {
@@ -321,10 +322,6 @@ a {
     }
   }
 }
-
-// @media (max-width: 989px) {
-  
-// }
 
 .home-features {
   min-height: 375px;
@@ -378,6 +375,12 @@ a {
     font-weight: normal;
     font-size: 26px;
   }
+}
+
+.link-section-link {
+  font-size: 110%; 
+  text-decoration: underline;
+  color: #337ab7;
 }
 
 .box-list {

@@ -341,7 +341,8 @@ a:hover, a:active, a:focus, a:visited {
       text-align: center;
       min-height: 600px; }
       .half-image-half-text-section img {
-        max-height: 300px; }
+        max-height: 300px;
+        order: -1; }
       .half-image-half-text-section.left-image img {
         max-height: 300px; } }
 
@@ -382,6 +383,11 @@ a:hover, a:active, a:focus, a:visited {
 .links-section h3, .contrib-list h3, .home-links-section h3 {
   font-weight: normal;
   font-size: 26px; }
+
+.link-section-link {
+  font-size: 110%;
+  text-decoration: underline;
+  color: #337ab7; }
 
 .box-list h3 {
   font-family: "Roboto", sans-serif;
