@@ -51,15 +51,12 @@ There has been some discussion as to how this could drive a further divide betwe
 
 Assuming there are 20M NAV contributing to staking, just like there is today. Here's what the stake rewards would look like for some different balances over a 1 year period.
 
-Balance	After 1 Year	Percentage
-
-1,000,000 NAV	1,105,120.00 NAV	10.512%
-
-100,000 NAV	110,512.00 NAV	10.512%
-
-10,000 NAV	11,051.20 NAV	10.512%
-
-1,000 NAV	110.512 NAV	10.512%
+| Balance       | After 1 Year     | Percentage |
+| ------------- | ---------------- | ---------- |
+| 1,000,000 NAV	| 1,105,120.00 NAV | 10.512%    |
+| 100,000 NAV   | 110,512.00 NAV   | 10.512%    |
+| 10,000 NAV    | 11,051.20 NAV    | 10.512%    |
+| 1,000 NAV     | 110.512 NAV      | 10.512%    |
 
 As you can see, the only real thing that happens is we shift the decimal place around if we have different input values, but as a percentage everyone is increasing proportionally to what they input.
 
