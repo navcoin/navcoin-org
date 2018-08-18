@@ -90,11 +90,11 @@ You have to remember that because the total amount generated is fixed but split 
 
 | Coin | Reward |
 | ---- | ------ |
-| PIVX | 5-10% |
-| ARK | 10-12% |
-| LSK | 10% |
-| NEBL | 10% |
-| NAV | 5-10% |
+| PIVX | 5-10%  |
+| ARK  | 10-12% |
+| LSK  | 10%    |
+| NEBL | 10%    |
+| NAV  | 5-10%  |
 
 Source: https://www.investinblockchain.com/best-proof-of-stake-coins
 
