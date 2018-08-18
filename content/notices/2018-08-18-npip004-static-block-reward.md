@@ -5,7 +5,7 @@ author: Craig MacGregor
 date: '2018-08-18T12:13:05+12:00'
 feature_image: /images/uploads/npip004.png
 notice_categories:
-  - General Notices
+  - NPIP
 ---
 After the ClockSync fix was soft forked into the network a couple of months ago, NavCoin is now compliant with the Proof of Stake v2 protocol as published by Blackcoin:
 
