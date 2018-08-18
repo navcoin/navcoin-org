@@ -70,12 +70,12 @@ You can read the program here: https://github.com/craigmacgregor/static-reward-m
 
 In laymans terms, it calculates when you'd be due for a reward based on your weight vs the rest of the network where the network starts with 20M NAV and gets 2 NAV added per 30 seconds. The output is as follows:
 
-| Staker   | Balance Start | Balance End | Percent Gain | 
+| Staker   | Balance Start | Balance End | Percent Gain |
 | -------- | ------------- | ----------- | ------------ |
-| balance1 | 1,000,000     | 1,105,120   | 10.51%       | 
-| balance2 | 100,000       | 110,512     | 10.51%       | 
-| balance3 | 10,000        | 11,052      | 10.52%       | 
-| balance4 | 1,000         | 1,106       | 10.6%        | 
+| balance1 | 1,000,000     | 1,105,120   | 10.51%       |
+| balance2 | 100,000       | 110,512     | 10.51%       |
+| balance3 | 10,000        | 11,052      | 10.52%       |
+| balance4 | 1,000         | 1,106       | 10.6%        |
 | weight   | 20,000,000    | 22,102,400  | 10.51%       |
 
 So, as you can see the smaller stakers still get their rewards, even though the bigger stakers balance is going up 2NAV every 20 blocks. I even modelled this for someone staking 100 NAV and they will end up with 112 NAV after 1 year (12% gain). So if anything it seems like this model marginally favours smaller stakers over bigger ones which was a surprising result actually.
