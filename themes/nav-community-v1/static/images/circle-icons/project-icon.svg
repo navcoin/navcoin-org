@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #523973;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+        opacity: 0.23;
+      }
+
+      .cls-3 {
+        fill: #f5be64;
+        font-size: 391px;
+        font-family: Raleway-Bold, Raleway;
+        font-weight: 700;
+        letter-spacing: -0.043em;
+      }
+    </style>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(-1481 -1438)">
+    <path id="Path_1" data-name="Path 1" class="cls-1" d="M0,400A400,400,0,1,1,400,800C178.6,798.14,0,619.535,0,400Z" transform="translate(1481 1438)"/>
+    <path id="Subtraction_1" data-name="Subtraction 1" class="cls-2" d="M271.269,531.268a409.907,409.907,0,0,1-75.126-7.574L25.572,228.256l.16-.093L0,183.593l45.639-26.35L4.814,86.53,154.689,0l40.825,70.713L235.1,47.858,260.831,92.43l.073-.042,20.578,39.231,29.71-22.432L325.9,79.476l12.33-13.221,37.646,62.4,2.206-19.466,21.511,39.324,5.516-22.063,55.158-6.619h44.677l22.063-10.641.37-.38L635.787,296.581A400.264,400.264,0,0,1,490.9,465.9a397.709,397.709,0,0,1-102.984,48.19A401.957,401.957,0,0,1,271.269,531.268Z" transform="translate(1607.469 1705.601)"/>
+    <text id="C_" data-name="C++" class="cls-3" transform="translate(1588.456 1976.799)"><tspan x="0" y="0">C++</tspan></text>
+  </g>
+</svg>
