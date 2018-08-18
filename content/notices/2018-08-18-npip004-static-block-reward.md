@@ -83,6 +83,7 @@ In laymans terms, it calculates when you'd be due for a reward based on your wei
 | balance3 | 10,000        | 11,052      | 10.52%       |
 | balance4 | 1,000         | 1,106       | 10.6%        |
 | weight   | 20,000,000    | 22,102,400  | 10.51%       |
+| supply   | 63,000,000    | 65,102,400  | 3.33%        |
 
 So, as you can see the smaller stakers still get their rewards, even though the bigger stakers balance is going up 2NAV every 20 blocks. I even modelled this for someone staking 100 NAV and they will end up with 112 NAV after 1 year (12% gain). So if anything it seems like this model marginally favours smaller stakers over bigger ones which was a surprising result actually.
 
@@ -128,15 +129,15 @@ This would mean that there are 2,102,400 NAV created per year for staking and 52
 
 ### Alternative approaches
 
-#### Maximum Coin Age
+##### Maximum Coin Age
 
 We could introduce a maximum coin age of 1 month. If they came online after 6 months to claim reward, they would only receive 1 months of reward. This would incentivise people to remain online because otherwise they would miss out on rewards. However, for a big staker, they can cycle thorugh all their coins quite quickly, but a small staker would potentially miss out on rewards even if they stayed online the whole time. I would argue this solution is worse for small stakers than a static reward. It also doesn't address the fact that other coins have higher rewards and attracts no new users.
 
-#### Block Validator Reward
+##### Block Validator Reward
 
 We could keep the coinage based staking rewards for the block minter and create an additional static reward which the minter issues to people who are online and securing the network with their weight even if they aren't the block minter. It would still essentially be a lottery based on network weight, but this way we have a hybrid system where everyone gets their percentage, but people who are online staking all the time get extra. This alternative would take a reasonable amount of investigation, research and testing to accomplish and it's not been trialled before afaik. For simplicities sake, i would argue that just using a static reward is a better option.
 
-#### Other approaches
+##### Other approaches
 
 Not sure what else, i haven't thought of any other ways to solve this problem yet. If you have any ideas, don't be afraid to post them in the thread.
 
