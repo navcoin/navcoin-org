@@ -49,11 +49,13 @@ Personally, i'm the for the deflationary model. I think the difference in mining
 
 There has been some discussion as to how this could drive a further divide between stakers with more and less NAV. The thing to keep in mind is that although the rewards are fixed, the number of blocks you stake is still proportional to your staking weight on the network. This means that stakers still increase in wealth proportionally to each other as a percentage. Let's run a few scenarios.
 
-The simple equation is: Total Rewards / Network Weight * Balance.
+The simple equation is: 
+
+`Total Rewards / Network Weight * Balance`
 
 Assuming there are 20M NAV contributing to staking, just like there is today. Here's what the stake rewards would look like for some different balances over a 1 year period. 
 
-2,102,400 / 20,000,000 * Balance
+`2,102,400 / 20,000,000 * Balance`
 
 | Balance       | After 1 Year     | Percentage |
 | ------------- | ---------------- | ---------- |
