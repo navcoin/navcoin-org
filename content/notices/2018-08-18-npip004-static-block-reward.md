@@ -121,7 +121,7 @@ From this, you can see that NavCoin would still have one of the lowest inflation
 
 With 4% per year and only 25% of coins staking, NavCoin currently only inflates at around 1.4% per year (including the community fund). We've seen the staking network weight roughly halve over the last 6 months, something which could be attributed the reduction of rewards when the community fund was introduced. It's possible people are switching to other, more profitable PoS coins because 4% reward is too low. At this network weight and market rate, it would only take around USD $2M worth of coins to perform a 51% attack. In reality, buying enough coins to 51% attack the network would drive the price of NAV up and therefore make it much more expensive than this to attack the network, but it's still worth noting the importance for network security to attract more people to stake.
 
-### Summary 
+### Summary
 
 Changing to a static block reward of 2 NAV per block increases network security in multiple ways, the first being that it forces people to be online securing the network with their weight constantly. Secondly, it would increase potential earnings for stakers which would attract more people to stake NavCoin and increase the network weight further. Both of these factors make the network harder to 51% attack and would improve network security.
 
@@ -149,7 +149,7 @@ Not sure what else, i haven't thought of any other ways to solve this problem ye
 
 I'm personally in favour of changing the block reward to 2 NAV and increasing the Community Fund to 0.5 NAV per block. 
 
-I would suggest bundling these changes with NPIP002 and NPIP003 so we can reduce the number of versions released. Each individual protocol change will have its own version bit, so people can vote on each individually if they only want some of the updates rather than all of them.
+I would suggest bundling these changes with NPIP002 and NPIP003 into NavCoin Core v4.5.0 (4.3.0 is Open Alias, 4.4.0 is Community Fund Claims) so we can reduce the number of versions released. Each individual protocol change will have its own version bit, so people can vote on each individually if they only want some of the updates rather than all of them.
 
 If you have any comments or suggestions, please either post to the reddit thread or directly on the NPIP GitHub.
 
