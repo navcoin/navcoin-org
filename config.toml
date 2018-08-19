@@ -82,13 +82,6 @@ twitter_username = "navcoin"
         identifier = "manifestos"
         parent = "getting-started"
     [[menu.main]]
-        name = "Buying NavCoin"
-        title = "Buying NavCoin"
-        weight = 4
-        url = "/buying-navcoin"
-        identifier = "buying-navcoin"
-        parent = "learn"
-    [[menu.main]]
         name = "Community Fund"
         title = "Community Fund"
         weight = 5
