@@ -70,9 +70,16 @@ twitter_username = "navcoin"
     [[menu.main]]
         name = "Getting Started"
         title = "Getting Started"
-        weight = 2
+        weight = 1
         url = "/getting-started/"
         identifier = "getting-started"
+        parent = "learn"
+    [[menu.main]]
+        name = "For Business"
+        title = "For Business"
+        weight = 2
+        url = "/for-business/"
+        identifier = "for-business"
         parent = "learn"
     [[menu.main]]
         name = "Manifestos"

@@ -5,30 +5,29 @@
 
 <body data-spy="scroll" data-target="#header-menu">
 
-  {{ partial "header.html" .  }}
-
-  {{ partial "header_two.html" .  }}
+{{ partial "header.html" .  }}
+{{ partial "notices_navigation.html" .  }}
 
 <div class="appiex-blog-content section-ptb-2">
     <div class="container">
         <div class="row">
             <div class="col-sm-12 col-md-8">
                 <div class="blog-item">
-                  <div class="blog-meta-wrapper">
-                      <div class="blog-meta">
-                          {{ if .Params.author }}
-                          <div class="blog-author">
-                              <i class="fa fa-user-o"></i> {{.Params.author}}
-                          </div>
-                          {{end}}
-                          <div class="blog-author">
-                              <i class="fa fa-calendar"></i>
-                              {{ dateFormat "2 Jan 2006" .Params.date }}
-                          </div>
-                      </div>
-                      {{ partial "social_share.html" .  }}
-                  </div>
-                  <div class="clearfix"></div>
+                    <div class="blog-meta-wrapper">
+                        <div class="blog-meta">
+                            {{ if .Params.author }}
+                                <div class="blog-author">
+                                    <i class="fa fa-user-o"></i> {{.Params.author}}
+                                </div>
+                            {{end}}
+                            <div class="blog-author">
+                                <i class="fa fa-calendar"></i>
+                                {{ dateFormat "2 Jan 2006" .Params.date }}
+                            </div>
+                        </div>
+                        {{ partial "social_share.html" .  }}
+                    </div>
+                    <div class="clearfix"></div>
                     <div class="details-img"><img alt="{{.Params.title}}" src="{{ .Params.feature_image }}"></div>
                     <div class="blog-details">
                             <h3 class="blog-title">{{.Title}}</h3>
@@ -59,7 +58,7 @@
                         <h3 class="widget-title">Notice Categories</h3>
                         <ul>
                             {{ range first 10 .Site.Taxonomies.notice_categories.ByCount }}
-                              {{ $filter := replace .Name "-" " " }}
+                            {{ $filter := replace .Name "-" " " }}
                                 <li class="cat-item" ><a href="/notice_categories/{{ .Name | urlize }}">{{ $filter }}</a> </li>
                             {{ end }}
                         </ul>
@@ -69,9 +68,9 @@
                         <ul>
                             {{ range .Site.Pages }}
                                 {{if (eq .Type "notices") }}
-                                  {{ if (ne .Title "Notices")}}
-                                    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-                                  {{ end }}
+                                    {{ if (ne .Title "Notices")}}
+                                        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                                    {{ end }}
                                 {{ end }}
                             {{ end }}
                         </ul>
@@ -80,7 +79,7 @@
             </div>
         </div>
     </div>
-</div><!-- start get appix now -->
+</div>
 
 {{ partial "footer.html" . }}
 

@@ -1,0 +1,29 @@
+{{ $lastUrlElement := index (last 1 (split (delimit (split .URL "/") "," "") ",")) 0 }}
+
+{{ $filter := replace $lastUrlElement "-" " " }}
+
+<div class="themeix-bg themeix-small">
+  <div class="categories-header blue">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="page-header-title">
+            {{ if .Params.notice_categories }}
+              <h2>{{ .Title }}</h2>
+            {{ else }}
+              <h2>Notice Category - {{ .Title }}</h2>
+            {{ end }}
+            <ul class="page-list">
+              <li><a href="/">Home</a></li>
+              <li><a href="/notices">Notices</a></li>
+              {{ if .Params.notice_categories }}
+                <li style="text-transform: capitalize;">{{ .Title }}</li>
+              {{ else }}
+                <li style="text-transform: capitalize;">{{ $filter }}</li>
+              {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
