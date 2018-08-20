@@ -125,14 +125,12 @@ type: "default"
     feature1Txt="Instant Exchange"
     feature1Link="https://changenow.io/">}}
 {{< center_text_section
-    bgColor="#FFF"
-    bgImg=""
-    gradient=""
-    containerPadding="40px 0 80px 0"
-    title="Accepting NavCoin Is Easy!"
-    btn1Link=""
-    btn1Txt="See Who's Involved"
-    btn1Margin="50px 0 0 0"
-    txtColor="#7a7a7a"
-    fontColor="#707070">}}
+    bgColor="#7957b1"
+    backgroundImageUrl="/images/spend-your-navcoin-banner.png"
+    containerPadding="40px 0 30px 0"
+    title="Spend Your NavCoin!"
+    btn1Link="/merchants"
+    btn1Txt="Check out the Stores!"
+    buttonColor="#42b6eb"
+    fontColor="#fff">}}
 {{< /center_text_section >}}
