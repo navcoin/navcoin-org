@@ -149,7 +149,6 @@ a:hover, a:active, a:focus, a:visited {
 .box-list-supreme {
   width: 90%;
   margin: 0 auto;
-  border: 1px solid red; 
 }
 
 .box-list-supreme .item-main {
@@ -178,17 +177,20 @@ a:hover, a:active, a:focus, a:visited {
   margin: 5px 0 5px 0;
 }
 
-.box-list-supreme .item-subs {
-  border: 1px dashed blue;
-  width:  90%;
-}
-
-.box-list-supreme .item-subs .sub {
+.box-list-supreme #box-item-group {
   display: flex;
   align-items: center;
-  justify-content: center;
-  width:  30px;
-  border: 2px dotted red;
+}
+
+.box-list-supreme #box-items {
+  display: flex;
+  flex-flow: row wrap;
+  align-content: center;
+}
+
+.box-list-supreme #box-items img {
+  width:  25px;
+  margin-right: 5px;
 }
 
 .box-list-supreme a {

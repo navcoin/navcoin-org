@@ -38,7 +38,7 @@ description: ""
     item1_sub1_url="https://github.com/NAVCoin/navcoin-core/releases/download/4.2.1/navcoin-4.2.1-osx.dmg"
     item1_sub2_img="/images/platforms/windows.svg"
     item1_sub2_alt="Windows Download"
-    item1_sub3_url="https://github.com/NAVCoin/navcoin-core/releases/download/4.2.1/navcoin-4.2.1-win64-setup.exe"
+    item1_sub2_url="https://github.com/NAVCoin/navcoin-core/releases/download/4.2.1/navcoin-4.2.1-win64-setup.exe"
     item1_sub3_img="/images/platforms/linux.svg"
     item1_sub3_alt="Linux Download"
     item1_sub3_url="https://github.com/NAVCoin/navcoin-core/releases/download/4.2.1/navcoin-4.2.1-x86_64-linux-gnu.tar.gz">}}
