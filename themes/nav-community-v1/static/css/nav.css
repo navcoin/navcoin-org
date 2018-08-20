@@ -144,6 +144,65 @@ a:hover, a:active, a:focus, a:visited {
 .box-list .box-section-item:hover img {
   opacity: 0.75; }
 
+/* links_section_supreme */
+
+.box-list-supreme {
+  width: 90%;
+  margin: 0 auto;
+  border: 1px solid red; 
+}
+
+.box-list-supreme .item-main {
+  padding-top: 30px;
+  padding-bottom: 0px;
+}
+
+.box-list-supreme .item-icon {
+  height: 150px;
+}
+
+.box-list-supreme .item-icon img {
+  padding-bottom: 10px;
+  height: 100%;
+}
+
+.box-list-supreme .item-title {
+  margin: 5px 0 5px 0;
+}
+
+.box-list-supreme .item-title h3 {
+  padding: 10px 0; 
+}
+
+.box-list-supreme .item-button {
+  margin: 5px 0 5px 0;
+}
+
+.box-list-supreme .item-subs {
+  border: 1px dashed blue;
+  width:  90%;
+}
+
+.box-list-supreme .item-subs .sub {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width:  30px;
+  border: 2px dotted red;
+}
+
+.box-list-supreme a {
+  color: #555; }
+  .box-list-supreme a:hover, .box-list-supreme a:active, .box-list-supreme a:visited {
+    color: #555; }
+
+.box-list-supreme .box-section-item:hover img {
+  opacity: 0.75; 
+}
+
+
+/* end links_section_supreme */
+
 .center {
   text-align: center; }
 

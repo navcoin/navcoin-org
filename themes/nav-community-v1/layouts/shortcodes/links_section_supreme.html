@@ -1,0 +1,46 @@
+<section class="box-list-supreme">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="single-item">
+                    <div class="item-main">
+                        <div class="item-icon">
+                            <img src="{{ .Get "item1_img" }}" alt="">
+                        </div>
+                        <div class="item-title">
+                            <h3 style="color: {{ .Get "titleFontColor" }}; margin-bottom: 5px;">{{ .Get "item1_title" }}</h3>
+                        </div>
+                        <div class="item-subs">
+                            {{ if isset .Params "item1_sub1_img" }}
+                            <div class="sub"><img src="{{ .Get "item1_sub1_img" }}" alt="{{ .Get "item_sub1_alt" }}"></div>
+                            {{ end }}
+                            {{ if isset .Params "item1_sub2_img" }}
+                            <div class="sub"><img src="{{ .Get "item1_sub2_img" }}" alt="{{ .Get "item_sub2_alt" }}"></div>
+                            {{ end }}
+                            {{ if isset .Params "item1_sub3_img" }}
+                            <div class="sub"><img src="{{ .Get "item1_sub3_img" }}" alt="{{ .Get "item_sub3_alt" }}"></div>
+                            {{ end }}
+                            {{ if isset .Params "item1_sub4_img" }}
+                            <div class="sub"><img src="{{ .Get "item1_sub4_img" }}" alt="{{ .Get "item_sub4_alt" }}"></div>
+                            {{ end }}
+                            {{ if isset .Params "item1_sub5_img" }}
+                            <div class="sub"><img src="{{ .Get "item1_sub5_img" }}" alt="{{ .Get "item_sub5_alt" }}"></div>
+                            {{ end }}
+                            {{ if isset .Params "item1_sub6_img" }}
+                            <div class="sub"><img src="{{ .Get "item1_sub6_img" }}" alt="{{ .Get "item_sub6_alt" }}"></div>
+                            {{ end }}
+                        </div>
+                        <div class="item-text">
+                            <p style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "item1_text"  }}</p>
+                        </div>
+                        <div class="item-button">   
+                            {{ if isset .Params "item1_btn_url" }}
+                                <a href="{{ .Get "item1_btn_url" }}" class="themeix-btn themeix-danger smoothScroll" style="background-color: {{ .Get "btn_bg_color"}}">{{ .Get "item1_btn_text" }}</a>
+                            {{ end }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
