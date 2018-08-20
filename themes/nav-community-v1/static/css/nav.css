@@ -108,6 +108,23 @@
     .contrib-list .single-item .faded-text {
       font-size: 15px; } }
 
+.center-text-section {
+  text-align: center;
+  min-height: 400px;
+  background: no-repeat;
+  background-position: center;
+  background-size: contain; }
+  .center-text-section h2 {
+    font-size: 30px; }
+
+.center-text-section-content {
+  height: inherit;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 400px; }
+
 body:nth-child(2) {
   margin-top: 54px; }
 
