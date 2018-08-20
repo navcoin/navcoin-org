@@ -166,7 +166,7 @@ type: "default"
         <ul>
             <li><strong>Author:</strong> Generally this is the person/s or organization that created the project, But NavCoin is different in the fact that there is not author. </li>
              <li><strong>Owner:</strong> Again this is  generally a person/s who has administrative ownership over the organization or repository. But NavCoin is completely owned byt the community. </li>
-             Maintainers: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
+             <li><strong>Maintainers:</strong> Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)</li>
              Contributors: Everyone who has contributed something back to the project.
              Community Members: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
         </ul>
