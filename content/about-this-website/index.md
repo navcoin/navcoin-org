@@ -6,6 +6,7 @@ type: "default"
 ---
 {{< left_image_section
     title="Who maintains NavCore.org?"
+    titleSize="27px"
     imgSrc="/images/circle-icons/nav_purple-navcoinmaintain.png"
     bgColor="#7d5ab5"
     linkBgColor="#523971"
@@ -21,7 +22,7 @@ type: "default"
 {{< /left_image_section >}}
 {{< home_centre_text_section
     title="Separating concerns"
-    bgColor="#7d5ab5"
+    bgColor="#7d5ab5"    
     titleColor="#333">}}
 
     <p>The NavCoin Core Developers are working towards making the navcoin.org website fully open source so anyone from the community can submit updates or changes through GitHub. A change request would be directly made to the public GitHub repository for review. Once this is setup, the responsibility for approving pull requests into the site can be spread out to include a wider section of the NavCoin community.</p>
