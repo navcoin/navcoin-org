@@ -128,9 +128,10 @@ type: "default"
     bgColor="#7957b1"
     backgroundImageUrl="/images/spend-your-navcoin-banner.png"
     containerPadding="40px 0 30px 0"
-    title="Spend Your NavCoin!"
+    title="Pay With NavCoin Here"
     btn1Link="/merchants"
-    btn1Txt="Check out the Stores!"
+    btn1Txt="Merchants Accepting NavCoin"
     buttonColor="#42b6eb"
     fontColor="#fff">}}
+    <p>You can use your NavCoin to buy all sorts of things online and in stores. Check out these merchants that accept NAV and show your support.</p>
 {{< /center_text_section >}}

@@ -4,7 +4,7 @@
             {{ if isset .Params "title"}}
                 <h2 class="themeix-title-h1" style="color: {{ .Get "fontColor" }}">{{ .Get "title"}}</h2>
             {{ end }}
-            <div style="color: {{ .Get "fontColor" }}">{{ .Inner }}</div>
+            <div class="center-text-section-inner" style="color: {{ .Get "fontColor" }}">{{ .Inner }}</div>
             {{ if isset .Params "btn1Link" }}
                 <div class="themeix-button-group">
                     <a href="{{ .Get "btn1Link" }}" class="themeix-btn themeix-danger smoothScroll" style=" background-color: {{ .Get "buttonColor" }};">{{ .Get "btn1Txt" }}</a>
