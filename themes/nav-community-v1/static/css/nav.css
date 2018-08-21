@@ -37,6 +37,28 @@
     background-color: white;
     transition: 0.5s ease; }
 
+.gradient-btn {
+  font-family: 'Raleway', sans-serif;
+  border-color: #c6b7fd;
+  color: white;
+  transition: 0.2s ease;
+  background: -moz-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+  /* ff3.6+ */
+  background: -webkit-gradient(90deg, linear, left bottom, right top, color-stop(0%, #56b6e7), color-stop(100%, #c63db8));
+  /* safari4+,chrome */
+  background: -webkit-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+  /* safari5.1+,chrome10+ */
+  background: -o-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+  /* opera 11.10+ */
+  background: -ms-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+  /* ie10+ */
+  background: linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+  /* w3c */ }
+  .gradient-btn:hover, .gradient-btn:active {
+    color: white;
+    filter: brightness(110%);
+    transition: 0.2s ease; }
+
 .white-btn {
   border-color: #7d59b5;
   color: #7d59b5;
@@ -58,6 +80,7 @@
     transition: 0.2s ease; }
 
 .contrib-list .contrib-list-title {
+  font-size: 28px;
   margin: 50px 0; }
 
 .contrib-list .git-disp-pic {
@@ -107,6 +130,29 @@
       margin-top: 5px; }
     .contrib-list .single-item .faded-text {
       font-size: 15px; } }
+
+.center-text-section {
+  text-align: center;
+  min-height: 400px;
+  background: no-repeat;
+  background-position: center;
+  background-size: contain; }
+  .center-text-section h2 {
+    font-size: 30px; }
+  .center-text-section .center-text-section-inner {
+    max-width: 800px; }
+  .center-text-section.left {
+    background-position: left; }
+  .center-text-section.right {
+    background-position: right; }
+
+.center-text-section-content {
+  height: inherit;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 400px; }
 
 body:nth-child(2) {
   margin-top: 54px; }
@@ -268,7 +314,8 @@ a:hover, a:active, a:focus, a:visited {
   .left-image-section .img-container, .right-image-section .img-container {
     display: flex;
     align-items: flex-end;
-    flex-direction: column; }
+    flex-direction: column;
+    align-content: center; }
   .left-image-section img, .right-image-section img {
     max-width: 295px;
     min-width: 175px; }
@@ -304,6 +351,47 @@ a:hover, a:active, a:focus, a:visited {
   .right-image-section .img-container {
     order: -1; } }
 
+.half-image-half-text-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+  width: 100vw; }
+  .half-image-half-text-section .content {
+    max-width: 1000px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row wrap; }
+    .half-image-half-text-section .content div {
+      padding: 0 15px; }
+      .half-image-half-text-section .content div div {
+        padding: 0; }
+  .half-image-half-text-section img {
+    width: inherit;
+    height: inherit;
+    min-width: 175px;
+    max-height: 300px;
+    width: 50%;
+    height: inherit; }
+  .half-image-half-text-section .text-content {
+    width: 50%;
+    min-width: 400px; }
+  .half-image-half-text-section.left-image img {
+    order: -1; }
+  @media (max-width: 799px) {
+    .half-image-half-text-section {
+      text-align: center;
+      min-height: 600px; }
+      .half-image-half-text-section img {
+        max-height: 300px;
+        order: -1; }
+      .half-image-half-text-section.left-image img {
+        max-height: 300px; } }
+
 .home-features {
   min-height: 375px;
   background-color: #fff; }
@@ -329,7 +417,7 @@ a:hover, a:active, a:focus, a:visited {
     flex-direction: column;
     align-items: center;
     padding: 0;
-    padding-top: 30px; }
+    padding-top: 45px; }
     .home-links-section .service-main h3 {
       font-weight: normal;
       font-size: 26px; }
@@ -338,9 +426,17 @@ a:hover, a:active, a:focus, a:visited {
   .home-links-section img {
     max-width: 178px; }
 
+.box-container {
+  padding: 20px; }
+
 .links-section h3, .contrib-list h3, .home-links-section h3 {
   font-weight: normal;
   font-size: 26px; }
+
+.link-section-link {
+  font-size: 110%;
+  text-decoration: underline;
+  color: #337ab7; }
 
 .box-list h3 {
   font-family: "Roboto", sans-serif;
