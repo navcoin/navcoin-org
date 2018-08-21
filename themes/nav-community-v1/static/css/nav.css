@@ -205,7 +205,6 @@ a:hover, a:active, a:focus, a:visited {
 }
 
 .box-list-supreme #box-items>div{
-  cursor: pointer;
   margin-right: 5px;
   display: inline-block;
   background-color: rgba(33, 33, 33, 0.5);
