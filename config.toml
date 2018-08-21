@@ -82,64 +82,71 @@ twitter_username = "navcoin"
         identifier = "manifestos"
         parent = "getting-started"
     [[menu.main]]
+        name = "Proposals"
+        title = "Proposals"
+        weight = 4
+        url = "/proposals"
+        identifier = "proposals"
+        parent = "getting-started"
+    [[menu.main]]
         name = "Buying NavCoin"
         title = "Buying NavCoin"
-        weight = 4
+        weight = 6
         url = "/buying-navcoin"
         identifier = "buying-navcoin"
         parent = "learn"
     [[menu.main]]
         name = "Community Fund"
         title = "Community Fund"
-        weight = 5
+        weight = 8
         identifier = "community-fund"
         url = "/community-fund/"
         parent="learn"
     [[menu.main]]
         name = "Knowledge Base"
         title = "Knowledge Base"
-        weight = 6
+        weight = 10
         url = "https://info.navcoin.org"
         parent="learn"
     [[menu.main]]
         name = "Merchants"
         title = "Merchants"
-        weight = 7
+        weight = 12
         url = "/merchants"
         identifier = "merchants"
         parent = "learn"
     [[menu.main]]
         name = "Manifestos"
         title = "Manifestos"
-        weight = 7
+        weight = 14
         url = "/manifestos"
         identifier = "manifestos"
         parent = "learn"
     [[menu.main]]
         name = "Buying NavCoin"
         title = "Buying NavCoin"
-        weight = 8
+        weight = 16
         url = "/buying-navcoin"
         identifier = "buying-navcoin"
         parent = "learn"
     [[menu.main]]
         name = "Accepting NavCoin"
         title = "Accepting NavCoin"
-        weight = 9
+        weight = 18
         url = "/how-to-accept-navcoin"
         identifier = "how-to-accept-navcoin"
         parent = "learn"
     [[menu.main]]
         name = "About This Website"
         title = "About This Website"
-        weight = 10
+        weight = 20
         url = "/about-this-website/"
         identifier = "about-this-website"
         parent = "learn"
     [[menu.main]]
         name = "Contribute"
         title = "Contribute"
-        weight = 12
+        weight = 22
         url = "/contribute/"
         identifier = "contribute"
         parent = "learn"
