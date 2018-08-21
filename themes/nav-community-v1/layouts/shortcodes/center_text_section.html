@@ -1,4 +1,4 @@
-<div class="center-text-section" style="background-color: {{ .Get "bgColor" }}; background-image: url({{ .Get "backgroundImageUrl" }});">
+<div class="center-text-section {{ .Get "backgroundImageSide" }}" style="background-color: {{ .Get "bgColor" }}; background-image: url({{ .Get "backgroundImageUrl" }});">
     <div class="container">
         <div class=" about-pb center-text-section-content" style="padding: {{ .Get "containerPadding" }};">
             {{ if isset .Params "title"}}
@@ -7,7 +7,7 @@
             <div class="center-text-section-inner" style="color: {{ .Get "fontColor" }}">{{ .Inner }}</div>
             {{ if isset .Params "btn1Link" }}
                 <div class="themeix-button-group">
-                    <a href="{{ .Get "btn1Link" }}" class="themeix-btn themeix-danger smoothScroll" style=" background-color: {{ .Get "buttonColor" }};">{{ .Get "btn1Txt" }}</a>
+                    <a href="{{ .Get "btn1Link" }}" class=" {{ if eq (.Get "gradient") "true" }} round-btn gradient-btn {{ else }} themeix-btn themeix-danger smoothScroll {{ end }}" style=" background-color: {{ .Get "buttonColor" }};">{{ .Get "btn1Txt" }}</a>
                 </div>
             {{ end }}
         </div>

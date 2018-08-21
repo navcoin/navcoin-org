@@ -10,6 +10,13 @@
   .center-text-section-inner {
     max-width: 800px;
   }
+
+  &.left {
+    background-position: left;
+  }
+  &.right {
+    background-position: right;
+  }
 }
 
 .center-text-section-content {

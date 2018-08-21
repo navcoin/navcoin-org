@@ -37,6 +37,28 @@
     background-color: white;
     transition: 0.5s ease; }
 
+.gradient-btn {
+  font-family: 'Raleway', sans-serif;
+  border-color: #c6b7fd;
+  color: white;
+  transition: 0.2s ease;
+  background: -moz-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+  /* ff3.6+ */
+  background: -webkit-gradient(90deg, linear, left bottom, right top, color-stop(0%, #56b6e7), color-stop(100%, #c63db8));
+  /* safari4+,chrome */
+  background: -webkit-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+  /* safari5.1+,chrome10+ */
+  background: -o-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+  /* opera 11.10+ */
+  background: -ms-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+  /* ie10+ */
+  background: linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+  /* w3c */ }
+  .gradient-btn:hover, .gradient-btn:active {
+    color: white;
+    filter: brightness(110%);
+    transition: 0.2s ease; }
+
 .white-btn {
   border-color: #7d59b5;
   color: #7d59b5;
@@ -118,6 +140,10 @@
     font-size: 30px; }
   .center-text-section .center-text-section-inner {
     max-width: 800px; }
+  .center-text-section.left {
+    background-position: left; }
+  .center-text-section.right {
+    background-position: right; }
 
 .center-text-section-content {
   height: inherit;
@@ -352,6 +378,9 @@ a:hover, a:active, a:focus, a:visited {
     font-family: 'Raleway', sans-serif; }
   .home-links-section img {
     max-width: 178px; }
+
+.box-container {
+  padding: 20px; }
 
 .links-section h3, .contrib-list h3, .home-links-section h3 {
   font-weight: normal;
