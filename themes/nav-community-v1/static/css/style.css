@@ -806,16 +806,7 @@ header {
     margin-right: 0;
     text-align: left;
 }
-#features .highlight.active .fa {
-    background: none!important;
-}
-#features .highlight.active .themeix-feature-title,
-#features .highlight.active .feature-icon i {
-    color: #3F8EE8;
-}
-#features {
-    background: #fff;
-}
+
 .feature-content .themeix-feature-title {
     font-size: 20px;
     margin-bottom: 5px;
@@ -3551,4 +3542,13 @@ body > p {
 .news-content h3 {
   font-size: 18px;
   font-weight: bold;
+}
+
+.news-content table {
+  width: 100%;
+  margin: 20px;
+}
+
+.news-content table tr {
+  border-bottom: 1px solid #DDD;
 }
