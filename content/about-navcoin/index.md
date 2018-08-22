@@ -30,7 +30,6 @@ type: "default"
     titleColor="#FFF"
     textColor="#FFF"
     textSize="16px">}}
-
     <p>No need to wait 10 minutes. Send NAV anywhere on the planet instantly and have it confirmed within 30 seconds.</p>
 {{< /left_image_section >}}
 {{< left_image_section
@@ -63,8 +62,9 @@ type: "default"
 {{< /left_image_section >}}
 {{< features
     bgColor="#f5f5f5"
-    txtColor="#747474"
-    fontColor="#333333"
+    borderBox="true"
+    textFontColor="#747474"
+    titleFontColor="#333333"
     containerPadding="70px 0"
     feature1Img="/images/circle-icons/nav_blue-ecofriendly.png"
     feature1Title="Eco-friendly"

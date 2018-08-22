@@ -1,13 +1,19 @@
-.center-text-section {  
+.text-section {  
   text-align: center;
-  min-height: 400px;
+  min-height: 300px;
   background: no-repeat;
   background-position: center;
   background-size: contain;  
+  &.left {
+    text-align: left;
+  }
+  &.right {
+    text-align: right;
+  }
   h2 {
     font-size: 30px;
   }
-  .center-text-section-inner {
+  .text-section-inner {
     max-width: 800px;
   }
 
@@ -19,11 +25,10 @@
   }
 }
 
-.center-text-section-content {
-  height: inherit;
+.text-section-content {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  min-height: 400px;
+  min-height: 300px;
 }

@@ -1,7 +1,7 @@
 @import "./colors.scss";
 @import "./button.scss";
 @import "./contrib-list.scss";
-@import "./center_text_section.scss";
+@import "./text_section.scss";
 
 body:nth-child(2) {
   margin-top: 54px;
@@ -323,7 +323,8 @@ a {
     }
   }
 }
-.home-features {
+
+.features-section {
   min-height: 375px;
   background-color: #fff;
   h3 {
@@ -337,15 +338,30 @@ a {
     flex-direction: column;
     align-items: center;
     padding: 0;
-    padding-top: 45px;
+    padding-top: 45px 15px;
   }
   img {
     max-width: 178px;
   }
+
+  &.border-box {
+    img {
+      max-width: 80px;
+    }
+    .service-main {
+      padding: 15px;
+    }
+    .single-item {
+      margin: 20px 0;
+      border: 1px solid #7e7e7e;
+    }
+  }
+
 }
 
-.home-links-section {
-  min-height: 600px;
+.links-section {
+  text-align: center;
+  min-height: 300px;
   .text-content {
     max-width: 330px;
   }
@@ -367,7 +383,11 @@ a {
 
   img {
     max-width: 178px;
+    &.drop-shadow {
+      filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.2));
+    }
   }
+  
 }
 
 .box-container {

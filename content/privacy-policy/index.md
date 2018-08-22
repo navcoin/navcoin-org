@@ -3,7 +3,7 @@ title: "Privacy Policy"
 date: 2018-03-12T17:47:48+13:00
 draft: false
 ---
-{{< center_text_section
+{{< text_section
     title="Privacy Policy"
     bgColor="#fff"
     titleColor="#333">}}
@@ -38,4 +38,4 @@ This Privacy Policy was last updated: 26th March, 2018.</p>
 
 <h3>Contact Us</h3>
 <p>If you have any questions about our privacy policy, or how your data is being collected and processed, please join the <a href="https://discord.gg/y4Vu9jw" target="e">community discord channel</a>.</p>
-{{< /center_text_section >}}
+{{< /text_section >}}

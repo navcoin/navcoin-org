@@ -17,14 +17,14 @@ description: ""
     imgPadding="0px"
     bgColor="#FFF"
     fontColor="#333">}}
-{{< center_text_section
+{{< text_section
     bgColor="#42b6eb"
     gradient=""
     containerPadding="40px 0 70px 0"
     title="It’s Easy to Use"
     fontColor="#FFF">}}
     <p>The NavCoin Core wallet has been carefully refined to be intuitive and easy to use. It comes with a setup wizard and everything you need to load the blockchain and start sending transactions in a secure environment.</p>
-{{< /center_text_section >}}
+{{< /text_section >}}
 {{< project_features
     fontColor="#333"
     gradient="false"

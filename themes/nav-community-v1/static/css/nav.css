@@ -131,28 +131,31 @@
     .contrib-list .single-item .faded-text {
       font-size: 15px; } }
 
-.center-text-section {
+.text-section {
   text-align: center;
-  min-height: 400px;
+  min-height: 300px;
   background: no-repeat;
   background-position: center;
   background-size: contain; }
-  .center-text-section h2 {
+  .text-section.left {
+    text-align: left; }
+  .text-section.right {
+    text-align: right; }
+  .text-section h2 {
     font-size: 30px; }
-  .center-text-section .center-text-section-inner {
+  .text-section .text-section-inner {
     max-width: 800px; }
-  .center-text-section.left {
+  .text-section.left {
     background-position: left; }
-  .center-text-section.right {
+  .text-section.right {
     background-position: right; }
 
-.center-text-section-content {
-  height: inherit;
+.text-section-content {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  min-height: 400px; }
+  min-height: 300px; }
 
 body:nth-child(2) {
   margin-top: 54px; }
@@ -392,39 +395,49 @@ a:hover, a:active, a:focus, a:visited {
       .half-image-half-text-section.left-image img {
         max-height: 300px; } }
 
-.home-features {
+.features-section {
   min-height: 375px;
   background-color: #fff; }
-  .home-features h3 {
+  .features-section h3 {
     font-size: 26px; }
-  .home-features .text-content {
+  .features-section .text-content {
     max-width: 330px; }
-  .home-features .service-main {
+  .features-section .service-main {
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 0;
-    padding-top: 45px; }
-  .home-features img {
+    padding-top: 45px 15px; }
+  .features-section img {
     max-width: 178px; }
+  .features-section.border-box img {
+    max-width: 80px; }
+  .features-section.border-box .service-main {
+    padding: 15px; }
+  .features-section.border-box .single-item {
+    margin: 20px 0;
+    border: 1px solid #7e7e7e; }
 
-.home-links-section {
-  min-height: 600px; }
-  .home-links-section .text-content {
+.links-section {
+  text-align: center;
+  min-height: 300px; }
+  .links-section .text-content {
     max-width: 330px; }
-  .home-links-section .service-main {
+  .links-section .service-main {
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 0;
     padding-top: 45px; }
-    .home-links-section .service-main h3 {
+    .links-section .service-main h3 {
       font-weight: normal;
       font-size: 26px; }
-  .home-links-section h2 {
+  .links-section h2 {
     font-family: 'Raleway', sans-serif; }
-  .home-links-section img {
+  .links-section img {
     max-width: 178px; }
+    .links-section img.drop-shadow {
+      filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.2)); }
 
 .box-container {
   padding: 20px; }
