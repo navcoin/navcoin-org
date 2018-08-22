@@ -25,7 +25,7 @@ description: ""
 {{< /left_image_section >}}
 
 {{< links_section_supreme
-    section_margin="3vh 0 0 0"
+    section_margin="70px 0 0 0"
     bg_color="#f0f0f0"
     icon_bg_color="#fff"
     title_color="#fff"
