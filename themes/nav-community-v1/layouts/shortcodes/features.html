@@ -1,7 +1,6 @@
-<section id="project">
-    <div class="our-service-section {{ if eq (.Get "gradient") "true" }} bg-gradient {{ end }}">
-        <div style="padding: {{ .Get "containerPadding" }}; background-image: url({{ .Get "bgImgSrc" }}); background-color: {{ .Get "bgColor" }};">
-          <div class="container">
+<section class="features-section {{ if eq (.Get "gradient") "true" }} bg-gradient {{ end }} {{ if eq (.Get "borderBox") "true" }} border-box {{ end }}">
+    <div style="padding: {{ .Get "containerPadding" }}; background-image: url({{ .Get "bgImgSrc" }}); background-color: {{ .Get "bgColor" }};">
+        <div class="container">
             <div class="row">
                 <div class="col-sm-4">
                     <div class="single-item">
@@ -9,9 +8,9 @@
                             <div class="service-icon">
                                 <img src="{{ .Get "feature1Img" }}" alt="">
                             </div>
-                            <div class="service-content">
-                                <h3 style="color: {{ .Get "fontColor" }}">{{ .Get "feature1Title" }}</h3>
-                                <p class="themeix-para-style" style="color: {{ .Get "fontColor" }}">{{ .Get "feature1Txt"  }}</p>
+                            <div class="text-content">
+                                <h3 style="color: {{ .Get "titleFontColor" }}">{{ .Get "feature1Title" }}</h3>
+                                <p class="themeix-para-style" style="color: {{ .Get "textFontColor" }}">{{ .Get "feature1Txt"  }}</p>
                             </div>
                         </div>
                     </div>
@@ -22,9 +21,9 @@
                             <div class="service-icon">
                                 <img src="{{ .Get "feature2Img" }}" alt="">
                             </div>
-                            <div class="service-content">
-                                <h3 style="color: {{ .Get "fontColor" }}">{{ .Get "feature2Title" }}</h3>
-                                <p class="themeix-para-style" style="color: {{ .Get "fontColor" }}">{{ .Get "feature2Txt"  }}</p>
+                            <div class="text-content">
+                                <h3 style="color: {{ .Get "titleFontColor" }}">{{ .Get "feature2Title" }}</h3>
+                                <p class="themeix-para-style" style="color: {{ .Get "textFontColor" }}">{{ .Get "feature2Txt"  }}</p>
                             </div>
                         </div>
                     </div>
@@ -35,9 +34,9 @@
                             <div class="service-icon">
                                 <img src="{{ .Get "feature3Img" }}" alt="">
                             </div>
-                            <div class="service-content">
-                                <h3 style="color: {{ .Get "fontColor" }}">{{ .Get "feature3Title" }}</h3>
-                                <p class="themeix-para-style" style="color: {{ .Get "fontColor" }}">{{ .Get "feature3Txt"  }}</p>
+                            <div class="text-content">
+                                <h3 style="color: {{ .Get "titleFontColor" }}">{{ .Get "feature3Title" }}</h3>
+                                <p class="themeix-para-style" style="color: {{ .Get "textFontColor" }}">{{ .Get "feature3Txt"  }}</p>
                             </div>
                         </div>
                     </div>
@@ -51,9 +50,9 @@
                             <div class="service-icon">
                                 <img src="{{ .Get "feature4Img" }}" alt="">
                             </div>
-                            <div class="service-content">
-                                <h3 style="color: {{ .Get "fontColor" }}">{{ .Get "feature4Title" }}</h3>
-                                <p class="themeix-para-style" style="color: {{ .Get "fontColor" }}">{{ .Get "feature4Txt"  }}</p>
+                            <div class="text-content">
+                                <h3 style="color: {{ .Get "titleFontColor" }}">{{ .Get "feature4Title" }}</h3>
+                                <p class="themeix-para-style" style="color: {{ .Get "textFontColor" }}">{{ .Get "feature4Txt"  }}</p>
                             </div>
                         </div>
                     </div>
@@ -64,9 +63,9 @@
                             <div class="service-icon">
                                 <img src="{{ .Get "feature5Img" }}" alt="">
                             </div>
-                            <div class="service-content">
-                                <h3 style="color: {{ .Get "fontColor" }}">{{ .Get "feature5Title" }}</h3>
-                                <p class="themeix-para-style" style="color: {{ .Get "fontColor" }}">{{ .Get "feature5Txt"  }}</p>
+                            <div class="text-content">
+                                <h3 style="color: {{ .Get "titleFontColor" }}">{{ .Get "feature5Title" }}</h3>
+                                <p class="themeix-para-style" style="color: {{ .Get "textFontColor" }}">{{ .Get "feature5Txt"  }}</p>
                             </div>
                         </div>
                     </div>
@@ -77,16 +76,15 @@
                             <div class="service-icon">
                                 <img src="{{ .Get "feature6Img" }}" alt="">
                             </div>
-                            <div class="service-content">
-                                <h3 style="color: {{ .Get "fontColor" }}">{{ .Get "feature6Title" }}</h3>
-                                <p class="themeix-para-style" style="color: {{ .Get "fontColor" }}">{{ .Get "feature6Txt"  }}</p>
+                            <div class="text-content">
+                                <h3 style="color: {{ .Get "titleFontColor" }}">{{ .Get "feature6Title" }}</h3>
+                                <p class="themeix-para-style" style="color: {{ .Get "textFontColor" }}">{{ .Get "feature6Txt"  }}</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             {{ end }}
-          </div>
         </div>
     </div>
 </section>

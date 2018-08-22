@@ -3,9 +3,9 @@ title: "Terms of Use"
 date: 2018-03-12T17:47:48+13:00
 draft: false
 ---
-{{< home_centre_text_section
+{{< text_section
     title="Terms of Use"
-    bgColor="#7d5ab5"
+    bgColor="#fff"
     titleColor="#333">}}
 
 <p>© NavCoin 2014-2018 is released under the <a href="http://opensource.org/licenses/mit-license.php">MIT license</a>.</p>
@@ -29,4 +29,4 @@ draft: false
 
 <h3>Viruses and malware</h3>
 <p>The NavCoin Core Developers takes many precautions to ensure the files available for downloading through this website are not tampered with, and where appropriate SHA hashes are provided for end users to confirm they have downloaded the correct file. Nonetheless, the NavCoin Core Developers do not guarantee that files available for downloading through this website will be free of infection or viruses or other code that may have contaminating or destructive properties. You are responsible for implementing sufficient procedures and checkpoints to satisfy your particular requirements for integrity, security and accuracy of data input and output, and for maintaining a means external to the site for the reconstruction of any lost data. It is almost always advisable to check the SHA hashes of the files you have downloaded, and if in any doubt consider compiling NavCoin from the source code.</p>
-{{< /home_centre_text_section >}}
+{{< /text_section >}}
