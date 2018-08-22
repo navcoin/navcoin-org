@@ -147,8 +147,9 @@ a:hover, a:active, a:focus, a:visited {
 /* links_section_supreme */
 
 .box-list-supreme {
-  width: 90%;
+  width: 100%;
   margin: 0 auto;
+  padding-top: 2vh;
 }
 
 .box-list-supreme .drop-shadow {
@@ -160,6 +161,7 @@ a:hover, a:active, a:focus, a:visited {
 .box-list-supreme .item-card {
   display: flex;
   flex-basis: 300px;
+  max-width: 99%;
   position: relative;
 }
 

@@ -25,6 +25,7 @@ description: ""
 {{< /left_image_section >}}
 
 {{< links_section_supreme
+    section_margin="0"
     bg_color="#f0f0f0"
     icon_bg_color="#fff"
     title_color="#fff"
@@ -33,7 +34,7 @@ description: ""
     text_margin="5px 0 10px 0"
     btn_color="#fff"
     btn_margin="0 0 12px 0"
-    card_color="#55acee"
+    card_color="#7d5ab5"
     card_margin="10px 0 0 0"
     card_shadow="true"
     
@@ -69,6 +70,7 @@ description: ""
     item3_sub1_img="/images/platforms/pi.svg">}}
 
 {{< links_section_supreme
+    section_margin="0"
     bg_color="#f0f0f0"
     icon_bg_color="#fff"
     title_color="#fff"
@@ -77,7 +79,7 @@ description: ""
     text_margin="5px 0 10px 0"
     btn_color="#fff"
     btn_margin="0 0 12px 0"
-    card_color="#55acee"
+    card_color="#7d5ab5"
     card_margin="10px 0 0 0"
     card_shadow="true"
     
@@ -111,6 +113,7 @@ description: ""
     item3_sub2_img="/images/platforms/android.svg">}}
 
 {{< links_section_supreme
+    section_margin="0 0 6vh 0"
     bg_color="#f0f0f0"
     icon_bg_color="#fff"
     title_color="#fff"
@@ -119,7 +122,8 @@ description: ""
     text_margin="5px 0 10px 0"
     btn_color="#fff"
     btn_margin="0 0 12px 0"
-    card_color="#55acee"
+    row_margin="10px 0 0 0"
+    card_color="#7d5ab5"
     card_margin="10px 0 0 0"
     card_shadow="true"
     
