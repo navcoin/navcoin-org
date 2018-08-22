@@ -6,6 +6,7 @@ type: "default"
 ---
 {{< left_image_section
     title="NavCoin Core Manifestos"
+    textAlign="left"
     imgSrc="/images/icons/nav_purple-contract-large.png"
     imgHeight="286px"
     imgPadding="10px"
@@ -20,8 +21,9 @@ type: "default"
     <p>The objective of NavCoin Developer and Content Manifestos is to clearly set out the reasons contributors to the NavCoin community do what we do, how we do it and why. These documents cover guiding principles, purpose, scope of work and operational requirements to ensure we share the same values and always operate in the best interests of the network.</p>
 {{< /left_image_section >}}
 
-{{<text_section
+{{< text_section
     title="Proposal Details"
+    textAlign="left"
     bgColor="#FFF"
     linkBgColor="#523971"
     titleColor="#FFF"

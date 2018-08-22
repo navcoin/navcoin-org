@@ -4,7 +4,6 @@ date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
 ---
-
 {{< left_image_section
     title="Merchants accepting NavCoin"
     titleSize="27px"
@@ -24,14 +23,12 @@ type: "default"
 <p>Anyone can accept NavCoin on their website or in their store to receive instant global payments.</p>
 <p>If your store accepts NavCoin and you would like to be listed on this page, read about how you can contribute to this website through the link below.
 {{< /left_image_section >}}
-
-
 {{< links_section
-  title="Pay With NavCoin Here"
+    title="Pay With NavCoin Here"
     subtitle="You can use your NavCoin to buy all sorts of things online and in stores. Check out these merchants that accept NAV and show your support."   
     containerPadding="40px 0 0px 0"
     titleMargin="20px 0 40px 0"
-    class="links-image-shadow"
+    dropShadow="true"
     bgColor="#FFF"
     gradient="false"
     feature1Img="navPi.png"
@@ -49,12 +46,13 @@ type: "default"
     feature3Desc="Wear NavCoin with pride with this range of branded merchandise."
     feature3Txt="Go to website »"
     feature3Link="https://navcoinstore.com/"
- >}}
+>}}
 {{< links_section
     containerPadding="0 0 80px 0"
     titleMargin="0 0 0 0"
     class="links-image-shadow"
     bgColor="#FFF"
+    dropShadow="true"
     gradient="false"
     feature1Img="kirkDunkley.png"
     feature1Title="BitcoinGallery.Art"
@@ -72,7 +70,6 @@ type: "default"
     feature3Txt="Go to website »"
     feature3Link="https://alwayshodl.com/pages/official-nav-collection"
 >}}
-
 {{< links_section
     title="Merchant tools"
     subtitle="If you’re interested in accepting NavCoin in your store, here are some tools to get you started."
