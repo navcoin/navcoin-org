@@ -62,7 +62,6 @@ type: "default"
 {{< /left_image_section >}}
 {{< features
     bgColor="#f5f5f5"
-    borderBox="true"
     textFontColor="#747474"
     titleFontColor="#333333"
     containerPadding="70px 0"
