@@ -21,22 +21,20 @@ type: "default"
 {{< /left_image_section >}}
 {{< center_text_section
     bgColor="#FFF"
-    gradient=""
+    backgroundImageUrl=""
     containerPadding="40px 0 0 0"
     title="Beyond NavCoin Core"
-    txtColor="#7a7a7a">}}
-    <p>There is a whole eco-system of software which developers have created to operate on or alongside the NavCoin protocol. All software the NavCoin Core developers create is also free and open-source. Any developer can contribute to these projects through the many <a href="https://github.com/NAVCoin" class="dark-grey-txt-underline" target="e">NavCoin GitHub</a> repositories.</p>
+    txtColor="#7a7a7a" >}}
+<p>There is a whole eco-system of software which developers have created to operate on or alongside the NavCoin protocol. All software the NavCoin Core developers create is also free and open-source. Any developer can contribute to these projects through the many <a href="https://github.com/NAVCoin" class="dark-grey-txt-underline" target="e">NavCoin GitHub</a> repositories.</p>
 
-    <p>Development discussion for each project takes place on GitHub. Less formal development discussion happens on the <a href="https://discord.gg/y4Vu9jw" class="dark-grey-txt-underline" target="e">NavCoin Discord</a>.</p>
+<p>Development discussion for each project takes place on GitHub. Less formal development discussion happens on the <a href="https://discord.gg/y4Vu9jw" class="dark-grey-txt-underline" target="e">NavCoin Discord</a>.</p>
 
-    <p>Don’t forget that NavCoin is simply a protocol. Anyone can build their own wallet, service, website, application or space suit that implements NavCoin.</p>
+<p>Don’t forget that NavCoin is simply a protocol. Anyone can build their own wallet, service, website, application or space suit that implements NavCoin.</p>
 
-    <hr style="margin: 30px 0 0 0" />
+<hr style="margin: 30px 0 0 0" />
 {{< /center_text_section >}}
-
 {{< center_text_section
     bgColor="#FFF"
-    gradient=""
     containerPadding="0"
     title="Code Review"
     txtColor="#7a7a7a">}}
@@ -48,7 +46,6 @@ type: "default"
 {{< /center_text_section >}}
 {{< center_text_section
     bgColor="#FFF"
-    gradient=""
     containerPadding="0"
     title="Starter Projects"
     txtColor="#7a7a7a">}}
@@ -61,7 +58,6 @@ type: "default"
     {{< /center_text_section >}}
 {{< center_text_section
     bgColor="#FFF"
-    gradient=""
     containerPadding="0 0 70px 0"
     title="Documentation"
     txtColor="#7a7a7a">}}

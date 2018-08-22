@@ -1,6 +1,7 @@
 @import "./colors.scss";
 @import "./button.scss";
 @import "./contrib-list.scss";
+@import "./center_text_section.scss";
 
 body:nth-child(2) {
   margin-top: 54px;
@@ -304,6 +305,10 @@ a {
   img {
     max-width: 178px;
   }
+}
+
+.box-container {
+  padding: 20px;
 }
 
 .links-section, .contrib-list, .home-links-section {

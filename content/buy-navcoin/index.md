@@ -1,11 +1,11 @@
 ---
-title: "Buying NavCoin"
+title: "Buy NavCoin"
 date: 2018-03-20T07:41:22+13:01
 draft: false
 type: "default"
 ---
 {{< left_image_section
-    title="Cryptocurrency Exchanges"
+    title="Buy NavCoin"
     imgSrc="/images/circle-icons/nav_purple-merchants.png"
     imgHeight="400px"
     imgPadding="20px"
@@ -15,7 +15,7 @@ type: "default"
     titleSize="27px"
     titleColor="#FFF"     
     textColor="#FFF">}}
-      <p>NavCoin is publicly mined and ran no token sale. The only way to get NAV is to purchase it from a third party or exchange. Exchanges provide highly varying degrees of safety, security, privacy, and control over your funds and information. Perform your own due diligence and choose a wallet where you will keep your NavCoin before selecting an exchange.</p>
+    <p>NavCoin is publicly mined and ran no token sale. The only way to get NAV is to purchase it from a third party or exchange. Exchanges provide highly varying degrees of safety, security, privacy, and control over your funds and information. Perform your own due diligence and choose a wallet where you will keep your NavCoin before selecting an exchange.</p>
 {{< /left_image_section >}}
 {{< box_links_section
     dropShadow="true"
@@ -124,26 +124,16 @@ type: "default"
     feature1Title="Change NOW"
     feature1Txt="Instant Exchange"
     feature1Link="https://changenow.io/">}}
-{{< links_section
-    title="NavCoin Communities"
-    subtitle="If you’re unsure which exchange to use or how they work, talk to one of the many helpful NavCoin community members through these channels."
-    titleSize="27px"
-    titleFontColor="#fff"
-    subtitleFontColor="#fff"
-    txtFontColor="#fff"
-    bgColor="#7d5ab5"
-    containerPadding="70px 0"
-    titleMargin="0 0 20px 0"
-    gradient="false"
-    feature1Img="/images/circle-icons/github.png"
-    feature1Title="GitHub"
-    feature1Txt="Join us on GitHub »"
-    feature1Link="https://github.com/NavCoin"
-    feature2Img="/images/circle-icons/reddit.png"
-    feature2Title="Reddit"
-    feature2Txt="Join us on Reddit »"
-    feature2Link="https://reddit.com/r/NavCoin"
-    feature3Img="/images/circle-icons/discord.png"
-    feature3Title="Discord"
-    feature3Txt="Join us on Discord »"
-    feature3Link="https://discord.gg/y4Vu9jw">}}
+{{< center_text_section
+    bgColor="#7957b1"
+    backgroundImageUrl="/images/spend-your-navcoin-banner.png"
+    backgroundImageSide="left"
+    containerPadding="40px 0 30px 0"
+    gradient="true"
+    title="Pay With NavCoin Here"
+    btn1Link="/merchants"
+    btn1Txt="Merchants Accepting NavCoin"
+    buttonColor="#42b6eb"
+    fontColor="#fff">}}
+    <p>You can use your NavCoin to buy all sorts of things online and in stores. Check out these merchants that accept NAV and show your support.</p>
+{{< /center_text_section >}}
