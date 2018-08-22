@@ -67,7 +67,7 @@ description: ""
     item3_text_color="#555"
     item3_btn_url="https://navhub.org/projects/nav-pi/#links"
     item3_btn_text="Download"
-    item3_sub1_img="/images/platforms/pi.svg">}}
+    item3_sub1_img="/images/platforms/pi.png">}}
 
 {{< links_section_supreme
     section_margin="0"
