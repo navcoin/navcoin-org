@@ -60,6 +60,13 @@ twitter_username = "navcoin"
         url = "/notices/"
         identifier = "notices"
         parent = "protocol"
+    [[menu.main]]
+        name = "NavCoin Core"
+        title = "NavCoin Core"
+        weight = 3
+        url = "/navcoin-core/"
+        identifier = "core"
+        parent = "protocol"
 
 [[menu.main]]
     name = "Learn"
