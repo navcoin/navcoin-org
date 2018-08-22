@@ -158,7 +158,8 @@ a:hover, a:active, a:focus, a:visited {
 }
 
 .box-list-supreme .item-card {
-  min-width: 300px;
+  display: flex;
+  flex-basis: 300px;
   position: relative;
 }
 
