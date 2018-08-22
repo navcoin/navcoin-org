@@ -59,7 +59,6 @@ description: ""
     item2_sub3_img="/images/platforms/linux.svg"
     item2_sub4_img="/images/platforms/android.svg"
     item2_sub5_img="/images/platforms/web.svg"
-    item2_sub6_img="/images/platforms/web.svg"
     
     item3_title="NavPi Stakebox v1.0.9"
     item3_img="/images/logos/wallet-navpi-logo.png"
