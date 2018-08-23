@@ -60,6 +60,13 @@ twitter_username = "navcoin"
         url = "/notices/"
         identifier = "notices"
         parent = "protocol"
+    [[menu.main]]
+        name = "NavCoin Core"
+        title = "NavCoin Core"
+        weight = 3
+        url = "/navcoin-core/"
+        identifier = "core"
+        parent = "protocol"
 
 
 # Main Menu
@@ -189,30 +196,9 @@ twitter_username = "navcoin"
         url = "https://www.navcoinitalia.com/"
         parent="community"
 
-
 [[menu.main]]
-    name = "Downloads"
-    title = "Downloads"
+    name = "Wallets"
+    title = "Wallets"
     weight = 4
-    identifier = "downloads"
-    [[menu.main]]
-        name = "NavCoin Core"
-        title = "NavCoin Core"
-        weight = 1
-        identifier = "navcoin-core"
-        url = "/navcoin-core/"
-        parent="downloads"
-    [[menu.main]]
-        name = "NavPay"
-        title = "NavPay"
-        weight = 2
-        identifier = "navpay"
-        url = "/navpay/"
-        parent="downloads"
-    [[menu.main]]
-        name = "All Downloads"
-        title = "All Downloads"
-        weight = 3
-        identifier = "all-downloads"
-        url = "/downloads/"
-        parent="downloads"
+    identifier = "wallets"
+    url = "/wallets/"

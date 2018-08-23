@@ -12,31 +12,27 @@ type: "default"
     imgPadding="20px"
     bgColor="#7d5ab5"
     linkBgColor="#523971"
-    gradient=""
     btn1Link="https://github.com/NAVCoin/navcoin-core"
     btn1Txt="NavCoin GitHub"
     titleColor="#FFF"
     textColor="#FFF">}}
     <p>NavCoin is free software and any developer can contribute to the project. Everything you need is in the GitHub repository. Please make sure to read and follow the development process described in the README, as well as to provide good quality code and respect all guidelines.</p>
 {{< /left_image_section >}}
-{{< center_text_section
+{{< text_section
     bgColor="#FFF"
-    gradient=""
     containerPadding="40px 0 0 0"
     title="Beyond NavCoin Core"
-    txtColor="#7a7a7a">}}
-    <p>There is a whole eco-system of software which developers have created to operate on or alongside the NavCoin protocol. All software the NavCoin Core developers create is also free and open-source. Any developer can contribute to these projects through the many <a href="https://github.com/NAVCoin" class="dark-grey-txt-underline" target="e">NavCoin GitHub</a> repositories.</p>
+    txtColor="#7a7a7a" >}}
+<p>There is a whole eco-system of software which developers have created to operate on or alongside the NavCoin protocol. All software the NavCoin Core developers create is also free and open-source. Any developer can contribute to these projects through the many <a href="https://github.com/NAVCoin" class="dark-grey-txt-underline" target="e">NavCoin GitHub</a> repositories.</p>
 
-    <p>Development discussion for each project takes place on GitHub. Less formal development discussion happens on the <a href="https://discord.gg/y4Vu9jw" class="dark-grey-txt-underline" target="e">NavCoin Discord</a>.</p>
+<p>Development discussion for each project takes place on GitHub. Less formal development discussion happens on the <a href="https://discord.gg/y4Vu9jw" class="dark-grey-txt-underline" target="e">NavCoin Discord</a>.</p>
 
-    <p>Don’t forget that NavCoin is simply a protocol. Anyone can build their own wallet, service, website, application or space suit that implements NavCoin.</p>
+<p>Don’t forget that NavCoin is simply a protocol. Anyone can build their own wallet, service, website, application or space suit that implements NavCoin.</p>
 
-    <hr style="margin: 30px 0 0 0" />
-{{< /center_text_section >}}
-
-{{< center_text_section
+<hr style="margin: 30px 0 0 0" />
+{{< /text_section >}}
+{{< text_section
     bgColor="#FFF"
-    gradient=""
     containerPadding="0"
     title="Code Review"
     txtColor="#7a7a7a">}}
@@ -45,10 +41,9 @@ type: "default"
     <p>Please also consider helping to review other people’s pull requests. You don’t need to be an expert in NavCoin, the NavCoin Core codebase, or C++ (although all these things help). There are almost always open pull requests that any programmer can review.</p>
 
     <hr style="margin: 30px 0 0 0" />
-{{< /center_text_section >}}
-{{< center_text_section
+{{< /text_section >}}
+{{< text_section
     bgColor="#FFF"
-    gradient=""
     containerPadding="0"
     title="Starter Projects"
     txtColor="#7a7a7a">}}
@@ -58,15 +53,15 @@ type: "default"
     <h3>Write tests</h3>
     <p>NavCoin’s various softwares are covered by many tests, but patches that improve test coverage are always welcome and are a great way to build familiarity with the codebase. See the documentation about automated testing.</p>
     <hr style="margin: 30px 0 0 0" />
-    {{< /center_text_section >}}
-{{< center_text_section
+    {{< /text_section >}}
+{{< text_section
     bgColor="#FFF"
-    gradient=""
     containerPadding="0 0 70px 0"
     title="Documentation"
-    txtColor="#7a7a7a">}}
+    txtColor="#7a7a7a"
+    btn1Link="tests">}}
     <p>If you are interested in learning more about the technical details of NavCoin and how to use existing tools and APIs, it is recommended you start by exploring the self documented code in GitHub or join the discussion on the <a href="https://discord.gg/y4Vu9jw" target="e" class="dark-grey-txt-underline">NavCoin Discord</a>.
-{{< /center_text_section >}}
+{{< /text_section >}}
 {{< links_section
     title="Join the Community"
     subtitle="If you’re interested in contributing to NavCore.org or any NavCoin projects, get in touch with the NavCoin Community."
@@ -76,7 +71,6 @@ type: "default"
     bgColor="#7d5ab5"
     containerPadding="70px 0"
     titleMargin="0 0 20px 0"
-    gradient="false"
     feature1Img="/images/circle-icons/github.png"
     feature1Title="GitHub"
     feature1Txt="Join us on GitHub »"
