@@ -123,7 +123,11 @@ type: "default"
     feature1Img="/images/service/change-now.jpg"
     feature1Title="Change NOW"
     feature1Txt="Instant Exchange"
-    feature1Link="https://changenow.io/">}}
+    feature1Link="https://changenow.io/"
+    feature2Img="/images/service/coindirect.png"
+    feature2Title="Coindirect"
+    feature2Txt="BTC, ETH, XRP, BCH, LTC, USDT, DASH to NAV"
+    feature2Link="https://www.coindirect.com/buy/navcoin">}}
 {{< links_section
     title="NavCoin Communities"
     subtitle="If you’re unsure which exchange to use or how they work, talk to one of the many helpful NavCoin community members through these channels."
