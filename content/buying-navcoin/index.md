@@ -126,7 +126,7 @@ type: "default"
     feature1Link="https://changenow.io/"
     feature2Img="/images/service/coindirect.png"
     feature2Title="Coindirect"
-    feature2Txt="BTC, ETH, XRP, BCH, LTC, USDT, DASH to NAV"
+    feature2Txt="Direct Purchase"
     feature2Link="https://www.coindirect.com/buy/navcoin">}}
 {{< links_section
     title="NavCoin Communities"
