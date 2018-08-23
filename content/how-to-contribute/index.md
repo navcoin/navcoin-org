@@ -18,7 +18,7 @@ type: "default"
 
     <p >Want to contribute to NavCoin? A guide to making open source contributions, for first-timers and for veterans.</p>
 {{< /left_image_section >}}
-{{< center_text_section
+{{< text_section
     bgColor="#FFF"
     gradient=""
     containerPadding="40px 0 0 0"
@@ -52,10 +52,10 @@ type: "default"
     <div>
     
     <hr style="margin: 30px 0 0 0" />
-{{< /center_text_section >}}
+{{< /text_section >}}
 
 
-{{< center_text_section
+{{< text_section
     bgColor="#FFF"
     gradient=""
     containerPadding="40px 0 0 0"
@@ -134,9 +134,9 @@ type: "default"
     <div>
     
     <hr style="margin: 30px 0 0 0" />
-{{< /center_text_section >}}
+{{< /text_section >}}
 
-{{< center_text_section
+{{< text_section
     bgColor="#FFF"
     gradient=""
     containerPadding="40px 0 0 0"
@@ -173,10 +173,10 @@ type: "default"
     <div>
     
     <hr style="margin: 30px 0 0 0" />
-{{< /center_text_section >}}
+{{< /text_section >}}
 
 
-{{< center_text_section
+{{< text_section
     bgColor="#FFF"
     gradient=""
     containerPadding="40px 0 0 0"
@@ -202,7 +202,7 @@ type: "default"
     <div>
     
     <hr style="margin: 30px 0 0 0" />
-{{< /center_text_section >}}
+{{< /text_section >}}
 
 
 
@@ -210,7 +210,7 @@ type: "default"
 
 
 
-{{< center_text_section
+{{< text_section
     bgColor="#FFF"
     gradient=""
     containerPadding="40px 0 0 0"
@@ -224,9 +224,9 @@ type: "default"
     <div>
     
     <hr style="margin: 30px 0 0 0" />
-{{< /center_text_section >}}
+{{< /text_section >}}
 
-{{< center_text_section
+{{< text_section
     bgColor="#FFF"
     gradient=""
     containerPadding="0"
@@ -237,8 +237,8 @@ type: "default"
     <p>Please also consider helping to review other people’s pull requests. You don’t need to be an expert in NavCoin, the NavCoin Core codebase, or C++ (although all these things help). There are almost always open pull requests that any programmer can review.</p>
 
     <hr style="margin: 30px 0 0 0" />
-{{< /center_text_section >}}
-{{< center_text_section
+{{< /text_section >}}
+{{< text_section
     bgColor="#FFF"
     gradient=""
     containerPadding="0"
@@ -250,12 +250,12 @@ type: "default"
     <h3>Write tests</h3>
     <p>NavCoin’s various softwares are covered by many tests, but patches that improve test coverage are always welcome and are a great way to build familiarity with the codebase. See the documentation about automated testing.</p>
     <hr style="margin: 30px 0 0 0" />
-    {{< /center_text_section >}}
-{{< center_text_section
+    {{< /section >}}
+{{< text_section
     bgColor="#FFF"
     gradient=""
     containerPadding="0 0 70px 0"
     title="Documentation"
     txtColor="#7a7a7a">}}
     <p>If you are interested in learning more about the technical details of NavCoin and how to use existing tools and APIs, it is recommended you start by exploring the self documented code in GitHub or join the discussion on the <a href="https://discord.gg/y4Vu9jw" target="e" class="dark-grey-txt-underline">NavCoin Discord</a>.
-{{< /center_text_section >}}f contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+{{< /text_section >}}f contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
