@@ -20,15 +20,14 @@ type: "default"
 
 <p>If you have a suggestion, or want to get your project added to the roadmap, talk to a community member on the <a href="https://discord.gg/y4Vu9jw" class="white-txt-underline">NavCoin Discord</a> who can help get your update integrated.</p>
 {{< /left_image_section >}}
-{{< home_centre_text_section
+{{< text_section
     title="Separating concerns"
-    bgColor="#7d5ab5"    
+    bgColor="#fff"    
     titleColor="#333">}}
-
-    <p>The NavCoin Core Developers are working towards making the navcoin.org website fully open source so anyone from the community can submit updates or changes through GitHub. A change request would be directly made to the public GitHub repository for review. Once this is setup, the responsibility for approving pull requests into the site can be spread out to include a wider section of the NavCoin community.</p>
+<p>The NavCoin Core Developers are working towards making the navcoin.org website fully open source so anyone from the community can submit updates or changes through GitHub. A change request would be directly made to the public GitHub repository for review. Once this is setup, the responsibility for approving pull requests into the site can be spread out to include a wider section of the NavCoin community.</p>
 
 <p>Until this site is open source, please bear with us and raise any projects you want added, or content updated through the NavCoin community channels. The NavCore team or a community member can help you to get your suggestions integrated into this website.</p>
-{{< /home_centre_text_section >}}
+{{< /text_section >}}
 {{< links_section
     title="NavCoin Communities"
     subtitle="If you’re interested in contributing to navcoin.org please connect with the NavCore team and other NavCoin community members through one of these community channels."

@@ -32,7 +32,6 @@ description: ""
     featureTitleFontColor="#fff"
     txtFontColor="#555"
     btnFontColor="#555"
-
     bgColor="#f0f0f0"
     boxBgColor="#fff"
     containerPadding="40px 0 70px 0"
