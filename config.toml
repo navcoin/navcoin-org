@@ -42,16 +42,16 @@ twitter_username = "navcoin"
 
 # Main Menu
 [[menu.main]]
-    name = "About"
-    title = "About"
+    name = "Why NavCoin"
+    title = "Why NavCoin"
     weight = 1
-    url = "/about-navcoin/"
-    identifier = "about-NavCoin"
+    url = "/why-navcoin/"
+    identifier = "why-NavCoin"
 
 [[menu.main]]
     name = "Protocol"
     title = "Protocol"
-    weight = 1
+    weight = 2
     identifier = "protocol"
     [[menu.main]]
         name = "Notices"
@@ -71,7 +71,7 @@ twitter_username = "navcoin"
 [[menu.main]]
     name = "Learn"
     title = "Learn"
-    weight = 2
+    weight = 3
     identifier = "learn"
     depth = 1
     [[menu.main]]
