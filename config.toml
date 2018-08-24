@@ -77,22 +77,29 @@ twitter_username = "navcoin"
     [[menu.main]]
         name = "Getting Started"
         title = "Getting Started"
-        weight = 2
+        weight = 1
         url = "/getting-started/"
         identifier = "getting-started"
+        parent = "learn"
+    [[menu.main]]
+        name = "For Developers"
+        title = "For Developers"
+        weight = 2
+        url = "/for-developers/"
+        identifier = "for-developers"
         parent = "learn"
     [[menu.main]]
         name = "Manifestos"
         title = "Manifestos"
         weight = 3
-        url = "/manifestos"
+        url = "/manifestos/"
         identifier = "manifestos"
         parent = "getting-started"
     [[menu.main]]
         name = "Buying NavCoin"
         title = "Buying NavCoin"
         weight = 4
-        url = "/buying-navcoin"
+        url = "/buying-navcoin/"
         identifier = "buying-navcoin"
         parent = "learn"
     [[menu.main]]
@@ -112,28 +119,14 @@ twitter_username = "navcoin"
         name = "Merchants"
         title = "Merchants"
         weight = 7
-        url = "/merchants"
+        url = "/merchants/"
         identifier = "merchants"
-        parent = "learn"
-    [[menu.main]]
-        name = "Manifestos"
-        title = "Manifestos"
-        weight = 7
-        url = "/manifestos"
-        identifier = "manifestos"
-        parent = "learn"
-    [[menu.main]]
-        name = "Buying NavCoin"
-        title = "Buying NavCoin"
-        weight = 8
-        url = "/buying-navcoin"
-        identifier = "buying-navcoin"
         parent = "learn"
     [[menu.main]]
         name = "Accepting NavCoin"
         title = "Accepting NavCoin"
         weight = 9
-        url = "/how-to-accept-navcoin"
+        url = "/how-to-accept-navcoin/"
         identifier = "how-to-accept-navcoin"
         parent = "learn"
     [[menu.main]]
