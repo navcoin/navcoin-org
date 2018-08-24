@@ -79,52 +79,52 @@ type: "default"
        
         <h3>Do you like planning events?</h3>
         <ul>
-            <li> - Organize workshops or meetups about the project, like @fzamperin did for NodeSchool</li>
-            <li> - Organize the project’s conference (if they have one)</li>
-            <li> - OHelp community members find the right conferences and submit proposals for speaking</li>
+            <li>Organize workshops or meetups about the project, like @fzamperin did for NodeSchool</li>
+            <li>Organize the project’s conference (if they have one)</li>
+            <li>Help community members find the right conferences and submit proposals for speaking</li>
         </ul>
         
         <h3>Do you like to design?</h3>
         <ul>
-            <li> - Restructure layouts to improve the project’s usability</li>
-            <li> - Conduct user research to reorganize and refine the project’s navigation or menus.</li>
-            <li> - Put together a style guide to help the project have a consistent visual design</li>
-            <li> - Create art for t-shirts or a new logo, like hapi.js’s contributors did</li>
+            <li>Restructure layouts to improve the project’s usability</li>
+            <li>Conduct user research to reorganize and refine the project’s navigation or menus.</li>
+            <li>Put together a style guide to help the project have a consistent visual design</li>
+            <li> Create art for t-shirts or a new logo, like hapi.js’s contributors did</li>
         </ul>
         
         
         <h3>Do you like to write?</h3>
         <ul>
-            <li> - Write and improve the project’s documentation</li>
-            <li> - Curate a folder of examples showing how the project is used</li>
-            <li> - Start a newsletter for the project, or curate highlights from the mailing list</li>
-            <li> - Write tutorials for the project, like PyPA’s contributors did</li>
-            <li> - Write a translation for the NavCoin and its documentation</li>
+            <li>Write and improve the project’s documentation</li>
+            <li>Curate a folder of examples showing how the project is used</li>
+            <li>Start a newsletter for the project, or curate highlights from the mailing list</li>
+            <li>Write tutorials for the project, like PyPA’s contributors did</li>
+            <li>Write a translation for the NavCoin and its documentation</li>
         </ul>
         
         <h3>Do you like to code?</h3>
          <ul>
-             <li> - Find an open issue to tackle, like @dianjin did for Leaflet</li>
-             <li> - Ask if you can help write a new feature</li>
-             <li> - Automate project setup</li>
-             <li> - Improve tooling and testing/li>
-             <li> - Build your own level two app on top of NavCoin, like @prodpak and @sakdienx did</li>
+             <li>Find an open issue to tackle, like @dianjin did for Leaflet</li>
+             <li>Ask if you can help write a new feature</li>
+             <li>Automate project setup</li>
+             <li>Improve tooling and testing/li>
+             <li>Build your own level two app on top of NavCoin, like @prodpak and @sakdienx did</li>
          </ul>
          
                  
         <h3>Do you like helping people?</h3>
         <ul>
-            <li> - Answer questions about the project on Discord or Reddit</li>
-            <li> - Answer questions for people on open issues</li>
-            <li> - Help moderate the discussion boards or conversation channels</li>
+            <li>Answer questions about the project on Discord or Reddit</li>
+            <li>Answer questions for people on open issues</li>
+            <li>Help moderate the discussion boards or conversation channels</li>
         </ul>
         
         
         <h3>Do you like helping people?</h3>
         <ul>
-            <li> - Review code on other people’s submissions</li>
-            <li> - Write tutorials for how a project can be used</li>
-            <li> - Offer to mentor another contributor, like @ereichert did for @bronzdoc on Rust</li>
+            <li>Review code on other people’s submissions</li>
+            <li>Write tutorials for how a project can be used</li>
+            <li>Offer to mentor another contributor, like @ereichert did for @bronzdoc on Rust</li>
         </ul>
         
         <h3>You don’t just have to work on software projects!</h3>
@@ -167,8 +167,8 @@ type: "default"
             <li><strong>Author:</strong> Generally this is the person/s or organization that created the project, But NavCoin is different in the fact that there is not author. </li>
              <li><strong>Owner:</strong> Again this is  generally a person/s who has administrative ownership over the organization or repository. But NavCoin is completely owned byt the community. </li>
              <li><strong>Maintainers:</strong> Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)</li>
-             Contributors: Everyone who has contributed something back to the project.
-             Community Members: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
+             <li><strong>Contributors:</strong> Everyone who has contributed something back to the project.</li>
+              <li><strong>Community Members:</strong> People who use the project. They might be active in conversations or express their opinion on the project’s direction.</li>
         </ul>
     <div>
     
@@ -190,72 +190,75 @@ type: "default"
             You have decided to help out, and you’re ready to make a contribution. Finally! Here’s how to get your contribution in the right way.
         </p>
     
-               
-        <p>Whether you’re a one-time contributor or trying to join the NavCoin community, working with others is one of the most important skills you’ll develop when contributing to NavCoin.</p>
         
+        <p>Whether you’re a one-time contributor or trying to join the NavCoin community, working with others is one of the most important skills you’ll develop when contributing to NavCoin.</p>
+     
+    </div>
+    
+     <div style="border: 1px solid #ccc; padding: 60px;max-width: 800px;margin:40px auto 40px auto;">
+        <p>[As a new contributor,] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.</p>
+    
+        <p> — @shubheksha, A Beginner’s Very Bumpy Journey Through The World of Open Source </p>
+    </div>
+    
+    
+    
+    <div style="text-align:left; max-width: 700px; margin:0 auto;"> 
         <p>Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.</p>
         
+        <p>Give context. Help others get quickly up to speed. If you’re running into an error, explain what you’re trying to do and how to reproduce it. If you’re suggesting a new idea, explain why you think it’d be useful to the project (not just to you!)</p>
         
+        😇 “X doesn’t happen when I do Y”
         
-   
+        😢 “X is broken! Please fix it.”
         
-    <div>
+        Do your homework beforehand. It’s OK not to know things, but show that you tried. Before asking for help, be sure to check a project’s README, documentation, issues (open or closed), mailing list, and search the internet for an answer. People will appreciate when you demonstrate that you’re trying to learn.
+        
+        😇 “I’m not sure how to implement X. I checked the help docs and didn’t find any mentions.”
+        
+        😢 “How do I X?”
+        
+        Keep requests short and direct. Much like sending an email, every contribution, no matter how simple or helpful, requires someone else’s review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
+        
+        😇 “I’d like to write an API tutorial.”
+        
+        😢 “I was driving down the highway the other day and stopped for gas, and then I had this amazing idea for something we should be doing, but before I explain that, let me show you…“
+        
+        Keep all communication public. Although it’s tempting, don’t reach out to maintainers privately unless you need to share sensitive information (such as a security issue or serious conduct violation). When you keep the conversation public, more people can learn and benefit from your exchange. Discussions can be, in themselves, contributions.
+        
+        😇 (as a comment) “@-maintainer Hi there! How should we proceed on this PR?”
+        
+        😢 (as an email) “Hey there, sorry to bother you over email, but I was wondering if you’ve had a chance to review my PR”
+        
+        It’s okay to ask questions (but be patient!). Everybody was new to the project at some point, and even experienced contributors need to get up to speed when they look at a new project. By the same token, even longtime maintainers are not always familiar with every part of the project. Show them the same patience that you’d want them to show to you.
+        
+        😇 “Thanks for looking into this error. I followed your suggestions. Here’s the output.”
+        
+        😢 “Why can’t you fix my problem? Isn’t this your project?”
+        
+        Respect community decisions. Your ideas may differ from the community’s priorities or vision. They may offer feedback or decide not to pursue your idea. While you should discuss and look for compromise, maintainers have to live with your decision longer than you will. If you disagree with their direction, you can always work on your own fork or start your own project.
+        
+        😇 “I’m disappointed you can’t support my use case, but as you’ve explained it only affects a minor portion of users, I understand why. Thanks for listening.”
+        
+        😢 “Why won’t you support my use case? This is unacceptable!”
+        
+        Above all, keep it classy. Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It’s fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
+        
+        Gathering context
+        Before doing anything, do a quick check to make sure your idea hasn’t been discussed elsewhere. Skim the project’s README, issues (open and closed), mailing list, and Stack Overflow. You don’t have to spend hours going through everything, but a quick search for a few key terms goes a long way.
+        
+        If you can’t find your idea elsewhere, you’re ready to make a move. If the project is on GitHub, you’ll likely communicate by opening an issue or pull request:
+        
+        Issues are like starting a conversation or discussion
+        Pull requests are for starting work on a solution
+        For lightweight communication, such as a clarifying or how-to question, try asking on Stack Overflow, IRC, Slack, or other chat channels, if the project has one
+        Before you open an issue or pull request, check the project’s contributing docs (usually a file called CONTRIBUTING, or in the README), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
+        
+        If you want to make a substantial contribution, open an issue to ask before working on it. It’s helpful to watch the project for a while (on GitHub, you can click “Watch” to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
+    </div>
+    
     
     <hr style="margin: 30px 0 0 0" />
 {{< /text_section >}}
 
 
-
-
-
-
-
-{{< text_section
-    bgColor="#FFF"
-    gradient=""
-    containerPadding="40px 0 0 0"
-    title="Why contribute to NavCoin?"
-    txtColor="#7a7a7a">}}
-    
-    
-    <div style="text-align:left; max-width: 600px; margin:0 auto;"> 
-    <p>Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.</p>
-    <p>Why do people contribute to open source? Plenty of reasons!<p>
-    <div>
-    
-    <hr style="margin: 30px 0 0 0" />
-{{< /text_section >}}
-
-{{< text_section
-    bgColor="#FFF"
-    gradient=""
-    containerPadding="0"
-    title="Code Review"
-    txtColor="#7a7a7a">}}
-    <p>NavCoin and its associated projects are security software that help protect assets worth millions of dollars, so every code change needs to be reviewed by experienced developers. It can take a long time for other developers to review your pull requests. Remember that all reviewers are taking time away from their own projects to review your pull requests, so be patient and respectful of their time.</p>
-
-    <p>Please also consider helping to review other people’s pull requests. You don’t need to be an expert in NavCoin, the NavCoin Core codebase, or C++ (although all these things help). There are almost always open pull requests that any programmer can review.</p>
-
-    <hr style="margin: 30px 0 0 0" />
-{{< /text_section >}}
-{{< text_section
-    bgColor="#FFF"
-    gradient=""
-    containerPadding="0"
-    title="Starter Projects"
-    txtColor="#7a7a7a">}}
-    <p>Do you want to begin coding for NavCoin but don’t have a specific improvement in mind? Here are a few ideas:</p>
-    <h3>Fix existing issues</h3>
-    <p>The issue tracker for each repository is the best place to find a useful way to contribute to NavCoin. Before starting to write any patches for issues you find, you may want to comment on the issue to make sure nobody else is already working on it.</p>
-    <h3>Write tests</h3>
-    <p>NavCoin’s various softwares are covered by many tests, but patches that improve test coverage are always welcome and are a great way to build familiarity with the codebase. See the documentation about automated testing.</p>
-    <hr style="margin: 30px 0 0 0" />
-    {{< /section >}}
-{{< text_section
-    bgColor="#FFF"
-    gradient=""
-    containerPadding="0 0 70px 0"
-    title="Documentation"
-    txtColor="#7a7a7a">}}
-    <p>If you are interested in learning more about the technical details of NavCoin and how to use existing tools and APIs, it is recommended you start by exploring the self documented code in GitHub or join the discussion on the <a href="https://discord.gg/y4Vu9jw" target="e" class="dark-grey-txt-underline">NavCoin Discord</a>.
-{{< /text_section >}}f contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
