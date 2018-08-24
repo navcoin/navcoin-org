@@ -400,6 +400,8 @@ a:hover, a:active, a:focus, a:visited {
   background-color: #fff; }
   .features-section h3 {
     font-size: 26px; }
+  .features-section p {
+    font-size: 15px; }
   .features-section .text-content {
     max-width: 330px; }
   .features-section .service-main {

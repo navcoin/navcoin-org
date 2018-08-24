@@ -18,42 +18,43 @@ type: "default"
     <p>NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of NavCoin is carried out collectively by the network. <b>NavCoin is open-source; its design is public, nobody owns or controls NavCoin and everyone can take part.</b></p>
     <p>NavCoin has a range of sleek and intuitive wallets that allows you to easily manage your NavCoin and keep your funds secure.</p>
 {{< /left_image_section >}}
-{{< links_section
-boxStyle="true"
+{{< features
+borderBox="true"
 txtFontColor="#777"
 containerPadding="70px 0 0 0"
 feature1Img="/images/circle-icons/nav_blue-fast.png"
 feature1Title="Control your money"
 feature1Desc="Roadmap, projects, news and more."
-feature1Txt="Visit website »"
+feature1Txt="NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of NavCoin is carried out collectively by the network. NavCoin is open-source; its design is public, nobody owns or controls NavCoin and everyone can take part."
 feature1Link="https://navcore.org/"
 feature2Img="/images/circle-icons/nav_blue-fast.png"
 feature2Title="Peer to Peer"
 feature2Desc="Videos, written tutorials and more."
-feature2Txt="Visit website »"
+feature2Txt="NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of NavCoin is carried out collectively by the network. NavCoin is open-source; its design is public, nobody owns or controls NavCoin and everyone can take part."
 feature2Link="https://navtechservers.com/"
 feature3Img="/images/circle-icons/nav_blue-fast.png"
 feature3Title="New way to transact"
 feature3Desc="Discussion forums, tools and more."
-feature3Txt="Visit website »"
+feature3Txt="NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of NavCoin is carried out collectively by the network. NavCoin is open-source; its design is public, nobody owns or controls NavCoin and everyone can take part."
 feature3Link="http://navcommunity.net/">}}
-{{< links_section
-boxStyle="true"
+{{< features
+borderBox="true"
 txtFontColor="#777"
-containerPadding="0px 0 50px 0"
+containerPadding="0px 0 100px 0"
 feature1Img="/images/circle-icons/nav_blue-fast.png"
 feature1Title="No Censorship"
 feature1Desc="Roadmap, projects, news and more."
-feature1Txt="Visit website »"
+feature1Txt="NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of NavCoin is carried out collectively by the network. NavCoin is open-source; its design is public, nobody owns or controls NavCoin and everyone can take part."
 feature1Link="https://navcore.org/"
 feature2Img="/images/circle-icons/nav_blue-fast.png"
 feature2Title="Transparent Governance"
 feature2Desc="Videos, written tutorials and more."
-feature2Txt="Visit website »"
+feature2Txt="NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of NavCoin is carried out collectively by the network. NavCoin is open-source; its design is public, nobody owns or controls NavCoin and everyone can take part."
 feature2Link="https://navtechservers.com/"
 feature3Img="/images/circle-icons/nav_blue-fast.png"
 feature3Title="Eco Friendly"
 feature3Desc="Discussion forums, tools and more."
-feature3Txt="Visit website »"
-feature3Link="http://navcommunity.net/">}}
-<h1>Git startud</h1>
+feature3Txt="NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of NavCoin is carried out collectively by the network. NavCoin is open-source; its design is public, nobody owns or controls NavCoin and everyone can take part."
+feature3Link="http://navcommunity.net/"
+btnTxt="Get Started"
+btnLink="/buy-navcoin">}}
