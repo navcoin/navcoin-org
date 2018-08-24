@@ -1,4 +1,4 @@
-<div class="text-section flex{{ if eq (.Get "gradient") "true" }} bg-gradient {{ end }} {{ if eq (.Get "smallSize") "true" }} small-section {{end}}" style="background-color:{{ .Get "bgColor"}}; padding: {{ .Get "containerPadding" }}; text-section {{ .Get "backgroundImageSide" }} {{ .Get "textAlign" }}; background-image: url({{ .Get "backgroundImageUrl" }});">
+<div class="text-section {{ .Get "backgroundImageSide" }} {{ .Get "textAlign" }}" style="background-color: {{ .Get "bgColor" }}; background-image: url({{ .Get "backgroundImageUrl" }});">
     <div class="container">
         <div class="text-section-content" style="padding: {{ .Get "containerPadding" }};">
             <div>   
