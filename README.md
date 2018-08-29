@@ -28,6 +28,10 @@ Please note that Hugo is a hot loading site and that changing and saving files w
 ## Editing Content
 All content for the site is held in markdown files in the content folder. The content sections match the sections of the site.
 
+## Shortcode documentation
+
+For the new theme's shortcodes, see [/themes/nav-community-v2/docs/how-to-use-shortcodes.md](/themes/nav-community-v2/docs/how-to-use-shortcodes.md)
+
 ### Adding news item
 When creating a new item it is recommend you use the Hugo commandline tool as this will use the right archetype and populate the properties
 

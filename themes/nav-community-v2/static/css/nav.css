@@ -77,11 +77,17 @@
     color: #1381b4;
     transition: 0.2s ease; }
 
+@media (max-width: 600px) {
+  .round-btn {
+    font-size: 14px;
+    padding: 8px 18px; } }
+
 /*****************************
         Shortcodes 
 *****************************/
 .bottom-cta-section {
   background-color: #7D5AB5;
+  color: #fff;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -92,10 +98,28 @@
     text-align: center;
     margin: 0 0 50px 0;
     font-size: 40px;
-    line-height: 0.8; }
+    line-height: 0.8;
+    font-weight: 600; }
   .bottom-cta-section img {
     height: 15px;
     margin-left: 25px; }
+  .bottom-cta-section .inner-text {
+    font-family: 'Roboto' sans-serif;
+    max-width: 666px;
+    text-align: center;
+    margin-top: -15px;
+    margin-bottom: 36px;
+    padding: 0 15px; }
+  .bottom-cta-section.light-style {
+    background-color: #fff; }
+    .bottom-cta-section.light-style .title {
+      color: #7D5AB5; }
+    .bottom-cta-section.light-style .inner-text {
+      color: #404040; }
+
+@media (max-width: 600px) {
+  .bottom-cta-section .title {
+    font-size: 30px; } }
 
 .contrib-list .contrib-list-title {
   font-size: 28px;

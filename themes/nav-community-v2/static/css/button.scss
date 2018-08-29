@@ -97,3 +97,10 @@
     color: #1381b4; 
     transition: 0.2s ease  }
 }
+
+@media (max-width: 600px) {
+  .round-btn {
+    font-size: 14px;
+    padding: 8px 18px;
+  }
+}
