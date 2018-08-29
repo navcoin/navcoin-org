@@ -2,12 +2,10 @@
 @import "./colors.scss";
 
 .round-btn {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Raleway', 'Regular', Helvetica, Arial, sans-serif;
   font-size: 16px;
   padding: 12px 28px;
   border-radius: 37px;
-  margin-top: 10px;
-  margin-bottom: 10px;
   border: black 2px solid;
   display: inline-block;
   min-width: 210px;
@@ -19,7 +17,7 @@
   color: white;
   background-color: #7d59b5;
   transition: 0.2s ease;
-  &:hover, &:active{
+  &:hover, &:active, &:focus {
     color: white;
     background-color: #523973; 
     transition: 0.2s ease
@@ -46,30 +44,31 @@
 }
 
 .gradient-btn {
-  font-family: 'Raleway', sans-serif;
-  border-color: #c6b7fd;
+  border: none;
   color: white;
   transition: 0.2s ease;
-  background: -moz-linear-gradient(90deg,#56b6e7 0%, #c63db8 100%);
+    
+  filter: drop-shadow(rgba(87, 73, 165, 0.24) 1px 13px 35px);
+  background: -moz-linear-gradient(90deg,#A34BC1 0%, #4AA9E4 100%);
   /* ff3.6+ */
 
-  background: -webkit-gradient(90deg, linear, left bottom, right top, color-stop(0%, #56b6e7),
-          color-stop(100%, #c63db8));
+  background: -webkit-gradient(90deg, linear, left bottom, right top, color-stop(0%, #A34BC1),
+          color-stop(100%, #4AA9E4));
   /* safari4+,chrome */
 
-  background: -webkit-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+  background: -webkit-linear-gradient(90deg, #A34BC1 0%, #4AA9E4 100%);
   /* safari5.1+,chrome10+ */
 
-  background: -o-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+  background: -o-linear-gradient(90deg, #A34BC1 0%, #4AA9E4 100%);
   /* opera 11.10+ */
 
-  background: -ms-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+  background: -ms-linear-gradient(90deg, #A34BC1 0%, #4AA9E4 100%);
   /* ie10+ */
 
-  background: linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+  background: linear-gradient(90deg, #A34BC1 0%, #4AA9E4 100%);
   /* w3c */
 
-  &:hover, &:active{
+  &:hover, &:active, &:focus{
     color: white;
     filter: brightness(110%); 
     transition: 0.2s ease
@@ -80,7 +79,7 @@
   border-color: $nav-purple-dark;
   color: $nav-purple-dark;
   background-color: white;
-  &:hover, &:active{
+  &:hover, &:active, &:focus{
     border-color: #7d59b5;
     color: #7d59b5;
     transition: 0.5s ease;    
@@ -93,7 +92,7 @@
   color: white;
   background-color: #42b6eb;
   transition: 0.2s ease;
-  &:hover, &:active{
+  &:hover, &:active, &:focus{
     border-color: #1381b4;
     color: #1381b4; 
     transition: 0.2s ease  }

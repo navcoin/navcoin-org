@@ -1,10 +1,17 @@
 @import "./colors.scss";
 @import "./button.scss";
+
+/*****************************
+        Shortcodes 
+*****************************/
+@import "./bottom-cta.scss";
 @import "./contrib-list.scss";
 @import "./text_section.scss";
 
-body:nth-child(2) {
-  margin-top: 54px;
+
+
+body {
+  padding-top: 54px;
 }
 
 a {
@@ -530,7 +537,7 @@ a {
 .arrow {
   display: inline-block;
   vertical-align: middle;
-  margin-top: -1px;
+  padding-top: -1px;
   margin-left: 4px;
   width: 0;
   height: 0;
