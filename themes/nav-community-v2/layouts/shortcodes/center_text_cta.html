@@ -1,4 +1,4 @@
-<div class="center-text-cta-section {{ if eq  ( .Get "lightStyle" ) "true" }} light-style {{ end }}" >
+<div class="center-text-cta-section {{ if (isset  .Params "innerText") }} inner-text-exists {{ end }} {{ if eq  ( .Get "lightStyle" ) "true" }} light-style {{ end }} " >
     <h2 class="title" >{{ .Get "titleText"}}</h2>
     {{ if (isset  .Params "innerText") }}
         <p class="inner-text">

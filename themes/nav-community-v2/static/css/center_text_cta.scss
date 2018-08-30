@@ -30,8 +30,12 @@
     padding: 0 15px;
   }
 
+  &.inner-text-exists {
+    padding: 80px 0;
+  }
+
   &.light-style {
-    background-color: #fff;
+    background-color: #FAFAFA;
     .title {
       color: #7D5AB5;
     }
