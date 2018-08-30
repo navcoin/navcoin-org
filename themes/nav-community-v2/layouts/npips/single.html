@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+{{ partial "head.html" . }}
+
+<body data-spy="scroll" data-target="#header-menu">
+
+  {{ partial "header.html" .  }}
+
+  {{ partial "header_three.html" . }}
+
+<div class="appiex-blog-content section-ptb-2">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-8">
+                <div class="blog-item">
+                  <div class="blog-meta-wrapper">
+                      <div class="blog-meta">
+                          {{ if .Params.author }}
+                          <div class="blog-author">
+                              <i class="fa fa-user-o"></i> {{.Params.author}}
+                          </div>
+                          {{end}}
+
+                          <div class="blog-author">
+                            {{ range .Params.npip_categories }}
+                            <i class="fa fa-folder-open-o"></i>{{.}}
+                            {{end}}
+                          </div>
+                      </div>
+                      {{ partial "social_share.html" .  }}
+                  </div>
+                  <div class="clearfix"></div>
+                    <div class="blog-details">
+                            <div class="news-content">
+                                {{ .Content }}
+                            </div>
+                        <div class="blog-meta-wrapper" style="margin-top: 30px;">
+                            <div class="blog-meta">
+                                {{ if .Params.author }}
+                                <div class="blog-author">
+                                    <i class="fa fa-user-o"></i> {{.Params.author}}
+                                </div>
+                                {{end}}
+                                <div class="blog-author">
+                                  {{ range .Params.npip_categories }}
+                                  <i class="fa fa-folder-open-o"></i>{{.}}
+                                  {{end}}
+                                </div>
+                            </div>
+                            {{ partial "social_share.html" .  }}
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-12 col-md-offset-1">
+                <div class="sidebar">
+                    <div class="widget">
+                        <h3 class="widget-title">NPIP Categories</h3>
+                        <ul>
+                          {{ range first 10 .Site.Taxonomies.npip_categories.ByCount }}
+                            {{ $filter := replace .Name "-" " " }}
+                              <li class="cat-item" ><a href="/npip_categories/{{ .Name | urlize }}">{{ $filter }}</a> </li>
+                          {{ end }}
+                        </ul>
+                    </div>
+                    <div class="widget custom recent-posts">
+                        <h3 class="widget-title">Recent NPIPs</h3>
+                        <ul>
+                            {{ range .Site.Pages }}
+                                {{if (eq .Type "npips") }}
+                                  {{if (ne .Title "Npips")}}
+                                    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                                  {{ end }}
+                                {{ end }}
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- start get appix now -->
+
+{{ partial "footer.html" . }}
+
+</body>
+</html>
