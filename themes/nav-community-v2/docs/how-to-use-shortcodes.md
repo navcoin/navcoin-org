@@ -1,11 +1,11 @@
 # Shortcode Documentation
 
-## bottom_cta
+## center_text_cta
 
-A `bottom_cta` looks like this:
+A `center_text_cta` looks like this:
 
 ```
-{{< bottom_cta
+{{< center_text_cta
     titleText="This is an amazing title️"
     buttonText="This is some stylish button text"
     buttonImgSrc="/images/icons/rightward-arrow.svg"

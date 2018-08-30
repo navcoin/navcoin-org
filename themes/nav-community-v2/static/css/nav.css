@@ -85,7 +85,7 @@
 /*****************************
         Shortcodes 
 *****************************/
-.bottom-cta-section {
+.center-text-cta-section {
   background-color: #7D5AB5;
   color: #fff;
   display: flex;
@@ -93,32 +93,32 @@
   justify-content: center;
   align-items: center;
   padding: 80px 0 50px 0; }
-  .bottom-cta-section .title {
+  .center-text-cta-section .title {
     color: #fff;
     text-align: center;
     margin: 0 0 50px 0;
     font-size: 40px;
     line-height: 0.8;
     font-weight: 600; }
-  .bottom-cta-section img {
+  .center-text-cta-section img {
     height: 15px;
     margin-left: 25px; }
-  .bottom-cta-section .inner-text {
+  .center-text-cta-section .inner-text {
     font-family: 'Roboto' sans-serif;
     max-width: 666px;
     text-align: center;
     margin-top: -15px;
     margin-bottom: 36px;
     padding: 0 15px; }
-  .bottom-cta-section.light-style {
+  .center-text-cta-section.light-style {
     background-color: #fff; }
-    .bottom-cta-section.light-style .title {
+    .center-text-cta-section.light-style .title {
       color: #7D5AB5; }
-    .bottom-cta-section.light-style .inner-text {
+    .center-text-cta-section.light-style .inner-text {
       color: #404040; }
 
 @media (max-width: 600px) {
-  .bottom-cta-section .title {
+  .center-text-cta-section .title {
     font-size: 30px; } }
 
 .contrib-list .contrib-list-title {
