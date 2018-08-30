@@ -1,0 +1,17 @@
+<div class="text-section {{ .Get "backgroundImageSide" }} {{ .Get "textAlign" }}" style="background-color: {{ .Get "bgColor" }}; background-image: url({{ .Get "backgroundImageUrl" }});">
+    <div class="container">
+        <div class="text-section-content" style="padding: {{ .Get "containerPadding" }};">
+            <div>   
+                {{ if isset .Params "title"}}
+                    <h2 class="themeix-title-h1" style="color: {{ .Get "fontColor" }}">{{ .Get "title"}}</h2>
+                {{ end }}
+                <div class="text-section-inner" style="color: {{ .Get "fontColor" }}">{{ .Inner }}</div>
+            </div>
+            {{ if isset .Params "btn1Link" }}
+                <div class="themeix-button-group">
+                    <a href="{{ .Get "btn1Link" }}" class=" {{ if eq (.Get "gradient") "true" }} round-btn gradient-btn {{ else }} themeix-btn themeix-danger smoothScroll {{ end }}" style=" background-color: {{ .Get "buttonColor" }}; margin: {{ .Get "btn1Margin" }};">{{ .Get "btn1Txt" }}</a>
+                </div>
+            {{ end }}
+        </div>
+    </div>
+</div>

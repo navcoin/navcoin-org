@@ -1,0 +1,20 @@
+<div class="half-image-half-text-section flex {{ if eq ( .Get "leftImage" ) "true" }} left-image {{ end }}" style="background-color:{{ .Get "bgColor"}}; padding: {{ .Get "containerPadding"}};">
+    <div class="content">
+        <div class="text-content" style="margin: {{ .Get "textMargin" }}">
+            <h2 class="" style="color: {{ .Get "titleColor" }}; font-size: {{ .Get "titleSize" }}">{{ .Get "title"}}</h2>
+            <div class="" style="max-width: {{ .Get "textWidth" }}; color: {{ .Get "textColor" }}; font-size: {{ .Get "textSize" }}">
+                {{ .Inner }}
+            </div>
+            {{ if isset .Params "btn1Link" }}
+                <a href="{{ .Get "btn1Link" }}" target="{{ .Get "btn1Target" }}" class="round-btn purple-btn" style="background-color: {{ .Get "linkBgColor"}}">{{ .Get "btn1Text" }}</a>
+                {{ if isset .Params "btn2Link" }}
+                    <a href="{{ .Get "btn2Link" }}" target="{{ .Get "btn2Target" }}" class="round-btn purple-btn" style="background-color: {{ .Get "linkBgColor"}}">{{ .Get "btn2Text" }}</a>
+                {{ end }}
+                {{ if isset .Params "btn3Link" }}
+                    <a href="{{ .Get "btn3Link" }}" target="{{ .Get "btn3Target" }}" class="round-btn purple-btn" style="background-color: {{ .Get "linkBgColor"}}">{{ .Get "btn3Text" }}</a>
+                {{ end }}
+            {{ end }}
+        </div>
+        <img src="{{ .Get "imgSrc" }}" class="img-container" style="max-height: {{ .Get "imgHeight" }}">
+    </div>
+</div>
