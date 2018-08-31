@@ -4,11 +4,22 @@
 
 A `hero_section` looks like this:
 ```
+{{< hero_section
+titleText="Standard hero_section"
+paragraphText="NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a."
+imgSrc="/images/hero-icon.svg"
+>}}
 ```
 
 | Attribute | Purpose | Content |
 |: - |:- |
-|
+| titleText | Sets the title text | Plain text |
+|paragraphText| Sets the paragraph text | Plain text |
+|imgSrc |Sets the image on the button. | A path. e.g. `/images/icons/rightward-arrow.svg` |
+| buttonText | Sets the button text | Plain text |
+| buttonLink | The url for where the button links | If it's an on-site link a simple relative link is fine, e.g. `/buy-nav`. An off-site link will need to be written in full, e.g. `https://www.navhub.org` |
+| buttonImgSrc | Sets the image on the button. | A path. e.g. `/images/icons/rightward-arrow.svg` |
+
 
 
 ## center_text_cta
