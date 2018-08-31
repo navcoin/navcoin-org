@@ -6,6 +6,21 @@ type: "default"
 author: ""
 description: ""
 ---
+{{< hero_section
+titleText="Standard hero_section"
+paragraphText="NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a."
+imgSrc="/images/hero-icon.svg"
+
+>}}
+
+{{< hero_section
+titleText="With call-to-action"
+imgSrc="/images/hero-icon.svg"
+paragraphText="NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a."
+buttonText="Click for NAV!"
+>}}
+
+
 {{< center_text_cta
     titleText="Standard center_text_cta"
     buttonText="Button text with image"

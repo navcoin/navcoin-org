@@ -68,7 +68,7 @@
   background: linear-gradient(90deg, #A34BC1 0%, #4AA9E4 100%);
   /* w3c */
 
-  &:hover, &:active, &:focus{
+  &:hover, &:active, &:focus {
     color: white;
     filter: brightness(110%); 
     transition: 0.2s ease
@@ -88,6 +88,19 @@
 }
 
 .blue-btn {
+  font-size: 17px;
+  border: none;
+  color: white;
+  background-color: #53A3FF;
+  transition: 0.2s ease;
+  &:hover, &:active, &:focus {
+    filter: brightness(110%);
+    transition: 0.2s ease;
+  }
+}
+
+
+.blue-btn-old {
   border-color: white;
   color: white;
   background-color: #42b6eb;
