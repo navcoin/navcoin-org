@@ -1,5 +1,16 @@
 # Shortcode Documentation
 
+## hero_section
+
+A `hero_section` looks like this:
+```
+```
+
+| Attribute | Purpose | Content |
+|: - |:- |
+|
+
+
 ## center_text_cta
 
 A `center_text_cta` looks like this:
