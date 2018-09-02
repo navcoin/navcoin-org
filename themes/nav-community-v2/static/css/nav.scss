@@ -7,12 +7,20 @@
 *****************************/
 @import "./center_text_cta.scss";
 @import "./contrib-list.scss";
+@import "./hero-section.scss";
 @import "./text_section.scss";
 
 
-
-body {
+// to push components past the header menu
+body { 
   padding-top: 54px;
+}
+
+@media (max-width: 767px) {
+  body { // Because the header menu is taller at this width 
+    padding-top: 61px;
+  }
+  
 }
 
 .news-content >p:empty{
@@ -21,7 +29,7 @@ body {
 
 a {
   &:hover, &:active, &:focus, &:visited {
-  text-decoration:none;
+    text-decoration: none;
   }
 }
 
