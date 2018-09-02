@@ -40,18 +40,7 @@
   color: white;
   transition: 0.2s ease;
   filter: drop-shadow(rgba(87, 73, 165, 0.24) 1px 13px 35px);
-  background: -moz-linear-gradient(90deg, #A34BC1 0%, #4AA9E4 100%);
-  /* ff3.6+ */
-  background: -webkit-gradient(90deg, linear, left bottom, right top, color-stop(0%, #A34BC1), color-stop(100%, #4AA9E4));
-  /* safari4+,chrome */
-  background: -webkit-linear-gradient(90deg, #A34BC1 0%, #4AA9E4 100%);
-  /* safari5.1+,chrome10+ */
-  background: -o-linear-gradient(90deg, #A34BC1 0%, #4AA9E4 100%);
-  /* opera 11.10+ */
-  background: -ms-linear-gradient(90deg, #A34BC1 0%, #4AA9E4 100%);
-  /* ie10+ */
-  background: linear-gradient(90deg, #A34BC1 0%, #4AA9E4 100%);
-  /* w3c */ }
+  background: linear-gradient(90deg, #A34BC1 0%, #4AA9E4 100%); }
   .gradient-btn:hover, .gradient-btn:active, .gradient-btn:focus {
     color: white;
     filter: brightness(110%);
@@ -445,18 +434,7 @@
   grid-auto-flow: dense;
   grid-template-columns: 1fr 1fr;
   grid-template-areas: "image text" "image text";
-  background: -moz-linear-gradient(90deg, #4AA9E4 -50%, #A34Bc1 150%);
-  /* ff3.6+ */
-  background: -webkit-gradient(90deg, linear, left bottom, right top, color-stop(-50%, #4AA9E4), color-stop(150%, #A34Bc1));
-  /* safari4+,chrome */
-  background: -webkit-linear-gradient(90deg, #4AA9E4 -50%, #A34Bc1 150%);
-  /* safari5.1+,chrome10+ */
-  background: -o-linear-gradient(90deg, #4AA9E4 -50%, #A34Bc1 150%);
-  /* opera 11.10+ */
-  background: -ms-linear-gradient(90deg, #4AA9E4 -50%, #A34Bc1 150%);
-  /* ie10+ */
-  background: linear-gradient(90deg, #4AA9E4 -50%, #A34Bc1 150%);
-  /* w3c */ }
+  background: linear-gradient(90deg, #4AA9E4 -50%, #A34Bc1 150%); }
   .hero-section a {
     margin-top: 36px; }
   .hero-section .hero-img {
@@ -479,15 +457,20 @@
     color: inherit;
     text-align: left;
     align-self: flex-start;
+    max-width: 600px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-content: center; }
 
+@media (max-width: 900px) {
+  .hero-section h1 {
+    font-size: 35px; } }
+
 @media (max-width: 700px) {
   .hero-section {
-    grid-template-areas: "image image" "text text";
-    padding: 0 0 55px 0; }
+    padding: 0 0 55px 0;
+    grid-template-areas: "image image" "text text"; }
     .hero-section .hero-img {
       height: 210px;
       justify-self: center; }

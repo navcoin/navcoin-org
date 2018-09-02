@@ -10,7 +10,6 @@ description: ""
 titleText="Standard hero_section"
 paragraphText="NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a."
 imgSrc="/images/hero-icon.svg"
-
 >}}
 
 {{< hero_section

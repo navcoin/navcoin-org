@@ -8,24 +8,7 @@
   grid-template-areas:  "image text"
                         "image text";
 
-  background: -moz-linear-gradient(90deg,#4AA9E4 -50%, #A34Bc1 150%);
-  /* ff3.6+ */
-
-  background: -webkit-gradient(90deg, linear, left bottom, right top, color-stop(-50%, #4AA9E4),
-          color-stop(150%, #A34Bc1));
-  /* safari4+,chrome */
-
-  background: -webkit-linear-gradient(90deg, #4AA9E4 -50%, #A34Bc1 150%);
-  /* safari5.1+,chrome10+ */
-
-  background: -o-linear-gradient(90deg, #4AA9E4 -50%, #A34Bc1 150%);
-  /* opera 11.10+ */
-
-  background: -ms-linear-gradient(90deg, #4AA9E4 -50%, #A34Bc1 150%);
-  /* ie10+ */
-
   background: linear-gradient(90deg, #4AA9E4 -50%, #A34Bc1 150%);
-  /* w3c */
 
   a {
     margin-top: 36px;
@@ -59,7 +42,7 @@
     color: inherit;
     text-align: left;
     align-self: flex-start;
-    // min-width: 270px;
+    max-width: 600px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -67,11 +50,17 @@
   }
 }
 
+@media (max-width: 900px) {
+  .hero-section h1 {
+    font-size: 35px;
+  }
+}
+
 @media (max-width: 700px) {
   .hero-section {
+    padding: 0 0 55px 0;
     grid-template-areas:  "image image"
                           "text text";
-    padding: 0 0 55px 0;
 
     .hero-img {
       height: 210px;
