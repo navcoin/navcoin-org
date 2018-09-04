@@ -43,13 +43,13 @@ description: ""
     bottomText="For all the available download options and SHA256 hashes, please visit the latest GitHub Release."
     feature1Img="/images/circle-icons/nav_purple-windows.png"
     feature1Title="Windows v4.3.0"
-    feature1Link="https://github.com/NAVCoin/navcoin-core/releases/download/4.3.0/navcoin-4.3.0-win64-setup.exe"
+    feature1Link="https://github.com/NAVCoin/navcoin-core/releases/download/v4.3.0/navcoin-4.3.0-win64-setup.exe"
     feature2Img="/images/circle-icons/nav_purple-apple.png"
     feature2Title="OSX v4.3.0"
-    feature2Link="https://github.com/NAVCoin/navcoin-core/releases/download/4.3.0/navcoin-4.3.0-osx.dmg"
+    feature2Link="https://github.com/NAVCoin/navcoin-core/releases/download/v4.3.0/navcoin-4.3.0-osx.dmg"
     feature3Img="/images/circle-icons/nav_purple-linux.png"
     feature3Title="Linux v4.3.0"
-    feature3Link="https://github.com/NAVCoin/navcoin-core/releases/download/4.3.0/navcoin-4.3.0-x86_64-linux-gnu.tar.gz">}}
+    feature3Link="https://github.com/NAVCoin/navcoin-core/releases/download/v4.3.0/navcoin-4.3.0-x86_64-linux-gnu.tar.gz">}}
 {{< box_links_section
     title="NavPay"
     subtitle="NavPay is a light wallet that is available on a range of devices."
