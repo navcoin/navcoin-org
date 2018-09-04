@@ -60,10 +60,10 @@ description: ""
     containerPadding="70px 0"
     feature1Img="/images/icons/icon-windows.png"
     feature1Title="Windows v4.3.0"
-    feature1Url="https://github.com/NAVCoin/navcoin-core/releases/download/4.3.0/navcoin-4.3.0-win64-setup.exe"
+    feature1Url="https://github.com/NAVCoin/navcoin-core/releases/download/v4.3.0/navcoin-4.3.0-win64-setup.exe"
     feature2Img="/images/icons/icon-apple.png"
     feature2Title="OSX v4.3.0"
-    feature2Url="https://github.com/NAVCoin/navcoin-core/releases/download/4.3.0/navcoin-4.3.0-osx.dmg"
+    feature2Url="https://github.com/NAVCoin/navcoin-core/releases/download/v4.3.0/navcoin-4.3.0-osx.dmg"
     feature3Img="/images/icons/icon-linux.png"
     feature3Title="Linux v4.3.0"
-    feature3Url="https://github.com/NAVCoin/navcoin-core/releases/download/4.3.0/navcoin-4.3.0-x86_64-linux-gnu.tar.gz">}}
+    feature3Url="https://github.com/NAVCoin/navcoin-core/releases/download/v4.3.0/navcoin-4.3.0-x86_64-linux-gnu.tar.gz">}}
