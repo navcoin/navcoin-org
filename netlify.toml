@@ -13,3 +13,10 @@ command = "hugo"
   to = "/wallets"
   status = 301
   force = true
+
+
+[[redirects]]
+  from = "/navpay"
+  to = "https://navhub.org/projects/nav-pay"
+  status = 301
+  force = true
