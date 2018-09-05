@@ -10,6 +10,26 @@
   display: inline-block;
   min-width: 210px;
   text-align: center;  
+  display: inline-flex;
+  align-items: center;
+  align-content: center;
+  &.small {
+    min-width: unset;
+    padding: 10px 21px;
+    font-size: 13px;
+    margin: 0;
+    line-height: 20px;
+    border-radius: 20px;
+    box-shadow: 1px 13px 35px #422db23d;
+    img {
+      margin-left: 8px;
+      height: 12px;
+    }
+  }
+  img {
+    height: 15px;
+    margin-left: 25px;
+  }
 }
 
 .purple-btn {

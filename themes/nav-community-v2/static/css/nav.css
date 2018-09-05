@@ -6,7 +6,24 @@
   border: black 2px solid;
   display: inline-block;
   min-width: 210px;
-  text-align: center; }
+  text-align: center;
+  display: inline-flex;
+  align-items: center;
+  align-content: center; }
+  .round-btn.small {
+    min-width: unset;
+    padding: 10px 21px;
+    font-size: 13px;
+    margin: 0;
+    line-height: 20px;
+    border-radius: 20px;
+    box-shadow: 1px 13px 35px #422db23d; }
+    .round-btn.small img {
+      margin-left: 8px;
+      height: 12px; }
+  .round-btn img {
+    height: 15px;
+    margin-left: 25px; }
 
 .purple-btn {
   border-color: #c6b7fd;
@@ -349,9 +366,6 @@
     font-size: 40px;
     line-height: 0.8;
     font-weight: 600; }
-  .center-text-cta-section img {
-    height: 15px;
-    margin-left: 25px; }
   .center-text-cta-section .inner-text {
     font-family: 'Roboto' sans-serif;
     max-width: 666px;
@@ -443,9 +457,6 @@
     height: 100%;
     max-width: 500px;
     justify-self: flex-end; }
-  .hero-section .btn-img {
-    height: 15px;
-    margin-left: 25px; }
   .hero-section h1 {
     color: inherit;
     margin: calc(153px - 98px) 0 36px 0;
@@ -485,6 +496,71 @@
       font-size: 32px; }
     .hero-section a {
       margin-top: 25px; } }
+
+.wallet-section {
+  color: #fff;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 2vh; }
+  .wallet-section .item-card {
+    display: flex;
+    flex-basis: 300px;
+    position: relative;
+    box-shadow: 1px 13px 35px rgba(66, 45, 178, 0.12); }
+  .wallet-section .item-main {
+    width: 100%;
+    max-width: 450px;
+    padding-bottom: 0px; }
+  .wallet-section .item-icon-container {
+    height: 158px;
+    padding: 5px;
+    background: #fff;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    border-radius: 8px 8px 0 0; }
+  .wallet-section .item-icon {
+    padding: 10px 0 10px 0;
+    height: inherit;
+    max-height: 100%; }
+  .wallet-section .item-details-group {
+    background: #7D5AB5;
+    padding: 23px;
+    border-radius: 0 0 8px 8px; }
+    .wallet-section .item-details-group h3 {
+      font-size: 20px;
+      margin: 0 0 15px 0; }
+  .wallet-section .item-button {
+    margin: 5px 0 5px 0; }
+  .wallet-section .item-text + p {
+    margin-top: 20px;
+    margin-bottom: 24px;
+    color: white;
+    font-size: 16px;
+    font-family: 'Roboto';
+    margin: 0;
+    font-weight: 300;
+    line-height: 25px; }
+  .wallet-section #box-item-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px; }
+  .wallet-section #box-items {
+    display: flex;
+    flex-flow: row wrap;
+    align-content: center;
+    opacity: 0.5;
+    height: 30px; }
+  .wallet-section #box-items > div {
+    margin-right: 5px;
+    display: inline-block;
+    color: #fff; }
+  .wallet-section #box-items img {
+    padding: 5px;
+    width: 25px;
+    margin: 0 auto; }
+  .wallet-section a:hover, .wallet-section a:active, .wallet-section a:visited {
+    filter: brightness(110%); }
 
 .text-section {
   text-align: center;
