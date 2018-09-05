@@ -1,42 +1,42 @@
-<section class="wallet-section" style="margin:{{ .Params.section_margin }}">
+<section class="wallet-section">
     <div class="container">
         <div class="row">
             <!-- item 1 -->
             <div class="col-lg-4 col-md-4 col-sm-6">
-                {{ if isset .Params "item1_img" }}
+                {{ if isset .Params "item1ImgSrc" }}
                 <div class="item-card">
                     <div class="item-main">
                         <div class="item-icon-container">
-                            <img src="{{ .Get "item1_img" }}" alt="" class="item-icon">
+                            <img src="{{ .Get "item1ImgSrc" }}" alt="" class="item-icon">
                         </div>
                         <div class="item-details-group">
-                            <h3>{{ .Get "item1_title" }}</h3>
+                            <h3>{{ .Get "item1TitleText" }}</h3>
                             <section id="box-item-group">
                                 <div id="box-items">
-                                    {{ if isset .Params "item1_sub1_img" }}
-                                    <div><img src="{{ .Get "item1_sub1_img" }}"></div>
+                                    {{ if isset .Params "item1Img1Src" }}
+                                    <div><img src="{{ .Get "item1Img1Src" }}"></div>
                                     {{ end }}
-                                    {{ if isset .Params "item1_sub2_img" }}
-                                    <div><img src="{{ .Get "item1_sub2_img" }}"></div>
+                                    {{ if isset .Params "item1Img2Src" }}
+                                    <div><img src="{{ .Get "item1Img2Src" }}"></div>
                                     {{ end }}
-                                    {{ if isset .Params "item1_sub3_img" }}
-                                    <div><img src="{{ .Get "item1_sub3_img" }}"></div>
+                                    {{ if isset .Params "item1Img3Src" }}
+                                    <div><img src="{{ .Get "item1Img3Src" }}"></div>
                                     {{ end }}
-                                    {{ if isset .Params "item1_sub4_img" }}
-                                    <div><img src="{{ .Get "item1_sub4_img" }}"></div>
+                                    {{ if isset .Params "item1Img4Src" }}
+                                    <div><img src="{{ .Get "item1Img4Src" }}"></div>
                                     {{ end }}
-                                    {{ if isset .Params "item1_sub5_img" }}
-                                    <div><img src="{{ .Get "item1_sub5_img" }}"></div>
+                                    {{ if isset .Params "item1Img5Src" }}
+                                    <div><img src="{{ .Get "item1Img5Src" }}"></div>
                                     {{ end }}
-                                    {{ if isset .Params "item1_sub6_img" }}
-                                    <div><img src="{{ .Get "item1_sub6_img" }}"></div>
+                                    {{ if isset .Params "item1Img6Src" }}
+                                    <div><img src="{{ .Get "item1Img6Src" }}"></div>
                                     {{ end }}
                                 </div>
                             </section>
                             <div class="item-text">
-                                <p>{{ .Get "item1_text"  }}</p>
-                                {{ if isset .Params "item1_btn_url" }}
-                                    <a href="{{ .Get "item1_btn_url" }}" target="_blank" class="round-btn small gradient-btn">{{ .Get "item1_btn_text" }} <img src="{{ .Get "buttonImgSrc" }}" clas="btn-img"> </span></a>
+                                <p>{{ .Get "item1Text"  }}</p>
+                                {{ if isset .Params "item1BtnUrl" }}
+                                    <a href="{{ .Get "item1BtnUrl" }}" target="_blank" class="round-btn small gradient-btn">{{ .Get "item1BtnText" }} <img src="{{ .Get "buttonImgSrc" }}" clas="btn-img"> </span></a>
                                 {{ end }}
                             </div>
                         </div>
@@ -46,40 +46,40 @@
             </div>
             <!-- item 2 -->
             <div class="col-lg-4 col-md-4 col-sm-6">
-                {{ if isset .Params "item2_img" }}
+                {{ if isset .Params "item2ImgSrc" }}
                 <div class="item-card">
                     <div class="item-main">
                     <div class="item-icon-container">
-                            <img src="{{ .Get "item2_img" }}" alt="" class="item-icon">
+                            <img src="{{ .Get "item2ImgSrc" }}" alt="" class="item-icon">
                         </div>
                         <div class="item-details-group">
-                            <h3 style="color: {{ .Get "title_color" }}; margin: {{ .Get "title_margin" }}">{{ .Get "item2_title" }}</h3>
+                            <h3>{{ .Get "item2TitleText" }}</h3>
                             <section id="box-item-group">
                                 <div id="box-items">
-                                    {{ if isset .Params "item2_sub1_img" }}
-                                    <div><img src="{{ .Get "item2_sub1_img" }}"></div>
+                                    {{ if isset .Params "item2Img1Src" }}
+                                    <div><img src="{{ .Get "item2Img1Src" }}"></div>
                                     {{ end }}
-                                    {{ if isset .Params "item2_sub2_img" }}
-                                    <div><img src="{{ .Get "item2_sub2_img" }}"></div>
+                                    {{ if isset .Params "item2Img2Src" }}
+                                    <div><img src="{{ .Get "item2Img2Src" }}"></div>
                                     {{ end }}
-                                    {{ if isset .Params "item2_sub3_img" }}
-                                    <div><img src="{{ .Get "item2_sub3_img" }}"></div>
+                                    {{ if isset .Params "item2Img3Src" }}
+                                    <div><img src="{{ .Get "item2Img3Src" }}"></div>
                                     {{ end }}
-                                    {{ if isset .Params "item2_sub4_img" }}
-                                    <div><img src="{{ .Get "item2_sub4_img" }}"></div>
+                                    {{ if isset .Params "item2Img4Src" }}
+                                    <div><img src="{{ .Get "item2Img4Src" }}"></div>
                                     {{ end }}
-                                    {{ if isset .Params "item2_sub5_img" }}
-                                    <div><img src="{{ .Get "item2_sub5_img" }}"></div>
+                                    {{ if isset .Params "item2Img5Src" }}
+                                    <div><img src="{{ .Get "item2Img5Src" }}"></div>
                                     {{ end }}
-                                    {{ if isset .Params "item2_sub6_img" }}
-                                    <div><img src="{{ .Get "item2_sub6_img" }}"></div>
+                                    {{ if isset .Params "item2Img6Src" }}
+                                    <div><img src="{{ .Get "item2Img6Src" }}"></div>
                                     {{ end }}
                                 </div>
                             </section>
                             <div class="item-text">
-                                <p style="color: {{ .Get "text_color" }}; margin: {{ .Get "text_margin" }}">{{ .Get "item2_text"  }}</p>
-                                {{ if isset .Params "item2_btn_url" }}
-                                    <a href="{{ .Get "item2_btn_url" }}" target="_blank" class="round-btn small gradient-btn">{{ .Get "item2_btn_text" }} <img src="{{ .Get "buttonImgSrc" }}" clas="btn-img"> </span></a>
+                                <p>{{ .Get "item2Text"  }}</p>
+                                {{ if isset .Params "item2BtnUrl" }}
+                                    <a href="{{ .Get "item2BtnUrl" }}" target="_blank" class="round-btn small gradient-btn">{{ .Get "item2BtnText" }} <img src="{{ .Get "buttonImgSrc" }}" clas="btn-img"> </span></a>
                                 {{ end }}
                             </div>
                         </div>
@@ -89,40 +89,40 @@
             </div>
             <!-- item 3 -->
             <div class="col-lg-4 col-md-4 col-sm-6">
-                {{ if isset .Params "item3_img" }}
+                {{ if isset .Params "item3ImgSrc" }}
                 <div class="item-card">
                     <div class="item-main">
                     <div class="item-icon-container">
-                            <img src="{{ .Get "item3_img" }}" alt="" class="item-icon">
+                            <img src="{{ .Get "item3ImgSrc" }}" alt="" class="item-icon">
                         </div>
                         <div class="item-details-group">
-                            <h3 style="color: {{ .Get "title_color" }}; margin: {{ .Get "title_margin" }}">{{ .Get "item3_title" }}</h3>
+                            <h3>{{ .Get "item3TitleText" }}</h3>
                             <section id="box-item-group">
                                 <div id="box-items">
-                                    {{ if isset .Params "item3_sub1_img" }}
-                                    <div><img src="{{ .Get "item3_sub1_img" }}"></div>
+                                    {{ if isset .Params "item3Img1Src" }}
+                                    <div><img src="{{ .Get "item3Img1Src" }}"></div>
                                     {{ end }}
-                                    {{ if isset .Params "item3_sub2_img" }}
-                                    <div><img src="{{ .Get "item3_sub2_img" }}"></div>
+                                    {{ if isset .Params "item3Img2Src" }}
+                                    <div><img src="{{ .Get "item3Img2Src" }}"></div>
                                     {{ end }}
-                                    {{ if isset .Params "item3_sub3_img" }}
-                                    <div><img src="{{ .Get "item3_sub3_img" }}"></div>
+                                    {{ if isset .Params "item3Img3Src" }}
+                                    <div><img src="{{ .Get "item3Img3Src" }}"></div>
                                     {{ end }}
-                                    {{ if isset .Params "item3_sub4_img" }}
-                                    <div><img src="{{ .Get "item3_sub4_img" }}"></div>
+                                    {{ if isset .Params "item3Img4Src" }}
+                                    <div><img src="{{ .Get "item3Img4Src" }}"></div>
                                     {{ end }}
-                                    {{ if isset .Params "item3_sub5_img" }}
-                                    <div><img src="{{ .Get "item3_sub5_img" }}"></div>
+                                    {{ if isset .Params "item3Img5Src" }}
+                                    <div><img src="{{ .Get "item3Img5Src" }}"></div>
                                     {{ end }}
-                                    {{ if isset .Params "item3_sub6_img" }}
-                                    <div><img src="{{ .Get "item3_sub6_img" }}"></div>
+                                    {{ if isset .Params "item3Img6Src" }}
+                                    <div><img src="{{ .Get "item3Img6Src" }}"></div>
                                     {{ end }}
                                 </div>
                             </section>
                             <div class="item-text">
-                                <p style="color: {{ .Get "text_color" }}; margin: {{ .Get "text_margin" }}">{{ .Get "item3_text"  }}</p>
-                                {{ if isset .Params "item3_btn_url" }}
-                                    <a href="{{ .Get "item3_btn_url" }}" target="_blank" class="round-btn small gradient-btn">{{ .Get "item3_btn_text" }} <img src="{{ .Get "buttonImgSrc" }}" clas="btn-img"> </span></a>
+                                <p>{{ .Get "item3Text"  }}</p>
+                                {{ if isset .Params "item3BtnUrl" }}
+                                    <a href="{{ .Get "item3BtnUrl" }}" target="_blank" class="round-btn small gradient-btn">{{ .Get "item3BtnText" }} <img src="{{ .Get "buttonImgSrc" }}" clas="btn-img"> </span></a>
                                 {{ end }}
                             </div>
                         </div>

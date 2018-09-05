@@ -6,8 +6,7 @@ type: "default"
 author: ""
 description: ""
 ---
-{{< wallet_section
-    
+{{< wallet_section    
     buttonImgSrc="/images/icons/rightward-arrow.svg"
 
     item1_title="NavCoin Core Wallet v4.3.0"
