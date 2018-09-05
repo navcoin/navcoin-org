@@ -498,10 +498,7 @@
       margin-top: 25px; } }
 
 .wallet-section {
-  color: #fff;
-  width: 100%;
-  margin: 0 auto;
-  padding-top: 2vh; }
+  color: #fff; }
   .wallet-section .item-card {
     display: flex;
     flex-basis: 300px;
