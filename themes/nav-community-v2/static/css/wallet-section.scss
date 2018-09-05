@@ -1,5 +1,17 @@
 .wallet-section {
   color: #fff;
+  padding: 85px 0;
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill , minmax(200px, 450px));
+    grid-gap: 30px 20px;
+    justify-content: center;
+  }
+
+  .wallet-column {
+    margin: 20px auto 0 auto;
+  }
 
   .item-card {
     display: flex;
@@ -86,4 +98,6 @@
   a:hover, a:active, a:visited {
     filter: brightness(110%)
   }
+
+
 }

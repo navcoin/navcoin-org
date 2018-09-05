@@ -34,6 +34,11 @@ a {
   }
 }
 
+.90vw-container {
+  max-width: 90vw;
+  margin: 0 auto;
+}
+
 .box-list {
   .drop-shadow {
     box-shadow: 5px 5px 5px rgba(0,0,0,0.2);

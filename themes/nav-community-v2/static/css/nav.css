@@ -498,7 +498,15 @@
       margin-top: 25px; } }
 
 .wallet-section {
-  color: #fff; }
+  color: #fff;
+  padding: 85px 0; }
+  .wallet-section .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 450px));
+    grid-gap: 30px 20px;
+    justify-content: center; }
+  .wallet-section .wallet-column {
+    margin: 20px auto 0 auto; }
   .wallet-section .item-card {
     display: flex;
     flex-basis: 300px;
@@ -597,6 +605,10 @@ body {
 
 a:hover, a:active, a:focus, a:visited {
   text-decoration: none; }
+
+.90vw-container {
+  max-width: 90vw;
+  margin: 0 auto; }
 
 .box-list .drop-shadow {
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
