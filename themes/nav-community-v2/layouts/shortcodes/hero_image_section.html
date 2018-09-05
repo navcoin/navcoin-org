@@ -1,0 +1,7 @@
+<div class="hero-image-section {{ if eq (.Get " gradient ") "true " }} bg-gradient {{ end }}" style="background-color: {{ .Get "bgColor " }}; margin: {{ .Get "containerMargin " }};">
+    <div class="image-container">
+        <img src="{{ .Get "imgSrc" }}" style="max-height: {{ .Get "imgHeight"}};">
+        <a href="{{ .Get "btn1Link" }}" class="round-btn purple-btn-special" style="margin-top: {{ .Get "btnMarginTop" }}; margin-bottom: {{ .Get "btnMarginBtm" }};">{{ .Get "btn1Txt" }}</a>
+        <h2 class="" style="color: {{ .Get "fontColor" }}; margin: {{ .Get "textMargin "}};">{{ .Get "title"}}</h2>
+    </div>
+</div>

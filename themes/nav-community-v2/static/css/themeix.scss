@@ -1,0 +1,259 @@
+.section-ptb-2 {
+    padding-top: 60px;
+}
+
+.themeix-button-group .themeix-btn {
+    padding: 12px 20px;
+    display: inline-block;
+    font-size: 15px;
+    text-transform:capitalize;
+    line-height: 24px;
+    background: #795BB6;
+    margin-right: 12px;
+    font-weight: 400;
+    color: #fff;
+    position: relative;
+    z-index: 2;
+}
+.themeix-button-group .themeix-btn:hover {
+    color: #2E94DF;
+}
+.themeix-button-group .themeix-btn:before {
+    content: "";
+    width: 100%;
+    height: 0;
+    position: absolute;
+    background-color: #FFFFFF;
+    top: 50%;
+    left: 0;
+    z-index: -11;
+}
+.themeix-button-group .themeix-btn:hover:before {
+    height: 50%;
+}
+.themeix-button-group .themeix-btn:after {
+    content: "";
+    width: 100%;
+    height: 0;
+    position: absolute;
+    background-color: #FFFFFF;
+    bottom: 50%;
+    left: 0;
+    z-index: -11;
+}
+.themeix-button-group .themeix-btn:hover:after {
+    height: 50%;
+}
+.themeix-button-group .bg-change:before {
+    content: "";
+    width: 100%;
+    height: 0;
+    position: absolute;
+    background-color: #2E94DF;
+    top: 50%;
+    left: 0;
+    z-index: -11;
+}
+.themeix-button-group .bg-change:hover:before {
+    height: 50%;
+}
+.themeix-button-group .bg-change:after {
+    content: "";
+    width: 100%;
+    height: 0;
+    position: absolute;
+    background-color: #2E94DF;
+    bottom: 50%;
+    left: 0;
+    z-index: -11;
+}
+.themeix-button-group .bg-change:hover:after {
+    height: 50%;
+}
+.themeix-button-group .bg-change:hover {
+    color: #FFFFFF!important;
+}
+.themeix-button-group .bg-change {
+    background: #2E94DF;
+}
+
+.themeix-button-group .themeix-danger:before {
+    content: "";
+    width: 100%;
+    height: 0;
+    position: absolute;
+    background-color: #3694F4;
+    top: 50%;
+    left: 0;
+    transition: 0.4s;
+    -moz-transition: 0.4s;
+    -ms-transition: 0.4s;
+    -o-transition: 0.4s;
+    -webkit-transition: 0.4s;
+    z-index: -11;
+}
+.themeix-button-group .themeix-danger:hover:before {
+    height: 50%;
+}
+.themeix-button-group .themeix-danger:after {
+    content: "";
+    width: 100%;
+    height: 0;
+    position: absolute;
+    background-color: #3694F4;
+    bottom: 50%;
+    left: 0;
+    transition: 0.4s;
+    -moz-transition: 0.4s;
+    -ms-transition: 0.4s;
+    -o-transition: 0.4s;
+    -webkit-transition: 0.4s;
+    z-index: -11;
+}
+.themeix-button-group .themeix-danger:hover:after {
+    height: 50%;
+}
+.themeix-button-group .themeix-danger:hover {
+    color: #FFFFFF!important;
+}
+
+.themeix-button-group .active-bg {
+    padding: 14px 60px!important;
+    font-size: 15px!important;
+    background: #2E94DF!important;
+}
+.themeix-price-active {
+    background: #2E94DF!important;
+}
+
+
+.themeix-button-group .themeix-price-button-active:before {
+    content: "";
+    width: 100%;
+    height: 0;
+    position: absolute;
+    background-color: #222222;
+    top: 50%;
+    left: 0;
+    transition: 0.4s;
+    -moz-transition: 0.4s;
+    -ms-transition: 0.4s;
+    -o-transition: 0.4s;
+    -webkit-transition: 0.4s;
+    z-index: -11;
+}
+.themeix-button-group .themeix-price-button-active:hover:before {
+    height: 50%;
+}
+.themeix-button-group .themeix-price-button-active:after {
+    content: "";
+    width: 100%;
+    height: 0;
+    position: absolute;
+    background-color: #222222;
+    bottom: 50%;
+    left: 0;
+    transition: 0.4s;
+    -moz-transition: 0.4s;
+    -ms-transition: 0.4s;
+    -o-transition: 0.4s;
+    -webkit-transition: 0.4s;
+    z-index: -11;
+}
+.themeix-button-group .themeix-price-button-active:hover:after {
+    height: 50%;
+}
+.themeix-button-group .themeix-price-button-active:hover {
+    color: #FFFFFF!important;
+}
+
+.themeix-button-group .price-btn-cust:before {
+    content: "";
+    width: 100%;
+    height: 0;
+    position: absolute;
+    background-color: #2E94DF;
+    top: 50%;
+    left: 0;
+    transition: 0.4s;
+    -moz-transition: 0.4s;
+    -ms-transition: 0.4s;
+    -o-transition: 0.4s;
+    -webkit-transition: 0.4s;
+    z-index: -11;
+}
+.themeix-button-group .price-btn-cust:hover:before {
+    height: 50%;
+}
+.themeix-button-group .price-btn-cust:after {
+    content: "";
+    width: 100%;
+    height: 0;
+    position: absolute;
+    background-color: #2E94DF;
+    bottom: 50%;
+    left: 0;
+    transition: 0.4s;
+    -moz-transition: 0.4s;
+    -ms-transition: 0.4s;
+    -o-transition: 0.4s;
+    -webkit-transition: 0.4s;
+    z-index: -11;
+}
+.themeix-button-group .price-btn-cust:hover:after {
+    height: 50%;
+}
+.themeix-button-group .price-btn-cust:hover {
+    color: #FFFFFF!important;
+}
+
+.themeix-button-group button {
+    border-radius: 0!important;
+    border: 0;
+    background: #2E94DF!important;
+}
+
+.themeix-button-group .themeix-submit-btn {
+    padding: 12px 30px;
+    display: inline-block;
+    font-size: 13px;
+    text-transform: uppercase;
+    line-height: 24px;
+    background: #f96a91;
+    margin-right: 12px;
+    font-weight: 400;
+
+    border-radius: 4px;
+    color: #fff;
+    position: relative;
+    z-index: 22;
+    -webkit-transition: 0.4s;
+    width: 100%;
+    overflow: hidden;
+    z-index: 1;
+}
+.themeix-button-group .themeix-submit-btn::after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: -65px;
+    border-radius: 50%;
+    background: #424242;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-8%, -50%);
+    -moz-transform: translate(-1%, -40%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transition: width 0.7s, height 0.7s;
+    -webkit-transition: width 0.7s, height 0.7s;
+    -moz-transition: width 0.7s, height 0.7s;
+    -ms-transition: width 0.7s, height 0.7s;
+    -o-transition: width 0.7s, height 0.7s;
+    top: 70px;
+    z-index: -22;
+}
+.themeix-button-group .themeix-submit-btn:hover:after {
+    width: 700px;
+    height: 700px;
+}

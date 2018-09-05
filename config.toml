@@ -1,5 +1,5 @@
 baseURL = "https://navcoin.org"
-theme = "nav-community-v1"
+theme = "nav-community-v2"
 
 # English is the default language
 defaultContentLanguage = "en"
