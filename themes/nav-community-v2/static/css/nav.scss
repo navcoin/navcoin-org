@@ -5,10 +5,11 @@
 /*****************************
         Shortcodes 
 *****************************/
-@import "./center_text_cta.scss";
+@import "./center-text-cta.scss";
 @import "./contrib-list.scss";
 @import "./hero-section.scss";
-@import "./text_section.scss";
+@import "./wallet-section.scss";
+@import "./text-section.scss";
 
 
 // to push components past the header menu
@@ -31,6 +32,11 @@ a {
   &:hover, &:active, &:focus, &:visited {
     text-decoration: none;
   }
+}
+
+.90vw-container {
+  max-width: 90vw;
+  margin: 0 auto;
 }
 
 .box-list {

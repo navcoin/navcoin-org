@@ -6,6 +6,82 @@ type: "default"
 author: ""
 description: ""
 ---
+{{< wallet_section >}}
+
+    {{< wallet 
+        titleText="NavCoin Core Wallet v4.3.0"
+        walletImgSrc="/images/logos/wallet-navcoincore-logo.png"
+        text="These wallets run the blockchain & participate in validating transactions."
+        btnUrl="https://navcoin.org/navcoin-core/#links"
+        btnText="Download"
+        platformImg1Src="/images/platforms/mac.png"
+        platformImg2Src="/images/platforms/windows.png"
+        platformImg3Src="/images/platforms/linux.png"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+    >}}
+
+    {{< wallet 
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+        titleText="NavPi Stakebox v1.0.9"
+        walletImgSrc="/images/logos/wallet-navpi-logo.png"
+        text="A low-energy NavCoin staking solution based on the Raspberry-Pi platform."
+        btnUrl="https://navhub.org/projects/nav-pi/#links"
+        btnText="Download"
+        platformImg1Src="/images/platforms/pi.png"
+    >}}
+    
+    {{< wallet 
+        titleText="NavCoin Core Wallet v4.3.0"
+        walletImgSrc="/images/logos/wallet-navcoincore-logo.png"
+        text="These wallets run the blockchain & participate in validating transactions."
+        btnUrl="https://navcoin.org/navcoin-core/#links"
+        btnText="Download"
+        platformImg1Src="/images/platforms/mac.png"
+        platformImg2Src="/images/platforms/windows.png"
+        platformImg3Src="/images/platforms/linux.png"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+    >}}
+
+    {{< wallet 
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+        titleText="NavPay Light Wallet v4.2.0"
+        walletImgSrc="/images/logos/wallet-navpay-logo.png"
+        text="NavPay is an easy to use light wallet, that allows you to securely store your NAV."
+        btnUrl="https://navhub.org/projects/nav-pay/#links"
+        btnText="Download"
+        platformImg1Src="/images/platforms/mac.png"
+        platformImg2Src="/images/platforms/windows.png"
+        platformImg3Src="/images/platforms/linux.png"
+        platformImg4Src="/images/platforms/android.png"
+        platformImg5Src="/images/platforms/web.png"
+        platformImg6Src="/images/platforms/pwa.png"
+    >}}
+
+    {{< wallet 
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+        titleText="NavPi Stakebox v1.0.9"
+        walletImgSrc="/images/logos/wallet-navpi-logo.png"
+        text="A low-energy NavCoin staking solution based on the Raspberry-Pi platform."
+        btnUrl="https://navhub.org/projects/nav-pi/#links"
+        btnText="Download"
+        platformImg1Src="/images/platforms/pi.png"
+    >}}
+
+{{< wallet 
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+        titleText="NavPi Stakebox v1.0.9"
+        walletImgSrc="/images/logos/wallet-navpi-logo.png"
+        text="A low-energy NavCoin staking solution based on the Raspberry-Pi platform."
+        btnUrl="https://navhub.org/projects/nav-pi/#links"
+        btnText="Download"
+        platformImg1Src="/images/platforms/pi.png"
+    >}}
+    
+
+    {{< /wallet_section >}}
+
+
+
 {{< hero_section
 titleText="Standard hero_section"
 paragraphText="NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a."
