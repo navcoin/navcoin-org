@@ -4,51 +4,61 @@
 
 A `wallet_section` looks like this:
 
-{{< wallet_section    
-    buttonImgSrc="/images/icons/rightward-arrow.svg"
+```
+{{< wallet_section >}}
+    {{< wallet 
+        titleText="NavCoin Core Wallet v4.3.0"
+        walletImgSrc="/images/logos/wallet-navcoincore-logo.png"
+        text="These wallets run the blockchain & participate in validating transactions."
+        btnUrl="https://navcoin.org/navcoin-core/#links"
+        btnText="Download"
+        platformImg1Src="/images/platforms/mac.png"
+        platformImg2Src="/images/platforms/windows.png"
+        platformImg3Src="/images/platforms/linux.png"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+    >}}
+{{< /wallet_section >}}
+```
 
-    item1TitleText="NavCoin Core Wallet v4.3.0"
-    item1WalletImgSrc="/images/logos/wallet-navcoincore-logo.png"
-    item1Text="These wallets run the blockchain & participate in validating transactions."
-    item1BtnUrl="https://navcoin.org/navcoin-core/#links"
-    item1BtnText="Download"
-    item1PlatformImg1Src="/images/platforms/mac.png"
-    item1PlatformImg2Src="/images/platforms/windows.png"
-    item1PlatformImg3Src="/images/platforms/linux.png"
-    
-    item2TitleText="NavPay Light Wallet v4.2.0"
-    item2WalletImgSrc="/images/logos/wallet-navpay-logo.png"
-    item2Text="NavPay is an easy to use light wallet, that allows you to securely store your NAV."
-    item2BtnUrl="https://navhub.org/projects/nav-pay/#links"
-    item2BtnText="Download"
-    item2PlatformImg1Src="/images/platforms/mac.png"
-    item2PlatformImg2Src="/images/platforms/windows.png"
-    item2PlatformImg3Src="/images/platforms/linux.png"
-    item2PlatformImg4Src="/images/platforms/android.png"
-    item2PlatformImg5Src="/images/platforms/web.png"
-    item2PlatformImg6Src="/images/platforms/pwa.png"
-    
-    item3TitleText="NavPi Stakebox v1.0.9"
-    item3WalletImgSrc="/images/logos/wallet-navpi-logo.png"
-    item3Text="A low-energy NavCoin staking solution based on the Raspberry-Pi platform."
-    item3BtnUrl="https://navhub.org/projects/nav-pi/#links"
-    item3BtnText="Download"
-    item3PlatformImg1Src="/images/platforms/pi.png">}}
+It is a container for the `wallet` shortcode. You can throw as many `wallet` shortcodes into it as you want.
+
+The `wallet_section` has **no** attributes.
+
+## wallet shortcode
+
+The `wallet` shortcode looks like this:
+
+```
+{{< wallet 
+    titleText="NavCoin Core Wallet v4.3.0"
+    walletImgSrc="/images/logos/wallet-navcoincore-logo.png"
+    text="These wallets run the blockchain & participate in validating transactions."
+    btnUrl="https://navcoin.org/navcoin-core/#links"
+    btnText="Download"
+    platformImg1Src="/images/platforms/mac.png"
+    platformImg2Src="/images/platforms/windows.png"
+    platformImg3Src="/images/platforms/linux.png"
+    buttonImgSrc="/images/icons/rightward-arrow.svg"
+>}}
+```
+It is intended to be placed inside a `wallet_container` and no where else.
+
 
 | Attribute | Purpose | Content |
 |: - |:- |
-| itemXTitleText | Sets the title text for the wallet, where `X` is the number of the wallet you are editing (1, 2, or 3) | Plain text |
-| itemXText | Sets the description text for the wallet, where `X` is the number of the wallet you are editing (1, 2, or 3) | Plain text |
-| itemXWalletImgSrc | Sets the main image for the wallet, where `X` is the number of the wallet you are editing (1, 2, or 3) | A path e.g. `/images/logos/wallet-navpi-logo.png"` |
-| itemXBtnText | Sets the button text for the wallet, where `X` is the number of the wallet you are editing (1, 2, or 3) | Plain text |
-| itemXBtnUrl | Sets the button URL for the wallet, where `X` is the number of the wallet you are editing (1, 2, or 3) | If it's an on-site link a simple relative link is fine, e.g. `/buy-nav`. An off-site link will need to be written in full, e.g. `https://www.navhub.org` |
-|itemXPlatformImgYSrc| Where `X` is the number of the wallet you are editing (1, 2, or 3) and `Y` is the number of image of the item you are editing. Sets the platform icon for the wallet.| A path e.g. `/images/platforms/android.png"` |
+| titleText | Sets the title text for the wallet | Plain text |
+| text | Sets the description text for the wallet | Plain text |
+| walletImgSrc | Sets the main image for the wallet | A path e.g. `/images/logos/wallet-navpi-logo.png"` |
+| btnText | Sets the button text for the wallet | Plain text |
+| btnUrl | Sets the button URL for the wallet | If it's an on-site link a simple relative link is fine, e.g. `/buy-nav`. An off-site link will need to be written in full, e.g. `https://www.navhub.org` |
+|platformImgXSrc | Where `X` is the number of the image you are editing. Sets the platform icon for the wallet. You can add up to 6 images | A path e.g. `/images/platforms/android.png"` |
 | buttonImgSrc | Sets the image on the button. | A path. e.g. `/images/icons/rightward-arrow.svg` |
 
 
 ## hero_section
 
 A `hero_section` looks like this:
+
 ```
 {{< hero_section
 titleText="Standard hero_section"

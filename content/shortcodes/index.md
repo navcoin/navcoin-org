@@ -93,6 +93,7 @@ titleText="With call-to-action"
 imgSrc="/images/hero-icon.svg"
 paragraphText="NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a."
 buttonText="Click for NAV!"
+buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
 
 {{< center_text_cta
