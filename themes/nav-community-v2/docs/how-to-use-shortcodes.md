@@ -1,11 +1,11 @@
 # Shortcode Documentation
 
-## wallet_section
+## item_container_section
 
-A `wallet_section` looks like this:
+A `item_container_section` looks like this:
 
 ```
-{{< wallet_section >}}
+{{< item_container_section >}}
     {{< wallet 
         titleText="NavCoin Core Wallet v4.3.0"
         walletImgSrc="/images/logos/wallet-navcoincore-logo.png"
@@ -17,12 +17,35 @@ A `wallet_section` looks like this:
         platformImg3Src="/images/platforms/linux.png"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
     >}}
-{{< /wallet_section >}}
+{{< /item_container_section >}}
 ```
 
-It is a container for the `wallet` shortcode. You can throw as many `wallet` shortcodes into it as you want.
+It is a container for the both the `wallet` shortcode and `exchange` shortcode. You can throw as many shortcodes into it as you want but **only use sortcodes of one type.**, i.e. don't mix `wallet` and `exchange` shortcodes .
 
-The `wallet_section` has **no** attributes.
+The `item_container_section` has **no** attributes.
+
+## exchange shortcode
+
+The `exchange` shortcode looks like this:
+
+```
+{{< exchange 
+    titleText="Bittrex"
+    imgSrc="/images/logos/wallet-navcoincore-logo.png"
+    text="BTC/NAV, USD/NAV, ETH/NAV"
+    linkUrl="https://navcoin.org/navcoin-core/#links"
+>}}
+```
+It is intended to be placed inside a `exchange_container` and no where else.
+
+
+| Attribute | Purpose | Content |
+|: - |:- |
+| titleText | Sets the title text for the exchange | Plain text |
+| text | Sets the description text for the exchange, keep this short. | Plain text |
+| exchangeImgSrc | Sets the image for the exchange | A path e.g. `/images/logos/wallet-navpi-logo.png"` |
+| linkUrl | Sets the URL for the exchange | If it's an on-site link a simple relative link is fine, e.g. `/buy-nav`. An off-site link will need to be written in full, e.g. `https://www.navhub.org` |
+
 
 ## wallet shortcode
 

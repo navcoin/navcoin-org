@@ -7,50 +7,50 @@ author: ""
 description: ""
 ---
 
-{{< wallet_section >}}
+{{< item_container_section >}}
 
     {{< exchange 
         titleText="NavPi Stakebox v1.0.9"
         imgSrc="/images/logos/wallet-navpi-logo.png"
         text="Instant Exchange"
-        btnUrl="https://navhub.org/projects/nav-pi/#links"
+        linkUrl="https://navhub.org/projects/nav-pi/#links"
     >}}
     
     {{< exchange 
         titleText="sml nme"
         imgSrc="/images/logos/wallet-navcoincore-logo.png"
         text="BTC/NAV, USD/NAV, ETH/NAV"
-        btnUrl="https://navcoin.org/navcoin-core/#links"
+        linkUrl="https://navcoin.org/navcoin-core/#links"
     >}}
 
     {{< exchange 
         titleText="🐕🐈🐉🕊️🐖🎠"
         imgSrc="/images/logos/wallet-navpay-logo.png"
         text="Various/NAV"
-        btnUrl="https://navhub.org/projects/nav-pay/#links"
+        linkUrl="https://navhub.org/projects/nav-pay/#links"
     >}}
 
     {{< exchange 
         titleText="Really long exchange title"
         imgSrc="/images/logos/wallet-navpi-logo.png"
         text="NZD/NAV"
-        btnUrl="https://navhub.org/projects/nav-pi/#links"
+        linkUrl="https://navhub.org/projects/nav-pi/#links"
     >}}
 
 {{< exchange 
         titleText="Changenow"
         imgSrc="/images/logos/wallet-navpi-logo.png"
         text="BTC/NAV"
-        btnUrl="https://navhub.org/projects/nav-pi/#links"
+        linkUrl="https://navhub.org/projects/nav-pi/#links"
     >}}
     
 
-{{< /wallet_section >}}
+{{< /item_container_section >}}
 
 
 
 
-{{< wallet_section >}}
+{{< item_container_section >}}
 
     {{< wallet 
         titleText="NavCoin Core Wallet v4.3.0"
@@ -122,7 +122,7 @@ description: ""
     >}}
     
 
-    {{< /wallet_section >}}
+    {{< /item_container_section >}}
 
 
 
