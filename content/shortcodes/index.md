@@ -8,6 +8,50 @@ description: ""
 ---
 
 {{< item_container_section 
+    titleText="Merchants"
+    subtitleText="A list of stores that accept NavCoin"
+>}}
+
+    {{< merchant 
+        titleText="Turtle Store"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="Exotic Turtles 🐢"
+        linkUrl="https://navhub.org/projects/nav-pi/#links"
+    >}}
+    
+    {{< merchant 
+        titleText="sml nme"
+        imgSrc="/images/logos/wallet-navcoincore-logo.png"
+        text="Shop shop"
+        linkUrl="https://navcoin.org/navcoin-core/#links"
+    >}}
+
+    {{< merchant 
+        titleText="Generic Shop"
+        imgSrc="/images/logos/wallet-navpay-logo.png"
+        text="We sell generic things 🛒"
+        linkUrl="https://navhub.org/projects/nav-pay/#links"
+    >}}
+
+    {{< merchant 
+        titleText="Really long merchant title"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="We accept NZD and NAV"
+        linkUrl="https://navhub.org/projects/nav-pi/#links"
+    >}}
+
+{{< merchant 
+        titleText="Changenow"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="BTC/NAV"
+        linkUrl="https://navhub.org/projects/nav-pi/#links"
+    >}}
+    
+
+{{< /item_container_section >}}
+
+
+{{< item_container_section 
     titleText="Exchanges"
     subtitleText="A list of exchanges that trade NavCoin"
 >}}

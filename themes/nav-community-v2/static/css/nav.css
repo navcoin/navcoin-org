@@ -576,6 +576,44 @@
   .wallet-column a:hover, .wallet-column a:active, .wallet-column a:visited {
     filter: brightness(110%); }
 
+.merchant-column {
+  margin: 20px auto 0 auto;
+  min-width: 200px;
+  width: 100%;
+  max-width: 450px; }
+  .merchant-column a {
+    color: #fff; }
+  .merchant-column .merchant-card {
+    box-shadow: 1px 13px 35px rgba(66, 45, 178, 0.12);
+    transition: all 0.3s ease; }
+    .merchant-column .merchant-card:hover {
+      transform: translate(0px, -5px); }
+  .merchant-column .upper-half {
+    display: flex;
+    flex-direction: column;
+    height: 158px;
+    padding: 5px;
+    background: #fff;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px 8px 0 0; }
+  .merchant-column .item-icon {
+    padding: 10px 0 10px 0;
+    width: 108px; }
+  .merchant-column .lower-half {
+    background: #7D5AB5;
+    padding: 13px;
+    border-radius: 0 0 8px 8px;
+    text-align: center; }
+    .merchant-column .lower-half h3 {
+      font-size: 20px;
+      margin: 0 0 20px 0; }
+    .merchant-column .lower-half p {
+      font-size: 16px;
+      font-family: 'Roboto', sans-serif; }
+  .merchant-column a:hover, .merchant-column a:active, .merchant-column a:visited {
+    filter: brightness(110%); }
+
 .exchange-column {
   margin: 20px auto 0 auto;
   min-width: 200px;
@@ -611,19 +649,6 @@
       font-size: 20px;
       margin: 0;
       text-align: center; }
-  .exchange-column .item-text + p {
-    margin-top: 20px;
-    margin-bottom: 24px;
-    color: white;
-    font-size: 16px;
-    font-family: 'Roboto';
-    margin: 0;
-    font-weight: 300;
-    line-height: 25px; }
-  .exchange-column #box-item-group {
-    display: flex;
-    align-items: center;
-    margin-bottom: 15px; }
   .exchange-column a:hover, .exchange-column a:active, .exchange-column a:visited {
     filter: brightness(110%); }
 
