@@ -27,6 +27,29 @@ It is a container for the both the `wallet` shortcode and `exchange` shortcode. 
 | titleText | Sets the title text for the container. This is optional so only include this attribute if you're using it or you'll get weird spacing. | Plain text |
 | subtitleText | Sets the subtitle text for the container. This is optional so only include this attribute if you're using it or you'll get weird spacing | Plain text |
 
+## merchant shortcode
+
+The `merchant` shortcode looks like this:
+
+```
+{{< merchant 
+    titleText="Crypto Garden"
+    imgSrc="/images/logos/wallet-navcoincore-logo.png"
+    text="Spend your NavCoin on exotic potplants and shrubs"
+    linkUrl="https://navcoin.org/navcoin-core/#links"
+>}}
+```
+It is intended to be placed inside a `exchange_container` and no where else.
+
+
+| Attribute | Purpose | Content |
+|: - |:- |
+| titleText | Sets the title text for the merchant | Plain text |
+| text | Sets the description text for the merchant. | Plain text |
+| imgSrc | Sets the image for the merchant | A path e.g. `/images/logos/wallet-navpi-logo.png"` |
+| linkUrl | Sets the URL for the merchant | If it's an on-site link a simple relative link is fine, e.g. `/buy-nav`. An off-site link will need to be written in full, e.g. `https://www.navhub.org` |
+
+
 ## exchange shortcode
 
 The `exchange` shortcode looks like this:
@@ -46,7 +69,7 @@ It is intended to be placed inside a `exchange_container` and no where else.
 |: - |:- |
 | titleText | Sets the title text for the exchange | Plain text |
 | text | Sets the description text for the exchange, keep this short. | Plain text |
-| exchangeImgSrc | Sets the image for the exchange | A path e.g. `/images/logos/wallet-navpi-logo.png"` |
+| imgSrc | Sets the image for the exchange | A path e.g. `/images/logos/wallet-navpi-logo.png"` |
 | linkUrl | Sets the URL for the exchange | If it's an on-site link a simple relative link is fine, e.g. `/buy-nav`. An off-site link will need to be written in full, e.g. `https://www.navhub.org` |
 
 

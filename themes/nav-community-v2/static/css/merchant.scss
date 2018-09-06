@@ -1,4 +1,4 @@
-.exchange-column {
+.merchant-column {
     margin: 20px auto 0 auto;
     min-width: 200px;
     width: 100%;
@@ -7,7 +7,7 @@
     a {
       color: #fff;
     }
-  .exchange-card {
+  .merchant-card {
     box-shadow: 1px 13px 35px rgba(66,45,178,0.12);
     transition: all 0.3s ease;
     &:hover {
@@ -25,10 +25,6 @@
     justify-content: center;
     border-radius: 8px 8px 0 0;
     
-    p {
-      color: rgb(44,49,52);
-      font-size: 16px;
-    }
   }
   
   .item-icon {
@@ -40,11 +36,16 @@
     background: #7D5AB5;  
     padding: 13px; 
     border-radius: 0 0 8px 8px;
-
+    text-align: center;
+    
     h3 {
       font-size: 20px;
-      margin: 0;
-      text-align: center;
+      margin: 0 0 20px 0;
+    }
+
+    p {
+      font-size: 16px;
+      font-family: 'Roboto', sans-serif;
     }
   }
 
