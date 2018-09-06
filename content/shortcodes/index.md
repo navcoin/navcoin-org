@@ -6,7 +6,57 @@ type: "default"
 author: ""
 description: ""
 ---
-{{< wallet_section >}}
+
+{{< item_container_section 
+    titleText="Exchanges"
+    subtitleText="A list of exchanges that trade NavCoin"
+>}}
+
+    {{< exchange 
+        titleText="NavPi Stakebox v1.0.9"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="Instant Exchange"
+        linkUrl="https://navhub.org/projects/nav-pi/#links"
+    >}}
+    
+    {{< exchange 
+        titleText="sml nme"
+        imgSrc="/images/logos/wallet-navcoincore-logo.png"
+        text="BTC/NAV, USD/NAV, ETH/NAV"
+        linkUrl="https://navcoin.org/navcoin-core/#links"
+    >}}
+
+    {{< exchange 
+        titleText="🐕🐈🐉🕊️🐖🎠"
+        imgSrc="/images/logos/wallet-navpay-logo.png"
+        text="Various/NAV"
+        linkUrl="https://navhub.org/projects/nav-pay/#links"
+    >}}
+
+    {{< exchange 
+        titleText="Really long exchange title"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="NZD/NAV"
+        linkUrl="https://navhub.org/projects/nav-pi/#links"
+    >}}
+
+{{< exchange 
+        titleText="Changenow"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="BTC/NAV"
+        linkUrl="https://navhub.org/projects/nav-pi/#links"
+    >}}
+    
+
+{{< /item_container_section >}}
+
+
+
+
+{{< item_container_section
+    titleText="NavCoin Wallets"
+    subtitleText="A list of NavCoin Wallets"
+    >}}
 
     {{< wallet 
         titleText="NavCoin Core Wallet v4.3.0"
@@ -78,7 +128,7 @@ description: ""
     >}}
     
 
-    {{< /wallet_section >}}
+    {{< /item_container_section >}}
 
 
 
@@ -93,6 +143,7 @@ titleText="With call-to-action"
 imgSrc="/images/hero-icon.svg"
 paragraphText="NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a."
 buttonText="Click for NAV!"
+buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
 
 {{< center_text_cta
