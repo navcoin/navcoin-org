@@ -509,11 +509,18 @@
   .item-container-section .container-subtitle {
     font-size: 16px;
     margin: 0 0 35px 0; }
+  @media (max-width: 600px) {
+    .item-container-section .container-subtitle {
+      margin: 0 0 33px 0; } }
   .item-container-section .grid-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     grid-gap: 30px 20px;
     justify-content: center; }
+
+@media (max-width: 600px) {
+  .item-container-section {
+    padding: 55px 0; } }
 
 .wallet-column {
   margin: 20px auto 0 auto;
