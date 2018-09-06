@@ -7,7 +7,10 @@ author: ""
 description: ""
 ---
 
-{{< item_container_section >}}
+{{< item_container_section 
+    titleText="Exchanges"
+    subtitleText="A list of exchanges that trade NavCoin"
+>}}
 
     {{< exchange 
         titleText="NavPi Stakebox v1.0.9"
@@ -50,7 +53,10 @@ description: ""
 
 
 
-{{< item_container_section >}}
+{{< item_container_section
+    titleText="NavCoin Wallets"
+    subtitleText="A list of NavCoin Wallets"
+    >}}
 
     {{< wallet 
         titleText="NavCoin Core Wallet v4.3.0"

@@ -22,7 +22,10 @@ A `item_container_section` looks like this:
 
 It is a container for the both the `wallet` shortcode and `exchange` shortcode. You can throw as many shortcodes into it as you want but **only use sortcodes of one type.**, i.e. don't mix `wallet` and `exchange` shortcodes .
 
-The `item_container_section` has **no** attributes.
+| Attribute | Purpose | Content |
+|: - |:- |
+| titleText | Sets the title text for the container. This is optional so only include this attribute if you're using it or you'll get weird spacing. | Plain text |
+| subtitleText | Sets the subtitle text for the container. This is optional so only include this attribute if you're using it or you'll get weird spacing | Plain text |
 
 ## exchange shortcode
 
