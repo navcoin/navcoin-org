@@ -1,17 +1,5 @@
-.wallet-section {
-  color: #fff;
-  padding: 85px 0;
-
-  .grid-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill , minmax(300px, 1fr));
-    grid-gap: 30px 20px;
-    justify-content: center;
-  }
-
-  .wallet-column {
-    margin: 20px auto 0 auto;
-  }
+.wallet-column {
+  margin: 20px auto 0 auto;
 
   .item-card {
     display: flex;
@@ -19,14 +7,14 @@
     position: relative;
     box-shadow: 1px 13px 35px rgba(66,45,178,0.12);
   }
-  
+
   .item-main {
     width: 100%;
     max-width: 450px;
     padding-bottom: 0px; 
 
   }
-  
+
   .item-icon-container {
     height: 158px;
     padding: 5px;
@@ -36,13 +24,13 @@
     justify-content: center;
     border-radius: 8px 8px 0 0;
   }
-  
+
   .item-icon {
     padding: 10px 0 10px 0;
     height: inherit;
     max-height: 100%; 
   }
-  
+
   .item-details-group {
     background: #7D5AB5;  
     padding: 23px; 
@@ -98,7 +86,5 @@
 
   a:hover, a:active, a:visited {
     filter: brightness(110%)
-  }
-
-
+}
 }
