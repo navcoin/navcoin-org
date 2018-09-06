@@ -9,6 +9,7 @@
 @import "./contrib-list.scss";
 @import "./hero-section.scss";
 @import "./wallet-section.scss";
+@import "./exchange.scss";
 @import "./text-section.scss";
 
 
@@ -34,7 +35,7 @@ a {
   }
 }
 
-.90vw-container {
+.ninety-vw-container {
   max-width: 90vw;
   margin: 0 auto;
 }

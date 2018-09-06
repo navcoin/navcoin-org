@@ -4,7 +4,7 @@
 
   .grid-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill , minmax(200px, 450px));
+    grid-template-columns: repeat(auto-fill , minmax(300px, 1fr));
     grid-gap: 30px 20px;
     justify-content: center;
   }
@@ -58,15 +58,16 @@
     margin: 5px 0 5px 0; 
   }
 
-  .item-text+p {
+  .item-text p {
     margin-top: 20px;
     margin-bottom: 24px;
-    color: white;
-    font-size: 16px;
-    font-family: 'Roboto';
-    margin: 0;
-    font-weight: 300;
-    line-height: 25px;
+    min-height: 75px;
+  }
+
+  @media (max-width: 678px) {
+  .item-text p {
+    min-height: unset;
+    }
   }
 
   #box-item-group {
