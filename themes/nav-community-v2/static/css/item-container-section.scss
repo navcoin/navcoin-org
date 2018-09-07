@@ -22,10 +22,10 @@
   }
   .grid-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill , minmax(300px, 1fr));
-            grid-gap: 30px 20px;
-            justify-content: center;
-    }
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 30px 20px;
+    justify-content: center;
+  }
 }
 
 @media (max-width: 600px) {

@@ -8,6 +8,43 @@ description: ""
 ---
 
 {{< item_container_section 
+    titleText="Contribute Now!"
+    subtitleText="NavCoin is an open source protocol and NavCoin Wallets are cool"
+>}}
+
+    {{< long_text 
+        titleText="Turtle Store"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="Bitcoin when used on a mobile device allows you to pay with a simple two-step scan-and-pay. There's no need to sign up, swipe your card, type a PIN, or sign anything. All you need to receive Bitcoin payments is to display the QR code in your Bitcoin wallet app and let the other party scan your mobile, or touch the two phones together (using NFC radio technology)."
+        btnUrl="https://navcoin.org/navcoin-core/#links"
+        btnText="Download"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+
+    >}}
+    
+    {{< long_text 
+        titleText="sml nme"
+        imgSrc="/images/logos/wallet-navcoincore-logo.png"
+        text="Bitcoin when used on a mobile device allows you to pay with a simple two-step scan-and-pay. There's no need to sign up, swipe your card, type a PIN, or sign anything. All you need to receive Bitcoin payments is to display the QR code in your Bitcoin wallet app and let the other party scan your mobile, or touch the two phones together (using NFC radio technology)."
+        btnUrl="https://navcoin.org/navcoin-core/#links"
+        btnText="Download"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+
+    >}}
+
+    {{< long_text 
+        titleText="Generic Shop"
+        imgSrc="/images/logos/wallet-navpay-logo.png"
+        text="Bitcoin when used on a mobile device allows you to pay with a simple two-step scan-and-pay. There's no need to sign up, swipe your card, type a PIN, or sign anything. All you need to receive Bitcoin payments is to display the QR code in your Bitcoin wallet app and let the other party scan your mobile, or touch the two phones together (using NFC radio technology)."
+        btnUrl="https://navcoin.org/navcoin-core/#links"
+        btnText="Download"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+    >}}
+
+{{< /item_container_section >}}
+
+
+{{< item_container_section 
     titleText="Merchants"
     subtitleText="A list of stores that accept NavCoin"
 >}}
@@ -108,10 +145,10 @@ description: ""
         text="These wallets run the blockchain & participate in validating transactions."
         btnUrl="https://navcoin.org/navcoin-core/#links"
         btnText="Download"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
         platformImg1Src="/images/platforms/mac.png"
         platformImg2Src="/images/platforms/windows.png"
         platformImg3Src="/images/platforms/linux.png"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
     >}}
 
     {{< wallet 
