@@ -301,11 +301,11 @@ header {
     padding: 5px 0 0 0;
 }
 
-.nav-container  .custom-toggle {
+ .custom-toggle {
     position: relative;
     float: right;
-    padding: 0;
     margin: 12px 0 0 0;
+    padding: 0;	
     background-color: transparent;
     background-image: none;
     border: 1px solid transparent;
@@ -313,7 +313,7 @@ header {
 }
 
 .main-menu .navbar-nav li {
-    padding: 0 5px;
+    padding: 0 0 0 20px;
 }
 
 .main-menu .navbar-nav li a, .main-menu .navbar-nav li .nav-top-item  {
@@ -1395,6 +1395,7 @@ nav li ul {
 .nav li:hover ul {
   display: block;
   background-color: #FFF;
+  position: relative;
 }
 
 .sub-menu .fa {
