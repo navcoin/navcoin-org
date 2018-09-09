@@ -10,6 +10,7 @@
 @import "./hero-section.scss";
 @import "./item-container-section.scss";
 @import "./wallet.scss";
+@import "./long-text.scss";
 @import "./merchant.scss";
 @import "./exchange.scss";
 @import "./text-section.scss";
@@ -17,15 +18,10 @@
 
 // to push components past the header menu
 body { 
+  background: #fafafa;
   padding-top: 54px;
 }
 
-@media (max-width: 767px) {
-  body { // Because the header menu is taller at this width 
-    padding-top: 61px;
-  }
-  
-}
 
 .news-content >p:empty{
   display: none;
@@ -40,6 +36,13 @@ a {
 .ninety-vw-container {
   max-width: 90vw;
   margin: 0 auto;
+}
+
+@media (min-width: 1300px) {
+  .ninety-vw-container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
 }
 
 .box-list {
@@ -216,7 +219,7 @@ a {
 }
 
 .hero-image-section {
-  height: calc(100vh - 54px);
+  height: 100vh;
   .image-container {
     display: flex;
     height: inherit;
@@ -543,6 +546,9 @@ a {
 /* end links_section_supreme */
 
 .main-menu {
+  .nav-container {
+  max-width: 95vw;
+  }
   font-family: 'Source Sans Pro', sans-serif;
   .logo-brand {
     height: inherit;
