@@ -501,6 +501,9 @@
 .item-container-section {
   color: #7D5AB5;
   padding: 85px 0; }
+  .item-container-section.bg-purple {
+    background: #7D5AB5;
+    color: #fff; }
   .item-container-section .container-title, .item-container-section .container-subtitle {
     text-align: center; }
   .item-container-section .container-title {
