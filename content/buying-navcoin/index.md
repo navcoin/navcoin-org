@@ -127,7 +127,26 @@ type: "default"
     feature2Img="/images/service/coindirect.png"
     feature2Title="Coindirect"
     feature2Txt="Direct Purchase"
-    feature2Link="https://www.coindirect.com/buy/navcoin">}}
+    feature2Link="https://www.coindirect.com/buy/navcoin"
+    feature3Img="/images/service/crex-24.jpg"
+    feature3Title="Crex24"
+    feature3Txt="Multi Exchange Platform"
+    feature3Link="https://crex24.com/exchange/NAV-BTC">}}
+{{< box_links_section
+    dropShadow="true"
+    subtitleFontColor="#fff"
+    featureTitleFontColor="#fff"
+    featureTitleBgColor="#523971"
+    txtFontColor="#555"
+    bgColor="#fff"
+    linkBgColor="#523971"
+    containerPadding="0 0 70px 0"
+    titleMargin="0"
+    gradient="false"
+    feature1Img="/images/service/crytrex.jpg"
+    feature1Title="Crytrex"
+    feature1Txt="BTC / NAV"
+    feature1Link="https://crytrex.com/">}}
 {{< links_section
     title="NavCoin Communities"
     subtitle="If you’re unsure which exchange to use or how they work, talk to one of the many helpful NavCoin community members through these channels."
