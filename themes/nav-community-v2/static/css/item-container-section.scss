@@ -1,11 +1,17 @@
 .item-container-section {
   color: #7D5AB5;
   padding: 85px 0;
- 
+  
   &.bg-purple {
     background: #7D5AB5;
     color: #fff;
   }
+
+  .flex-center .round-btn {
+    margin-top: 60px;
+    text-align:center;
+  }
+
   .container-title, .container-subtitle {
     text-align: center
   }

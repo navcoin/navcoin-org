@@ -1,11 +1,114 @@
 ---
-title: "NavCoin Core"
+title: "Shortcodes"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
 description: ""
 ---
+{{< item_container_section 
+    titleText="Accepting NavCoin is easy!"
+    subtitleText="This is a standard actions display"
+    bgPurple="true"
+    buttonUrl="https://navcoin.org/navcoin-core/#links"
+    buttonText="See who's involved"
+    buttonImgSrc="/images/icons/rightward-arrow.svg"
+>}}
+    {{< action 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        subtext="Transactions in as little as five seconds. No chargebacks or failed transactions."
+        linkText="Click me"
+        linkUrl="www.navcoin.org"
+        linkImgSrc="/images/icons/rightward-arrow.svg"
+
+    >}}
+    {{< action 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        subtext="Transactions in as little as five seconds. No chargebacks or failed transactions."
+        linkText="Click me"
+        linkUrl="www.navcoin.org"
+        linkImgSrc="/images/icons/rightward-arrow.svg"
+
+    >}}
+    {{< action                 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        subtext="Transactions in as little as five seconds. No chargebacks or failed transactions."
+        linkText="Click me"
+        linkUrl="www.navcoin.org"
+        linkImgSrc="/images/icons/rightward-arrow.svg"
+
+    >}}
+{{< /item_container_section >}}
+
+{{< item_container_section 
+    titleText="Accepting NavCoin is easy!"
+    subtitleText="This is a actions display with no button and a white background"
+>}}
+    {{< action 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        subtext="Transactions in as little as five seconds. No chargebacks or failed transactions."
+        linkText="Click me"
+        linkUrl="www.navcoin.org"
+        linkImgSrc="/images/icons/rightward-arrow-blue.svg"
+    >}}
+    {{< action 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        subtext="Transactions in as little as five seconds. No chargebacks or failed transactions."
+        linkText="Click me"
+        linkUrl="www.navcoin.org"
+        linkImgSrc="/images/icons/rightward-arrow-blue.svg"
+    >}}
+    {{< action                 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        subtext="Transactions in as little as five seconds. No chargebacks or failed transactions."
+        linkText="Click me"
+        linkUrl="www.navcoin.org"
+        linkImgSrc="/images/icons/rightward-arrow-blue.svg"
+    >}}
+{{< /item_container_section >}}
+
+
+{{< item_container_section 
+    titleText="Features"
+    subtitleText="NavCoin is an open source protocol and NavCoin Wallets are cool"
+>}}
+    {{< feature 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="Transactions in as little as five seconds. No chargebacks or failed transactions."
+    >}}
+    {{< feature 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="Transactions in as little as five seconds. No chargebacks or failed transactions."
+    >}}
+    {{< feature                 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="Transactions in as little as five seconds. No chargebacks or failed transactions."
+    >}}
+    {{< feature                 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="Transactions in as little as five seconds. No chargebacks or failed transactions."
+    >}}
+    {{< feature                 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="Transactions in as little as five seconds. No chargebacks or failed transactions."
+    >}}
+    {{< feature                 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="Transactions in as little as five seconds. No chargebacks or failed transactions."
+    >}}
+{{< /item_container_section >}}
 
 {{< item_container_section 
     titleText="Contribute Now!"

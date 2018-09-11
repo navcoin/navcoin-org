@@ -5,7 +5,7 @@
         <p class="paragraph-text">{{ .Get "paragraphText" }}</p>
         {{ if (isset  .Params "buttonText") }}
             <div>
-                <a href="{{ .Get "buttonLink" }}" class="round-btn blue-btn">{{ .Get "buttonText" }}  <img src="{{ .Get "buttonImgSrc" }}" clas="btn-img"> </a></a>
+                <a href="{{ .Get "buttonLink" }}" class="round-btn blue-btn">{{ .Get "buttonText" }}  <img src="{{ .Get "buttonImgSrc" }}" class="btn-img"> </a></a>
             </div>    
         {{ end }}
     </div>
