@@ -1,41 +1,59 @@
 .contrib-list {
+  padding: 80px 0; 
+
   .contrib-list-title  {
-    font-size: 28px;
-    margin: 50px 0;
+    color: #7D5AB5;
+    font-size: 40px;
+    margin: 0 0 26px 0;
+  }
+
+  .subtitle {
+    color: #7D5AB5;
+    font-size: 16px;
+    margin: 0 0 55px 0;
+  }
+
+  .round-btn {
+    margin: 50px 0 0 0;
   }
 
   .git-disp-pic {
     height: 48px;
     border-radius: 225px;
-    margin: 13px 15px 8px 5px;
+    margin: 13px 22px 8px 5px;
   }
+
   .single-item {
     overflow: auto;
     padding: 15px;
     margin-bottom: 25px;
     border-radius: 10px;
     box-shadow: #ccc 0px 0px 10px;
+        transition: all 0.3s ease;
+    &:hover {
+      transform: translate(0px,-5px);
+    }
+  
     .name {
       font-size: 20px;
     }
-    .contrib-number {
-      font-size: 43px;
-      margin-top: 5px;
+
+    .underline {
+      font-size: 13px;
+      display: inline-block;
+      border-bottom: 1px solid #fff;
     }
+
     .contrib-info {
       margin-top: 10px;
       margin-left: 5px;
     }
-    .faded-text {
-      font-size: 16px;
-      color: #ffffff;
-      opacity: 0.54;
-    }
+   
     a, a:visited {
-      color: #d4d4d4;
+      color: #fff;
     }
     a:hover, a:active {
-      color: #fff;
+      filter: brightness(90%);
     }
     a {
       display: flex;
@@ -55,13 +73,6 @@
       border-radius: 10px;
       .name {
         font-size: 22px;
-      }
-      .contrib-number {
-        font-size: 40px;
-        margin-top: 5px;
-      }
-      .faded-text {
-        font-size: 15px;
       }
 
     }

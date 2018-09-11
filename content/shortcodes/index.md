@@ -6,6 +6,13 @@ type: "default"
 author: ""
 description: ""
 ---
+{{< contrib_list
+    title="NavCoin Protocol Contributors"
+    subtitle="We would like to thank our contributors who have made this protocol awesome!"
+    btnLink="https://github.com/NAVCoin/navcoin-core/graphs/contributors"
+    btnTxt="View on Github"
+    buttonImgSrc="/images/icons/rightward-arrow.svg"
+>}}
 {{< item_container_section 
     titleText="Accepting NavCoin is easy!"
     subtitleText="This is a standard actions display"
