@@ -2,8 +2,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12" style="text-align: center;">
-                <h2 class="contrib-list-title">{{ .Get "title"}}</h2>
-                <div class="subtitle">{{ .Get "subtitle" }}</div>
+                <h2 class="contrib-list-title">{{ .Get "titleText"}}</h2>
+                <div class="subtitle">{{ .Get "subtitleText" }}</div>
             </div>
         </div>
         <div class="row">
@@ -25,7 +25,7 @@
             {{end}}
 
             <div class="col-xs-12 center"  >
-                <a href="{{ .Get "btnLink" }}" class="round-btn gradient-btn">{{ .Get "btnTxt" }}  <img src="{{ .Get "buttonImgSrc" }}" class="btn-img"> </a>
+                <a href="{{ .Get "buttonUrl" }}" class="round-btn gradient-btn">{{ .Get "buttonTxt" }}  <img src="{{ .Get "buttonImgSrc" }}" class="btn-img"> </a>
             </div>
 
         </div>

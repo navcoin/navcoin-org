@@ -7,10 +7,10 @@ author: ""
 description: ""
 ---
 {{< contrib_list
-    title="NavCoin Protocol Contributors"
-    subtitle="We would like to thank our contributors who have made this protocol awesome!"
-    btnLink="https://github.com/NAVCoin/navcoin-core/graphs/contributors"
-    btnTxt="View on Github"
+    titleText="NavCoin Protocol Contributors"
+    subtitleText="We would like to thank our contributors who have made this protocol awesome!"
+    buttonLink="https://github.com/NAVCoin/navcoin-core/graphs/contributors"
+    buttonTxt="View on Github"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
 {{< item_container_section 
