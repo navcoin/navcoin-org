@@ -13,6 +13,102 @@ description: ""
     buttonTxt="View on Github"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
+{{< social_grid_section 
+    titleText="Social Channels"
+    subtitleText="Join the nav community"
+>}}
+    {{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+
+{{< /social_grid_section >}}
+
+{{< social_grid_section 
+    titleText="Social Channels"
+    subtitleText="Dark mode! 🕶️"
+    bgPurple="true"
+>}}
+    {{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-dark-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-dark-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-dark-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-dark-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-dark-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-dark-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-dark-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-dark-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+
+{{< /social_grid_section >}}
+
+
 {{< item_container_section 
     titleText="Accepting NavCoin is easy!"
     subtitleText="This is a standard actions display"
@@ -28,7 +124,6 @@ description: ""
         linkText="Click me"
         linkUrl="www.navcoin.org"
         linkImgSrc="/images/icons/rightward-arrow.svg"
-
     >}}
     {{< action 
         titleText="Fast payment"
@@ -37,7 +132,6 @@ description: ""
         linkText="Click me"
         linkUrl="www.navcoin.org"
         linkImgSrc="/images/icons/rightward-arrow.svg"
-
     >}}
     {{< action                 
         titleText="Fast payment"
@@ -46,7 +140,6 @@ description: ""
         linkText="Click me"
         linkUrl="www.navcoin.org"
         linkImgSrc="/images/icons/rightward-arrow.svg"
-
     >}}
 {{< /item_container_section >}}
 
