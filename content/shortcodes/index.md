@@ -6,6 +6,28 @@ type: "default"
 author: ""
 description: ""
 ---
+
+{{< zig_section
+titleText="For your store"
+imgSrc="/images/icons/house.svg"
+paragraphText="NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. Check out this demo that shows how easy it is"
+buttonText="See who's involved"
+buttonImgSrc="/images/icons/rightward-arrow.svg"
+bgPurple="true"
+>}}
+
+
+{{< zig_section
+titleText="For your store"
+imgSrc="/images/icons/house.svg"
+paragraphText="NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. Check out this demo that shows how easy it is" 
+buttonText="See who's involved"
+buttonImgSrc="/images/icons/rightward-arrow.svg"
+reversed="true"
+
+>}}
+
+
 {{< contrib_list
     titleText="NavCoin Protocol Contributors"
     subtitleText="We would like to thank our contributors who have made this protocol awesome!"
@@ -107,7 +129,6 @@ description: ""
 >}}
 
 {{< /social_grid_section >}}
-
 
 {{< item_container_section 
     titleText="Accepting NavCoin is easy!"
@@ -408,6 +429,7 @@ titleText="Standard hero_section"
 paragraphText="NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a."
 imgSrc="/images/hero-icon.svg"
 >}}
+
 {{< hero_section
 titleText="With call-to-action"
 imgSrc="/images/hero-icon.svg"
