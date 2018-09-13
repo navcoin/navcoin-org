@@ -885,6 +885,21 @@ a:hover, a:active, a:focus, a:visited {
     max-width: 1200px;
     margin: 0 auto; } }
 
+.footer-area {
+  padding: 70px 0 0 0; }
+  .footer-area h3 {
+    font-family: 'Raleway', 'Regular', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #7B47B4;
+    margin: 0 0 30px 0; }
+  .footer-area .footer-img {
+    width: 150px; }
+  .footer-area .column {
+    margin-bottom: 60px; }
+  .footer-area #license a {
+    color: red; }
+
 .box-list .drop-shadow {
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
   border-left: 1px solid #EEE;
