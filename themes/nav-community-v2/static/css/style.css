@@ -326,7 +326,7 @@ header {
     border-bottom: 3px solid #fff;
     letter-spacing: 0px;
     font-weight: 400;
-    font-family: roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     margin-top: 4px;
     cursor: pointer;
@@ -1047,50 +1047,6 @@ a {
         page-break-after: avoid;
     }
 }
-.slider-section {
-    background-image: url("../images/slide-image/slider-image-1.jpg");
-    background-size: cover;
-    background-position: center center;
-    min-height: 450px;
-    position: relative;
-    overflow: hidden;
-    -webkit-backface-visibility: hidden;
-    -moz-backface-visibility: hidden;
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0);
-}
-.slider-section::before {
-    background-color: #fff;
-    bottom: -586px;
-    content: "";
-    height: 498px;
-    position: absolute;
-    right: -33px;
-    transform: rotate(-5deg);
-    transform-origin: 0 0 0;
-    width: 120%;
-}
-.skew_appended,
-.skew_prepended {
-    background: #fff;
-}
-.skew {
-    position: relative;
-}
-.skew_appended,
-.skew_prepended {
-    width: 100%;
-    position: absolute;
-    left: 0;
-    overflow: hidden;
-    -webkit-transform: skewY(-3.1deg);
-    -ms-transform: skewY(-3.1deg);
-    transform: skewY(-3.1deg);
-    -webkit-backface-visibility: hidden !important;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-    z-index: 1;
-}
 
 ul li.cat-item a {
     text-transform:capitalize;
@@ -1353,7 +1309,6 @@ nav li ul {
 .nav li:hover ul {
   display: block;
   background-color: #FFF;
-  position: relative;
 }
 
 .sub-menu .fa {
