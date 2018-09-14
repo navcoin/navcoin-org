@@ -16,7 +16,7 @@
   .zig-container {
     max-width: 1920px;
     color: #7D5AB5;
-    padding: 60px 0;
+    padding: 80px 0;
     display: grid;
     grid-column-gap: 120px;
     grid-auto-flow: dense;
@@ -75,7 +75,7 @@
       grid-template-areas: "text image" "text image";
       .text-section-container {
         justify-self: flex-end;
-        padding: 50px 0 0px 20px;
+        padding: 0 0 50px 20px;
       }
       .zig-img {
         justify-self: flex-start;
@@ -86,7 +86,6 @@
   @media (max-width: 900px) {
     .zig-container, .zig-container.reversed {
       grid-column-gap: 30px;
-
       h1 {
         font-size: 35px;
       }
@@ -98,12 +97,10 @@
       padding: 0 0 55px 0;
       grid-template-areas:  "image image"
                             "text text";
-
       .zig-img {
         height: 210px;
         justify-self: center;
       }
-
 
       .text-section-container {
         align-self: center;
@@ -119,9 +116,6 @@
         font-size: 27px;
         font-weight: 500;
         line-height: 32px;
-      }
-
-      a {
       }
     }
   }

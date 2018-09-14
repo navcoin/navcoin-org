@@ -535,7 +535,7 @@
   .zig-section .zig-container {
     max-width: 1920px;
     color: #7D5AB5;
-    padding: 60px 0;
+    padding: 80px 0;
     display: grid;
     grid-column-gap: 120px;
     grid-auto-flow: dense;
@@ -582,7 +582,7 @@
       grid-template-areas: "text image" "text image"; }
       .zig-section .zig-container.reversed .text-section-container {
         justify-self: flex-end;
-        padding: 50px 0 0px 20px; }
+        padding: 0 0 50px 20px; }
       .zig-section .zig-container.reversed .zig-img {
         justify-self: flex-start; }
   @media (max-width: 900px) {
@@ -986,6 +986,60 @@
   align-items: center;
   justify-content: space-between;
   min-height: 300px; }
+
+#accordion-section {
+  padding: 80px 0; }
+  #accordion-section h1 {
+    color: #7d5ab5;
+    font-size: 35px;
+    font-family: 'Raleway', 'Regular', Helvetica, Arial, sans-serif;
+    line-height: 25px;
+    font-weight: 500;
+    margin: 0 0 26px 0; }
+  #accordion-section h2 {
+    margin: 0 0 55px 0;
+    line-height: 25px;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: #7d5ab5; }
+  #accordion-section .panel-title {
+    color: #7D5AB5;
+    font-weight: bold;
+    padding: 10px 55px 10px 46px; }
+    #accordion-section .panel-title a {
+      display: flex;
+      justify-content: space-between; }
+      #accordion-section .panel-title a img {
+        height: 13px;
+        width: 13px;
+        transform: rotate(45deg);
+        transition: 0.2s ease; }
+      #accordion-section .panel-title a.collapsed img {
+        transform: rotate(0deg); }
+    #accordion-section .panel-title a:visited {
+      color: #7D5AB5; }
+    #accordion-section .panel-title a:hover, #accordion-section .panel-title a:active, #accordion-section .panel-title a:focus {
+      color: #7D5AB5;
+      filter: brightness(120%); }
+  #accordion-section .panel {
+    background: #fff;
+    box-shadow: 4px 4px 6px #7d59b5;
+    margin-bottom: 20px;
+    border-radius: 8px; }
+  #accordion-section .panel-heading {
+    background: #fff;
+    border-radius: 8px; }
+  #accordion-section .panel-body {
+    background: #fff;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    padding: 20px 46px;
+    color: #404040; }
+    #accordion-section .panel-body a, #accordion-section .panel-body a:visited {
+      color: #7D5AB5; }
+    #accordion-section .panel-body a:hover, #accordion-section .panel-body a:active, #accordion-section .panel-body a:focus {
+      color: #7D5AB5;
+      filter: brightness(120%); }
 
 body {
   background: #fafafa;
