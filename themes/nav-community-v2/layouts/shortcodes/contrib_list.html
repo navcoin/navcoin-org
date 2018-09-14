@@ -6,12 +6,12 @@
                 <div class="subtitle">{{ .Get "subtitleText" }}</div>
             </div>
         </div>
-        <div class="row">
+        <div class="grid-container">
 
             {{ range $element := sort $.Site.Data.contributors "total" "desc" }}
 
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="single-item" style="background-color: #7d5ab5">
+            <!--<div class="grid-item">-->
+                <div class="single-item">
                     <a href="https://github.com/{{ $element.author.login }}">
                         <img src="{{ .author.avatar }}" class="git-disp-pic">
                         <div class="contrib-info">
@@ -20,7 +20,7 @@
                         </div>
                     </a>
                 </div>
-            </div>
+            <!--</div>-->
 
             {{end}}
 

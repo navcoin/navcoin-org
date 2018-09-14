@@ -405,13 +405,19 @@
     height: 48px;
     border-radius: 225px;
     margin: 13px 22px 8px 5px; }
+  .contrib-list .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 300px);
+    grid-gap: 15px 20px;
+    justify-content: center; }
   .contrib-list .single-item {
+    background-color: #7d5ab5;
+    max-width: 450px;
     overflow: auto;
     padding: 15px;
-    margin-bottom: 25px;
     border-radius: 10px;
     box-shadow: #ccc 0px 0px 10px;
-    transition: all 0.3s ease; }
+    transition: tranform 0.3s ease; }
     .contrib-list .single-item:hover {
       transform: translate(0px, -5px); }
     .contrib-list .single-item .name {
@@ -432,15 +438,27 @@
       flex-direction: row; }
     @media (max-width: 767px) {
       .contrib-list .single-item a {
-        justify-content: space-around; } }
+        justify-content: flex-start; } }
   @media (max-width: 1199px) {
+    .contrib-list .grid-container {
+      grid-gap: 20px 10px; }
     .contrib-list .single-item {
       overflow: auto;
-      padding: 15px;
-      margin-bottom: 25px;
+      padding: 15px 20px;
       border-radius: 10px; }
       .contrib-list .single-item .name {
         font-size: 22px; } }
+  @media (max-width: 650px) {
+    .contrib-list .grid-container {
+      grid-template-columns: repeat(auto-fit, minmax(225px, 450px)); }
+    .contrib-list .git-disp-pic {
+      margin: 13px 12px 8px 0px; }
+    .contrib-list .single-item {
+      overflow: auto;
+      padding: 10px;
+      border-radius: 10px; }
+      .contrib-list .single-item .name {
+        font-size: 18px; } }
 
 .hero-section {
   color: white;
@@ -967,6 +985,21 @@ a:hover, a:active, a:focus, a:visited {
   .ninety-vw-container {
     max-width: 1200px;
     margin: 0 auto; } }
+
+.footer-area {
+  padding: 70px 0 0 0; }
+  .footer-area h3 {
+    font-family: 'Raleway', 'Regular', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #7B47B4;
+    margin: 0 0 30px 0; }
+  .footer-area .footer-img {
+    width: 150px; }
+  .footer-area .column {
+    margin-bottom: 60px; }
+  .footer-area #license a {
+    color: red; }
 
 .box-list .drop-shadow {
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
