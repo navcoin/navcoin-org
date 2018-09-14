@@ -35,7 +35,14 @@
 }
 
 @media (max-width: 800px) {
-  .social-grid-section .grid-container {
-    grid-gap: 30px 50px;
+  .social-grid-section {
+    .grid-container {
+      grid-gap: 30px 50px;
+    }
+    .container-title {
+      font-size: 27px;
+      font-weight: 500;
+      line-height: 32px;
+    }
   }
 }

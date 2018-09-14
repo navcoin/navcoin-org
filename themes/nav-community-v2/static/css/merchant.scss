@@ -53,4 +53,8 @@
   a:hover, a:active, a:visited {
     filter: brightness(110%)
   }
+
+  @media (max-width: 800px) {
+    margin: 0 auto;
+  }
 }

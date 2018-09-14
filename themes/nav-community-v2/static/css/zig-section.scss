@@ -110,10 +110,15 @@
         padding: 0 25px;
         text-align: center;
       }
+      .paragraph-text {
+        max-width: 500px;
+      }
 
       h1 {
-        margin: 27px 0 35px 0;
-        font-size: 32px;
+        margin: 27px 0;
+        font-size: 27px;
+        font-weight: 500;
+        line-height: 32px;
       }
 
       a {

@@ -23,7 +23,7 @@
       height: 12px; }
 
 .btn-img {
-  height: 15px;
+  height: 12px;
   margin-left: 25px; }
 
 .purple-btn {
@@ -449,6 +449,10 @@
       .contrib-list .single-item .name {
         font-size: 22px; } }
   @media (max-width: 650px) {
+    .contrib-list .contrib-list-title {
+      font-size: 27px;
+      font-weight: 500;
+      line-height: 32px; }
     .contrib-list .grid-container {
       grid-template-columns: repeat(auto-fit, minmax(225px, 450px)); }
     .contrib-list .git-disp-pic {
@@ -597,9 +601,13 @@
         align-self: center;
         padding: 0 25px;
         text-align: center; }
+      .zig-section .zig-container .paragraph-text, .zig-section .zig-container.reversed .paragraph-text {
+        max-width: 500px; }
       .zig-section .zig-container h1, .zig-section .zig-container.reversed h1 {
-        margin: 27px 0 35px 0;
-        font-size: 32px; } }
+        margin: 27px 0;
+        font-size: 27px;
+        font-weight: 500;
+        line-height: 32px; } }
 
 .item-container-section {
   color: #7D5AB5;
@@ -617,7 +625,8 @@
     margin: 0 0 26px 0; }
   .item-container-section .container-subtitle {
     font-size: 16px;
-    margin: 0 0 35px 0; }
+    margin: 0 0 35px 0;
+    line-height: 25px; }
   @media (max-width: 600px) {
     .item-container-section .container-subtitle {
       margin: 0 0 33px 0; } }
@@ -629,7 +638,9 @@
 
 @media (max-width: 600px) {
   .item-container-section {
-    padding: 55px 0; } }
+    padding: 55px 0; }
+  .grid-container {
+    grid-gap: 20px; } }
 
 .social-grid-section {
   color: #7D5AB5;
@@ -656,7 +667,11 @@
 
 @media (max-width: 800px) {
   .social-grid-section .grid-container {
-    grid-gap: 30px 50px; } }
+    grid-gap: 30px 50px; }
+  .social-grid-section .container-title {
+    font-size: 27px;
+    font-weight: 500;
+    line-height: 32px; } }
 
 .social-column {
   margin: 0 auto 0 auto;
@@ -783,6 +798,9 @@
       font-size: 16px;
       font-weight: 300;
       line-height: 25px; }
+  @media (max-width: 800px) {
+    .feature-column .feature-card {
+      padding: 0; } }
 
 .action-column {
   margin: 20px auto 0 auto;
@@ -803,7 +821,10 @@
     margin-bottom: 33px; }
   .action-column h3 {
     font-size: 20px;
+    font-weight: 500;
     margin: 0 0 9px 0; }
+  .action-column .subtext {
+    margin: 0 0 27px 0; }
   .action-column .subtext, .action-column .link {
     font-size: 16px;
     font-family: 'Roboto', sans-serif;
@@ -850,7 +871,8 @@
     .long-text-column .long-text-card h3 {
       font-size: 20px;
       margin: 26px 0;
-      font-weight: 600; }
+      font-weight: 600;
+      color: #7D5AB5; }
     .long-text-column .long-text-card p {
       font-size: 16px;
       color: #404040;
@@ -897,6 +919,9 @@
       font-family: 'Roboto', sans-serif; }
   .merchant-column a:hover, .merchant-column a:active, .merchant-column a:visited {
     filter: brightness(110%); }
+  @media (max-width: 800px) {
+    .merchant-column {
+      margin: 0 auto; } }
 
 .exchange-column {
   margin: 20px auto 0 auto;

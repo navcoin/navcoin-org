@@ -87,6 +87,11 @@
     }
   }
   @media (max-width: 650px) {
+    .contrib-list-title {
+      font-size: 27px;
+      font-weight: 500;
+      line-height: 32px;
+    }
     .grid-container {
       grid-template-columns: repeat(auto-fit, minmax(225px, 450px));
     }

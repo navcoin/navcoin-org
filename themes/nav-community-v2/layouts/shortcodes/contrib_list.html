@@ -7,10 +7,7 @@
             </div>
         </div>
         <div class="grid-container">
-
             {{ range $element := sort $.Site.Data.contributors "total" "desc" }}
-
-            <!--<div class="grid-item">-->
                 <div class="single-item">
                     <a href="https://github.com/{{ $element.author.login }}">
                         <img src="{{ .author.avatar }}" class="git-disp-pic">
@@ -20,14 +17,10 @@
                         </div>
                     </a>
                 </div>
-            <!--</div>-->
-
             {{end}}
-
-            <div class="col-xs-12 center"  >
-                <a href="{{ .Get "buttonUrl" }}" class="round-btn gradient-btn">{{ .Get "buttonTxt" }}  <img src="{{ .Get "buttonImgSrc" }}" class="btn-img"> </a>
-            </div>
-
+        </div>
+        <div class="col-xs-12 center"  >
+            <a href="{{ .Get "buttonUrl" }}" class="round-btn gradient-btn">{{ .Get "buttonTxt" }}  <img src="{{ .Get "buttonImgSrc" }}" class="btn-img"> </a>
         </div>
     </div>
 </section>

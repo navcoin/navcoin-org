@@ -24,6 +24,7 @@
   .container-subtitle {
     font-size: 16px;
     margin: 0 0 35px 0;
+    line-height: 25px;
   }
   @media (max-width: 600px) {
     .container-subtitle {
@@ -41,5 +42,8 @@
 @media (max-width: 600px) {
   .item-container-section {
     padding: 55px 0;
+  }
+  .grid-container {
+    grid-gap: 20px;
   }
 }
