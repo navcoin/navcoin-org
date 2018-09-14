@@ -7,12 +7,12 @@
   padding: 12px 28px;
   border-radius: 37px;
   border: black 2px solid;
-  display: inline-block;
   min-width: 210px;
   text-align: center;  
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  white-space: nowrap;
   &.small {
     min-width: unset;
     padding: 10px 21px;
@@ -26,10 +26,11 @@
       height: 12px;
     }
   }
-  img {
-    height: 15px;
-    margin-left: 25px;
-  }
+}
+
+.btn-img {
+  height: 15px;
+  margin-left: 25px;
 }
 
 .purple-btn {

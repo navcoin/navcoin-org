@@ -1,11 +1,235 @@
 ---
-title: "NavCoin Core"
+title: "Shortcodes"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
 description: ""
 ---
+
+{{< zig_section
+titleText="For your store"
+imgSrc="/images/icons/house.svg"
+paragraphText="NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. Check out this demo that shows how easy it is"
+buttonText="See who's involved"
+buttonImgSrc="/images/icons/rightward-arrow.svg"
+bgPurple="true"
+>}}
+
+
+{{< zig_section
+titleText="For your store"
+imgSrc="/images/icons/house.svg"
+paragraphText="NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. Check out this demo that shows how easy it is" 
+buttonText="See who's involved"
+buttonImgSrc="/images/icons/rightward-arrow.svg"
+reversed="true"
+
+>}}
+
+
+{{< contrib_list
+    titleText="NavCoin Protocol Contributors"
+    subtitleText="We would like to thank our contributors who have made this protocol awesome!"
+    buttonLink="https://github.com/NAVCoin/navcoin-core/graphs/contributors"
+    buttonTxt="View on Github"
+    buttonImgSrc="/images/icons/rightward-arrow.svg"
+>}}
+{{< social_grid_section 
+    titleText="Social Channels"
+    subtitleText="Join the nav community"
+>}}
+    {{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+
+{{< /social_grid_section >}}
+
+{{< social_grid_section 
+    titleText="Social Channels"
+    subtitleText="Dark mode! 🕶️"
+    bgPurple="true"
+>}}
+    {{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-dark-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-dark-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-dark-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-dark-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-dark-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-dark-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-dark-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-dark-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+
+{{< /social_grid_section >}}
+
+{{< item_container_section 
+    titleText="Accepting NavCoin is easy!"
+    subtitleText="This is a standard actions display"
+    bgPurple="true"
+    buttonUrl="https://navcoin.org/navcoin-core/#links"
+    buttonText="See who's involved"
+    buttonImgSrc="/images/icons/rightward-arrow.svg"
+>}}
+    {{< action 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        subtext="Transactions in as little as five seconds. No chargebacks or failed transactions."
+        linkText="Click me"
+        linkUrl="www.navcoin.org"
+        linkImgSrc="/images/icons/rightward-arrow.svg"
+    >}}
+    {{< action 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        subtext="Transactions in as little as five seconds. No chargebacks or failed transactions."
+        linkText="Click me"
+        linkUrl="www.navcoin.org"
+        linkImgSrc="/images/icons/rightward-arrow.svg"
+    >}}
+    {{< action                 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        subtext="Transactions in as little as five seconds. No chargebacks or failed transactions."
+        linkText="Click me"
+        linkUrl="www.navcoin.org"
+        linkImgSrc="/images/icons/rightward-arrow.svg"
+    >}}
+{{< /item_container_section >}}
+
+{{< item_container_section 
+    titleText="Accepting NavCoin is easy!"
+    subtitleText="This is a actions display with no button and a white background"
+>}}
+    {{< action 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        subtext="Transactions in as little as five seconds. No chargebacks or failed transactions."
+        linkText="Click me"
+        linkUrl="www.navcoin.org"
+        linkImgSrc="/images/icons/rightward-arrow-blue.svg"
+    >}}
+    {{< action 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        subtext="Transactions in as little as five seconds. No chargebacks or failed transactions."
+        linkText="Click me"
+        linkUrl="www.navcoin.org"
+        linkImgSrc="/images/icons/rightward-arrow-blue.svg"
+    >}}
+    {{< action                 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        subtext="Transactions in as little as five seconds. No chargebacks or failed transactions."
+        linkText="Click me"
+        linkUrl="www.navcoin.org"
+        linkImgSrc="/images/icons/rightward-arrow-blue.svg"
+    >}}
+{{< /item_container_section >}}
+
+
+{{< item_container_section 
+    titleText="Features"
+    subtitleText="NavCoin is an open source protocol and NavCoin Wallets are cool"
+>}}
+    {{< feature 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="Transactions in as little as five seconds. No chargebacks or failed transactions."
+    >}}
+    {{< feature 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="Transactions in as little as five seconds. No chargebacks or failed transactions."
+    >}}
+    {{< feature                 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="Transactions in as little as five seconds. No chargebacks or failed transactions."
+    >}}
+    {{< feature                 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="Transactions in as little as five seconds. No chargebacks or failed transactions."
+    >}}
+    {{< feature                 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="Transactions in as little as five seconds. No chargebacks or failed transactions."
+    >}}
+    {{< feature                 
+        titleText="Fast payment"
+        imgSrc="/images/logos/wallet-navpi-logo.png"
+        text="Transactions in as little as five seconds. No chargebacks or failed transactions."
+    >}}
+{{< /item_container_section >}}
 
 {{< item_container_section 
     titleText="Contribute Now!"
@@ -205,6 +429,7 @@ titleText="Standard hero_section"
 paragraphText="NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a."
 imgSrc="/images/hero-icon.svg"
 >}}
+
 {{< hero_section
 titleText="With call-to-action"
 imgSrc="/images/hero-icon.svg"

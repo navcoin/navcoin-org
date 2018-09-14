@@ -1,5 +1,28 @@
 # Shortcode Documentation
 
+## contrib-list shortcode
+
+The `contrib_list` shortcode looks like this:
+
+```
+{{< contrib_list
+    title="NavCoin Protocol Contributors"
+    subtitle="We would like to thank our contributors who have made this protocol awesome!"
+    buttonUrl="https://github.com/NAVCoin/navcoin-core/graphs/contributors"
+    buttonTxt="View on Github"
+    buttonImgSrc="/images/icons/rightward-arrow.svg"
+>}}
+```
+
+| Attribute | Purpose | Content |
+|: - |:- |
+| titleText | Sets the title text | Plain text |
+| subtitleText | Sets the subtitle text. | Plain text |
+| buttonText | Sets the button text  | Plain text |
+| buttonUrl | Sets the button URL | If it's an on-site link a simple relative link is fine, e.g. `/buy-nav`. An off-site link will need to be written in full, e.g. `https://www.navhub.org` |
+| buttonImgSrc | Sets the image on the button. | A path. e.g. `/images/icons/rightward-arrow.svg` |
+
+
 ## item_container_section
 
 A `item_container_section` looks like this:
@@ -25,7 +48,7 @@ A `item_container_section` looks like this:
 
 It is a container for the both the `wallet` shortcode and `exchange` shortcode. You can throw as many shortcodes into it as you want but **only use sortcodes of one type.**, i.e. don't mix `wallet` and `exchange` shortcodes .
 
-You can set the background colour to be purple using the 'bg-purple` attribute.
+You can set the background colour to be purple using the `bg-purple` attribute.
 
 | Attribute | Purpose | Content |
 |: - |:- |
@@ -33,9 +56,86 @@ You can set the background colour to be purple using the 'bg-purple` attribute.
 | subtitleText | Sets the subtitle text for the container. This is optional so only include this attribute if you're using it or you'll get weird spacing | Plain text |
 | bg-purple | Sets the background for the container to purple and the title/subtitle font colour to white. This is optional so only include this attribute if you want a purple bg| `bg-purple="true"` |
 
+## social shortcode
+
+The `social` shortcode looks like this:
+
+```
+{{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+```
+
+
+It is intended to be placed inside a `item_container_section` and no where else.  
+You can add a button using the button attributes on the `item_container_section`.
+If you set the `item_container_section` to use a _purple background_ the style (font color, etc) of the `action`'s will change too.
+
+
+| Attribute | Purpose | Content |
+|: - |:- |
+| titleText | Sets the title text for the action | Plain text |
+| subtext | Sets the description text for the action. | Plain text |
+| imgSrc | Sets the image for the action | A path e.g. `/images/logos/wallet-navpi-logo.png"` |
+| linkText | Sets the link text | Plain text |
+| linkUrl | Sets the link URL | If it's an on-site link a simple relative link is fine, e.g. `/buy-nav`. An off-site link will need to be written in full, e.g. `https://www.navhub.org` |
+| linkImgSrc | Sets the image on the link. | A path. e.g. `/images/icons/rightward-arrow.svg` |
+
+
+## action shortcode
+
+The `action` shortcode looks like this:
+
+```
+{{< action                 
+    titleText="Fast payment"
+    imgSrc="/images/logos/wallet-navpi-logo.png"
+    subtext="Transactions in as little as five seconds. No chargebacks or failed transactions."
+    linkText="Click me"
+    linkUrl="www.navcoin.org"
+    linkImgSrc="/images/icons/rightward-arrow.svg"
+>}}
+```
+
+
+It is intended to be placed inside a `item_container_section` and no where else.  
+You can add a button using the button attributes on the `item_container_section`.
+If you set the `item_container_section` to use a _purple background_ the style (font color, etc) of the `action`'s will change too.
+
+
+| Attribute | Purpose | Content |
+|: - |:- |
+| titleText | Sets the title text for the action | Plain text |
+| subtext | Sets the description text for the action. | Plain text |
+| imgSrc | Sets the image for the action | A path e.g. `/images/logos/wallet-navpi-logo.png"` |
+| linkText | Sets the link text | Plain text |
+| linkUrl | Sets the link URL | If it's an on-site link a simple relative link is fine, e.g. `/buy-nav`. An off-site link will need to be written in full, e.g. `https://www.navhub.org` |
+| linkImgSrc | Sets the image on the link. | A path. e.g. `/images/icons/rightward-arrow.svg` |
+
+## feature shortcode
+
+The `feature` shortcode looks like this:
+
+```
+{{< feature                 
+    titleText="Fast payment"
+    imgSrc="/images/logos/wallet-navpi-logo.png"
+    text="Transactions in as little as five seconds. No chargebacks or failed transactions."
+>}}
+```
+It is intended to be placed inside a `item_container_section` and no where else.
+
+| Attribute | Purpose | Content |
+|: - |:- |
+| titleText | Sets the title text for the feature | Plain text |
+| text | Sets the description text for the feature. | Plain text |
+| imgSrc | Sets the image for the feature | A path e.g. `/images/logos/wallet-navpi-logo.png"` |
+
 ## long text shortcode
 
-The `long text` shortcode looks like this:
+The `long_text` shortcode looks like this:
 
 ```
 {< long_text 

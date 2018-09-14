@@ -8,8 +8,13 @@
 @import "./center-text-cta.scss";
 @import "./contrib-list.scss";
 @import "./hero-section.scss";
+@import "./zig-section.scss";
 @import "./item-container-section.scss";
+@import "./social-grid-section.scss";
+@import "./social.scss";
 @import "./wallet.scss";
+@import "./feature.scss";
+@import "./action.scss";
 @import "./long-text.scss";
 @import "./merchant.scss";
 @import "./exchange.scss";
@@ -22,6 +27,12 @@ body {
   padding-top: 54px;
 }
 
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 .news-content >p:empty{
   display: none;
@@ -44,6 +55,27 @@ a {
     margin: 0 auto;
   }
 }
+
+.footer-area {
+  padding: 70px 0 0 0;
+  h3 {
+    font-family: 'Raleway', 'Regular', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #7B47B4;
+    margin: 0 0 30px 0;
+  }
+  .footer-img {
+    width: 150px;
+  }
+  .column {
+    margin-bottom: 60px;
+  }
+  #license a{
+    color:red;
+  }
+}
+
 
 .box-list {
   .drop-shadow {

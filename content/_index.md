@@ -87,13 +87,10 @@ draft: false
     linkBgColor="#7d59b5"
     btnTxt="View Full Roadmap →">}}
 {{< contrib_list
-    title="NavCoin Protocol Contributors"
-    containerPadding="70px 0"
-    section-margin="0 0 30px 0"
-    btnLink="https://github.com/NAVCoin/navcoin-core/graphs/contributors"
-    btnTxt="View on Github"
-    linkBgColor="#7d5ab5"
-    contribBgColor="#7d5ab5"
+    titleText="NavCoin Protocol Contributors"
+    buttonLink="https://github.com/NAVCoin/navcoin-core/graphs/contributors"
+    buttonTxt="View on Github"
+    buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
 {{< links_section
     title="Get Involved"

@@ -1,32 +1,31 @@
-<section class="contrib-list {{ if eq (.Get "gradient") "true" }} bg-gradient {{ end }}" style="{{if isset .Params "section-margin"}} margin:{{ .Get "section-margin"}}; {{end}}">     <div class="container" style="background-image: url({{ .Get "bgImgSrc" }}); background-color: {{ .Get "bgColor" }}; padding: {{ .Get "containerPadding" }};">
-        {{ if isset .Params "title" }}
-        <div class="row" style="margin: {{ .Get "titleMargin"}}">
+<section class="contrib-list">     
+    <div class="container">
+        <div class="row">
             <div class="col-md-12" style="text-align: center;">
-                <h2 class="contrib-list-title" style="color: {{ .Get "fontColor" }}">{{ .Get "title"}}</h2>
-                <div style="color: {{ .Get "fontColor" }}">{{ .Get "subtitle" }}</div>
+                <h2 class="contrib-list-title">{{ .Get "titleText"}}</h2>
+                <div class="subtitle">{{ .Get "subtitleText" }}</div>
             </div>
         </div>
-        {{end}}
-        <div class="row">
+        <div class="grid-container">
 
             {{ range $element := sort $.Site.Data.contributors "total" "desc" }}
 
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="single-item" style="background-color: #7d5ab5">
+            <!--<div class="grid-item">-->
+                <div class="single-item">
                     <a href="https://github.com/{{ $element.author.login }}">
                         <img src="{{ .author.avatar }}" class="git-disp-pic">
                         <div class="contrib-info">
-                            <div class="faded-text">Name:</div>
                             <div class="name">{{ $element.author.login }}</div>
+                            <div class="underline">View on Github</div>
                         </div>
                     </a>
                 </div>
-            </div>
+            <!--</div>-->
 
             {{end}}
 
             <div class="col-xs-12 center"  >
-                <a href="{{ .Get "btnLink" }}" class="round-btn purple-btn">{{ .Get "btnTxt" }}</a>
+                <a href="{{ .Get "buttonUrl" }}" class="round-btn gradient-btn">{{ .Get "buttonTxt" }}  <img src="{{ .Get "buttonImgSrc" }}" class="btn-img"> </a>
             </div>
 
         </div>
