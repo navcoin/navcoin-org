@@ -70,7 +70,7 @@
   transition: 0.2s ease;
     
   filter: drop-shadow(rgba(87, 73, 165, 0.24) 1px 13px 35px);
-  background: linear-gradient(90deg, #A34BC1 0%, #4AA9E4 100%);
+  background: linear-gradient(-60deg, rgba(68, 178, 233, 0.88) 0%, rgba(197, 41, 181, 0.88) 100%, rgba(197, 41, 181, 0.88) 102%);
 
   &:hover, &:active, &:focus {
     color: white;

@@ -6,6 +6,32 @@ type: "default"
 author: ""
 description: ""
 ---
+{{< step_container_section 
+    titleText="Steps section"
+    subtitleText="These are some of the kind sof steps"
+>}}
+  {{< step 
+      titleText="1. Download your wallet"
+      imgSrc="/images/logos/wallet-navpi-logo.png"
+      text="This will allow you to send/receive transactions, take ownership of your private keys, and if you use the NavCoin core wallet you can contribute to transaction validation on the network."
+      buttonText="Click me"
+      buttonUrl="www.navcoin.org"
+      buttonImgSrc="/images/icons/rightward-arrow.svg"
+  >}}
+  {{< step 
+      titleText="2. Install the wallet"
+      imgSrc="/images/logos/wallet-navpi-logo.png"
+      text="This will allow you to send/receive transactions, take ownership of your private keys, and if you use the NavCoin core wallet you can contribute to transaction validation on the network."
+  >}}
+  {{< step                 
+      titleText="3. Use NAV"
+      imgSrc="/images/logos/wallet-navpi-logo.png"
+      text="This will allow you to send/receive transactions, take ownership of your private keys, and if you use the NavCoin core wallet you can contribute to transaction validation on the network."
+      buttonText="Click me"
+      buttonUrl="www.navcoin.org"
+      buttonImgSrc="/images/icons/rightward-arrow.svg"
+  >}}
+{{< /step_container_section >}}
 
 {{< accordion
   titleText="Accordion"
