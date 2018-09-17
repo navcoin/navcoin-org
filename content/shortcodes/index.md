@@ -23,7 +23,7 @@ description: ""
       imgSrc="/images/logos/wallet-navpi-logo.png"
       text="This will allow you to send/receive transactions, take ownership of your private keys, and if you use the NavCoin core wallet you can contribute to transaction validation on the network."
   >}}
-  {{< step                 
+  {{< step
       titleText="3. Use NAV"
       imgSrc="/images/logos/wallet-navpi-logo.png"
       text="This will allow you to send/receive transactions, take ownership of your private keys, and if you use the NavCoin core wallet you can contribute to transaction validation on the network."
@@ -59,9 +59,6 @@ description: ""
   
   itemEightTitle="Step 8 - Apply for payment."
   itemEightText="Once your project is complete you can apply for payment from the Community Fund. If there are clear milestones in your proposal you can apply to receive payments at scheduled points in the timeline.<br>Payment is subject to a second consensus vote among NavCoin stakers. There must be a 50% minimum participation, with 50% ‘yes’ vote to be paid and 50% ‘no’ for payment to be rejected."
-  
-  titleColor="#FFF"     
-  textColor="#FFF" 
 >}}
 
 {{< zig_section
@@ -142,6 +139,11 @@ reversed="true"
     bgPurple="true"
 >}}
     {{< social                 
+    titleText="Discord"
+    imgSrc="/images/icons/line-dark-discord.png"
+    linkUrl="www.navcoin.org"
+>}}
+{{< social                 
     titleText="Discord"
     imgSrc="/images/icons/line-dark-discord.png"
     linkUrl="www.navcoin.org"

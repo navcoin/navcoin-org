@@ -4,7 +4,6 @@
   width: 100%;
   max-width: 1200px;
 
-
   .step-card {
     display: grid;
     grid-template-areas: "image title"
@@ -14,7 +13,7 @@
     grid-auto-rows: minmax(10px, auto);
     padding: 15px 20px;
     align-items: center;
-    justify-items: center;
+    justify-items: flex-start;
 
     .item-icon {
       grid-area: image;
@@ -25,10 +24,6 @@
       justify-self: flex-end;
     }
 
-    .text-content-section {
-      padding: 0px 20px;
-    }
-
     h3 {
       grid-area: title;
       margin-top: 0px;
@@ -36,7 +31,6 @@
       text-align: left;
       line-height: 37px;
       color: #7D5AB5;
-      justify-self: flex-start;
     }
 
     p {
@@ -50,15 +44,17 @@
       color: #404040;
       font-family: 'Roboto', sans-serif;
       margin-bottom: 20px;
+
     }
     .button-one {
       grid-area: button;
-      justify-self: flex-start;
     }
 
     .button-two {
       display: none;
       grid-area: button;
+      justify-self: center;
+
 
     }
   }
@@ -74,6 +70,8 @@
       p {
         margin-bottom: 10px;
         max-width: 410px;
+        justify-self: center;
+
       }
       .button-one {
         display: none;
