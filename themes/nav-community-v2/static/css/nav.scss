@@ -19,10 +19,14 @@
 @import "./merchant.scss";
 @import "./exchange.scss";
 @import "./text-section.scss";
+@import "./accordion.scss";
+@import "./step-container-section.scss";
+@import "./step.scss";
 
 
 // to push components past the header menu
-body { 
+
+body {
   background: #fafafa;
   padding-top: 54px;
 }

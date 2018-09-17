@@ -1,0 +1,84 @@
+.step-section {
+  margin: 20px auto 0 auto;
+  min-width: 200px;
+  width: 100%;
+  max-width: 1200px;
+
+  .step-card {
+    display: grid;
+    grid-template-areas: "image title"
+                          ". text"
+                          ". button";
+    grid-auto-columns: minmax(10px, auto);
+    grid-auto-rows: minmax(10px, auto);
+    padding: 15px 20px;
+    align-items: center;
+    justify-items: flex-start;
+
+    .item-icon {
+      grid-area: image;
+      margin-right: 40px;
+      min-width: 108px;
+      width:108px;
+      align-self: flex-start;
+      justify-self: flex-end;
+    }
+
+    h3 {
+      grid-area: title;
+      margin-top: 0px;
+      font-size: 28px;
+      text-align: left;
+      line-height: 37px;
+      color: #7D5AB5;
+    }
+
+    p {
+      grid-area: text;
+      max-width: 580px;
+      font-size: 16px;
+      line-height: 25px;
+      font-weight: 300;
+      text-align: justify;
+      text-justify: inter-word;
+      color: #404040;
+      font-family: 'Roboto', sans-serif;
+      margin-bottom: 20px;
+
+    }
+    .button-one {
+      grid-area: button;
+    }
+
+    .button-two {
+      display: none;
+      grid-area: button;
+      justify-self: center;
+
+
+    }
+  }
+  @media (max-width: 767px) {
+    .step-card {
+      grid-template-areas: "image title"
+      "text text"
+      "button button";
+      grid-row-gap: 10px;
+      h3 {
+        font-size: 20px;
+      }
+      p {
+        margin-bottom: 10px;
+        max-width: 410px;
+        justify-self: center;
+
+      }
+      .button-one {
+        display: none;
+      }
+      .button-two {
+        display: inline-flex;
+      }
+    }
+  }
+}
