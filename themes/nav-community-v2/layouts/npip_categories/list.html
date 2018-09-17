@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+{{ partial "head.html" . }}
+
+<body data-spy="scroll" data-target="#header-menu">
+
+  {{ partial "header_three.html" .  }}
+
+<div class="appix-blog-content section-ptb-2">
+    <div class="container">
+      <div class="row">
+          <div class="col-sm-12 col-md-8">
+            {{ $list := (.Data.Pages) }}
+            {{ range $index, $element := .Data.Pages }}
+              <div class="blog-item">
+                  <div class="blog-details">
+                              <h3 style="margin-top: 0"><a href="{{ .URL }}">NPIP{{ .Params.npip_number }} - {{ .Title }}</a></h3>
+                              <ul class="blog-author-name">
+                                  <li><i class="fa fa-user-o"></i>{{ .Params.author }}</li>
+                                  {{ range .Params.npip_categories }}
+                                  <li><i class="fa fa-folder-open-o"></i>{{.}} </li>
+                                  {{end}}
+                              </ul>
+
+                              <div class="blog-excerpt">
+                                  {{.Summary}}
+                              </div>
+                              <div class="read-more">
+                                  <div class="themeix-button-group">
+                                      <a href="{{ .URL }}" class="themeix-btn themeix-danger">read more</a>
+                                  </div>
+                              </div>
+                              {{ partial "social_share.html" .  }}
+                          </div>
+                </div>
+
+            {{ end }}
+            </div>
+            <div class="col-md-3 col-sm-12 col-md-offset-1">
+                <div class="sidebar">
+                    <div class="widget">
+                        <h3 class="widget-title">NPIP Categories</h3>
+                        {{ if .Site.Taxonomies.npip_categories }}
+                        <ul>
+                          {{ range first 10 .Site.Taxonomies.npip_categories.ByCount }}
+                            {{ $filter := replace .Name "-" " " }}
+                              <li class="cat-item" ><a href="/npip_categories/{{ .Name | urlize }}">{{ $filter }}</a></li>
+                          {{ end }}
+                        </ul>
+                        {{ end }}
+                    </div>
+                    <div class="widget custom recent-posts">
+                        <h3 class="widget-title">Recent NPIPs</h3>
+                        <ul>
+                          {{ range .Site.Pages }}
+                              {{if (eq .Type "npips") }}
+                                {{if (ne .Title "Npips")}}
+                                  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                                {{ end }}
+                              {{ end }}
+                          {{ end }}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ partial "footer.html" . }}
+
+</body>
+</html>
