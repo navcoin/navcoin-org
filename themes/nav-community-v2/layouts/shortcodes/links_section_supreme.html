@@ -1,0 +1,147 @@
+<section class="box-list-supreme" style="margin:{{ .Params.section_margin }}">
+    <div class="container">
+        <div class="row">
+            <!-- item 1 -->
+            <div class="col-sm-4">
+                {{ if isset .Params "item1_img" }}
+                <div class="item-card {{ if eq (.Get "card_shadow") "true" }}drop-shadow{{end}}" style="background-color: {{.Params.card_color}}; margin: {{.Params.card_margin}}">
+                    <div class="item-main">
+                        <div class="item-icon-group" style="background-color: {{.Params.icon_bg_color}};">
+                            <div class="item-icon">
+                                <img src="{{ .Get "item1_img" }}" alt="">
+                            </div>
+                        </div>
+                        <div class="item-details-group">
+                            <h3 style="color: {{ .Get "title_color" }}; margin: {{ .Get "title_margin" }}">{{ .Get "item1_title" }}</h3>
+                            <section id="box-item-group">
+                                <div id="box-items">
+                                    {{ if isset .Params "item1_sub1_img" }}
+                                    <div><img src="{{ .Get "item1_sub1_img" }}"></div>
+                                    {{ end }}
+                                    {{ if isset .Params "item1_sub2_img" }}
+                                    <div><img src="{{ .Get "item1_sub2_img" }}"></div>
+                                    {{ end }}
+                                    {{ if isset .Params "item1_sub3_img" }}
+                                    <div><img src="{{ .Get "item1_sub3_img" }}"></div>
+                                    {{ end }}
+                                    {{ if isset .Params "item1_sub4_img" }}
+                                    <div><img src="{{ .Get "item1_sub4_img" }}"></div>
+                                    {{ end }}
+                                    {{ if isset .Params "item1_sub5_img" }}
+                                    <div><img src="{{ .Get "item1_sub5_img" }}"></div>
+                                    {{ end }}
+                                    {{ if isset .Params "item1_sub6_img" }}
+                                    <div><img src="{{ .Get "item1_sub6_img" }}"></div>
+                                    {{ end }}
+                                </div>
+                            </section>
+                            <div class="item-text">
+                                <p style="color: {{ .Get "text_color" }}; margin: {{ .Get "text_margin" }}">{{ .Get "item1_text"  }}</p>
+                                <div class="item-button">   
+                                    {{ if isset .Params "item1_btn_url" }}
+                                        <a href="{{ .Get "item1_btn_url" }}" target="_blank" class="themeix-btn themeix-danger smoothScroll" style="background-color: {{ .Get "btn_color"}}">{{ .Get "item1_btn_text" }} <span class="fa fa-chevron-right project-more"></span></a>
+                                    {{ end }}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+            <!-- item 2 -->
+            <div class="col-sm-4">
+                {{ if isset .Params "item2_img" }}
+                <div class="item-card {{ if eq (.Get "card_shadow") "true" }}drop-shadow{{end}}" style="background-color: {{.Params.card_color}}; margin: {{.Params.card_margin}}">
+                    <div class="item-main">
+                        <div class="item-icon-group" style="background-color: {{.Params.icon_bg_color}};">
+                            <div class="item-icon">
+                                <img src="{{ .Get "item2_img" }}" alt="">
+                            </div>
+                        </div>
+                        <div class="item-details-group">
+                            <h3 style="color: {{ .Get "title_color" }}; margin: {{ .Get "title_margin" }}">{{ .Get "item2_title" }}</h3>
+                            <section id="box-item-group">
+                                <div id="box-items">
+                                    {{ if isset .Params "item2_sub1_img" }}
+                                    <div><img src="{{ .Get "item2_sub1_img" }}"></div>
+                                    {{ end }}
+                                    {{ if isset .Params "item2_sub2_img" }}
+                                    <div><img src="{{ .Get "item2_sub2_img" }}"></div>
+                                    {{ end }}
+                                    {{ if isset .Params "item2_sub3_img" }}
+                                    <div><img src="{{ .Get "item2_sub3_img" }}"></div>
+                                    {{ end }}
+                                    {{ if isset .Params "item2_sub4_img" }}
+                                    <div><img src="{{ .Get "item2_sub4_img" }}"></div>
+                                    {{ end }}
+                                    {{ if isset .Params "item2_sub5_img" }}
+                                    <div><img src="{{ .Get "item2_sub5_img" }}"></div>
+                                    {{ end }}
+                                    {{ if isset .Params "item2_sub6_img" }}
+                                    <div><img src="{{ .Get "item2_sub6_img" }}"></div>
+                                    {{ end }}
+                                </div>
+                            </section>
+                            <div class="item-text">
+                                <p style="color: {{ .Get "text_color" }}; margin: {{ .Get "text_margin" }}">{{ .Get "item2_text"  }}</p>
+                                <div class="item-button">   
+                                    {{ if isset .Params "item2_btn_url" }}
+                                        <a href="{{ .Get "item2_btn_url" }}" target="_blank" class="themeix-btn themeix-danger smoothScroll" style="background-color: {{ .Get "btn_color"}}">{{ .Get "item2_btn_text" }} <span class="fa fa-chevron-right project-more"></span></a>
+                                    {{ end }}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+            <!-- item 3 -->
+            <div class="col-sm-4">
+                {{ if isset .Params "item3_img" }}
+                <div class="item-card {{ if eq (.Get "card_shadow") "true" }}drop-shadow{{end}}" style="background-color: {{.Params.card_color}}; margin: {{.Params.card_margin}}">
+                    <div class="item-main">
+                        <div class="item-icon-group" style="background-color: {{.Params.icon_bg_color}};">
+                            <div class="item-icon">
+                                <img src="{{ .Get "item3_img" }}" alt="">
+                            </div>
+                        </div>
+                        <div class="item-details-group">
+                            <h3 style="color: {{ .Get "title_color" }}; margin: {{ .Get "title_margin" }}">{{ .Get "item3_title" }}</h3>
+                            <section id="box-item-group">
+                                <div id="box-items">
+                                    {{ if isset .Params "item3_sub1_img" }}
+                                    <div><img src="{{ .Get "item3_sub1_img" }}"></div>
+                                    {{ end }}
+                                    {{ if isset .Params "item3_sub2_img" }}
+                                    <div><img src="{{ .Get "item3_sub2_img" }}"></div>
+                                    {{ end }}
+                                    {{ if isset .Params "item3_sub3_img" }}
+                                    <div><img src="{{ .Get "item3_sub3_img" }}"></div>
+                                    {{ end }}
+                                    {{ if isset .Params "item3_sub4_img" }}
+                                    <div><img src="{{ .Get "item3_sub4_img" }}"></div>
+                                    {{ end }}
+                                    {{ if isset .Params "item3_sub5_img" }}
+                                    <div><img src="{{ .Get "item3_sub5_img" }}"></div>
+                                    {{ end }}
+                                    {{ if isset .Params "item3_sub6_img" }}
+                                    <div><img src="{{ .Get "item3_sub6_img" }}"></div>
+                                    {{ end }}
+                                </div>
+                            </section>
+                            <div class="item-text">
+                                <p style="color: {{ .Get "text_color" }}; margin: {{ .Get "text_margin" }}">{{ .Get "item3_text"  }}</p>
+                                <div class="item-button">   
+                                    {{ if isset .Params "item3_btn_url" }}
+                                        <a href="{{ .Get "item3_btn_url" }}" target="_blank" class="themeix-btn themeix-danger smoothScroll" style="background-color: {{ .Get "btn_color"}}">{{ .Get "item3_btn_text" }} <span class="fa fa-chevron-right project-more"></span></a>
+                                    {{ end }}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
