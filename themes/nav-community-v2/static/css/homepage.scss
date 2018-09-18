@@ -1,9 +1,210 @@
+$dark-blue: #191e5d;
+$light-grey: #fafafa;
+$dark-grey: #707070;
+$nav-purple: #7b47b4;
+
 .homepage {
-  background-color: palegreen;
+  background-color: white;
+  color: $dark-grey;
+
+  h1,h2,h3 {
+    color: $nav-purple;
+    font-family: 'Raleway', 'Regular', Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+  }
+  p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+  }
+
+  h1 {
+    line-height: 44px;
+    font-size: 40px;
+  }
+  h2 {
+    font-size: 25px;
+    line-height: 55px; 
+  }
+  h3 {
+    font-size: 15px;
+    line-height: 64px;
+  }
+
   section {
-    background-color: paleturquoise;
+    padding: 60px 0;
+    min-height: 200px;
+    color: black;
+    text-align: center;
+    vertical-align: center;
   }
   .spacer {
-    background-color: palevioletred;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    &.one {
+      div {
+        background-image: url("../images/homepage/curve_1.svg");
+        height: 100px;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+    }
+    &.two {
+      div {
+        background-image: url("../images/homepage/curve_2.svg");
+        height: 100px;
+        background-repeat: no-repeat;
+        background-size: cover;      }
+    }
+    &.three {
+      background-image: url("../images/homepage/curve_3.svg");
+      background-color: $dark-blue;
+    }
+    &.four {
+      background-image: url("../images/homepage/curve_4.svg");
+      background-color: $light-grey;
+    }
+  }
+
+  .hero {
+    background: white;
+  }
+  .welcome {
+    background: $light-grey;
+    .grid-container {
+      display: grid;
+      grid-template-areas: "img text";
+      grid-template-columns: 1fr 1fr;
+      text-align: left
+    }
+    .left-img {
+      grid-area: img;
+    }
+    .text-container {
+      grid-area: text;
+
+      li {
+        display: grid;
+        grid-column-gap: 50px;
+        grid-template-areas:  "img title"
+                              "img text";
+        h2 {
+          grid-area: title;
+        }
+        p {
+          grid-area: text;
+        }
+        img {
+          grid-area: img;
+          height: 100px;
+        }
+      }
+    }
+  }
+  .features {
+    h1 {
+      color: #fff;
+    }
+    .center {
+      display: flex;
+      justify-content: center;
+    }
+    
+    .grid-container {
+      width:1200px;
+      display: grid;
+      grid-template-columns: repeat(3,400px);
+      justify-content: space-around;
+      align-items:center;
+    }
+    
+    @media (max-width: 1300px) {
+      .grid-container {
+          width: 800px;
+          grid-template-columns: repeat(2,400px);
+      }
+    }
+    
+    @media (max-width: 850px) {
+      .grid-container {
+          grid-template-columns: 400px;
+      }
+    }
+    
+    .grid-container>div {
+      padding: 30px;
+      border: solid 1px grey;
+      height: 350px;
+      background-color: #fff;
+      text-align: center;
+      font-size: 80px;
+      font-family: 'Helvetica';
+      img {
+        height: 100px;
+      }
+    }
+    
+    .grid-container>div:hover {
+      filter: drop-shadow(black 0px 0px 3px)
+    }
+    
+  }
+  .values {
+    background: $light-grey;
+    .grid-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      text-align: left
+    }
+    .left-img {
+      grid-area: img;
+    }
+    .text-container {
+
+      li {
+        display: grid;
+        grid-column-gap: 50px;
+        grid-template-areas:  "img title"
+                              "img text";
+        h2 {
+          grid-area: title;
+        }
+        p {
+          grid-area: text;
+        }
+        img {
+          grid-area: img;
+          height: 100px;
+        }
+      }
+    }
+  }
+  .ecosystem {
+    background: $dark-blue;
+    h1 {
+      color: #fff;
+    }
+    img {
+      height: 326px;
+    }
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr );
+      .column {
+        
+      }
+    }
+  }
+  .community {
+    background: $light-grey;
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, 100px);
+      grid-gap: 30px 50px;
+      img {
+        height: 100px;
+      }
+    }
   }
 }

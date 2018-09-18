@@ -349,6 +349,143 @@
   width: 700px;
   height: 700px; }
 
+.homepage {
+  background-color: white;
+  color: #707070; }
+  .homepage h1, .homepage h2, .homepage h3 {
+    color: #7b47b4;
+    font-family: 'Raleway', 'Regular', Helvetica, Arial, sans-serif;
+    font-weight: lighter; }
+  .homepage p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 30px; }
+  .homepage h1 {
+    line-height: 44px;
+    font-size: 40px; }
+  .homepage h2 {
+    font-size: 25px;
+    line-height: 55px; }
+  .homepage h3 {
+    font-size: 15px;
+    line-height: 64px; }
+  .homepage section {
+    padding: 60px 0;
+    min-height: 200px;
+    color: black;
+    text-align: center;
+    vertical-align: center; }
+  .homepage .spacer {
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover; }
+    .homepage .spacer.one div {
+      background-image: url("../images/homepage/curve_1.svg");
+      height: 100px;
+      background-repeat: no-repeat;
+      background-size: cover; }
+    .homepage .spacer.two div {
+      background-image: url("../images/homepage/curve_2.svg");
+      height: 100px;
+      background-repeat: no-repeat;
+      background-size: cover; }
+    .homepage .spacer.three {
+      background-image: url("../images/homepage/curve_3.svg");
+      background-color: #191e5d; }
+    .homepage .spacer.four {
+      background-image: url("../images/homepage/curve_4.svg");
+      background-color: #fafafa; }
+  .homepage .hero {
+    background: white; }
+  .homepage .welcome {
+    background: #fafafa; }
+    .homepage .welcome .grid-container {
+      display: grid;
+      grid-template-areas: "img text";
+      grid-template-columns: 1fr 1fr;
+      text-align: left; }
+    .homepage .welcome .left-img {
+      grid-area: img; }
+    .homepage .welcome .text-container {
+      grid-area: text; }
+      .homepage .welcome .text-container li {
+        display: grid;
+        grid-column-gap: 50px;
+        grid-template-areas: "img title" "img text"; }
+        .homepage .welcome .text-container li h2 {
+          grid-area: title; }
+        .homepage .welcome .text-container li p {
+          grid-area: text; }
+        .homepage .welcome .text-container li img {
+          grid-area: img;
+          height: 100px; }
+  .homepage .features h1 {
+    color: #fff; }
+  .homepage .features .center {
+    display: flex;
+    justify-content: center; }
+  .homepage .features .grid-container {
+    width: 1200px;
+    display: grid;
+    grid-template-columns: repeat(3, 400px);
+    justify-content: space-around;
+    align-items: center; }
+  @media (max-width: 1300px) {
+    .homepage .features .grid-container {
+      width: 800px;
+      grid-template-columns: repeat(2, 400px); } }
+  @media (max-width: 850px) {
+    .homepage .features .grid-container {
+      grid-template-columns: 400px; } }
+  .homepage .features .grid-container > div {
+    padding: 30px;
+    border: solid 1px grey;
+    height: 350px;
+    background-color: #fff;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Helvetica'; }
+    .homepage .features .grid-container > div img {
+      height: 100px; }
+  .homepage .features .grid-container > div:hover {
+    filter: drop-shadow(black 0px 0px 3px); }
+  .homepage .values {
+    background: #fafafa; }
+    .homepage .values .grid-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      text-align: left; }
+    .homepage .values .left-img {
+      grid-area: img; }
+    .homepage .values .text-container li {
+      display: grid;
+      grid-column-gap: 50px;
+      grid-template-areas: "img title" "img text"; }
+      .homepage .values .text-container li h2 {
+        grid-area: title; }
+      .homepage .values .text-container li p {
+        grid-area: text; }
+      .homepage .values .text-container li img {
+        grid-area: img;
+        height: 100px; }
+  .homepage .ecosystem {
+    background: #191e5d; }
+    .homepage .ecosystem h1 {
+      color: #fff; }
+    .homepage .ecosystem img {
+      height: 326px; }
+    .homepage .ecosystem .grid-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr); }
+  .homepage .community {
+    background: #fafafa; }
+    .homepage .community .grid-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, 100px);
+      grid-gap: 30px 50px; }
+      .homepage .community .grid-container img {
+        height: 100px; }
+
 /*****************************
         Shortcodes 
 *****************************/
