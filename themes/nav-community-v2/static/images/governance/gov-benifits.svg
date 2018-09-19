@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 234 234">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #815fb7;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004aff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#002580"/>
+    </linearGradient>
+  </defs>
+  <g id="gov-benifits" transform="translate(-2094 -3400)">
+    <rect id="Rectangle_4533" data-name="Rectangle 4533" class="cls-1" width="234" height="234" transform="translate(2094 3400)"/>
+    <circle id="Ellipse_2035" data-name="Ellipse 2035" class="cls-2" cx="88.335" cy="88.335" r="88.335" transform="translate(2151 3429)"/>
+    <g id="Group_3539" data-name="Group 3539" transform="translate(949.9 2986.813)">
+      <g id="Group_785" data-name="Group 785" transform="translate(1180.057 546.117)">
+        <g id="Group_784" data-name="Group 784">
+          <path id="Path_1052" data-name="Path 1052" class="cls-3" d="M1158.97,488.575c0,3.773,3.5,6.737,7.546,6.737h99.443c4.311,0,7.546-2.964,7.546-6.737V475.1H1158.7v13.475Z" transform="translate(-1158.7 -475.1)"/>
+          <path id="Path_1053" data-name="Path 1053" class="cls-3" d="M1161.6,482.6v53.9a6.672,6.672,0,0,0,6.737,6.737h86.776a6.672,6.672,0,0,0,6.737-6.737V482.6Z" transform="translate(-1153.786 -462.388)"/>
+        </g>
+        <line id="Line_434" data-name="Line 434" class="cls-4" y2="17.247" transform="translate(20.211 30.452)"/>
+        <line id="Line_435" data-name="Line 435" class="cls-4" y2="6.468" transform="translate(20.211 55.515)"/>
+      </g>
+      <g id="Group_786" data-name="Group 786" transform="translate(1203.232 433.2)">
+        <path id="Path_1054" data-name="Path 1054" class="cls-3" d="M1201.8,433.2s-77.614,95.67,0,95.67S1201.8,433.2,1201.8,433.2Z" transform="translate(-1167.3 -433.2)"/>
+        <line id="Line_436" data-name="Line 436" class="cls-3" y2="112.647" transform="translate(34.495)"/>
+        <path id="Path_1055" data-name="Path 1055" class="cls-3" d="M1170.3,448.8l26.41,16.439,26.68-16.439" transform="translate(-1162.215 -406.759)"/>
+        <path id="Path_1056" data-name="Path 1056" class="cls-3" d="M1167.6,456.7l33.687,17.517,33.956-17.517" transform="translate(-1166.791 -393.37)"/>
+        <path id="Path_1057" data-name="Path 1057" class="cls-3" d="M1174.7,440.9l14.553,9.7,14.822-9.7" transform="translate(-1154.758 -420.149)"/>
+      </g>
+      <g id="Group_787" data-name="Group 787" transform="translate(1269.527 453.142)">
+        <path id="Path_1058" data-name="Path 1058" class="cls-4" d="M1191.9,516.6c46.622,31.8,57.941-76,57.941-76s-31.53,3.234-55.515,13.744" transform="translate(-1191.9 -440.6)"/>
+        <line id="Line_437" data-name="Line 437" class="cls-4" x1="46.892" y2="46.892" transform="translate(11.049 0.27)"/>
+        <path id="Path_1059" data-name="Path 1059" class="cls-3" d="M1195.4,444.8l7.007,30.183,30.453,7.276" transform="translate(-1185.968 -433.481)"/>
+        <line id="Line_438" data-name="Line 438" class="cls-4" x2="25.602" y2="8.354" transform="translate(11.319 60.636)"/>
+        <path id="Path_1060" data-name="Path 1060" class="cls-3" d="M1204.1,442.3l3.5,17.247,17.247,3.234" transform="translate(-1171.222 -437.719)"/>
+      </g>
+      <g id="Group_788" data-name="Group 788" transform="translate(1146.1 453.142)">
+        <path id="Path_1061" data-name="Path 1061" class="cls-4" d="M1204.04,516.6c-46.622,31.8-57.94-76-57.94-76s31.53,3.234,55.515,13.744" transform="translate(-1146.1 -440.6)"/>
+        <line id="Line_439" data-name="Line 439" class="cls-4" x2="46.892" y2="46.892" transform="translate(0 0.27)"/>
+        <path id="Path_1062" data-name="Path 1062" class="cls-3" d="M1187.929,444.8l-7.276,30.183-30.453,7.276" transform="translate(-1139.151 -433.481)"/>
+        <line id="Line_440" data-name="Line 440" class="cls-4" x1="25.871" y2="8.354" transform="translate(21.02 60.636)"/>
+        <path id="Path_1063" data-name="Path 1063" class="cls-3" d="M1168.451,442.3l-3.234,17.247-17.517,3.234" transform="translate(-1143.388 -437.719)"/>
+      </g>
+    </g>
+  </g>
+</svg>
