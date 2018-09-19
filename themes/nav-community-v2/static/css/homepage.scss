@@ -41,8 +41,8 @@ $nav-purple-light: #9A54C4;
     background-size: 4000px;
     background-position: center;
     &.zero {
-      background-image: url("../images/homepage/curve_0_grad.svg");
-      height: 300px;      
+      background-image: url("../images/homepage/curve_0_solid+grad.svg");
+      height: 310px;      
       background-repeat: repeat-x;
     }
     &.one {
@@ -89,10 +89,37 @@ $nav-purple-light: #9A54C4;
 
   .hero {
     background: white;
+    .grid-container {
+      display: grid;
+      grid-template-areas: "img text";
+      grid-template-columns: 1fr auto;
+      text-align: left;
+      justify-content: flex-start;   
+      align-items: center;   
+      // grid-gap: 40px 70px;
+      img {
+        grid-area: img;
+      }
+      .text-container {
+        grid-area: text;
+        h1 {
+          margin: 0 0 35px 0;
+        }
+        p {
+          max-width: 550px;
+          margin: 0 0 60px 0;
+        }
+        a {
+
+        }
+      }
+    }
+
   }
 
   .welcome {
     background: $light-grey;
+    padding: 0px 0 60px 0;
     h1 {
       margin: 0 0 95px 0;
     }
@@ -274,7 +301,6 @@ $nav-purple-light: #9A54C4;
       grid-area: img;
     }
     .text-container {
-
       li {
         display: grid;
         grid-column-gap: 50px;
@@ -293,6 +319,7 @@ $nav-purple-light: #9A54C4;
       }
     }
   }
+
   .ecosystem {
     background: $dark-blue;
     h1 {
@@ -309,6 +336,7 @@ $nav-purple-light: #9A54C4;
       }
     }
   }
+
   .community {
     background: $light-grey;
     h1 {
@@ -327,7 +355,7 @@ $nav-purple-light: #9A54C4;
         transform: scale(1.1);
       }
       img {
-        height: 100px;
+        height: 90px;
         margin: 0 0 15px 0;
       }
       h3 {

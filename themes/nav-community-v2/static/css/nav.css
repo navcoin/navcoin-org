@@ -385,8 +385,8 @@
     background-size: 4000px;
     background-position: center; }
     .homepage .spacer.zero {
-      background-image: url("../images/homepage/curve_0_grad.svg");
-      height: 300px;
+      background-image: url("../images/homepage/curve_0_solid+grad.svg");
+      height: 310px;
       background-repeat: repeat-x; }
     .homepage .spacer.one {
       background-size: initial;
@@ -420,8 +420,25 @@
     vertical-align: center; }
   .homepage .hero {
     background: white; }
+    .homepage .hero .grid-container {
+      display: grid;
+      grid-template-areas: "img text";
+      grid-template-columns: 1fr auto;
+      text-align: left;
+      justify-content: flex-start;
+      align-items: center; }
+      .homepage .hero .grid-container img {
+        grid-area: img; }
+      .homepage .hero .grid-container .text-container {
+        grid-area: text; }
+        .homepage .hero .grid-container .text-container h1 {
+          margin: 0 0 35px 0; }
+        .homepage .hero .grid-container .text-container p {
+          max-width: 550px;
+          margin: 0 0 60px 0; }
   .homepage .welcome {
-    background: #fafafa; }
+    background: #fafafa;
+    padding: 0px 0 60px 0; }
     .homepage .welcome h1 {
       margin: 0 0 95px 0; }
     .homepage .welcome .grid-container {
@@ -580,7 +597,7 @@
       .homepage .community .grid-container a:hover {
         transform: scale(1.1); }
       .homepage .community .grid-container img {
-        height: 100px;
+        height: 90px;
         margin: 0 0 15px 0; }
       .homepage .community .grid-container h3 {
         margin: 0;
