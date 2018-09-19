@@ -7,7 +7,7 @@ author: ""
 description: ""
 ---
 {{< hero_section
-titleText="Goernance"
+titleText="Governance"
 imgSrc="/images/governance/gov-hero.svg"
 paragraphText="NavCoin is an open source protocol and NavCoin wallets are maintained by a range of organisations and individuals. It’s advised to take the time to educate yourself about the wallets listed on this page and how to secure your funds. Always remember that it is your responsibility to choose your wallet carefully and adopt good practices in order to protect your money."
 buttonText="Read our manifestos"
@@ -73,7 +73,7 @@ reversed="true"
     {{< action 
         titleText="Brand Guidelines"
         imgSrc="/images/governance/gov-brand.svg"
-        subtext="A handbook to help you match the content your create to the NavCoin brand look and feel."
+        subtext="A handbook to help you match the content your create to the NavCoin brand look and feel. "
         linkText="Get the Guide"
         linkUrl="www.navcoin.org"
         linkImgSrc="/images/icons/rightward-arrow.svg"
