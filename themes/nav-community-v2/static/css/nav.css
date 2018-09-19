@@ -411,7 +411,7 @@
       background-color: #191e5d; }
     .homepage .spacer.four {
       background-image: url("../images/homepage/curve_4.svg");
-      background-color: #fafafa; }
+      background-color: #191e5d; }
   .homepage section {
     padding: 60px 0;
     min-height: 200px;
@@ -567,12 +567,35 @@
       grid-template-columns: repeat(3, 1fr); }
   .homepage .community {
     background: #fafafa; }
+    .homepage .community h1 {
+      max-width: 90vw;
+      margin: 0 auto 70px auto; }
     .homepage .community .grid-container {
       display: grid;
       grid-template-columns: repeat(auto-fit, 100px);
-      grid-gap: 30px 50px; }
+      grid-gap: 30px 50px;
+      justify-content: center; }
+      .homepage .community .grid-container a {
+        transition: all ease 200ms; }
+      .homepage .community .grid-container a:hover {
+        transform: scale(1.1); }
       .homepage .community .grid-container img {
-        height: 100px; }
+        height: 100px;
+        margin: 0 0 15px 0; }
+      .homepage .community .grid-container h3 {
+        margin: 0;
+        line-height: 16px; }
+    @media (max-width: 600px) {
+      .homepage .community {
+        padding: 40px 0 60px 0; }
+        .homepage .community h1 {
+          margin: 0 auto 40px auto;
+          font-size: 30px; }
+        .homepage .community .grid-container {
+          grid-gap: 15px 50px; }
+          .homepage .community .grid-container img {
+            height: 80px;
+            margin: 0 0 10px 0; } }
 
 /*****************************
         Shortcodes 

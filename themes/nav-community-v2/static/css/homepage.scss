@@ -73,7 +73,7 @@ $nav-purple-light: #9A54C4;
     }
     &.four {
       background-image: url("../images/homepage/curve_4.svg");
-      background-color: $light-grey;
+      background-color: $dark-blue;
     }
   }
 
@@ -199,7 +199,7 @@ $nav-purple-light: #9A54C4;
       }
     }
   }
-  
+
   .features {
     padding: 0;
     .padding {
@@ -311,13 +311,44 @@ $nav-purple-light: #9A54C4;
   }
   .community {
     background: $light-grey;
+    h1 {
+      max-width: 90vw;
+      margin: 0 auto 70px auto;
+    }
     .grid-container {
       display: grid;
       grid-template-columns: repeat(auto-fit, 100px);
       grid-gap: 30px 50px;
+      justify-content: center;
+      a {
+        transition: all ease 200ms;
+      }
+      a:hover {
+        transform: scale(1.1);
+      }
       img {
         height: 100px;
+        margin: 0 0 15px 0;
       }
+      h3 {
+        margin: 0;
+        line-height: 16px;
+      }
+    }
+    @media (max-width: 600px) {
+      padding: 40px 0 60px 0;
+      h1 {
+        margin: 0 auto 40px auto;
+        font-size: 30px;
+      } 
+      .grid-container {
+        grid-gap: 15px 50px;
+
+        img {
+          height: 80px;
+          margin: 0 0 10px 0;
+        }
+     }
     }
   }
 }
