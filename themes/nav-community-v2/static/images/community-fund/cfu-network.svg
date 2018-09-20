@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 132.018 130">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        stroke: #7659b9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004aff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#004aff"/>
+    </linearGradient>
+  </defs>
+  <g id="cfu-network" transform="translate(15098.018 1097)">
+    <rect id="Rectangle_4501" data-name="Rectangle 4501" class="cls-1" width="130" height="130" transform="translate(-15096 -1097)"/>
+    <path id="Path_15880" data-name="Path 15880" class="cls-2" d="M46.5,0A46.5,46.5,0,1,1,0,46.5,46.5,46.5,0,0,1,46.5,0Z" transform="translate(-15059 -1078)"/>
+    <g id="Group_3558" data-name="Group 3558" transform="translate(49.431 -201.855)">
+      <path id="Path_849" data-name="Path 849" class="cls-3" d="M29.365,14.683A14.683,14.683,0,1,1,14.683,0,14.642,14.642,0,0,1,29.365,14.683Z" transform="matrix(0.891, -0.454, 0.454, 0.891, -15111.358, -836.52)"/>
+      <path id="Path_850" data-name="Path 850" class="cls-3" d="M0,7.123A7.135,7.135,0,0,1,7.123,0" transform="matrix(0.891, -0.454, 0.454, 0.891, -15100.803, -833.415)"/>
+      <path id="Path_851" data-name="Path 851" class="cls-3" d="M16.282,8.145A8.141,8.141,0,1,1,8.141,0,7.949,7.949,0,0,1,16.282,8.145Z" transform="matrix(0.891, -0.454, 0.454, 0.891, -15123.15, -873.753)"/>
+      <path id="Path_852" data-name="Path 852" class="cls-3" d="M16.282,8.141A8.141,8.141,0,1,1,8.141,0,8.128,8.128,0,0,1,16.282,8.141Z" transform="matrix(0.891, -0.454, 0.454, 0.891, -15136.458, -794.201)"/>
+      <path id="Path_853" data-name="Path 853" class="cls-3" d="M16.282,8.141A8.141,8.141,0,1,1,8.141,0,8.127,8.127,0,0,1,16.282,8.141Z" transform="matrix(0.891, -0.454, 0.454, 0.891, -15050.97, -837.759)"/>
+      <path id="Path_15882" data-name="Path 15882" class="cls-3" d="M10.758,5.379A5.379,5.379,0,1,1,5.379,0,5.37,5.37,0,0,1,10.758,5.379Z" transform="matrix(0.891, -0.454, 0.454, 0.891, -15085.941, -793.999)"/>
+      <path id="Path_15883" data-name="Path 15883" class="cls-3" d="M10.758,5.379A5.379,5.379,0,1,1,5.379,0,5.37,5.37,0,0,1,10.758,5.379Z" transform="matrix(0.891, -0.454, 0.454, 0.891, -15145.431, -837.107)"/>
+      <path id="Path_15881" data-name="Path 15881" class="cls-3" d="M11.753,5.877A5.877,5.877,0,1,1,5.877,0,5.867,5.867,0,0,1,11.753,5.877Z" transform="translate(-15068.109 -869.471) rotate(-76)"/>
+      <line id="Line_293" data-name="Line 293" class="cls-3" y2="11.921" transform="matrix(0.891, -0.454, 0.454, 0.891, -15105.863, -857.757)"/>
+      <line id="Line_7909" data-name="Line 7909" class="cls-3" x2="11.337" y2="8.141" transform="matrix(0.891, -0.454, 0.454, 0.891, -15126.492, -834.846)"/>
+      <line id="Line_294" data-name="Line 294" class="cls-3" x2="16.427" y2="6.687" transform="matrix(0.891, -0.454, 0.454, 0.891, -15071.013, -831.625)"/>
+      <line id="Line_7908" data-name="Line 7908" class="cls-3" x1="1.452" y2="8.286" transform="matrix(0.891, -0.454, 0.454, 0.891, -15085.796, -809.409)"/>
+      <line id="Line_7907" data-name="Line 7907" class="cls-3" y1="9.072" x2="17.158" transform="matrix(0.891, -0.454, 0.454, 0.891, -15082.833, -855.46)"/>
+      <line id="Line_295" data-name="Line 295" class="cls-3" x1="15.7" y2="6.687" transform="matrix(0.891, -0.454, 0.454, 0.891, -15119.197, -807.074)"/>
+    </g>
+  </g>
+</svg>
