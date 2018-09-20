@@ -290,6 +290,7 @@ reversed="true"
 {{< item_container_section 
     titleText="Contribute Now!"
     subtitleText="NavCoin is an open source protocol and NavCoin Wallets are cool"
+    bgPurple="true"
 >}}
     {{< long_text 
         titleText="Turtle Store"
