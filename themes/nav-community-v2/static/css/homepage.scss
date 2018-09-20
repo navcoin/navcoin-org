@@ -70,10 +70,12 @@ $nav-purple-light: #9A54C4;
     &.three {
       background-image: url("../images/homepage/curve_3.svg");
       background-color: $dark-blue;
+      height: 85px;
     }
     &.four {
       background-image: url("../images/homepage/curve_4.svg");
       background-color: $dark-blue;
+      height: 153px;
     }
   }
 
@@ -292,22 +294,9 @@ $nav-purple-light: #9A54C4;
       width:1200px;
       display: grid;
       grid-template-columns: repeat(3,400px);
-      justify-content: space-around;
+      justify-content: center;
       align-items:center;
       margin-bottom: 70px;
-    }
-    
-    @media (max-width: 1300px) {
-      .grid-container {
-          width: 800px;
-          grid-template-columns: repeat(2,400px);
-      }
-    }
-    
-    @media (max-width: 850px) {
-      .grid-container {
-          grid-template-columns: 400px;
-      }
     }
     
     .grid-container>div {
@@ -316,8 +305,6 @@ $nav-purple-light: #9A54C4;
       height: 350px;
       background-color: #fff;
       text-align: center;
-      font-size: 80px;
-      font-family: 'Helvetica';
       img {
         height: 100px;
         margin: 0 0 15px 0; 
@@ -335,7 +322,35 @@ $nav-purple-light: #9A54C4;
     .grid-container>div:hover {
       filter: drop-shadow(black 0px 0px 3px)
     }
+
+    @media (max-width: 1200px) {
+      .grid-container {
+          grid-template-columns: repeat(auto-fit, 400px);
+      }
+    }
     
+    @media (max-width: 600px) {
+      .grid-container {
+          grid-template-columns: 1fr;
+      }
+      .grid-container>div {
+        height: 280px;
+        padding: 20px;
+        img {
+          height: 80px;
+          margin: 0 0 10px 0;
+        }
+        h2 {
+          margin: 0 0 10px 0;
+          font-size: 20px;
+          line-height: 25px;
+        }
+        p {
+          font-size: 15px;
+          line-height: 20px;
+        }
+      }
+    }
   }
 
   .values {
@@ -361,7 +376,7 @@ $nav-purple-light: #9A54C4;
       li {
         display: grid;
         grid-column-gap: 30px;
-        grid-template-columns: 1fr auto;
+        grid-template-columns: auto auto;
         grid-auto-rows: auto;
         grid-template-areas:  "img title"
                               "img text";
@@ -446,14 +461,38 @@ $nav-purple-light: #9A54C4;
     h1 {
       color: #fff;
     }
-    img {
-      height: 326px;
-    }
-    .grid-container {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr );
+    .flex-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
       .column {
-        
+        flex: 1 326px;
+        margin: 0 40px 30px 40px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        img {
+          margin: 0 0 10px 0;
+          max-height: 326px;
+        }
+        h2 {
+          color: #fff;
+          margin: 0 0 25px 0;
+        }
+        hr {
+          border: 0;
+          border-top: 4px solid #009BFF;
+          width: 90px;
+          margin: 0 auto 30px auto;
+        }
+        p {
+          color: #FFF;
+          min-height: 90px;
+          margin: 0 0 20px 0;
+          line-height: 24px;
+          max-width: 235px;
+          text-align: justify;
+        }
       }
     }
   }
@@ -464,12 +503,14 @@ $nav-purple-light: #9A54C4;
       max-width: 90vw;
       margin: 0 auto 70px auto;
     }
-    .grid-container {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, 100px);
-      grid-gap: 30px 50px;
+    .flex-container {
+      display: flex;
+      flex-wrap: wrap;
       justify-content: center;
+
       a {
+        margin: 15px 25px;
+        flex: 1 90px;
         transition: all ease 200ms;
       }
       a:hover {
@@ -490,9 +531,11 @@ $nav-purple-light: #9A54C4;
         margin: 0 auto 40px auto;
         font-size: 30px;
       } 
-      .grid-container {
-        grid-gap: 15px 50px;
-
+      .flex-container {
+        a {
+          margin: 7.5px 25px;
+          flex: 1 80px;
+        }
         img {
           height: 80px;
           margin: 0 0 10px 0;
