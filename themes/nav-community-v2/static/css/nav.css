@@ -617,6 +617,8 @@
   .item-container-section.bg-purple {
     background: #7D5AB5;
     color: #fff; }
+  .item-container-section.bg-purple p {
+    color: #fff !important; }
   .item-container-section .flex-center .round-btn {
     margin-top: 60px;
     text-align: center; }
