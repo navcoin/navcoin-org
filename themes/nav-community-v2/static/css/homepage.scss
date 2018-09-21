@@ -240,6 +240,7 @@ $nav-purple-light: #9A54C4;
     }
 
     @media (max-width: 600px) {
+      padding: 0;
       h1 {
         margin: 0 0 30px 0;
         font-size: 30px;
@@ -330,6 +331,9 @@ $nav-purple-light: #9A54C4;
     }
     
     @media (max-width: 600px) {
+      .padding {
+        padding:  0;
+      }
       .grid-container {
           grid-template-columns: 1fr;
       }
@@ -422,6 +426,7 @@ $nav-purple-light: #9A54C4;
     }
 
     @media (max-width: 600px) {
+      padding: 0 0 40px 0;
       h1 {
         margin: 0 0 30px 0;
         font-size: 30px;
@@ -465,12 +470,15 @@ $nav-purple-light: #9A54C4;
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
+      
       .column {
-        flex: 1 326px;
-        margin: 0 40px 30px 40px;
+        width: calc(30vw - 60px);
+        margin: 0 30px 30px 30px;
         display: flex;
         flex-direction: column;
         align-items: center;
+        max-width: 326px;
+        min-width: 250px;
         img {
           margin: 0 0 10px 0;
           max-height: 326px;
@@ -482,7 +490,7 @@ $nav-purple-light: #9A54C4;
         hr {
           border: 0;
           border-top: 4px solid #009BFF;
-          width: 90px;
+          width: 90px; 
           margin: 0 auto 30px auto;
         }
         p {
@@ -492,6 +500,46 @@ $nav-purple-light: #9A54C4;
           line-height: 24px;
           max-width: 235px;
           text-align: justify;
+        }
+      }
+    }
+    @media (max-width: 1200px) {
+      .flex-container {
+        .column {
+          p {
+            font-size: 15px;
+          }
+          .round-btn {
+            font-size: 15px;
+            min-width: unset;
+          }
+        }
+      }
+    }
+    @media (max-width: 600px) {
+      padding: 0;
+      h1 {
+        margin: 0 auto 40px auto;
+        font-size: 30px;
+      }
+      .flex-container {
+        .column {
+          img {
+            margin: 0;
+          }
+          h2 {
+            font-size: 20px;
+            line-height: 20px;
+            margin: 0 0 15px 0;
+          }
+          hr {
+            margin: 0 0 15px 0;
+          }
+          p {
+            font-size: 15px;
+            line-height: 20px;
+            margin: 0 0 5px 0;
+          }
         }
       }
     }
