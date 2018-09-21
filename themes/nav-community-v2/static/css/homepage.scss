@@ -44,6 +44,13 @@ $nav-purple-light: #9A54C4;
       background-image: url("../images/homepage/curve_0_solid+grad.svg");
       height: 310px;      
       background-repeat: repeat-x;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      img {
+        height: 90px;
+        margin-bottom: 150px;
+      } 
     }
     &.one {
       background-size: initial;

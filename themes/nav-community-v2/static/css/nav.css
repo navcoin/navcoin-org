@@ -387,7 +387,13 @@
     .homepage .spacer.zero {
       background-image: url("../images/homepage/curve_0_solid+grad.svg");
       height: 310px;
-      background-repeat: repeat-x; }
+      background-repeat: repeat-x;
+      display: flex;
+      justify-content: center;
+      align-items: center; }
+      .homepage .spacer.zero img {
+        height: 90px;
+        margin-bottom: 150px; }
     .homepage .spacer.one {
       background-size: initial;
       height: 205px; }
