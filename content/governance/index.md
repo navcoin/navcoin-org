@@ -59,7 +59,7 @@ reversed="true"
         imgSrc="/images/governance/gov-dev-manifesto.svg"
         subtext="Essential reading for everyone who wants to contribute to NavCoin open-source code."
         linkText="Get the Manifesto"
-        linkUrl="www.navcoin.org"
+        linkUrl="/assets/NavCoinDeveloperManifesto.pdf"
         linkImgSrc="/images/icons/rightward-arrow.svg"
     >}}
     {{< action 
@@ -67,7 +67,7 @@ reversed="true"
         imgSrc="/images/governance/gov-content-manifesto.svg"
         subtext="A guide to the shared values and objectives of NavCoin community content contributors."
         linkText="Get the Manifesto"
-        linkUrl="www.navcoin.org"
+        linkUrl="/assets/NavCoinContentManifesto.pdf"
         linkImgSrc="/images/icons/rightward-arrow.svg"
     >}}
     {{< action 
@@ -75,7 +75,7 @@ reversed="true"
         imgSrc="/images/governance/gov-brand.svg"
         subtext="A handbook to help you match the content your create to the NavCoin brand look and feel. "
         linkText="Get the Guide"
-        linkUrl="www.navcoin.org"
+        linkUrl="/assets/NavCoinBrandGuidelines.pdf"
         linkImgSrc="/images/icons/rightward-arrow.svg"
     >}}
 {{< /item_container_section >}}

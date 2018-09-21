@@ -7,7 +7,7 @@
   padding: 12px 28px;
   border-radius: 37px;
   border: black 2px solid;
-  min-width: 210px;
+  min-width: 175px;
   text-align: center;  
   display: inline-flex;
   align-items: center;
@@ -67,9 +67,8 @@
 .gradient-btn {
   border: none;
   color: white;
-  transition: 0.2s ease;
-    
-  filter: drop-shadow(rgba(87, 73, 165, 0.24) 1px 13px 35px);
+  transition: 0.2s ease; 
+  box-shadow: rgba(65, 45, 178, 0.24) 1px 13px 35px;
   background: linear-gradient(-60deg, rgba(68, 178, 233, 0.88) 0%, rgba(197, 41, 181, 0.88) 100%, rgba(197, 41, 181, 0.88) 102%);
 
   &:hover, &:active, &:focus {

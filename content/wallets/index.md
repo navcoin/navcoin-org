@@ -10,24 +10,31 @@ description: ""
 titleText="Wallets"
 imgSrc="/images/wallets/wal-hero.svg"
 paragraphText="NavCoin is an open source protocol and NavCoin wallets are maintained by a range of organisations and individuals. It’s advised to take the time to educate yourself about the wallets listed on this page and how to secure your funds. Always remember that it is your responsibility to choose your wallet carefully and adopt good practices in order to protect your money."
-buttonText=" Ask Community for assistance"
+buttonText="Ask Community for assistance"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
+buttonLink="https://discord.gg/y4Vu9jw"
 >}}
 
 {{< item_container_section
-    titleText="Choose your wallets"
-    subtitleText="Make sure to do your own research or ask community for assistance"
+    titleText="Core wallet"
+    subtitleText="NavCoin's reference implementation"
     >}}
     {{< wallet 
         titleText="NavCoin Core Wallet v4.3.0"
         walletImgSrc="/images/wallets/wal-core.png"
         text="These wallets run the blockchain & participate in validating transactions."
-        buttonUrl="https://navcoin.org/navcoin-core/#links"
+        buttonUrl="/navcoin-core/"
         buttonText="Download"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         platformImg1Src="/images/platforms/mac.png"
         platformImg2Src="/images/platforms/windows.png"
         platformImg3Src="/images/platforms/linux.png"
+    >}}
+{{< /item_container_section >}}
+
+{{< item_container_section
+    titleText="NavCoin community wallets"
+    subtitleText="Make sure to do your own research or ask community for assistance"
     >}}
     {{< wallet 
         titleText="NavPay Light Wallet v4.2.0"

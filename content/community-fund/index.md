@@ -72,6 +72,7 @@ type: "default"
   imgSrc="/images/community-fund/cfu-get-involved.svg"
   paragraphText="The NavCoin Collab website is the space to find the range of projects that the community is working on. It acts as the ‘town square’, and makes it easier for the community to collaborate on projects together."
   buttonText="Join the Collab"
+  buttonUrl="https://collab.navcoin.org/dashboard"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
 >}}

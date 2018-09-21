@@ -4,7 +4,7 @@
   padding: 12px 28px;
   border-radius: 37px;
   border: black 2px solid;
-  min-width: 210px;
+  min-width: 180px;
   text-align: center;
   display: inline-flex;
   align-items: center;
@@ -57,7 +57,7 @@
   border: none;
   color: white;
   transition: 0.2s ease;
-  filter: drop-shadow(rgba(87, 73, 165, 0.24) 1px 13px 35px);
+  box-shadow: rgba(65, 45, 178, 0.24) 1px 13px 35px;
   background: linear-gradient(-60deg, rgba(68, 178, 233, 0.88) 0%, rgba(197, 41, 181, 0.88) 100%, rgba(197, 41, 181, 0.88) 102%); }
   .gradient-btn:hover, .gradient-btn:active, .gradient-btn:focus {
     color: white;
@@ -470,7 +470,6 @@
   display: grid;
   grid-column-gap: 64px;
   grid-auto-flow: dense;
-  grid-template-columns: 1fr 1fr;
   grid-template-areas: "image text" "image text";
   background: linear-gradient(90deg, #4AA9E4 -50%, #A34Bc1 150%); }
   .hero-section a {
@@ -501,7 +500,10 @@
 
 @media (max-width: 900px) {
   .hero-section h1 {
-    font-size: 35px; } }
+    font-size: 35px; } 
+  .hero-section .hero-img{
+    max-height: 250px;
+    align-self: center; }}
 
 @media (max-width: 700px) {
   .hero-section {
@@ -716,7 +718,10 @@
     display: flex;
     flex-basis: 300px;
     position: relative;
-    box-shadow: 1px 13px 35px rgba(66, 45, 178, 0.12); }
+    box-shadow: 1px 13px 35px rgba(66, 45, 178, 0.12); 
+    transition: all 0.3s ease;}
+  .wallet-column .item-card:hover{
+    transform: translate(0px, -5px);}
   .wallet-column .item-main {
     width: 100%;
     max-width: 450px;
@@ -730,9 +735,9 @@
     justify-content: center;
     border-radius: 8px 8px 0 0; }
   .wallet-column .item-icon {
-    padding: 10px 0 10px 0;
     height: inherit;
-    max-height: 100%; }
+    max-height: 80%;
+    align-self: center; }
   .wallet-column .item-details-group {
     background: #7D5AB5;
     padding: 23px;
@@ -745,7 +750,7 @@
   .wallet-column .item-text p {
     margin: 0;
     margin-top: 20px;
-    margin-bottom: 24px;
+    margin-bottom: 15px;
     min-height: 75px; }
   @media (max-width: 678px) {
     .wallet-column .item-text p {
@@ -938,7 +943,7 @@
   .exchange-column .upper-half {
     display: flex;
     flex-direction: column;
-    height: 158px;
+    height: 195px;
     padding: 5px;
     background: #fff;
     align-items: center;
