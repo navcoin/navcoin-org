@@ -362,6 +362,10 @@
   color: #707070;
   /** Spacer curve CSS  **/
   /** Section CSS Starts **/ }
+  .homepage img.button-icon {
+    max-height: 15px;
+    display: inline;
+    margin-left: 20px; }
   .homepage h1, .homepage h2, .homepage h3 {
     color: #7b47b4;
     font-family: 'Raleway', 'Regular', Helvetica, Arial, sans-serif;
@@ -435,7 +439,10 @@
       text-align: left;
       justify-items: flex-start;
       align-items: center; }
-      .homepage .hero .grid-container img {
+      .homepage .hero .grid-container .button-icon {
+        width: 24px;
+        height: 18px; }
+      .homepage .hero .grid-container .left-image {
         grid-area: img;
         max-width: 945px;
         width: 50vw; }
@@ -458,10 +465,8 @@
         .homepage .hero .grid-container .text-container {
           max-width: 80vw; }
           .homepage .hero .grid-container .text-container h1 {
-            margin: 0 0 20px 0;
             font-size: 35px; }
           .homepage .hero .grid-container .text-container p {
-            margin: 0 0 20px 0;
             text-align: justify; } }
     @media (max-width: 600px) {
       .homepage .hero .grid-container {
@@ -476,13 +481,11 @@
         .homepage .hero .grid-container .text-container {
           max-width: 80vw; }
           .homepage .hero .grid-container .text-container h1 {
-            margin: 0 0 15px 0;
             font-size: 30px; }
           .homepage .hero .grid-container .text-container p {
             text-align: justify;
             font-size: 15px;
-            line-height: 20px;
-            margin: 0 0 15px 0; } }
+            line-height: 20px; } }
   .homepage .welcome {
     background: #fafafa;
     padding: 0px 0 60px 0; }
@@ -707,7 +710,7 @@
         align-items: center;
         max-width: 326px;
         min-width: 250px; }
-        .homepage .ecosystem .flex-container .column img {
+        .homepage .ecosystem .flex-container .column .large-img {
           margin: 0 0 10px 0;
           max-height: 326px; }
         .homepage .ecosystem .flex-container .column h2 {

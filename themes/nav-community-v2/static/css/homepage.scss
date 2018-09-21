@@ -8,7 +8,11 @@ $nav-purple-light: #9A54C4;
 .homepage {
   background-color: white;
   color: $dark-grey;
-
+  img.button-icon {
+    max-height: 15px;
+    display: inline;
+    margin-left: 20px;
+  }
   h1,h2,h3 {
     color: $nav-purple;
     font-family: 'Raleway', 'Regular', Helvetica, Arial, sans-serif;
@@ -104,8 +108,14 @@ $nav-purple-light: #9A54C4;
       grid-template-columns: auto minmax(auto, 840px);
       text-align: left;
       justify-items: flex-start;   
-      align-items: center;   
-      img {
+      align-items: center;  
+      
+      .button-icon {
+        width: 24px;
+        height: 18px;
+      }
+
+      .left-image {
         grid-area: img;
         max-width: 945px;
         width: 50vw;
@@ -134,11 +144,9 @@ $nav-purple-light: #9A54C4;
         .text-container {
           max-width: 80vw;
           h1 {
-            margin: 0 0 20px 0;
             font-size: 35px;
           }
           p {
-            margin: 0 0 20px 0;
             text-align: justify;
           }
         }
@@ -159,14 +167,12 @@ $nav-purple-light: #9A54C4;
         .text-container {
           max-width: 80vw;
           h1 {
-            margin: 0 0 15px 0;
             font-size: 30px;
           }
           p {
             text-align: justify;
             font-size: 15px;
             line-height: 20px;
-            margin: 0 0 15px 0;
           }
         }
       }
@@ -487,7 +493,7 @@ $nav-purple-light: #9A54C4;
         align-items: center;
         max-width: 326px;
         min-width: 250px;
-        img {
+        .large-img {
           margin: 0 0 10px 0;
           max-height: 326px;
         }
