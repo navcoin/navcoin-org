@@ -402,7 +402,7 @@
       height: 200px; }
       .homepage .spacer.two div {
         background-image: url("../images/homepage/curve_2.svg");
-        height: 231px;
+        height: 235px;
         background-repeat: repeat-x;
         background-size: 4000px;
         background-position: center; }
@@ -413,7 +413,7 @@
     .homepage .spacer.four {
       background-image: url("../images/homepage/curve_4.svg");
       background-color: #191e5d;
-      height: 153px; }
+      height: 152px; }
   .homepage section {
     padding: 60px 0;
     min-height: 200px;
@@ -609,80 +609,83 @@
         .homepage .features .grid-container > div p {
           font-size: 15px;
           line-height: 20px; } }
-  .homepage .values h1 {
-    margin: 0 0 95px 0; }
-  .homepage .values .grid-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    text-align: left;
-    justify-content: flex-start;
-    grid-gap: 40px 70px; }
-  .homepage .values .left-img {
-    grid-area: img;
-    align-self: center;
-    justify-self: flex-end; }
-  .homepage .values .text-container {
-    margin: 0 auto 65px auto; }
-    .homepage .values .text-container li {
-      display: grid;
-      grid-column-gap: 30px;
-      grid-template-columns: auto auto;
-      grid-auto-rows: auto;
-      grid-template-areas: "img title" "img text"; }
-      .homepage .values .text-container li h2 {
-        grid-area: title;
-        margin: 0 0 8px 0;
-        line-height: 30px; }
-      .homepage .values .text-container li p {
-        grid-area: text;
-        max-width: 540px;
-        line-height: 25px;
-        justify-self: flex-start;
-        margin: 0; }
-      .homepage .values .text-container li img {
-        grid-area: img;
-        height: 100px;
-        align-self: center;
-        justify-self: flex-end; }
-  @media (max-width: 1200px) {
+  .homepage .values {
+    padding: 0 0 60px 0; }
     .homepage .values h1 {
-      margin: 0 0 60px 0; }
+      margin: 0 0 95px 0; }
     .homepage .values .grid-container {
-      grid-template-columns: 1fr;
-      grid-gap: 40px 0px; }
-      .homepage .values .grid-container .text-container {
-        justify-self: center;
-        margin: 0 auto 50px auto; }
-        .homepage .values .grid-container .text-container li {
-          margin: 0 0 10px 0; }
-          .homepage .values .grid-container .text-container li img {
-            height: 80px; } }
-  @media (max-width: 600px) {
-    .homepage .values {
-      padding: 0 0 40px 0; }
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      text-align: left;
+      justify-content: flex-start;
+      grid-gap: 40px 70px; }
+    .homepage .values .left-img {
+      grid-area: img;
+      align-self: center;
+      justify-self: flex-end; }
+    .homepage .values .text-container {
+      margin: 0 auto 65px auto; }
+      .homepage .values .text-container li {
+        display: grid;
+        grid-column-gap: 30px;
+        grid-template-columns: auto auto;
+        grid-auto-rows: auto;
+        grid-template-areas: "img title" "img text"; }
+        .homepage .values .text-container li h2 {
+          grid-area: title;
+          margin: 0 0 8px 0;
+          line-height: 30px; }
+        .homepage .values .text-container li p {
+          grid-area: text;
+          max-width: 540px;
+          line-height: 25px;
+          justify-self: flex-start;
+          margin: 0; }
+        .homepage .values .text-container li img {
+          grid-area: img;
+          height: 100px;
+          align-self: center;
+          justify-self: flex-end; }
+    @media (max-width: 1200px) {
       .homepage .values h1 {
-        margin: 0 0 30px 0;
-        font-size: 30px; }
+        margin: 0 0 60px 0; }
       .homepage .values .grid-container {
-        grid-row-gap: 20px; }
-      .homepage .values .text-container {
-        margin: 0 auto 30px auto; }
-        .homepage .values .text-container li {
-          grid-template-columns: 1fr;
-          grid-template-areas: "img" "title" "text"; }
-          .homepage .values .text-container li img {
-            justify-self: center; }
-          .homepage .values .text-container li h2 {
-            font-size: 22px;
-            justify-self: center;
-            text-align: center; }
-          .homepage .values .text-container li p {
-            font-size: 15px;
-            justify-self: center;
-            text-align: justify;
-            line-height: 20px;
-            max-width: 80vw; } }
+        grid-template-columns: 1fr;
+        grid-gap: 40px 0px; }
+        .homepage .values .grid-container .text-container {
+          justify-self: center;
+          margin: 0 auto 50px auto; }
+          .homepage .values .grid-container .text-container li {
+            margin: 0 0 10px 0; }
+            .homepage .values .grid-container .text-container li img {
+              height: 80px; } }
+    @media (max-width: 600px) {
+      .homepage .values {
+        padding: 0 0 40px 0; }
+        .homepage .values h1 {
+          margin: 0 0 30px 0;
+          font-size: 30px; }
+        .homepage .values .grid-container {
+          grid-row-gap: 20px; }
+        .homepage .values .text-container {
+          margin: 0 auto 30px auto; }
+          .homepage .values .text-container li {
+            grid-template-columns: 1fr;
+            grid-template-areas: "img" "title" "text"; }
+            .homepage .values .text-container li img {
+              justify-self: center; }
+            .homepage .values .text-container li h2 {
+              font-size: 22px;
+              justify-self: center;
+              text-align: center; }
+            .homepage .values .text-container li p {
+              font-size: 15px;
+              justify-self: center;
+              text-align: justify;
+              line-height: 20px;
+              max-width: 80vw; } }
   .homepage .ecosystem {
+    padding: 10px 0 30px 0;
     background: #191e5d; }
     .homepage .ecosystem h1 {
       color: #fff; }
@@ -741,6 +744,7 @@
           line-height: 20px;
           margin: 0 0 5px 0; } }
   .homepage .community {
+    padding: 0 0 60px 0;
     background: #fafafa; }
     .homepage .community h1 {
       max-width: 90vw;

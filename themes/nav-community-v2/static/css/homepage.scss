@@ -61,7 +61,7 @@ $nav-purple-light: #9A54C4;
       height: 200px;
       div {
         background-image: url("../images/homepage/curve_2.svg");
-        height: 231px;
+        height: 235px;
         background-repeat: repeat-x;
         background-size: 4000px;     
         background-position: center; 
@@ -75,7 +75,7 @@ $nav-purple-light: #9A54C4;
     &.four {
       background-image: url("../images/homepage/curve_4.svg");
       background-color: $dark-blue;
-      height: 153px;
+      height: 152px;
     }
   }
 
@@ -358,10 +358,10 @@ $nav-purple-light: #9A54C4;
   }
 
   .values {
+    padding: 0 0 60px 0;
      h1 {
       margin: 0 0 95px 0;
     }
-    
     .grid-container {
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -462,6 +462,7 @@ $nav-purple-light: #9A54C4;
   }
 
   .ecosystem {
+    padding: 10px 0 30px 0;
     background: $dark-blue;
     h1 {
       color: #fff;
@@ -546,6 +547,7 @@ $nav-purple-light: #9A54C4;
   }
 
   .community {
+    padding: 0 0 60px 0;
     background: $light-grey;
     h1 {
       max-width: 90vw;
