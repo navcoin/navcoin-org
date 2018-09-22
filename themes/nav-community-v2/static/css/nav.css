@@ -1075,7 +1075,11 @@
     line-height: 25px; }
   @media (max-width: 600px) {
     .step-container-section .container-subtitle {
-      margin: 0 0 33px 0; } }
+      margin: 0 0 33px 0; }
+    .step-container-section .container-title {
+      line-height: 32px;
+      font-size: 27px;
+      margin: 0 0 26px 0; }}
   .step-container-section .grid-container {
     display: grid;
     grid-template-columns: 1fr;
@@ -1095,7 +1099,7 @@
   max-width: 1200px; }
   .step-section .step-card {
     display: grid;
-    grid-template-areas: "image title" ". text" ". button";
+    grid-template-areas: "image title" "image text" ". button";
     grid-auto-columns: minmax(10px, auto);
     grid-auto-rows: minmax(10px, auto);
     padding: 15px 20px;
