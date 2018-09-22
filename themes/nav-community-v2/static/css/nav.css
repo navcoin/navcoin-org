@@ -639,8 +639,11 @@
     margin: 0 0 35px 0;
     line-height: 25px; }
   @media (max-width: 600px) {
-    .item-container-section .container-subtitle {
-      margin: 0 0 33px 0; } }
+  .item-container-section .container-subtitle {
+    margin: 0 0 33px 0; } 
+  .item-container-section .container-title {
+      line-height: 32px;
+      font-size: 27px; }}
   .item-container-section .grid-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
