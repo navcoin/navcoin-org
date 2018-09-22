@@ -552,7 +552,7 @@
     justify-content: center;
     align-items: center; }
     .zig-section .zig-container a {
-      margin: 30px 0px 55px 0px; }
+      margin: 30px 0px 0px 0px; }
     .zig-section .zig-container .zig-img {
       grid-area: image;
       max-height: 234px;
@@ -582,7 +582,7 @@
       flex-direction: column;
       justify-content: center;
       align-content: center;
-      padding: 0 20px 50px 0;
+      //padding: 0 20px 50px 0;
       text-align: justify;
       text-justify: inter-word; }
     .zig-section .zig-container.reversed {
@@ -601,6 +601,7 @@
   @media (max-width: 620px) {
     .zig-section .zig-container, .zig-section .zig-container.reversed {
       padding: 0 0 55px 0;
+      padding-top: 20px;
       grid-template-areas: "image image" "text text"; }
       .zig-section .zig-container .zig-img, .zig-section .zig-container.reversed .zig-img {
         height: 210px;
