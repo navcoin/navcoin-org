@@ -892,7 +892,7 @@
       color: #7D5AB5; }
     .long-text-column .long-text-card p {
       font-size: 16px;
-      color: #404040;
+      color: #404040 !important;
       font-family: 'Roboto', sans-serif;
       text-align: justify; }
     .long-text-column .long-text-card a:hover, .long-text-column .long-text-card a:active, .long-text-column .long-text-card a:visited {
