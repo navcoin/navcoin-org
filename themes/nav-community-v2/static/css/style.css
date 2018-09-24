@@ -19,7 +19,6 @@
 		2.1. Browser Upgrade Prompt
 		2.2. Default CSS
 		2.3. All Padding Margin
-	3. Main Menu
 	5. About Section
 	6. Sticky Menu
 	17. Footer Area
@@ -270,82 +269,6 @@ section.pt-25 {
 .bg-gray {
     background-color:#F5F5F5;
 }
-
-
-/* ==========================================
-	3. Main Menu
-   ========================================== */
-
-header {
-    position: absolute;
-    width: 100%;
-    z-index: 22;
-    left: 0;
-    top: 0;
-}
-.main-menu {
-    position: relative;
-    -webkit-transition: all 0.5s;
-    transition: all 0.5s;
-    border-bottom: 1px solid rgba(245, 245, 245, .1);
-    padding: 20px 0px;
-	background:#fff;
-}
-
-.logo-brand {
-    float: left;
-    margin-left: 20px;
-}
-
-.nav-container .navbar-collapse {
-    padding: 5px 0 0 0;
-}
-
- .custom-toggle {
-    position: relative;
-    float: right;
-    margin: 12px 0 0 0;
-    padding: 0;	
-    background-color: transparent;
-    background-image: none;
-    border: 1px solid transparent;
-    border-radius: 4px;
-}
-
-.main-menu .navbar-nav li {
-    padding: 0 0 0 20px;
-}
-
-.main-menu .navbar-nav li a, .main-menu .navbar-nav li .nav-top-item  {
-    padding: 8px 10px;
-    display: block;
-    transition: none;
-    text-transform: uppercase;
-    line-height: 20px;
-    color: #6d7680;
-    border-bottom: 3px solid #fff;
-    letter-spacing: 0px;
-    font-weight: 400;
-    font-family: 'Roboto', sans-serif;
-    font-size: 16px;
-    margin-top: 4px;
-    cursor: pointer;
-    transition: 0.2s ease;
-}
-.main-menu .navbar-nav li a:hover, .main-menu .navbar-nav li:hover .nav-top-item {
-    border-bottom: 3px solid #999;
-    transition: 0.2s ease;
-}
-
-.stickey .main-menu .navbar-nav li.active a {
-    border-bottom: 2px solid #999;
-}
-.navbar-nav li a:hover,
-.navbar-nav li a:focus,
-.navbar-nav li a:active {
-    background: none;
-}
-
 
 
 

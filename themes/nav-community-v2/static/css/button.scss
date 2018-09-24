@@ -36,7 +36,7 @@
 .purple-btn {
   border-color: #c6b7fd;
   color: white;
-  background-color: #7d59b5;
+  background-color: $nav-purple-dark;
   transition: 0.2s ease;
   &:hover, &:active, &:focus {
     color: white;
@@ -51,14 +51,14 @@
   padding: 17px;
   border-width: 2px; 
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  border-color: #7d59b5;
+  border-color: $nav-purple-dark;
   color: white;
-  background-color: #7d59b5;
+  background-color: $nav-purple-dark;
   transition: 0.2s ease;
   &:hover, &:active {
     min-width:250px;
-    border-color: #7d59b5;
-    color: #7d59b5;
+    border-color: $nav-purple-dark;
+    color: $nav-purple-dark;
     background-color: white; 
     transition: 0.5s ease;
   }
@@ -83,10 +83,20 @@
   color: $nav-purple-dark;
   background-color: white;
   &:hover, &:active, &:focus{
-    border-color: #7d59b5;
-    color: #7d59b5;
+    border-color: $nav-purple-dark;
+    color: $nav-purple-dark;
     transition: 0.5s ease;    
     min-width: 250px;
+  }
+}
+
+.white-btn-new {
+  color: $nav-purple-light;
+  background-color: white;
+  border-color: transparent;
+  &:hover, &:active, &:focus{
+    transition: 0.5s ease;  
+    border-color: $nav-purple-dark;
   }
 }
 

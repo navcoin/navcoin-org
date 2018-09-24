@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4710 366.765">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fafafa;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.197" y1="0.325" x2="0.987" y2="0.896" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a34bc1"/>
+      <stop offset="0.464" stop-color="#4aa9e4"/>
+      <stop offset="0.782" stop-color="#4aa9e4"/>
+      <stop offset="1" stop-color="#a34bc1"/>
+    </linearGradient>
+  </defs>
+  <g id="curve_00_solid_grad" data-name="curve_00_solid+grad" transform="translate(14110 8081)">
+    <path id="Path_15845" data-name="Path 15845" class="cls-1" d="M-16748.795,2608.417s473.754,1.851,785.057-41.741,354.169-148.3,722.526-143.61,488.438,103.222,676.7,114.443,198.846-45.918,379.606-40.931c137.384,3.79,771.379,140.691,1227.468,142.384s918.646-29.821,918.646-29.821v178.809h-4710Z" transform="translate(2638.795 -10503.914)"/>
+    <path id="Path_15842" data-name="Path 15842" class="cls-2" d="M-16517.008,2611.167s449.281,70.65,872.141,52.494,513.174-170.829,863.92-187.388,435.986,47.784,704.166,37.47,308.17-100.894,670.141-94.518,602.789,123.637,998.633,130.9,601,60.65,601,60.65v75.895h-4710Z" transform="translate(2407.008 -10400.904)"/>
+  </g>
+</svg>

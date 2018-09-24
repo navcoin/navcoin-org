@@ -1,38 +1,42 @@
 <nav>
     <ul class="nav navbar-nav">
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-        {{ if .HasChildren }}
-        <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }} nav-dropdown">
-            <span class="nav-top-item">
-                {{ .Pre }}
-                <span>{{ .Name }}</span>
-                <span class="arrow"></span>
-            </span>
+    <li>
+        <a href="#" class="">Get Started <span class="arrow"></span></a>
+            <ul>
+                <li class="active"><a href="">Why NavCoin</a></li>
+                <li class="active"><a href="">Manifestos</a></li>
+                <li class="active"><a href="">Documentation</a></li>
+                <hr>
+                <li class="active"><a href="">For Beginners</a></li>
+                <li class="active"><a href="">For Developers</a></li>
+                <li class="active"><a href="">For Businesses</a></li>
+                <hr>
+                <li class="active"><a href="">Merchants</a></li>
+                <li class="active"><a href="">Buy NavCoin</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="#">Roadmap</a>
+        </li>
+        <li>
+            <a href="#">Community Fund</a>
+        </li>
+        <li>
+            <a href="#">Wallets</a>
+        </li>
+        <li class="">
+            <a href="#">
+                <span>{{ .Lang }} </span> <span class="arrow"></span>
+            </a>
             <ul class="sub-menu">
-                {{ range .Children }}
-                <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-                <a href="{{ .URL }}"><span class="fa fa-angle-right"></span>{{ .Name }}</a>
+                {{ range $.Site.Home.AllTranslations }}
+                    <li class="active"><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
                 {{ end }}
             </ul>
-            {{else}}
-            <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-                <a href="{{.URL}}">
-                    {{ .Pre }}
-                    <span>{{ .Name }}</span>
-                </a>
-            {{end}}
         </li>
-        {{end}}
-
-        {{ range $.Site.Home.AllTranslations }}
-            <!--<li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>-->
-        {{ end }}
-
-        <!--<li>-->
-            <!--<a href="#" target="blank">Hardcoded Link 1</a> </li>-->
-        <!--<li>-->
-            <!--<a href="#" target="blank">Hardcoded Link 2</a>-->
-        <!--</li>-->
     </ul>
 </nav>
+
+
+
+
