@@ -40,6 +40,7 @@
     max-width:1850px;
     margin:0 auto;
     padding: 10px;
+    margin-bottom: 50px;
   }
   
   @media (max-width:1600px){
