@@ -1661,8 +1661,7 @@ a:hover, a:active, a:focus, a:visited {
       cursor: pointer;
       border-bottom: 3px solid #fff; }
     @media (max-width: 920px) {
-      .stickey .main-menu .navbar-nav li a,
-      .stickey .main-menu .navbar-nav li .nav-top-item {
+      .stickey .main-menu .navbar-nav li a {
         font-size: 16px; } }
   @media (max-width: 768px) {
     .stickey .main-menu .navbar-nav {
@@ -1673,13 +1672,17 @@ a:hover, a:active, a:focus, a:visited {
       left: 15px; }
       .stickey .main-menu .navbar-nav li {
         float: none; }
-        .stickey .main-menu .navbar-nav li a, .stickey .main-menu .navbar-nav li .nav-top-item {
+        .stickey .main-menu .navbar-nav li:hover {
           border: none; }
-          .stickey .main-menu .navbar-nav li a:hover, .stickey .main-menu .navbar-nav li .nav-top-item:hover {
-            padding: 8px 10px 8px 20px;
+          .stickey .main-menu .navbar-nav li:hover a {
             border: none; }
-        .stickey .main-menu .navbar-nav li ul {
-          position: relative; } }
+            .stickey .main-menu .navbar-nav li:hover a:hover {
+              padding: 8px 10px 8px 20px;
+              border: none; }
+          .stickey .main-menu .navbar-nav li:hover ul {
+            position: relative; }
+            .stickey .main-menu .navbar-nav li:hover ul hr {
+              max-width: 128px; } }
   .stickey .main-menu .nav-container {
     width: 85vw;
     display: flex;

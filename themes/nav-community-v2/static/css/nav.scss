@@ -112,7 +112,6 @@ a {
   padding: 20px 0px;
 
   .navbar-nav {
-  
     li {
       float: left;
       a:hover,
@@ -124,7 +123,6 @@ a {
         display: initial;
         background: #fff;
         box-shadow: 0 4px 5px rgba(0, 0, 0, 0.05);
-        // position: relative;
       }
       ul {
         display: none;
@@ -171,15 +169,19 @@ a {
         float: none;
         &:hover {
           border: none;
-        a {
-          border: none;
-          &:hover {
-          padding: 8px 10px 8px 20px;
-          border: none;
-        }
-        }
-        ul {
-        position: relative;
+          a {
+            border: none;
+            &:hover {
+              padding: 8px 10px 8px 20px;
+              border: none;
+            }
+          }
+          ul {
+            position: relative;
+            hr {
+              max-width: 128px;
+            }
+          }
         }
       }
     }
