@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 131.004 130">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #7d5ab4;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-4 {
+        fill: #7d5ab4;
+        stroke-width: 2px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004aff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#004aff"/>
+    </linearGradient>
+  </defs>
+  <g id="map-in-progress" transform="translate(6129.004 -5936)">
+    <circle id="Ellipse_209" data-name="Ellipse 209" class="cls-1" cx="46.5" cy="46.5" r="46.5" transform="translate(-6091 5955)"/>
+    <rect id="Rectangle_1057" data-name="Rectangle 1057" class="cls-2" width="130" height="130" transform="translate(-6128 5936)"/>
+    <g id="Group_2891" data-name="Group 2891" transform="translate(0 3.296)">
+      <g id="Group_2881" data-name="Group 2881" transform="translate(-6127.504 5947.456)">
+        <path id="Path_2603" data-name="Path 2603" class="cls-3" d="M3075.992,3084.945a50.546,50.546,0,1,0-50.546,50.547v-12.215" transform="translate(-2974.899 -3034.399)"/>
+        <path id="Path_2604" data-name="Path 2604" class="cls-3" d="M3060.543,3064.3l-10.25,8.564L3038.5,3064.3" transform="translate(-2949.202 -3022.319)"/>
+        <line id="Line_1988" data-name="Line 1988" class="cls-3" y2="13.9" transform="translate(50.546 0)"/>
+        <line id="Line_1989" data-name="Line 1989" class="cls-3" x2="6.037" y2="6.178" transform="translate(13.339 17.13)"/>
+        <line id="Line_1990" data-name="Line 1990" class="cls-3" y1="6.037" x2="6.037" transform="translate(16.006 81.295)"/>
+        <line id="Line_1991" data-name="Line 1991" class="cls-3" x2="11.934" transform="translate(0 50.546)"/>
+        <ellipse id="Ellipse_190" data-name="Ellipse 190" class="cls-3" cx="6.318" cy="6.318" rx="6.318" ry="6.318" transform="translate(44.509 44.509)"/>
+        <line id="Line_1992" data-name="Line 1992" class="cls-3" x1="18.534" transform="translate(25.975 50.827)"/>
+        <line id="Line_1993" data-name="Line 1993" class="cls-3" y1="23.728" x2="23.728" transform="translate(56.583 24.571)"/>
+      </g>
+      <path id="Path_3375" data-name="Path 3375" class="cls-4" d="M124.841,123.712a12.825,12.825,0,0,1-2.965-1.357c-3.286-2.465-6.465-5.072-9.573-7.715a2.432,2.432,0,0,1-.643-2.179,1.593,1.593,0,0,1,2.536-.572c2.786,2.143,5.537,4.286,8.287,6.465.464.357.929.75,1.393,1.107a2.091,2.091,0,0,0,3.286-.322l9-11.252c3.679-4.572,7.358-9.18,11.037-13.752a1.733,1.733,0,0,1,2.643-.429c1,.75.857,1.75.107,2.679-1.929,2.429-3.858,4.822-5.787,7.251q-7.019,8.734-14,17.5A6.778,6.778,0,0,1,124.841,123.712Z" transform="translate(-6181.117 5918.587)"/>
+    </g>
+  </g>
+</svg>

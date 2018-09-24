@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 130 130">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        stroke: #7d5ab4;
+        stroke-linejoin: round;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke-width: 3px;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-4 {
+        stroke-width: 4px;
+      }
+
+      .cls-5 {
+        stroke-width: 2.5px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004aff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#004aff"/>
+    </linearGradient>
+  </defs>
+  <g id="map-up-coming" transform="translate(-1232 -2165)">
+    <rect id="Rectangle_1057" data-name="Rectangle 1057" class="cls-1" width="130" height="130" transform="translate(1232 2165)"/>
+    <circle id="Ellipse_209" data-name="Ellipse 209" class="cls-2" cx="46.5" cy="46.5" r="46.5" transform="translate(1269 2184)"/>
+    <g id="Group_3418" data-name="Group 3418" transform="translate(23116 1258.881)">
+      <g id="Group_2222" data-name="Group 2222" transform="translate(-21882 924.059)">
+        <path id="Path_2994" data-name="Path 2994" class="cls-3" d="M3683.921,2702.278a8.3,8.3,0,0,0-8.278-8.278h-83.466a8.3,8.3,0,0,0-8.277,8.278v14.21h100.021Z" transform="translate(-3583.9 -2694)"/>
+        <path id="Path_2995" data-name="Path 2995" class="cls-3" d="M3583.9,2710.3v68.98a8.3,8.3,0,0,0,8.277,8.278h83.466a8.3,8.3,0,0,0,8.278-8.278V2710.3Z" transform="translate(-3583.9 -2687.813)"/>
+      </g>
+      <line id="Line_2309" data-name="Line 2309" class="cls-4" y2="11.792" transform="translate(-21865.104 919.119)"/>
+      <line id="Line_2310" data-name="Line 2310" class="cls-4" y2="11.893" transform="translate(-21847.754 919.423)"/>
+      <line id="Line_2311" data-name="Line 2311" class="cls-4" y2="11.893" transform="translate(-21831.645 919.22)"/>
+      <line id="Line_2314" data-name="Line 2314" class="cls-4" y2="11.792" transform="translate(-21814.297 919.83)"/>
+      <line id="Line_2315" data-name="Line 2315" class="cls-4" y2="11.792" transform="translate(-21798.188 919.83)"/>
+      <path id="Path_2472" data-name="Path 2472" class="cls-3" d="M966.667,3838.833a22.533,22.533,0,1,1-22.533-22.533A22.549,22.549,0,0,1,966.667,3838.833Z" transform="translate(-22776.469 -2855.865)"/>
+      <path id="Path_2473" data-name="Path 2473" class="cls-4" d="M930.6,3833.574l5.794,4.828,9.519-12" transform="translate(-22770.521 -2849.502)"/>
+      <path id="Path_15726" data-name="Path 15726" class="cls-5" d="M-21876.529,980.579V1000.4s-.812,4.958,5.012,4.848,4.891,0,4.891,0" transform="translate(3.476 9.29)"/>
+    </g>
+  </g>
+</svg>

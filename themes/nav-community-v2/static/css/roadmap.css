@@ -32,7 +32,7 @@
     background-color:var(--stage-4)
   }
   
-  .grid-container{
+  .roadmap-grid-container{
     display:grid;
     grid-template-areas:
       "up-coming   in-progress  beta   completed";
@@ -43,7 +43,7 @@
   }
   
   @media (max-width:1600px){
-    .grid-container{
+    .roadmap-grid-container{
       grid-template-areas:
         "up-coming      completed"
         "in-progress    completed"
@@ -66,7 +66,7 @@
   }
   
   @media (max-width:1000px){
-    .grid-container{
+    .roadmap-grid-container{
       grid-template-areas:
         "up-coming"
         "in-progress"
@@ -145,20 +145,25 @@
   }
   
   .roadmap-card a{
-      text-decoration: none;
-      border-bottom: #006EFF solid 1px;
-      color: #006EFF;
-      font-size: 16px;
-      font-family: 'Roboto', sans-serif;
-      max-width: 300px;
+    text-decoration: none;
+    border-bottom: #006EFF solid 1px;
+    color: #006EFF;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    max-width: 300px;
+    justify-self: start;
+  }
+
+  .roadmap-card a img{
+    margin-left: 10px;
   }
   
   .roadmap-card .roadmap-author{
     color:#7D5AB5;
-    margin-bottom:24px;
+    margin-bottom:14px;
   }
   
-  .progress-bar{
+  .roadmap-porgress-bar{
     display:grid;
     grid-template-columns:repeat(4, minmax(50px, 1fr));
     grid-gap:0 8px;
