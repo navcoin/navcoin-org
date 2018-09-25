@@ -103,7 +103,7 @@ a {
   opacity: 0.95;
   z-index: 10;
   height: 70px;
-  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.05);
+  //box-shadow: 0 4px 5px rgba(0, 0, 0, 0.05);
 
   display: flex;
   justify-content: center;
@@ -357,8 +357,13 @@ a {
   );
 }
 
+.home-bg-gradient{
+  background: linear-gradient(60deg, #658CD9 0%, #945BC7 100%);
+}
+
 .bg-gradient {
   background: -moz-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+  // linear-gradient(60deg, #658CD9 0%, #945BC7 100%)
   /* ff3.6+ */
 
   background: -webkit-gradient(

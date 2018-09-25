@@ -503,7 +503,9 @@
       align-self: center;
       justify-self: flex-end; }
     .homepage .welcome .text-container {
-      grid-area: text; }
+      grid-area: text;
+      display: grid;
+      grid-gap: 20px; }
       .homepage .welcome .text-container li {
         display: grid;
         grid-column-gap: 30px;
@@ -520,7 +522,7 @@
           justify-self: flex-start; }
         .homepage .welcome .text-container li img {
           grid-area: img;
-          height: 100px;
+          height: 70px;
           align-self: center; }
     @media (max-width: 1200px) {
       .homepage .welcome h1 {
@@ -585,6 +587,7 @@
       border: solid 1px #F0F0F0;
       height: 350px;
       background-color: #fff;
+      transition: all 0.1s;
       text-align: center; }
       .homepage .features .grid-container > div img {
         height: 100px;
@@ -596,7 +599,7 @@
         color: #707070;
         margin: 0; }
     .homepage .features .grid-container > div:hover {
-      filter: drop-shadow(black 0px 0px 3px); }
+      filter: drop-shadow(rgba(179, 153, 180, 0.20) 4px 7px 9px);}
     @media (max-width: 1200px) {
       .homepage .features .grid-container {
         grid-template-columns: repeat(auto-fit, 400px); } }
@@ -1643,7 +1646,7 @@ a:hover, a:active, a:focus, a:visited {
   opacity: 0.95;
   z-index: 10;
   height: 70px;
-  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.05);
+  //box-shadow: 0 4px 5px rgba(0, 0, 0, 0.05);
   display: flex;
   justify-content: center;
   font-family: 'Raleway', 'Regular', Helvetica, Arial, sans-serif;
@@ -1672,7 +1675,7 @@ a:hover, a:active, a:focus, a:visited {
       border-bottom: 3px solid #999; }
     .stickey .main-menu .navbar-nav li a,
     .stickey .main-menu .navbar-nav li .nav-top-item {
-      padding: 8px 10px;
+      padding: 8px 30px;
       display: block;
       line-height: 20px;
       color: #7b47b4;
@@ -1681,10 +1684,15 @@ a:hover, a:active, a:focus, a:visited {
       font-size: 20px;
       cursor: pointer;
       border-bottom: 3px solid #fff; }
-    @media (max-width: 920px) {
+    @media (max-width: 1050px) {
       .stickey .main-menu .navbar-nav li a {
-        font-size: 16px; } }
-  @media (max-width: 768px) {
+        font-size: 16px; } 
+      .stickey .main-menu .nav-container{
+        width: 95vw !important; }
+      .stickey .main-menu .navbar-nav li .nav-top-item{
+        padding: 8px 20px !important; }
+      }
+  @media (max-width: 800px) {
     .stickey .main-menu .navbar-nav {
       float: none;
       background: white;
@@ -1714,7 +1722,7 @@ a:hover, a:active, a:focus, a:visited {
     .stickey .main-menu .nav-container .navbar-header {
       display: flex;
       justify-content: space-between; }
-      @media (max-width: 768px) {
+      @media (max-width: 800px) {
         .stickey .main-menu .nav-container .navbar-header {
           width: 100%; } }
       .stickey .main-menu .nav-container .navbar-header:before, .stickey .main-menu .nav-container .navbar-header:after {
@@ -1723,7 +1731,7 @@ a:hover, a:active, a:focus, a:visited {
         float: none; }
       .stickey .main-menu .nav-container .navbar-header .header-img {
         height: 32px; }
-        @media (min-width: 768px) and (max-width: 920px) {
+        @media (min-width: 800px) and (max-width: 1050px) {
           .stickey .main-menu .nav-container .navbar-header .header-img {
             height: 24px; } }
         .stickey .main-menu .nav-container .navbar-header .header-img a {
