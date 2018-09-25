@@ -1,139 +1,103 @@
 ---
-title: "NavCoin Wallets"
+title: "Wallets"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
-author: "Mike Delucchi"
+author: ""
 description: ""
 ---
-{{< left_image_section
-    title="Choosing a Wallet"
-    gradient="false"
-    bgColor="#7d5ab5"
-    titleColor="#fff"
-    textColor="#FFF"
-    linkBgColor="#523971"
-    imgSrc="/images/circle-icons/nav_purple-wallet.png"
-    btn1Txt="Ask the Community"
-    btn1Link="https://navhub.org/"
-    target="blank"
-    btnMarginTop="40px"
-    btnMarginBtm="10px">}}
-    <p>NavCoin is an open source protocol and NavCoin wallets are maintained by a range of organisations and individuals.
-    It’s advised to take the time to educate yourself about the wallets listed on this page and how to secure your funds.
-    Always remember that it is your responsibility to choose your wallet carefully and adopt good practices in order to protect your money.</p>
-{{< /left_image_section >}}
+{{< hero_section
+titleText="Wallets"
+imgSrc="/images/wallets/wal-hero.svg"
+paragraphText="NavCoin is an open source protocol and NavCoin wallets are maintained by a range of organisations and individuals. It’s advised to take the time to educate yourself about the wallets listed on this page and how to secure your funds. Always remember that it is your responsibility to choose your wallet carefully and adopt good practices in order to protect your money."
+buttonText="Ask Community for assistance"
+buttonImgSrc="/images/icons/rightward-arrow.svg"
+buttonLink="https://discord.gg/y4Vu9jw"
+>}}
 
-{{< links_section_supreme
-    section_margin="70px 0 0 0"
-    bg_color="#f0f0f0"
-    icon_bg_color="#fff"
-    title_color="#fff"
-    title_margin="5px 0 10px 0"
-    text_color="#fff"
-    text_margin="5px 0 10px 0"
-    btn_color="#fff"
-    btn_margin="0 0 12px 0"
-    card_color="#7d5ab5"
-    card_margin="10px 0 0 0"
-    card_shadow="true"
-    
-    item1_title="NavCoin Core Wallet v4.3.0"
-    item1_img="/images/logos/wallet-navcoincore-logo.png"
-    item1_text="These wallets run the blockchain & participate in validating transactions."
-    item1_text_color="#555"
-    item1_btn_url="https://navcoin.org/navcoin-core/#links"
-    item1_btn_text="Download"
-    item1_sub1_img="/images/platforms/mac.png"
-    item1_sub2_img="/images/platforms/windows.png"
-    item1_sub3_img="/images/platforms/linux.png"
-    
-    item2_title="NavPay Light Wallet v4.2.0"
-    item2_img="/images/logos/wallet-navpay-logo.png"
-    item2_text="NavPay is an easy to use light wallet, that allows you to securely store your NAV."
-    item2_text_color="#555"
-    item2_btn_url="https://navhub.org/projects/nav-pay/#links"
-    item2_btn_text="Download"
-    item2_sub1_img="/images/platforms/mac.png"
-    item2_sub2_img="/images/platforms/windows.png"
-    item2_sub3_img="/images/platforms/linux.png"
-    item2_sub4_img="/images/platforms/android.png"
-    item2_sub5_img="/images/platforms/web.png"
-    item2_sub6_img="/images/platforms/pwa.png"
-    
-    item3_title="NavPi Stakebox v1.0.9"
-    item3_img="/images/logos/wallet-navpi-logo.png"
-    item3_text="A low-energy NavCoin staking solution based on the Raspberry-Pi platform."
-    item3_text_color="#555"
-    item3_btn_url="https://navhub.org/projects/nav-pi/#links"
-    item3_btn_text="Download"
-    item3_sub1_img="/images/platforms/pi.png">}}
+{{< item_container_section
+    titleText="Core wallet"
+    subtitleText="NavCoin's reference implementation"
+    >}}
+    {{< wallet 
+        titleText="NavCoin Core Wallet v4.3.0"
+        walletImgSrc="/images/wallets/wal-core.png"
+        text="These wallets run the blockchain & participate in validating transactions."
+        buttonUrl="/navcoin-core/"
+        buttonText="Download"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+        platformImg1Src="/images/platforms/mac.png"
+        platformImg2Src="/images/platforms/windows.png"
+        platformImg3Src="/images/platforms/linux.png"
+    >}}
+{{< /item_container_section >}}
 
-{{< links_section_supreme
-    section_margin="0"
-    bg_color="#f0f0f0"
-    icon_bg_color="#fff"
-    title_color="#fff"
-    title_margin="5px 0 10px 0"
-    text_color="#fff"
-    text_margin="5px 0 10px 0"
-    btn_color="#fff"
-    btn_margin="0 0 12px 0"
-    card_color="#7d5ab5"
-    card_margin="10px 0 0 0"
-    card_shadow="true"
-    
-    item1_title="NavCoin Paper Wallet Generator"
-    item1_img="/images/logos/wallet-paperwallet-logo.png"
-    item1_text="Generate keys to be printed and stored offline for additional security."
-    item1_text_color="#555"
-    item1_btn_url="https://paper.navcoin.org/"
-    item1_btn_text="View Project"
-    item1_sub1_img="/images/platforms/mac.png"
-    item1_sub2_img="/images/platforms/windows.png"
-    item1_sub3_img="/images/platforms/web.png"
-
-    item2_title="NEXT Wallet"
-    item2_img="/images/logos/wallet-next-logo.png"
-    item2_text="A modern and stylish next generation wallet for NavCoin"
-    item2_text_color="#555"
-    item2_btn_url="https://next.navcommunity.net/#download"
-    item2_btn_text="Download"
-    item2_sub1_img="/images/platforms/mac.png"
-    item2_sub2_img="/images/platforms/windows.png"
-    item2_sub3_img="/images/platforms/linux.png"
-    
-    item3_title="Coinomi Wallet"
-    item3_img="/images/logos/wallet-coinomi-logo.png"
-    item3_text="Coinomi is a Security-First Multi-Asset Wallet for Bitcoin, Altcoins and Tokens."
-    item3_text_color="#555"
-    item3_btn_url="https://www.coinomi.com/downloads/"
-    item3_btn_text="Download"
-    item3_sub1_img="/images/platforms/mac.png"
-    item3_sub2_img="/images/platforms/android.png">}}
-
-{{< links_section_supreme
-    section_margin="0 0 6vh 0"
-    bg_color="#f0f0f0"
-    icon_bg_color="#fff"
-    title_color="#fff"
-    title_margin="5px 0 10px 0"
-    text_color="#fff"
-    text_margin="5px 0 10px 0"
-    btn_color="#fff"
-    btn_margin="0 0 12px 0"
-    row_margin="10px 0 0 0"
-    card_color="#7d5ab5"
-    card_margin="10px 0 0 0"
-    card_shadow="true"
-    
-    item1_title="NavCoin M8"
-    item1_img="/images/logos/wallet-navcoinm8-logo.png"
-    item1_text="A high-powered NavCoin staking wallet including NEXT Wallet with DIY options."
-    item1_text_color="#555"
-    item1_btn_url="https://navcoinm8.com"
-    item1_btn_text="View Project"
-    item1_sub1_img="/images/platforms/linux.png"
-    item1_sub1_url="https://navcoinm8.com">}}
-
-
+{{< item_container_section
+    titleText="NavCoin community wallets"
+    subtitleText="Make sure to do your own research or ask community for assistance"
+    >}}
+    {{< wallet 
+        titleText="NavPay Light Wallet v4.2.0"
+        walletImgSrc="/images/wallets/wal-navpay.png"
+        text="NavPay is an easy to use light wallet, that allows you to securely store your NAV."
+        buttonUrl="https://navcoin.org/navcoin-core/#links"
+        buttonText="Download"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+        platformImg1Src="/images/platforms/android.png"
+        platformImg2Src="/images/platforms/mac.png"
+        platformImg3Src="/images/platforms/windows.png"
+        platformImg4Src="/images/platforms/linux.png"
+        platformImg5Src="/images/platforms/pwa.png"
+        platformImg6Src="/images/platforms/web.png"
+    >}}
+    {{< wallet 
+        titleText="NavPi Stakebox v1.0.9"
+        walletImgSrc="/images/wallets/wal-pi.png"
+        text="A low-energy NavCoin staking solution based on the Raspberry-Pi platform."
+        buttonUrl="https://navcoin.org/navcoin-core/#links"
+        buttonText="Download"
+        platformImg1Src="/images/platforms/pi.png"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+    >}}
+    {{< wallet 
+        titleText="NavCoin Paper Wallet Generator"
+        walletImgSrc="/images/wallets/wal-paper.png"
+        text="Generate keys to be printed and stored offline for additional security."
+        buttonUrl="https://navcoin.org/navcoin-core/#links"
+        buttonText="Download"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+        platformImg1Src="/images/platforms/mac.png"
+        platformImg2Src="/images/platforms/windows.png"
+        platformImg3Src="/images/platforms/web.png"
+    >}}
+    {{< wallet 
+        titleText="NEXT Wallet"
+        walletImgSrc="/images/wallets/wal-next.png"
+        text="A modern and stylish next generation wallet for NavCoin."
+        buttonUrl="https://navcoin.org/navcoin-core/#links"
+        buttonText="Download"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+        platformImg1Src="/images/platforms/mac.png"
+        platformImg2Src="/images/platforms/windows.png"
+        platformImg3Src="/images/platforms/linux.png"
+    >}}
+    {{< wallet 
+        titleText="Coinomi Wallet"
+        walletImgSrc="/images/wallets/wal-coinomi.png"
+        text="Coinomi is a Security-First Multi-Asset Wallet for Bitcoin, Altcoins and Tokens."
+        buttonUrl="https://navcoin.org/navcoin-core/#links"
+        buttonText="Download"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+        platformImg1Src="/images/platforms/mac.png"
+        platformImg2Src="/images/platforms/android.png"
+    >}}
+    {{< wallet 
+        titleText="NavCoin M8"
+        walletImgSrc="/images/wallets/wal-m8.png"
+        text="A high-powered NavCoin staking wallet including NEXT Wallet with DIY options."
+        buttonUrl="https://navcoin.org/navcoin-core/#links"
+        buttonText="Download"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+        platformImg1Src="/images/platforms/linux.png"
+    >}} 
+{{< /item_container_section >}}

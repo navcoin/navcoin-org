@@ -1,0 +1,42 @@
+<nav>
+    <ul class="nav navbar-nav">
+    <li>
+        <a href="#" class="">Get Started <span class="arrow"></span></a>
+            <ul>
+                <li class="active"><a href="">Why NavCoin</a></li>
+                <li class="active"><a href="">Manifestos</a></li>
+                <li class="active"><a href="">Documentation</a></li>
+                <hr>
+                <li class="active"><a href="">For Beginners</a></li>
+                <li class="active"><a href="">For Developers</a></li>
+                <li class="active"><a href="">For Businesses</a></li>
+                <hr>
+                <li class="active"><a href="">Merchants</a></li>
+                <li class="active"><a href="">Buy NavCoin</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="#">Roadmap</a>
+        </li>
+        <li>
+            <a href="#">Community Fund</a>
+        </li>
+        <li>
+            <a href="#">Wallets</a>
+        </li>
+        <li class="">
+            <a href="#">
+                <span>{{ .Lang }} </span> <span class="arrow"></span>
+            </a>
+            <ul class="sub-menu">
+                {{ range $.Site.Home.AllTranslations }}
+                    <li class="active"><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+                {{ end }}
+            </ul>
+        </li>
+    </ul>
+</nav>
+
+
+
+

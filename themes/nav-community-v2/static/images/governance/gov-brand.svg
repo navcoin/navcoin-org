@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 130 130">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #fff;
+        stroke-linecap: round;
+      }
+
+      .cls-3 {
+        stroke-width: 2.5px;
+      }
+
+      .cls-4 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="gov-brand" transform="translate(-1904 -4775)">
+    <rect id="Rectangle_282" data-name="Rectangle 282" class="cls-1" width="130" height="130" transform="translate(1904 4775)"/>
+    <circle id="Ellipse_119" data-name="Ellipse 119" class="cls-2" cx="46.5" cy="46.5" r="46.5" transform="translate(1941 4794)"/>
+    <g id="Group_3542" data-name="Group 3542" transform="translate(0 4.841)">
+      <g id="Rectangle_4529" data-name="Rectangle 4529" class="cls-3" transform="translate(1909.598 4790.598)">
+        <rect class="cls-5" width="91.214" height="91.214" rx="6"/>
+        <rect class="cls-1" x="1.25" y="1.25" width="88.714" height="88.714" rx="4.75"/>
+      </g>
+      <g id="Rectangle_4531" data-name="Rectangle 4531" class="cls-3" transform="translate(1933.278 4814.278)">
+        <rect class="cls-5" width="43.665" height="43.665" rx="21.833"/>
+        <rect class="cls-1" x="1.25" y="1.25" width="41.165" height="41.165" rx="20.583"/>
+      </g>
+      <line id="Line_7895" data-name="Line 7895" class="cls-4" y2="98.804" transform="translate(1976.539 4786.5)"/>
+      <line id="Line_7896" data-name="Line 7896" class="cls-4" y2="98.804" transform="translate(1933.733 4786.5)"/>
+      <line id="Line_7897" data-name="Line 7897" class="cls-4" y2="99.81" transform="translate(1905.5 4857.539) rotate(-90)"/>
+      <line id="Line_7898" data-name="Line 7898" class="cls-4" y2="99.81" transform="translate(1905.5 4814.733) rotate(-90)"/>
+      <line id="Line_7899" data-name="Line 7899" class="cls-4" x2="98.6" y2="98.6" transform="translate(1906.411 4786.5)"/>
+      <g id="Rectangle_4532" data-name="Rectangle 4532" class="cls-3" transform="translate(1910.509 4790.598)">
+        <rect class="cls-5" width="90.456" height="90.456" rx="45.228"/>
+        <rect class="cls-1" x="1.25" y="1.25" width="87.956" height="87.956" rx="43.978"/>
+      </g>
+      <line id="Line_7900" data-name="Line 7900" class="cls-4" x2="98.6" y2="98.6" transform="translate(2005.011 4786.5) rotate(90)"/>
+    </g>
+  </g>
+</svg>

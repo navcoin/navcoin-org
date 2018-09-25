@@ -1,0 +1,14 @@
+<section class="step-container-section">
+<div class="ninety-vw-container">
+  {{if isset .Params "titleText"}}<h1 class="container-title">{{ .Get "titleText" }}</h1>{{ end }}
+  {{if isset .Params "subtitleText"}}<h3 class="container-subtitle">{{ .Get "subtitleText" }}</h3>{{ end }}
+  <div class="grid-container">
+    {{ .Inner }}
+  </div>
+  {{ if isset .Params "buttonUrl" }}
+  <div class="flex-center">
+    <a href="{{ .Get "buttonUrl" }}" target="_blank" class="round-btn gradient-btn">{{ .Get "buttonText" }} <img src="{{ .Get "buttonImgSrc" }}" class="btn-img"> </span></a>
+  </div>
+  {{ end }}
+</div>
+</section>

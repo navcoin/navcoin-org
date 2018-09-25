@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 130 130">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        stroke: #7d5ab5;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004aff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#004aff"/>
+    </linearGradient>
+  </defs>
+  <g id="bus-flex" transform="translate(-517 -1078)">
+    <rect id="Rectangle_1045" data-name="Rectangle 1045" class="cls-1" width="130" height="130" transform="translate(517 1078)"/>
+    <circle id="Ellipse_216" data-name="Ellipse 216" class="cls-2" cx="46.5" cy="46.5" r="46.5" transform="translate(554 1097)"/>
+    <g id="Group_2527" data-name="Group 2527" transform="translate(517.7 1084.575)">
+      <path id="Path_684" data-name="Path 684" class="cls-3" d="M87.237,10.8a9.524,9.524,0,0,0-9.5-9.5H10.8a9.524,9.524,0,0,0-9.5,9.5V29.787H87.237Z" transform="translate(0)"/>
+      <g id="Group_423" data-name="Group 423" transform="translate(1.3 29.787)">
+        <rect id="Rectangle_243" data-name="Rectangle 243" class="cls-3" width="43.048" height="38.616"/>
+        <rect id="Rectangle_244" data-name="Rectangle 244" class="cls-3" width="43.048" height="38.616" transform="translate(42.889)"/>
+        <path id="Path_685" data-name="Path 685" class="cls-3" d="M1.3,43.7V81.05a9.524,9.524,0,0,0,9.5,9.5H44.348V43.7Z" transform="translate(-1.3 -5.084)"/>
+        <path id="Path_686" data-name="Path 686" class="cls-3" d="M28.4,43.7V90.546H61.952a9.524,9.524,0,0,0,9.5-9.5V43.7Z" transform="translate(14.489 -5.084)"/>
+      </g>
+      <g id="Group_424" data-name="Group 424" transform="translate(10.479 36.909)">
+        <line id="Line_205" data-name="Line 205" class="cls-3" y2="24.373" transform="translate(12.186)"/>
+        <line id="Line_206" data-name="Line 206" class="cls-3" x2="24.373" transform="translate(0 12.186)"/>
+      </g>
+      <g id="Group_425" data-name="Group 425" transform="translate(14.119 83.914)">
+        <line id="Line_207" data-name="Line 207" class="cls-3" x2="17.251" y2="17.251"/>
+        <line id="Line_208" data-name="Line 208" class="cls-3" y1="17.251" x2="17.251"/>
+      </g>
+      <g id="Group_426" data-name="Group 426" transform="translate(56.059 82.806)">
+        <line id="Line_209" data-name="Line 209" class="cls-3" y1="17.251" x2="17.251"/>
+      </g>
+      <g id="Group_427" data-name="Group 427" transform="translate(53.527 49.096)">
+        <line id="Line_210" data-name="Line 210" class="cls-3" x2="24.373"/>
+      </g>
+      <circle id="Ellipse_109" data-name="Ellipse 109" class="cls-3" cx="3.324" cy="3.324" r="3.324" transform="translate(54.16 80.907)"/>
+      <circle id="Ellipse_110" data-name="Ellipse 110" class="cls-3" cx="3.324" cy="3.324" r="3.324" transform="translate(69.353 96.416)"/>
+      <line id="Line_211" data-name="Line 211" class="cls-3" x2="36.717" transform="translate(14.119 10.954)"/>
+      <line id="Line_212" data-name="Line 212" class="cls-3" x2="10.287" transform="translate(28.047 19.5)"/>
+      <line id="Line_213" data-name="Line 213" class="cls-3" x2="16.776" transform="translate(44.189 19.5)"/>
+    </g>
+  </g>
+</svg>

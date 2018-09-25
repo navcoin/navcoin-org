@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 108.499 108">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #7d5ab5;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2.5px;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004aff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#004aff"/>
+    </linearGradient>
+  </defs>
+  <g id="beg-learn" transform="translate(-1575.501 -917)">
+    <rect id="Rectangle_1039" data-name="Rectangle 1039" class="cls-1" width="108" height="108" transform="translate(1576 917)"/>
+    <path id="Path_3274" data-name="Path 3274" class="cls-2" d="M36,0A36,36,0,1,1,0,36,36,36,0,0,1,36,0Z" transform="translate(1612 935)"/>
+    <g id="Group_3193" data-name="Group 3193" transform="translate(-2079.398 -945.8)">
+      <path id="Path_1656" data-name="Path 1656" class="cls-3" d="M3677.3,1946.807v8.991h28.491v-16.791h8.991a13.038,13.038,0,0,0,13-13v-4.333h5.958l-5.958-12.133V1890.8a13.038,13.038,0,0,0-13-13h-24.374a13.038,13.038,0,0,0-13,13" transform="translate(1.866)"/>
+      <g id="Group_1303" data-name="Group 1303" transform="translate(3666.491 1896.108)">
+        <path id="Path_1657" data-name="Path 1657" class="cls-3" d="M3678.65,1900.1a13.665,13.665,0,0,0-8.45,7.583" transform="translate(-3665.217 -1894.25)"/>
+        <g id="Group_1302" data-name="Group 1302">
+          <path id="Path_1658" data-name="Path 1658" class="cls-4" d="M3679.033,1894.7a13.431,13.431,0,0,0-13.433,13.433,13.7,13.7,0,0,0,6.608,11.591v8.125h13.65v-8.125a13.447,13.447,0,0,0-6.825-25.024Z" transform="translate(-3665.6 -1894.7)"/>
+          <path id="Path_1659" data-name="Path 1659" class="cls-4" d="M3671.7,1931.908h13.65V1925.3H3671.7Z" transform="translate(-3665.092 -1892.151)"/>
+          <rect id="Rectangle_567" data-name="Rectangle 567" class="cls-3" width="5.958" height="5.417" transform="translate(10.508 39.757)"/>
+        </g>
+      </g>
+      <line id="Line_1024" data-name="Line 1024" class="cls-3" y1="5.2" x2="5.2" transform="translate(3690.107 1888.85)"/>
+      <line id="Line_1025" data-name="Line 1025" class="cls-3" x1="5.2" y1="5.2" transform="translate(3663.783 1888.85)"/>
+      <line id="Line_1026" data-name="Line 1026" class="cls-3" x2="7.258" transform="translate(3697.907 1907.483)"/>
+      <line id="Line_1027" data-name="Line 1027" class="cls-3" x2="6.608" transform="translate(3654.9 1907.483)"/>
+    </g>
+  </g>
+</svg>

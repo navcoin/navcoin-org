@@ -1,0 +1,9 @@
+<section class="social-grid-section {{if isset .Params "bgPurple"}} bg-purple {{ end }}">
+    <div class="ninety-vw-container">
+        {{if isset .Params "titleText"}}<h1 class="container-title">{{ .Get "titleText" }}</h1>{{ end }}
+        {{if isset .Params "subtitleText"}}<h3 class="container-subtitle">{{ .Get "subtitleText" }}</h3>{{ end }}
+        <div class="grid-container">
+            {{ .Inner }}  
+        </div>
+    </div>
+</section>

@@ -1,0 +1,59 @@
+
+.round-btn {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  padding: 12px 28px;
+  border-radius: 37px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: black 2px solid;
+  display: inline-block;
+  min-width: 180px;
+  text-align: center; }
+
+.purple-btn {
+  border-color: white;
+  color: white;
+  background-color: #7d59b5;
+  transition: 0.2s ease; }
+  .purple-btn:hover, .purple-btn:active {
+    color: white;
+    background-color: #523973;
+    transition: 0.2s ease; }
+
+.purple-btn-special {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 19px;
+  padding: 17px;
+  border-width: 2px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-color: #c6b7fd;
+  color: white;
+  background-color: #7d59b5;
+  transition: 0.2s ease; }
+  .purple-btn-special:hover, .purple-btn-special:active {
+    min-width: 250px;
+    border-color: #7d59b5;
+    color: #7d59b5;
+    background-color: white;
+    transition: 0.5s ease; }
+
+.white-btn {
+  border-color: #7d59b5;
+  color: #7d59b5;
+  background-color: white; }
+  .white-btn:hover, .white-btn:active {
+    border-color: #7d59b5;
+    color: #7d59b5;
+    transition: 0.5s ease;
+    min-width: 250px; }
+
+.blue-btn {
+  border-color: white;
+  color: white;
+  background-color: #42b6eb;
+  transition: 0.2s ease; }
+  .blue-btn:hover, .blue-btn:active {
+    border-color: #1381b4;
+    color: #1381b4;
+    transition: 0.2s ease; }

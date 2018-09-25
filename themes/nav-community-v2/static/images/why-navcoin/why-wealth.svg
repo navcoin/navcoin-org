@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 130 130">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #7d5ab5;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke-width: 3px;
+      }
+
+      .cls-4 {
+        stroke-width: 4px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004aff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#004aff"/>
+    </linearGradient>
+  </defs>
+  <g id="why-wealth" transform="translate(5692 -4657)">
+    <path id="Path_15821" data-name="Path 15821" class="cls-1" d="M0,0H130V130H0Z" transform="translate(-5692 4657)"/>
+    <path id="Path_15816" data-name="Path 15816" class="cls-2" d="M46.5,0A46.5,46.5,0,1,1,0,46.5,46.5,46.5,0,0,1,46.5,0Z" transform="translate(-5655 4676)"/>
+    <g id="Group_2970" data-name="Group 2970" transform="translate(-9495.399 3083.5)">
+      <path id="Path_1627" data-name="Path 1627" class="cls-3" d="M3819.1,1641.272v50.621h37.292v-21.978h11.769a17.065,17.065,0,0,0,17.015-17.015v-5.672h7.8l-7.8-15.881v-24.531a17.065,17.065,0,0,0-17.015-17.015h-5.247" transform="translate(5.267 3.469)"/>
+      <path id="Path_1628" data-name="Path 1628" class="cls-4" d="M3864.636,1610.568a29.068,29.068,0,1,0-29.068,29.068,28.076,28.076,0,0,0,8.507-1.276l10.068,11.627V1632.83A28.415,28.415,0,0,0,3864.636,1610.568Z"/>
+      <path id="Path_1629" data-name="Path 1629" class="cls-3" d="M3818.4,1605.651l8.65,8.649s11.769-11.485,19.284-19" transform="translate(4.974 5.768)"/>
+    </g>
+  </g>
+</svg>

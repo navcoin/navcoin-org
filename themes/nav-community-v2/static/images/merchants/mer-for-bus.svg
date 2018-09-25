@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 130 130">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7d5ab5;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="mer-for-bus" transform="translate(1083 -907)">
+    <rect id="Rectangle_283" data-name="Rectangle 283" class="cls-1" width="130" height="130" transform="translate(-1083 907)"/>
+    <circle id="Ellipse_118" data-name="Ellipse 118" class="cls-2" cx="46.5" cy="46.5" r="46.5" transform="translate(-1046 926)"/>
+    <g id="Group_527" data-name="Group 527" transform="translate(-1082.3 915.7)">
+      <path id="Path_747" data-name="Path 747" class="cls-3" d="M44.254,47.627A5.127,5.127,0,1,1,39.127,42.5,5.085,5.085,0,0,1,44.254,47.627Z" transform="translate(16.608 20.925)"/>
+      <g id="Group_454" data-name="Group 454" transform="translate(1.3 1.3)">
+        <path id="Path_748" data-name="Path 748" class="cls-3" d="M107.305,1.3H4.316A3.025,3.025,0,0,0,1.3,4.316V56.037H110.321V4.316A2.932,2.932,0,0,0,107.305,1.3Z" transform="translate(-1.3 -1.3)"/>
+        <path id="Path_749" data-name="Path 749" class="cls-3" d="M1.3,59.615a3.025,3.025,0,0,0,3.016,3.016H107.154a3.025,3.025,0,0,0,3.016-3.016V37.6H1.3Z" transform="translate(-1.3 17.137)"/>
+        <path id="Path_750" data-name="Path 750" class="cls-3" d="M26.416,69.5A3.025,3.025,0,0,0,23.4,72.516v3.619H65.621V72.516A3.025,3.025,0,0,0,62.605,69.5H26.416Z" transform="translate(9.925 33.339)"/>
+        <rect id="Rectangle_257" data-name="Rectangle 257" class="cls-3" width="29.102" height="22.92" transform="translate(39.959 79.768)"/>
+      </g>
+      <g id="Group_456" data-name="Group 456" transform="translate(30.553 11.252)">
+        <g id="Group_455" data-name="Group 455">
+          <path id="Path_751" data-name="Path 751" class="cls-3" d="M67.623,12.3H25.1l4.524,22.317H62.194Z" transform="translate(-18.465 -5.665)"/>
+          <path id="Path_752" data-name="Path 752" class="cls-3" d="M28.1,27.1s.452,5.428,4.825,5.428H56.75" transform="translate(-16.942 1.852)"/>
+          <path id="Path_753" data-name="Path 753" class="cls-3" d="M27.335,14.535,25.978,7.9H20.7" transform="translate(-20.7 -7.9)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

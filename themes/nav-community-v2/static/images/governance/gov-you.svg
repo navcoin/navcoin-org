@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 234.5 234">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="gov-you" transform="translate(-1948.5 -3850)">
+    <rect id="Rectangle_1048" data-name="Rectangle 1048" class="cls-1" width="234" height="234" transform="translate(1949 3850)"/>
+    <circle id="Ellipse_218" data-name="Ellipse 218" class="cls-2" cx="88.335" cy="88.335" r="88.335" transform="translate(2006 3879)"/>
+    <g id="Group_3535" data-name="Group 3535" transform="translate(59.5 887.832)">
+      <path id="Path_1551" data-name="Path 1551" class="cls-3" d="M3052.053,2102.448a76.334,76.334,0,0,0,61.12,139.216,92.339,92.339,0,0,0,12.656-5.556,73.974,73.974,0,0,0,11.421-7.717,76.382,76.382,0,0,0-85.2-125.943Z" transform="translate(-1095.975 910.378)"/>
+      <path id="Path_1553" data-name="Path 1553" class="cls-3" d="M3025.5,2129.768A54.718,54.718,0,0,1,3048.343,2106" transform="translate(-1084.729 920.28)"/>
+      <line id="Line_968" data-name="Line 968" class="cls-3" x2="41.213" transform="translate(2050.16 3049.166)"/>
+      <line id="Line_969" data-name="Line 969" class="cls-3" x1="19.929" transform="translate(2071.444 3089.218)"/>
+      <line id="Line_970" data-name="Line 970" class="cls-3" x1="8.707" transform="translate(2052.289 3089.218)"/>
+      <line id="Line_971" data-name="Line 971" class="cls-3" x2="45.857" transform="translate(1899.82 3120.95)"/>
+      <line id="Line_972" data-name="Line 972" class="cls-3" x2="3.87" transform="translate(1891.5 3100.053)"/>
+      <line id="Line_973" data-name="Line 973" class="cls-3" x2="22.251" transform="translate(1906.012 3100.053)"/>
+      <line id="Line_974" data-name="Line 974" class="cls-3" x2="30.378" transform="translate(2062.93 3069.289)"/>
+      <path id="Path_15854" data-name="Path 15854" class="cls-3" d="M2727.939,3296.479v-20.087c0-5.957,3.209-11,7.332-11h33.445c-18.786,0-34.361-16.952-34.361-37.569,0-21.075,15.118-37.569,34.361-37.569,18.784,0,34.361,16.952,34.361,37.569,0,21.076-15.119,37.569-34.361,37.569h33.444c4.125,0,7.332,5.04,7.332,11v20.087" transform="translate(-776.458 -155.518)"/>
+    </g>
+  </g>
+</svg>

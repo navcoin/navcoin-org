@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 108 108">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        stroke: #fff;
+      }
+
+      .cls-3, .cls-5 {
+        stroke-width: 3px;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-4 {
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2.5px;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="beg-yt" transform="translate(-767 -2574)">
+    <g id="white_108x108_icon_holder" data-name="white 108x108 icon holder" transform="translate(0 2367)">
+      <rect id="Rectangle_1044" data-name="Rectangle 1044" class="cls-1" width="108" height="108" transform="translate(767 207)"/>
+      <path id="Path_3291" data-name="Path 3291" class="cls-2" d="M36,0A36,36,0,1,1,0,36,36,36,0,0,1,36,0Z" transform="translate(803 225)"/>
+      <g id="Group_2535" data-name="Group 2535" transform="translate(767 229.178)">
+        <g id="Rectangle_1043" data-name="Rectangle 1043" class="cls-3" transform="translate(0 0)">
+          <rect class="cls-6" width="86.185" height="63.644" rx="14"/>
+          <rect class="cls-1" x="1.5" y="1.5" width="83.185" height="60.644" rx="12.5"/>
+        </g>
+        <path id="Path_3290" data-name="Path 3290" class="cls-4" d="M327.8,3605.4l20.457,11.332-20.457,10.6Z" transform="translate(-292.351 -3584.079)"/>
+      </g>
+    </g>
+    <path id="Path_15690" data-name="Path 15690" class="cls-5" d="M-3508.985,1370.865c0-13.246,4.56-13.211,13.74-13.211" transform="translate(4286.621 1249.566)"/>
+  </g>
+</svg>
