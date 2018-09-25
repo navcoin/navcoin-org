@@ -24,6 +24,7 @@
 @import './accordion.scss';
 @import './step-container-section.scss';
 @import './step.scss';
+@import './roadmap.scss';
 
 // to push components past the header menu
 
@@ -32,7 +33,7 @@ body {
   padding-top: 54px;
 }
 
-.flex-center {
+.flex-center { 
   display: flex;
   align-items: center;
   justify-content: center;
@@ -356,7 +357,7 @@ a {
     rgba(197, 41, 181, 0.88) 100%
   );
 }
-
+ 
 .home-bg-gradient{
   background: linear-gradient(60deg, #658CD9 0%, #945BC7 100%);
 }
@@ -806,4 +807,113 @@ a {
   border-left: 4px solid transparent;
   border-right: 4px solid transparent;
   border-top: 5px solid #ccc;
+}
+
+///page based changes
+
+//community-fund page  
+.bg-purple .feature-column .feature-card p {
+  color: white; }
+
+//homepage
+.homepage .hero .grid-container .text-container h1 {
+  margin: 0 0 35px 0;
+  font-size: 60px;
+  font-weight: 600;
+}
+
+.homepage .hero .grid-container .text-container p{
+  font-size:25px;
+  line-height: 38px;
+  font-weight: 100;
+}
+
+.homepage .hero .grid-container .text-container a {
+  font-size:25px;
+  padding: 24px 46px
+}
+
+.homepage .welcome .text-container{
+  display: grid;
+  grid-gap: 20px;
+}
+
+.homepage .welcome .text-container li img{
+  width: 70px;
+}
+
+.homepage .features .grid-container > div{
+  transition: all 0.1s ease;
+  cursor: default;
+}
+
+.homepage .features .grid-container > div:hover {
+  filter: drop-shadow(rgba(63, 50, 82, 0.32) 3px 4px 7px);
+}
+ 
+.homepage .values .text-container li img{
+  width: 70px;
+}
+
+.homepage .community .flex-container a:hover{
+  transform: scale(1.05); 
+}
+
+.homepage .ecosystem .flex-container .column p{
+  text-align:center;
+}
+
+
+
+///component based changes
+
+//zig
+.zig-section .zig-container a{
+  margin: 35px 0 0 0;
+}
+
+.zig-section .zig-container .text-section-container{
+  padding:0 !important;
+}
+
+.zig-section .zig-container h1{
+  text-align: left;
+  line-height: 38px;
+}
+
+//hero
+.hero-section .text-section-container{
+  min-height: 300px;
+}
+
+.hero-section h1{
+  margin-top:0;
+  margin-bottom: 50px;
+} 
+
+.hero-section{
+  grid-template-columns: auto auto;
+} 
+
+//long text feature
+// .long-text-column .long-text-card{
+//   min-height: 500px;
+// }
+
+
+//step
+.step-section .step-card{
+  grid-template-areas: 
+  "image title"
+  "image text"
+  ". button";
+}
+
+@media (max-width: 767px){
+  .step-section .step-card{
+    grid-template-areas: 
+    "image title"
+    "text text"
+    "button button";
+  }
 }

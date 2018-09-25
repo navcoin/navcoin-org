@@ -349,13 +349,6 @@ section.pt-25 {
 .home-bg-gradient{
     background: linear-gradient(60deg, rgb(101, 140, 217) 0%, rgb(148, 91, 199) 100%);
     background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgb(148, 91, 199)), color-stop(100%, rgb(101, 140, 217)));
-}
-
-.bg-gradient {
-    background: -moz-linear-gradient(35deg, rgb(148, 91, 199) 0%, rgb(101, 140, 217) 100%);
-    /* ff3.6+ */
-
-    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgb(148, 91, 199)), color-stop(100%, rgb(101, 140, 217)));
     /* safari4+,chrome */
 
     background: -webkit-linear-gradient(35deg, rgb(148, 91, 199) 0%, rgb(101, 140, 217) 100%);
@@ -373,6 +366,20 @@ section.pt-25 {
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#f96a91', endColorstr='#3694F4', GradientType=1);
     /* ie6-9 */
 }
+
+.bg-gradient {
+    background: -moz-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+    /* ff3.6+ */
+    background: -webkit-gradient(90deg, linear, left bottom, right top, color-stop(0%, #56b6e7), color-stop(100%, #c63db8));
+    /* safari4+,chrome */
+    background: -webkit-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+    /* safari5.1+,chrome10+ */
+    background: -o-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+    /* opera 11.10+ */
+    background: -ms-linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+    /* ie10+ */
+    background: linear-gradient(90deg, #56b6e7 0%, #c63db8 100%);
+    /* w3c */ }
 
 /* ==========================================
         17. Footer Area

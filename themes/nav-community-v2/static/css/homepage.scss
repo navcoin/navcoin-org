@@ -390,7 +390,7 @@ $nav-purple-light: #9A54C4;
     }
     .text-container {
       margin: 0 auto 65px auto;
-      li {
+      li { 
         display: grid;
         grid-column-gap: 30px;
         grid-template-columns: auto auto;
@@ -607,3 +607,4 @@ $nav-purple-light: #9A54C4;
     }
   }
 }
+
