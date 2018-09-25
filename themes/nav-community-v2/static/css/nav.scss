@@ -819,7 +819,7 @@ a {
 //homepage
 .homepage section{
   padding:0;
-  padding-top-10px;
+  padding-top:10px;  
 }
 
 .homepage .spacer.zero img:hover {
@@ -877,6 +877,20 @@ a {
   text-align:center;
 }
 
+//wallets
+.wallet-column .item-icon{
+  padding:0;
+  max-height: 80%;
+  align-self: center;
+}
+
+.wallet-column .item-card{
+  transition: all 0.3s ease;
+}
+
+.wallet-column .item-card:hover{
+  transform: translate(0px, -5px);
+}
 
 
 ///component based changes
@@ -910,7 +924,7 @@ a {
 
 .hero-section h1{
   margin-top:0;
-  margin-bottom: 50px;
+  margin-bottom: 35px;
 } 
 
 .hero-section{

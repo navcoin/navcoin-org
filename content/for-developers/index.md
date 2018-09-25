@@ -6,14 +6,17 @@ type: "default"
 ---
 {{< hero_section
 titleText="NavCoin | For Developers"
-paragraphText="Anyone can accept NavCoin on their website or in their store to receive instant global payments. If your store accepts NavCoin and you would like to be listed on this page, read about how you can contribute to this website through the link below."
 imgSrc="/images/for-developers/dev-hero.svg"
+paragraphText="NavCoin is a free and open-source project to which anyone can contribute. It’s design is the collaborative effort of developers from all around the world. Our common goal is to improve the NavCoin protocol and its surrounding software ecosystem. Everyone has the potential to make a positive impact, no matter what your skill level."
+buttonText="Read Developer Manifesto"
+buttonLink="/governance/"
+buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
 
 {{< zig_section
-titleText="Easy to get involved"
+titleText="Get funded by the NavCoin network"
 imgSrc="/images/for-developers/dev-get-involved.svg"
-paragraphText="The community fund is a way to support developers in getting involved. A catchy image + we show that we support navcoin’s global developer community with community fund which will help with expanding navcoin’s ecosystem. A reward pool worth 250,000 NAV per year —all for the navcoin community and developers!" 
+paragraphText="NavCoin’s Community Fund enables any developer to get paid by the network for their contributions to the NavCoin. Projects are funded and approved by the decentralised network with no central authority. This ensures NavCoin’s direction remains firmly in the best interest of the network and is autonomously determined by the community." 
 buttonText="Learn More"
 buttonUrl="/community-fund"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -21,66 +24,66 @@ reversed="true"
 >}}
 
 {{< item_container_section 
-    titleText="Why NavCoin is good for developers"
-    subtitleText="NavCoin is open-source, distributed payments protocol."
+    titleText="Why you should get involved"
+    subtitleText="NavCoin is built for the community, by the community."
 >}}
     {{< feature 
-        titleText="Close-knit community"
+        titleText="Inclusive community"
         imgSrc="/images/for-developers/dev-community.svg"
-        text="Transactions show up in as little as five seconds, and confirmed in thirty seconds."
+        text="Our developer community is collaborative, inclusive, and ready to help you get started."
     >}}
     {{< feature 
-        titleText="Programmable money"
-        imgSrc="/images/for-developers/dev-digital-money.svg"
-        text="Payment records permanently stored on a decentralized network, with 24/7 access."
-    >}}
-    {{< feature                 
-        titleText="Easy to get involved"
-        imgSrc="/images/for-developers/dev-easy.svg"
-        text="Payment is easy as scanning a QR code. Funds automatically transfer to your NavCoin wallet."
-    >}}
-    {{< feature                 
-        titleText="Proof of Stake alliance"
-        imgSrc="/images/for-developers/dev-pos-alliance.svg"
-        text="Navcoin is one of world's cheapest payment networks in the world, with fees typically under one percent."
-    >}}
-    {{< feature                 
-        titleText="More trust & openness"
-        imgSrc="/images/for-developers/dev-trust.svg"
-        text="Join a payment network that consumes only a fraction of the energy of other networks."
-    >}}
-    {{< feature                 
-        titleText="Cutting edge"
+        titleText="Active Research"
         imgSrc="/images/for-developers/dev-cutting-edge.svg"
-        text="A range of payment options to suit your business requirements, with even more in development."
+        text="Improvements to the NavCoin protocol are constantly being worked on."
+    >}}
+    {{< feature                 
+        titleText="Proof of Stake Alliance"
+        imgSrc="/images/for-developers/dev-pos-alliance.svg"
+        text="We’re part of the PoS Alliance, a consortium which aims to collaboratively research the PoS protocol."
+    >}}
+    {{< feature                 
+        titleText="Easy to get started"
+        imgSrc="/images/for-developers/dev-easy.svg"
+        text="All the resources to get involved are at your fingertips and there’s lots of ways to get involved."
+    >}}
+    {{< feature                 
+        titleText="Programmable Money"
+        imgSrc="/images/for-developers/dev-digital-money.svg"
+        text="With a publicly verifiable transaction ledger, you can easily use NavCoin in your apps and websites."
+    >}}
+    {{< feature                 
+        titleText="Always Open Source"
+        imgSrc="/images/for-developers/dev-trust.svg"
+        text="NavCoin software will always be free and in alignment with open source principles."
     >}}
 {{< /item_container_section >}}
 
 {{< item_container_section 
-    titleText="Contribute Now!"
-    subtitleText="Here you can decide weather you want to in contribute to core or navhub projects based on your skill sets and interest"
+    titleText="Contribute Now"
+    subtitleText="HThere are many ways you can contribute to NavCoin, no matter what your skill level."
     bgPurple="true"
 >}}
     {{< long_text 
-        titleText="API & documentation"
-        imgSrc="/images/for-developers/dev-api.svg"
-        text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use. Hop in if you are experienced with c++"
-        buttonUrl="https://navcoin.org/navcoin-core/#links"
-        buttonText="Learn More"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-    >}}
-    {{< long_text 
-        titleText="Contribute to navcoin protocol "
+        titleText="NavCoin Protocol"
         imgSrc="/images/for-developers/dev-protocol.svg"
-        text="Bitcoin when used on a mobile device allows you to pay with a simple two-step scan-and-pay. There's no need to sign up, swipe your card, type a PIN, or sign anything. All you need to receive Bitcoin payments is to display the QR code in your Bitcoin wallet app and let the other party scan your mobile, or touch the two phones together (using NFC radio technology)."
-        buttonUrl="https://navcoin.org/navcoin-core/#links"
+        text="NavCoin is open source and everyone can participate in making it better. Here’s where you can find the procedures to report an issue, fix a issue or suggest an improvement to the consensus protocol."
+        buttonUrl="#"
         buttonText="Learn More"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
     >}}
     {{< long_text 
-        titleText="Contribute to navcoin projects"
+        titleText="Community Projects"
         imgSrc="/images/for-developers/dev-projects.svg"
-        text="Bitcoin when used on a mobile device allows you to pay with a simple two-step scan-and-pay. There's no need to sign up, swipe your card, type a PIN, or sign anything. All you need to receive Bitcoin payments is to display the QR code in your Bitcoin wallet app and let the other party scan your mobile, or touch the two phones together (using NFC radio technology)."
+        text="NavCoin is more than just a protocol, it’s an ecosystem of websites, applications and devices which connect to the NavCoin protocol. Here’s where you can find out about contributing to community projects."
+        buttonUrl="https://navhub.org"
+        buttonText="Learn More"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+    >}}
+    {{< long_text 
+        titleText="Responsible Disclosure"
+        imgSrc="/images/for-developers/dev-api.svg"
+        text="NavCoin is experimental technology and sometimes critical bugs are found. If you’re a researcher and you’ve found a critical vulnerability here’s how you can talk securely with the NavCoin Core developers."
         buttonUrl="https://navhub.org/"
         buttonText="Learn More"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
