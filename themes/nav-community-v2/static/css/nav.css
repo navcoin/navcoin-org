@@ -2344,3 +2344,18 @@ a:hover, a:active, a:focus, a:visited {
 @media (max-width: 767px) {
   .step-section .step-card {
     grid-template-areas: "image title" "text text" "button button"; } }
+
+.long-text-column {
+  margin: 0;
+  min-width: 0;
+  max-width: 1000px; }
+
+.long-text-column .long-text-card {
+  height: 100%;
+  justify-content: start; }
+
+.long-text-column .long-text-card p {
+  margin-bottom: 40px; }
+
+.long-text-column .long-text-card a {
+  margin-top: auto; }
