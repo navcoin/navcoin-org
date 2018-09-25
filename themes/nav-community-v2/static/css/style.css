@@ -277,7 +277,7 @@ section.pt-25 {
    ========================================== */
 
 .stickey .main-menu {
-    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.05);
+    //box-shadow: 0 4px 5px rgba(0, 0, 0, 0.05);
     background: #FFFFFF;
     left: 0;
     color: #6d7680 !important;
@@ -346,23 +346,28 @@ section.pt-25 {
     font-size: 15px;
 }
 
+.home-bg-gradient{
+    background: linear-gradient(60deg, rgb(101, 140, 217) 0%, rgb(148, 91, 199) 100%);
+    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgb(148, 91, 199)), color-stop(100%, rgb(101, 140, 217)));
+}
+
 .bg-gradient {
-    background: -moz-linear-gradient(35deg, rgba(249, 106, 145, 1) 0%, rgba(54, 148, 244, 1) 100%);
+    background: -moz-linear-gradient(35deg, rgb(148, 91, 199) 0%, rgb(101, 140, 217) 100%);
     /* ff3.6+ */
 
-    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(249, 106, 145, 1)), color-stop(100%, rgba(54, 148, 244, 1)));
+    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgb(148, 91, 199)), color-stop(100%, rgb(101, 140, 217)));
     /* safari4+,chrome */
 
-    background: -webkit-linear-gradient(35deg, rgba(249, 106, 145, 1) 0%, rgba(54, 148, 244, 1) 100%);
+    background: -webkit-linear-gradient(35deg, rgb(148, 91, 199) 0%, rgb(101, 140, 217) 100%);
     /* safari5.1+,chrome10+ */
 
-    background: -o-linear-gradient(35deg, rgba(249, 106, 145, 1) 0%, rgba(54, 148, 244, 1) 100%);
+    background: -o-linear-gradient(35deg, rgb(148, 91, 199) 0%, rgb(101, 140, 217) 100%);
     /* opera 11.10+ */
 
-    background: -ms-linear-gradient(35deg, rgba(249, 106, 145, 1) 0%, rgba(54, 148, 244, 1) 100%);
+    background: -ms-linear-gradient(35deg, rgb(148, 91, 199) 0%, rgb(101, 140, 217) 100%);
     /* ie10+ */
 
-    background: linear-gradient(55deg, rgba(249, 106, 145, 1) 0%, rgba(54, 148, 244, 1) 100%);
+    background: linear-gradient(55deg, rgb(148, 91, 199) 0%, rrgb(101, 140, 217) 100%);
     /* w3c */
 
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#f96a91', endColorstr='#3694F4', GradientType=1);
@@ -1226,7 +1231,7 @@ nav li ul {
 }
 
 .main-menu .navbar-nav li ul li a {
-  padding: 8px 15px;
+  padding: 8px 30px;
 }
 
 .nav li:hover ul {
