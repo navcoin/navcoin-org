@@ -9,9 +9,11 @@ titleText="Merchants"
 paragraphText="Anyone can accept NavCoin on their website or in their store to receive instant global payments. If your store accepts NavCoin and you would like to be listed on this page, read about how you can contribute to this website through the link below."
 imgSrc="/images/merchants/mer-hero.svg"
 >}}
+
+
 {{< item_container_section 
-    titleText="Payment Gateway"
-    subtitleText="Like PayPal, but for digital currencies."
+    titleText="Stores"
+    subtitleText="Spend your NavCoin at these merchants and services"
 >}}
     {{< merchant 
         titleText="Coinpayment"
@@ -19,13 +21,7 @@ imgSrc="/images/merchants/mer-hero.svg"
         text="Over 60 merchants accept NAV using the CoinPayments merchant gateway."
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}}
-{{< /item_container_section >}}
 
-
-{{< item_container_section 
-    titleText="Stores"
-    subtitleText="Spend your NavCoin at these merchants and services"
->}}
     {{< merchant 
         titleText="NavPi Store"
         imgSrc="/images/merchants/mer-navpi.png"
