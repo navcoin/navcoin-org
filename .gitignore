@@ -5,3 +5,4 @@ _site/
 .DS_Store
 node_modules
 public
+themes/nav-community-v2/static/css/nav.css
