@@ -30,7 +30,7 @@
 
 body {
   background: #fafafa;
-  padding-top: 54px;
+  padding-top: 68px;
 }
 
 .flex-center { 
@@ -816,21 +816,34 @@ a {
   color: white; }
 
 //homepage
+.homepage section{
+  padding:0;
+  padding-top-10px;
+}
+
+.homepage .spacer.zero img:hover {
+  transition: all 0.3s ease;
+}
+
+.homepage .spacer.zero img:hover{
+  transform:translate(0,-10px);
+}
+
 .homepage .hero .grid-container .text-container h1 {
   margin: 0 0 35px 0;
-  font-size: 60px;
+  font-size: 50px;
   font-weight: 600;
 }
 
 .homepage .hero .grid-container .text-container p{
-  font-size:25px;
+  font-size:23px;
   line-height: 38px;
   font-weight: 100;
 }
 
 .homepage .hero .grid-container .text-container a {
   font-size:25px;
-  padding: 24px 46px
+  padding: 18px 46px
 }
 
 .homepage .welcome .text-container{
@@ -881,6 +894,14 @@ a {
   line-height: 38px;
 }
 
+.zig-section .zig-container.reversed {
+  grid-template-columns: 55% 1fr;
+}
+
+.zig-section .zig-container{
+  grid-template-columns: 1fr 55%;
+}
+
 //hero
 .hero-section .text-section-container{
   min-height: 300px;
@@ -915,10 +936,6 @@ a {
 }
 
 //long text feature
-
-.item-container-section .grid-container{
-
-}
 
 .long-text-column{
   margin: 0;
