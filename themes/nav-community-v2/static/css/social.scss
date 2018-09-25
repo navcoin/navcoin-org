@@ -1,0 +1,53 @@
+.social-column {
+  margin: 0 auto 0 auto;
+  color: #7D5AB5;
+  
+  .social-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-basis: 300px;
+    position: relative;
+    text-align: center;
+  }
+
+  .item-icon {
+    width: 108px;
+    margin-bottom: 10px;
+  }
+
+  h3 {
+    font-size: 16px; 
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+  }
+
+  .link {
+    text-decoration: none;
+    color: #7D5AB5;
+
+    &:visited {
+      color: #7D5AB5;
+    }
+    &:hover, &:focus {
+      filter: brightness(110%)
+    }
+  }
+}
+
+.bg-purple .social-column{
+  color: #fff;
+
+    .link {
+    text-decoration: none;
+    color: #fff;
+
+    &:visited {
+      color: #fff;
+    }
+    &:hover, &:focus {
+      filter: brightness(90%)
+    }
+  }
+}

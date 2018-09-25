@@ -1,0 +1,92 @@
+.wallet-column {
+  margin: 20px auto 0 auto;
+  color: #fff;
+  
+  .item-card {
+    display: flex;
+    flex-basis: 300px;
+    position: relative;
+    box-shadow: 1px 13px 35px rgba(66,45,178,0.12);
+  }
+
+  .item-main {
+    width: 100%;
+    max-width: 450px;
+    padding-bottom: 0px; 
+
+  }
+
+  .item-icon-container {
+    height: 158px;
+    padding: 5px;
+    background: #fff;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    border-radius: 8px 8px 0 0;
+  }
+
+  .item-icon {
+    padding: 10px 0 10px 0;
+    height: inherit;
+    max-height: 100%; 
+  }
+
+  .item-details-group {
+    background: #7D5AB5;  
+    padding: 23px; 
+    border-radius: 0 0 8px 8px;
+
+    h3 {
+      font-size: 20px;
+      margin: 0 0 15px 0; 
+    }
+  }
+
+  .item-button {
+    margin: 5px 0 5px 0; 
+  }
+
+  .item-text p {
+    margin: 0;
+    margin-top: 20px;
+    margin-bottom: 24px;
+    min-height: 75px;
+  }
+
+  @media (max-width: 678px) {
+  .item-text p {
+    min-height: unset;
+    }
+  }
+
+  #box-item-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px; 
+  }
+
+  #box-items {
+    display: flex;
+    flex-flow: row wrap;
+    align-content: center;
+    opacity: 0.5; 
+    height: 30px;
+  }
+
+  #box-items > div {
+    margin-right: 5px;
+    display: inline-block;
+    color: #fff; 
+  }
+
+  #box-items img {
+    padding: 5px;
+    width: 25px;
+    margin: 0 auto; 
+  }
+
+  a:hover, a:active, a:visited {
+    filter: brightness(110%)
+}
+}

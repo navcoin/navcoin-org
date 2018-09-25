@@ -1,0 +1,50 @@
+.contrib-list .contrib-list-title {
+  margin: 50px 0; }
+
+.contrib-list .git-disp-pic {
+  height: 48px;
+  border-radius: 225px;
+  margin: 13px 15px 8px 5px; }
+
+.contrib-list .single-item {
+  overflow: auto;
+  background-color: #7d5ab5;
+  max-width: 450px;
+  padding: 15px;
+  margin-bottom: 25px;
+  border-radius: 10px;
+  box-shadow: #ccc 0px 0px 10px; }
+  .contrib-list .single-item .name {
+    font-size: 20px; }
+  .contrib-list .single-item .contrib-number {
+    font-size: 43px;
+    margin-top: 5px; }
+  .contrib-list .single-item .faded-text {
+    font-size: 16px;
+    color: #ffffff;
+    opacity: 0.54; }
+  .contrib-list .single-item a, .contrib-list .single-item a:visited {
+    color: #d4d4d4; }
+  .contrib-list .single-item a:hover, .contrib-list .single-item a:active {
+    color: #fff; }
+  .contrib-list .single-item a {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; }
+  @media (max-width: 767px) {
+    .contrib-list .single-item a {
+      justify-content: space-around; } }
+
+@media (max-width: 1199px) {
+  .contrib-list .single-item {
+    overflow: auto;
+    padding: 15px;
+    margin-bottom: 25px;
+    border-radius: 10px; }
+    .contrib-list .single-item .name {
+      font-size: 22px; }
+    .contrib-list .single-item .contrib-number {
+      font-size: 40px;
+      margin-top: 5px; }
+    .contrib-list .single-item .faded-text {
+      font-size: 15px; } }

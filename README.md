@@ -28,6 +28,12 @@ Please note that Hugo is a hot loading site and that changing and saving files w
 ## Editing Content
 All content for the site is held in markdown files in the content folder. The content sections match the sections of the site.
 
+**This project uses SASS so you will need to do the follow to compile the SASS to CSS**:
+```bash
+npm install 
+npm run sass # this will watch the sass folder and recompile when a change is detected
+```
+
 ## Shortcode documentation
 
 For the new theme's shortcodes, see [/themes/nav-community-v2/docs/how-to-use-shortcodes.md](/themes/nav-community-v2/docs/how-to-use-shortcodes.md)
