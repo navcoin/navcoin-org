@@ -1,0 +1,112 @@
+$dark-blue: #191e5d;
+$light-grey: #fafafa;
+$grey: #F0F0F0;
+$dark-grey: #707070;
+$nav-purple: #7b47b4;
+$nav-purple-light: #9A54C4;
+
+.cf-hero {
+  color: $dark-grey;
+  img.button-icon {
+    max-height: 15px;
+    display: inline;
+    margin-left: 20px;
+  }
+  h1 {
+    color: $nav-purple;
+    font-family: 'Raleway', 'Regular', Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+  }
+  p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+  }
+
+  h1 {
+    line-height: 44px;
+    font-size: 40px;
+  }
+
+  padding: 60px 0;
+  min-height: 200px;
+  color: black;
+  text-align: center;
+  vertical-align: center;
+  background: white;
+  .grid-container {
+    display: grid;
+    grid-template-areas: "text img";
+    grid-template-columns: minmax(auto, 840px) auto;
+    text-align: left;
+    justify-items: flex-end;   
+    align-items: center;  
+    
+    .button-icon {
+      width: 24px;
+      height: 18px;
+    }
+
+    .left-image {
+      grid-area: img;
+      max-width: 945px;
+      width: 50vw;
+    }
+    .text-container {
+      grid-area: text;
+      h1 {
+        margin: 0 0 35px 0;
+      }
+      p {
+        max-width: 550px;
+        margin: 0 0 60px 0;
+      }
+    }
+  }
+  @media (max-width: 1200px) {
+    .grid-container {
+      grid-template-areas: "text" "img";
+      grid-template-columns: 1fr;
+      justify-items: center;
+      text-align: center;
+    img {
+        max-width: 600px;
+        justify-self: center;
+      }
+      .text-container {
+        max-width: 80vw;
+        h1 {
+          font-size: 35px;
+        }
+        p {
+          text-align: justify;
+        }
+      }
+    }
+  }
+
+  @media (max-width: 600px) {
+    .grid-container {
+      grid-template-areas: "text" "img";
+      grid-template-columns: 1fr;
+      justify-items: center;
+      text-align: center;
+      img {
+        width: 100%;
+        max-width: 90vw;
+        justify-self: center;
+      }
+      .text-container {
+        max-width: 80vw;
+        h1 {
+          font-size: 30px;
+        }
+        p {
+          text-align: justify;
+          font-size: 15px;
+          line-height: 20px;
+        }
+      }
+    }
+  }
+}
