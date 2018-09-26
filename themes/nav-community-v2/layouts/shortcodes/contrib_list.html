@@ -1,0 +1,26 @@
+<section class="contrib-list">     
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12" style="text-align: center;">
+                <h2 class="contrib-list-title">{{ .Get "titleText"}}</h2>
+                <div class="subtitle">{{ .Get "subtitleText" }}</div>
+            </div>
+        </div>
+        <div class="grid-container">
+            {{ range $element := sort $.Site.Data.contributors "total" "desc" }}
+                <div class="single-item">
+                    <a href="https://github.com/{{ $element.author.login }}">
+                        <img src="{{ .author.avatar }}" class="git-disp-pic">
+                        <div class="contrib-info">
+                            <div class="name">{{ $element.author.login }}</div>
+                            <div class="underline">View on Github</div>
+                        </div>
+                    </a>
+                </div>
+            {{end}}
+        </div>
+        <div class="col-xs-12 center"  >
+            <a href="{{ .Get "buttonUrl" }}" class="round-btn gradient-btn">{{ .Get "buttonTxt" }}  <img src="{{ .Get "buttonImgSrc" }}" class="btn-img"> </a>
+        </div>
+    </div>
+</section>

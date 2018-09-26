@@ -4,96 +4,110 @@ date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
 ---
-{{< left_image_section
-    title="Merchants accepting NavCoin"
-    titleSize="27px"
-    imgSrc="/images/icons/nav_purple-exchange-large.png"
-    imgHeight="286px"
-    imgPadding="10px"
-    containerPadding="40px 0"
-    bgColor="#7d5ab5"
-    linkBgColor="#523971"
-    titleColor="#fff"
-    textColor="#fff"
-    gradient=""
-    btn1Link="/about-this-website"
-    btn1Txt="Contribute To This Page"
-    btn2Link="/how-to-accept-navcoin"
-    btn2Txt="How To Accept NavCoin">}}
-<p>Anyone can accept NavCoin on their website or in their store to receive instant global payments.</p>
-<p>If your store accepts NavCoin and you would like to be listed on this page, read about how you can contribute to this website through the link below.
-{{< /left_image_section >}}
-{{< links_section
-    title="Pay With NavCoin Here"
-    subtitle="You can use your NavCoin to buy all sorts of things online and in stores. Check out these merchants that accept NAV and show your support."   
-    containerPadding="40px 0 0px 0"
-    titleMargin="20px 0 40px 0"
-    dropShadow="true"
-    bgColor="#FFF"
-    gradient="false"
-    feature1Img="navPi.png"
-    feature1Title="NavPi Store"
-    feature1Desc="Purchase a NavPi with NavCoin to stake your NAV easily 24 hours a day."
-    feature1Txt="Go to website »"
-    feature1Link="https://navpi.navcoinstore.com/product/navpi-stakebox/"
-    feature2Img="CoinPayments.png"
-    feature2Title="CoinPayments"
-    feature2Desc="Over 60 merchants accept NAV using the CoinPayments merchant gateway."
-    feature2Txt="Go to store directory »"
-    feature2Link="https://www.coinpayments.net/store-directory-coin-NAV"
-    feature3Img="merchStore.png"
-    feature3Title="NavCoin Merch Store"
-    feature3Desc="Wear NavCoin with pride with this range of branded merchandise."
-    feature3Txt="Go to website »"
-    feature3Link="https://navcoinstore.com/"
+{{< hero_section
+titleText="Merchants"
+paragraphText="Anyone can accept NavCoin on their website or in their store to receive instant global payments. If your store accepts NavCoin and you would like to be listed on this page, read about how you can contribute to this website through the link below."
+imgSrc="/images/merchants/mer-hero.svg"
 >}}
-{{< links_section
-    containerPadding="0 0 80px 0"
-    titleMargin="0 0 0 0"
-    class="links-image-shadow"
-    bgColor="#FFF"
-    dropShadow="true"
-    gradient="false"
-    feature1Img="kirkDunkley.png"
-    feature1Title="BitcoinGallery.Art"
-    feature1Desc="Art and cryptocurrency collide in unique handmade sculptures of your favourite coin."
-    feature1Txt="Go to website »"
-    feature1Link="http://www.sigmasixdesign.com/bitcoingallery-store#!/The-Simplifier-NAV/p/102127036/category=28247023"
-    feature2Img="MHA.png"
-    feature2Title="Mile High Ambulance"
-    feature2Desc="Full service ambulance company which accepts NavCoin for bill payments."
-    feature2Txt="Go to website »"
-    feature2Link="https://milehighambulance.com/now-accepting-navcoin"
-    feature3Img="HODL.png"
-    feature3Title="HODL Merch Store"
-    feature3Desc="The home of crypto merchandise including the NavCoin range of clothing and accessories."
-    feature3Txt="Go to website »"
-    feature3Link="https://alwayshodl.com/pages/official-nav-collection"
+
+
+{{< item_container_section 
+    titleText="Stores"
+    subtitleText="Spend your NavCoin at these merchants and services"
 >}}
-{{< links_section
-    title="Merchant tools"
-    subtitle="If you’re interested in accepting NavCoin in your store, here are some tools to get you started."
-    id="merchant-tools"
-    titleFontColor="#FFF"
-    subtitleFontColor="#FFF"
-    txtFontColor="#FFF"
-    bgColor="#7d5ab5"
-    containerPadding="40px 0 60px 0"
-    titleMargin="0 0 40px 0"
-    gradient="false"
-    feature1Img="/images/icons/payButton.png"
-    feature1Title="Payment Button"
-    feature1Desc="Accept NavCoin payments or donations on your website with this simple button."
-    feature1Txt="Go to website »"
-    feature1Link="https://brianium.github.io/nav-button/"
-    feature2Img="/images/icons/coinPaymentTools.png"
-    feature2Title="CoinPayments"
-    feature2Desc="Instant cryptocurrency checkout with easy to use cart plugins, buttons, and invoices."
-    feature2Txt="Go to website »"
-    feature2Link="https://www.coinpayments.net/merchant-tools"
-    feature3Img="/images/icons/navPay.png"
-    feature3Title="NavPay"
-    feature3Desc="A simple way to accept NavCoin payments is with the NavPay mobile wallet."
-    feature3Txt="Go to website »"
-    feature3Link="/projects/nav-pay/"
+    {{< merchant 
+        titleText="Coinpayment"
+        imgSrc="/images/merchants/mer-coinpayment.png"
+        text="Over 60 merchants accept NAV using the CoinPayments merchant gateway."
+        linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
+    >}}
+
+    {{< merchant 
+        titleText="NavPi Store"
+        imgSrc="/images/merchants/mer-navpi.png"
+        text="Purchase a NavPi with NavCoin to stake your NAV easily 24 hours a day."
+        linkUrl="https://navpi.navcoinstore.com/product/navpi-stakebox/"
+    >}}
+     {{< merchant 
+        titleText="NavCoin Merch Store"
+        imgSrc="/images/merchants/mer-nav.png"
+        text="Wear NavCoin with pride with this range of branded merchandise."
+        linkUrl="https://navcoinstore.com/"
+    >}}
+    {{< merchant 
+        titleText="BitcoinGallery.Art"
+        imgSrc="/images/merchants/mer-bitcoingallery.png"
+        text="Art and crypto collide in unique handmade sculptures of your favourite coin."
+        linkUrl="http://www.sigmasixdesign.com/bitcoingallery-store#!/The-Simplifier-NAV/p/102127036/category=28247023"
+    >}}
+    {{< merchant 
+        titleText="Mile High Ambulance"
+        imgSrc="/images/merchants/mer-mile-high.png"
+        text="Full service ambulance company which accepts NavCoin for bill payments."
+        linkUrl="https://milehighambulance.com/now-accepting-navcoin"
+    >}}
+    {{< merchant 
+        titleText="HODL Merch Store "
+        imgSrc="/images/merchants/mer-hodl.png"
+        text="The Home of crypto merchants with range of NavCoin clothing and accessories."
+        linkUrl="https://alwayshodl.com/pages/official-nav-collection"
+    >}}
+    {{< merchant 
+        titleText="DrApis"
+        imgSrc="/images/merchants/mer-dr-apis.png"
+        text="Raw honey by Portuguese bees."
+        linkUrl="https://drapis.com/"
+    >}}
+    {{< merchant 
+        titleText="Lurento"
+        imgSrc="/images/merchants/mer-lurento.png"
+        text="Luxury & sports car rental services, available in Europe and UAE."
+        linkUrl="https://lurento.com/"
+    >}}
+    {{< merchant 
+        titleText="SocialTrades"
+        imgSrc="/images/merchants/mer-social-trades.png"
+        text="A Social Media Management Service with 100,000 trusted customers worldwide."
+        linkUrl="https://www.socialtrades.xyz/"
+    >}}
+    {{< merchant 
+        titleText="1Gbits"
+        imgSrc="/images/merchants/mer-1gbits.png"
+        text="More than 20 world class server centers in more than 15 different countries."
+        linkUrl="https://1gbits.com/"
+    >}}
+{{< /item_container_section >}}
+
+{{< item_container_section 
+    titleText="Accepting NavCoin is easy!"
+    subtitleText="NavCoin has the right payment solution for your business."
+    bgPurple="true"
+    buttonUrl="/for-business/"
+    buttonText="See who's involved"
+    buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
+    {{< action 
+        titleText="For your store"
+        imgSrc="/images/merchants/mer-for-store.svg"
+        subtext="Use NavPay wallet on your smartphone. Customers just scan your QR code and transfer the fund instantly"
+        linkText="Demo"
+        linkUrl="https://twitter.com/NavCoin/status/969467480887439360"
+        linkImgSrc="/images/icons/rightward-arrow.svg"
+    >}}
+    {{< action 
+        titleText="For your online business"
+        imgSrc="/images/merchants/mer-for-bus.svg"
+        subtext="Integrated NavCoin payment gateway, offering plugins for all the popular webcarts like shopify and woocommence."
+        linkText="Visit Coinpayment"
+        linkUrl="https://www.coinpayments.net/"
+        linkImgSrc="/images/icons/rightward-arrow.svg"
+    >}}
+    {{< action                 
+        titleText="For your blog"
+        imgSrc="/images/merchants/mer-for-blog.svg"
+        subtext="Integrating Nav Buttons for quick payments is an easy to implement option that suits individuals or side businesses."
+        linkText="Nav Buttons"
+        linkUrl="https://brianium.github.io/nav-button/"
+        linkImgSrc="/images/icons/rightward-arrow.svg"
+    >}}
+{{< /item_container_section >}}

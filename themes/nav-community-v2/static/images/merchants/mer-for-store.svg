@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 130 130">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7d5ab5;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke: #fff;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="mer-for-store" transform="translate(1778 -1155)">
+    <rect id="Rectangle_281" data-name="Rectangle 281" class="cls-1" width="130" height="130" transform="translate(-1778 1155)"/>
+    <g id="Group_525" data-name="Group 525" transform="translate(-1741 1174)">
+      <ellipse id="Ellipse_106" data-name="Ellipse 106" class="cls-2" cx="46.5" cy="46.5" rx="46.5" ry="46.5" transform="translate(0 0)"/>
+    </g>
+    <g id="Group_526" data-name="Group 526" transform="translate(-1776 1166.603)">
+      <g id="Group_447" data-name="Group 447" transform="translate(0 0)">
+        <rect id="Rectangle_249" data-name="Rectangle 249" class="cls-3" width="25.472" height="39.706" transform="translate(28.319)"/>
+        <path id="Path_744" data-name="Path 744" class="cls-3" d="M4.3,1.3a3.005,3.005,0,0,0-3,3V38.009a3.005,3.005,0,0,0,3,3H29.769V1.3Z" transform="translate(-1.3 -1.3)"/>
+        <path id="Path_745" data-name="Path 745" class="cls-3" d="M79.174,1.3H55.5V41.006H79.024a3.006,3.006,0,0,0,3-3V4.3A2.717,2.717,0,0,0,79.174,1.3Z" transform="translate(25.71 -1.3)"/>
+        <rect id="Rectangle_250" data-name="Rectangle 250" class="cls-3" width="27.42" height="39.706" transform="translate(53.94)"/>
+      </g>
+      <rect id="Rectangle_251" data-name="Rectangle 251" class="cls-3" width="96.643" height="67.425" transform="translate(5.544 39.706)"/>
+      <g id="Group_448" data-name="Group 448" transform="translate(64.129 73.419)">
+        <path id="Path_746" data-name="Path 746" class="cls-3" d="M72.269,53.3a3.006,3.006,0,0,0-3-3H47.1a3.005,3.005,0,0,0-3,3V84.013H72.269V53.3Z" transform="translate(-44.1 -50.3)"/>
+      </g>
+      <line id="Line_222" data-name="Line 222" class="cls-4" x2="2.997" transform="translate(81.06 90.2)"/>
+      <g id="Group_449" data-name="Group 449" transform="translate(14.084 55.589)">
+        <rect id="Rectangle_252" data-name="Rectangle 252" class="cls-4" width="19.928" height="17.68"/>
+        <rect id="Rectangle_253" data-name="Rectangle 253" class="cls-4" width="19.928" height="17.68" transform="translate(19.928)"/>
+        <rect id="Rectangle_254" data-name="Rectangle 254" class="cls-4" width="19.928" height="17.68" transform="translate(19.928 17.83)"/>
+        <rect id="Rectangle_255" data-name="Rectangle 255" class="cls-4" width="19.928" height="17.68" transform="translate(0 17.83)"/>
+      </g>
+      <rect id="Rectangle_256" data-name="Rectangle 256" class="cls-4" width="27.12" height="11.238" transform="translate(64.129 54.39)"/>
+    </g>
+  </g>
+</svg>

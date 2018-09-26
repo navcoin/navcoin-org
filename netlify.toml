@@ -6,7 +6,7 @@ HUGO_VERSION = "0.46"
 
 [build]
 publish = "public"
-command = "hugo"
+command = "gulp sass && hugo"
 
 [[redirects]]
   from = "/downloads"

@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100.05 100">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke: #7d5ab5;
+      }
+
+      .cls-3 {
+        stroke-linecap: square;
+        stroke-linejoin: bevel;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-8 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 2.5px;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-4, .cls-5, .cls-8 {
+        stroke-linejoin: round;
+      }
+
+      .cls-5, .cls-6, .cls-8 {
+        stroke-width: 2px;
+      }
+
+      .cls-9 {
+        stroke: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004aff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#004aff"/>
+    </linearGradient>
+  </defs>
+  <g id="beg-secure-network" transform="translate(-357.95 -921)">
+    <rect id="Rectangle_1044" data-name="Rectangle 1044" class="cls-1" width="100" height="100" transform="translate(358 921)"/>
+    <circle id="Ellipse_215" data-name="Ellipse 215" class="cls-2" cx="35.769" cy="35.769" r="35.769" transform="translate(386.462 935)"/>
+    <g id="Group_3100" data-name="Group 3100" transform="translate(-11863 -998.829)">
+      <g id="Group_3093" data-name="Group 3093" transform="translate(10016.7 -306.877)">
+        <path id="Path_1407" data-name="Path 1407" class="cls-3" d="M2205.6,2268.62v-6.967s0-5.452,5.452-5.452h41.3s5.856-.1,5.856,5.452v4.847" transform="translate(0.001)"/>
+        <g id="Group_1154" data-name="Group 1154" transform="translate(2205.5 2266.6)">
+          <path id="Path_1408" data-name="Path 1408" class="cls-4" d="M2282.424,2282.4h-21.2a2.025,2.025,0,0,0-2.019,2.02v11.107a2.025,2.025,0,0,0,2.019,2.02h21.2a2.025,2.025,0,0,0,2.02-2.02v-11.107A2.026,2.026,0,0,0,2282.424,2282.4Z" transform="translate(-2204.978 -2266.345)"/>
+          <path id="Path_1409" data-name="Path 1409" class="cls-4" d="M2259.722,2295.681v-11.107a2.025,2.025,0,0,1,2.019-2.02H2278.7v-13.025a2.975,2.975,0,0,0-3.029-3.029h-67.146a2.975,2.975,0,0,0-3.029,3.029v41.2a2.975,2.975,0,0,0,3.029,3.029h67.146a2.975,2.975,0,0,0,3.029-3.029V2297.7h-16.963A2.026,2.026,0,0,1,2259.722,2295.681Z" transform="translate(-2205.5 -2266.5)"/>
+        </g>
+        <path id="Path_1410" data-name="Path 1410" class="cls-5" d="M2273.774,2289.737a3.837,3.837,0,1,1-3.837-3.837A3.772,3.772,0,0,1,2273.774,2289.737Z" transform="translate(0.589 0.288)"/>
+      </g>
+      <g id="Group_3099" data-name="Group 3099" transform="translate(5 9)">
+        <g id="Ellipse_231" data-name="Ellipse 231" class="cls-6" transform="translate(12267 1925)">
+          <circle class="cls-9" cx="11.5" cy="11.5" r="11.5"/>
+          <circle class="cls-1" cx="11.5" cy="11.5" r="10.5"/>
+        </g>
+        <g id="Ellipse_232" data-name="Ellipse 232" class="cls-7" transform="translate(12271 1929)">
+          <circle class="cls-9" cx="7.5" cy="7.5" r="7.5"/>
+          <circle class="cls-1" cx="7.5" cy="7.5" r="7"/>
+        </g>
+      </g>
+      <line id="Line_7850" data-name="Line 7850" class="cls-8" x2="11.772" transform="translate(12273.678 1936.601) rotate(-90)"/>
+      <line id="Line_7851" data-name="Line 7851" class="cls-8" x1="5.886" transform="translate(12279.895 1928.715) rotate(-90)"/>
+      <line id="Line_7852" data-name="Line 7852" class="cls-8" x1="2.572" transform="translate(12279.895 1934.373) rotate(-90)"/>
+      <line id="Line_7853" data-name="Line 7853" class="cls-8" x2="8.972" transform="translate(12285.802 1931.802) rotate(-90)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 108.15 108">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-5 {
+        stroke: #7d5ab5;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke-width: 2.5px;
+      }
+
+      .cls-4 {
+        fill: #7d5ab5;
+      }
+
+      .cls-5 {
+        stroke-width: 2px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004aff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#004aff"/>
+    </linearGradient>
+  </defs>
+  <g id="why-own-bank" transform="translate(-5760.85 -592)">
+    <rect id="Rectangle_1064" data-name="Rectangle 1064" class="cls-1" width="108" height="108" transform="translate(5761 592)"/>
+    <path id="Path_3393" data-name="Path 3393" class="cls-2" d="M36,0A36,36,0,1,1,0,36,36,36,0,0,1,36,0Z" transform="translate(5797 610)"/>
+    <g id="Group_2967" data-name="Group 2967" transform="translate(4446.2 -1432.993)">
+      <g id="Group_1019" data-name="Group 1019" transform="translate(1315.9 2042.1)">
+        <g id="Group_1017" data-name="Group 1017">
+          <path id="Path_1269" data-name="Path 1269" class="cls-3" d="M1357.068,2072.1H1319.32a2.427,2.427,0,0,0-2.42,2.42v7.259a2.427,2.427,0,0,0,2.42,2.42h33.15A23.5,23.5,0,0,1,1357.068,2072.1Z" transform="translate(-1315.69 -2035.804)"/>
+          <path id="Path_1270" data-name="Path 1270" class="cls-3" d="M1351.509,2084.277a13.141,13.141,0,0,1,.121-2.178H1323.32a2.427,2.427,0,0,0-2.42,2.42v7.26a2.427,2.427,0,0,0,2.42,2.42h30.368A22.5,22.5,0,0,1,1351.509,2084.277Z" transform="translate(-1314.851 -2033.705)"/>
+          <path id="Path_1271" data-name="Path 1271" class="cls-3" d="M1354.427,2092.1H1319.22a2.427,2.427,0,0,0-2.42,2.42v7.259a2.427,2.427,0,0,0,2.42,2.419h47.427A24.765,24.765,0,0,1,1354.427,2092.1Z" transform="translate(-1315.711 -2031.607)"/>
+          <path id="Path_1272" data-name="Path 1272" class="cls-3" d="M1356.459,2074.2a24.294,24.294,0,0,1,15.728-9.437,2.566,2.566,0,0,0-2.42-2.662H1322.22a2.427,2.427,0,0,0-2.42,2.42v7.259a2.427,2.427,0,0,0,2.42,2.42h34.239Z" transform="translate(-1315.081 -2037.903)"/>
+          <path id="Path_1273" data-name="Path 1273" class="cls-3" d="M1368.287,2061.779v-7.259a2.427,2.427,0,0,0-2.42-2.42h-47.548a2.427,2.427,0,0,0-2.42,2.42v7.259a2.427,2.427,0,0,0,2.42,2.42h47.548A2.427,2.427,0,0,0,1368.287,2061.779Z" transform="translate(-1315.9 -2040.001)"/>
+          <path id="Path_1274" data-name="Path 1274" class="cls-3" d="M1370.867,2054.2a2.427,2.427,0,0,0,2.42-2.42v-7.259a2.427,2.427,0,0,0-2.42-2.42H1323.32a2.427,2.427,0,0,0-2.42,2.42v7.259a2.427,2.427,0,0,0,2.42,2.42h47.548Z" transform="translate(-1314.851 -2042.1)"/>
+          <path id="Path_1275" data-name="Path 1275" class="cls-3" d="M1370.155,2064.1a29.777,29.777,0,0,0-3.388.242h0a23.542,23.542,0,0,0-15.728,9.437h0a24.745,24.745,0,0,0-4.719,12.1h0a13.157,13.157,0,0,0-.121,2.178,22.875,22.875,0,0,0,2.178,9.921h0a23.842,23.842,0,0,0,12.219,12.1h0a22.966,22.966,0,0,0,9.558,2.057,24.016,24.016,0,0,0,0-48.032Z" transform="translate(-1309.541 -2037.483)"/>
+        </g>
+        <g id="Group_1018" data-name="Group 1018" transform="translate(52.992 37.99)">
+          <path id="Path_1276" data-name="Path 1276" class="cls-4" d="M1367.806,2084.522h-.242c-3.146-.484-4.96-.968-4.96-2.662,0-2.783,4.355-2.783,4.839-2.783,1.936,0,3.751.242,4.96,1.936.121.242.484.242.726.121l1.089-.6c.121-.121.242-.121.242-.242a.446.446,0,0,0-.121-.364c-1.815-2.419-4.114-3.024-6.9-3.024a9.355,9.355,0,0,0-5.928,1.815,4.2,4.2,0,0,0-1.331,3.146c0,3.388,3.751,3.993,7.017,4.6s5.444,1.089,5.444,3.025c0,2.662-3.63,3.025-5.2,3.025-2.057,0-4.6-.968-5.565-2.662a.582.582,0,0,0-.726-.241l-1.21.6a.26.26,0,0,0-.242.242v.363c1.573,2.782,4.96,3.751,7.743,3.751,4.719,0,7.5-1.815,7.5-4.96C1374.944,2085.732,1371.194,2085.127,1367.806,2084.522Z" transform="translate(-1359.7 -2072.786)"/>
+          <line id="Line_692" data-name="Line 692" class="cls-5" y2="4.114" transform="translate(7.622)"/>
+        </g>
+      </g>
+      <line id="Line_693" data-name="Line 693" class="cls-5" y2="3.751" transform="translate(1376.514 2101.867)"/>
+    </g>
+  </g>
+</svg>

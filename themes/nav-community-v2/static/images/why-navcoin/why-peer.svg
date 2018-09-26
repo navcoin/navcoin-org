@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 108 108">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        stroke: #7d5ab5;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2.5px;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 5.606 5.606;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004aff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#004aff"/>
+    </linearGradient>
+  </defs>
+  <g id="why-peer" transform="translate(-5608 -592)">
+    <rect id="Rectangle_1063" data-name="Rectangle 1063" class="cls-1" width="108" height="108" transform="translate(5608 592)"/>
+    <path id="Path_3392" data-name="Path 3392" class="cls-2" d="M36,0A36,36,0,1,1,0,36,36,36,0,0,1,36,0Z" transform="translate(5644 610)"/>
+    <g id="Group_2971" data-name="Group 2971" transform="translate(3748.6 -3033.963)">
+      <g id="Group_1685" data-name="Group 1685" transform="translate(1860.8 3677.632)">
+        <g id="Group_1684" data-name="Group 1684">
+          <path id="Path_2236" data-name="Path 2236" class="cls-3" d="M1900.885,3678.213a.958.958,0,0,0-1.014-1.013h-34.058a1.09,1.09,0,0,0-1.014,1.013v22.807h36.085Z" transform="translate(-1860.745 -3677.2)"/>
+          <path id="Path_2237" data-name="Path 2237" class="cls-3" d="M1900.94,3700.7h-35.984l-4.156,8.92h44.8Z" transform="translate(-1860.8 -3676.879)"/>
+          <rect id="Rectangle_807" data-name="Rectangle 807" class="cls-3" width="44.802" height="4.055" transform="translate(0 32.74)"/>
+        </g>
+      </g>
+      <g id="Group_1687" data-name="Group 1687" transform="translate(1911.481 3659.285)">
+        <g id="Group_1686" data-name="Group 1686">
+          <path id="Path_2238" data-name="Path 2238" class="cls-3" d="M1950.885,3660.114a.958.958,0,0,0-1.014-1.014h-34.058a1.09,1.09,0,0,0-1.014,1.014v22.807h36.085Z" transform="translate(-1910.745 -3659.1)"/>
+          <path id="Path_2239" data-name="Path 2239" class="cls-3" d="M1950.94,3682.5h-36.085l-4.054,9.021h44.7Z" transform="translate(-1910.8 -3658.781)"/>
+          <rect id="Rectangle_808" data-name="Rectangle 808" class="cls-3" width="44.802" height="4.055" transform="translate(0 32.74)"/>
+        </g>
+      </g>
+      <g id="Group_1689" data-name="Group 1689" transform="translate(1882.897 3645.5)">
+        <g id="Group_1688" data-name="Group 1688">
+          <line id="Line_1580" data-name="Line 1580" class="cls-4" y1="3.041" transform="translate(0 25.239)"/>
+          <path id="Path_2240" data-name="Path 2240" class="cls-5" d="M1882.6,3665.063v-15.407s-.1-4.156,4.156-4.156h37.91s3.244.1,4.156,2.838" transform="translate(-1882.6 -3645.5)"/>
+          <path id="Path_2241" data-name="Path 2241" class="cls-4" d="M1928.4,3651.1v3.041" transform="translate(-1881.976 -3645.424)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

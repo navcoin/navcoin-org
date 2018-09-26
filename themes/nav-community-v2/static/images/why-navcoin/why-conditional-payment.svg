@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 130 130">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #7d5ab5;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004aff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#004aff"/>
+    </linearGradient>
+  </defs>
+  <g id="why-conditional-payment" transform="translate(5522 -4482)">
+    <rect id="Rectangle_1064" data-name="Rectangle 1064" class="cls-1" width="130" height="130" transform="translate(-5522 4482)"/>
+    <path id="Path_3393" data-name="Path 3393" class="cls-2" d="M46.5,0A46.5,46.5,0,1,1,0,46.5,46.5,46.5,0,0,1,46.5,0Z" transform="translate(-5485 4501)"/>
+    <g id="Group_3202" data-name="Group 3202" transform="translate(-6593.102 3059.6)">
+      <g id="Group_886" data-name="Group 886" transform="translate(1073.4 1431.4)">
+        <g id="Group_884" data-name="Group 884">
+          <rect id="Rectangle_440" data-name="Rectangle 440" class="cls-3" width="86.432" height="14.795" transform="translate(0 97.333)"/>
+          <path id="Path_1170" data-name="Path 1170" class="cls-4" d="M1159.832,1473.759v-19.778h-22.581V1431.4H1073.4v97.333h86.432v-5.451" transform="translate(-1073.4 -1431.4)"/>
+          <path id="Path_1171" data-name="Path 1171" class="cls-3" d="M1136.981,1453.981,1114.4,1431.4v22.581Z" transform="translate(-1050.549 -1431.4)"/>
+        </g>
+        <path id="Path_1172" data-name="Path 1172" class="cls-4" d="M1154.7,1481.3a19,19,0,1,1-19-19A18.975,18.975,0,0,1,1154.7,1481.3Z" transform="translate(-1049.267 -1414.179)"/>
+        <g id="Group_885" data-name="Group 885" transform="translate(10.278 10.901)">
+          <line id="Line_520" data-name="Line 520" class="cls-4" x2="15.573"/>
+          <line id="Line_521" data-name="Line 521" class="cls-4" x2="24.606" transform="translate(0 7.787)"/>
+        </g>
+      </g>
+      <path id="Path_1173" data-name="Path 1173" class="cls-3" d="M1123.3,1476.562l6.852,6.852,11.369-12.614" transform="translate(27.811 21.959)"/>
+      <line id="Line_522" data-name="Line 522" class="cls-4" x2="41.892" transform="translate(1092.399 1472.825)"/>
+      <line id="Line_523" data-name="Line 523" class="cls-4" x2="50.613" transform="translate(1083.678 1487.308)"/>
+      <line id="Line_524" data-name="Line 524" class="cls-4" x2="50.613" transform="translate(1083.678 1500.857)"/>
+      <line id="Line_525" data-name="Line 525" class="cls-4" x2="43.138" transform="translate(1083.678 1515.029)"/>
+    </g>
+  </g>
+</svg>
