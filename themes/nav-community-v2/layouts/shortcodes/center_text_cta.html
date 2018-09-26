@@ -2,7 +2,7 @@
     <h2 class="title" >{{ .Get "titleText"}}</h2>
     {{ if (isset  .Params "innerText") }}
         <p class="inner-text">
-            {{ .Get "innerText" }}
+            {{ .Get "innerText" | safeHTML }}
         </p>
     {{ end }}
     {{ if (isset  .Params "buttonText") }}

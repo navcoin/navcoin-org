@@ -20,7 +20,7 @@
     display: grid;
     grid-column-gap: 120px;
     grid-auto-flow: dense;
-    grid-template-columns: 1fr 55%;
+    grid-template-columns: 35% 65%;
     grid-template-areas: "image text" "image text";
     justify-content: center;
     align-items: center;
@@ -62,7 +62,7 @@
       max-width: 600px;
       display: flex;
       flex-direction: column;
-      justify-content: center;
+      justify-content: center; 
       align-content: center;
 
       padding: 0 20px 50px 0;
@@ -71,13 +71,13 @@
     }
 
     &.reversed {
-      grid-template-columns: 55% 1fr;
+      grid-template-columns: 65% 35%;
       grid-template-areas: "text image" "text image";
       .text-section-container {
         justify-self: flex-end;
-        padding: 0 0 50px 20px;
+        padding: 0 0 50px 20px;  
       }
-      .zig-img {
+      .zig-img { 
         justify-self: flex-start;
       }
     }
@@ -94,7 +94,7 @@
 
   @media (max-width: 620px) {
     .zig-container, .zig-container.reversed {
-      padding: 0 0 55px 0;
+      padding: 55px 0 55px 0;
       grid-template-areas:  "image image"
                             "text text";
       .zig-img {
@@ -116,6 +116,7 @@
         font-size: 27px;
         font-weight: 500;
         line-height: 32px;
+        margin-bottom: 10px;
       }
     }
   }

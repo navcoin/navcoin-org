@@ -12,31 +12,36 @@ imgSrc="/images/responsible-disclosure/dis-hero.svg"
 
 
 <div class="grey">
-<div class="article">
-  <h2 class="article-title">
-    Disclosure Procedure
-  </h2>
-    <p>If you think you’ve found a critical vulnerability in NavCoin’s protocol, please don’t hesitate to contact the NavCoin Core developers. We are committed to coordinating with you and any other affected parties to ensure any disclosure is handled discreetly and in a timely manner.</p>
-  <p>The best place to report the vulnerability is to <a href="#">disclosure@navcoin.org</a>. You can encrypt your message with the GPG key found on the NavCoin GitHub.</p>
-    <h3 class="article-sml-title">Disclosure GPG Key</h3>
-    <p>
-      <a href="https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub">
-        https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub
-      </a>
-     </p>
-    <h3>Ideally the disclosure would include</h3>
-    <ul>
-      <li>A docker image with python tests showing the vulnerability</li>
-      <li>Detailed notes about the vulnerability and affected parts of the code</li>
-      <li>Suggested mitigation strategies.</li>
-      <li>Your GPG public key so we can securely reply to you.</li>
-    </ul>
-    <p>If you’re unable to communicate with this way please reach out any of the admins on the NavCoin Discord channel and we will setup a secure private channel with you.</p>
-</div>
+    <div class="article">
+        <h2 class="article-title">
+            Disclosure Procedure
+        </h2>
+        <p>If you think you’ve found a critical vulnerability in NavCoin’s protocol, please don’t hesitate to contact the NavCoin Core developers. We are committed to coordinating with you and any other affected parties to ensure any disclosure is handled discreetly and in a timely manner.</p>
+        <p>The best place to report the vulnerability is to <a href="#">disclosure@navcoin.org</a>. You can encrypt your message with the GPG key found on the NavCoin GitHub.</p>
+        <h3 class="article-sml-title">Disclosure GPG Key</h3>
+        <p>
+            <a href="https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub" target="_blank">
+                https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub
+            </a>
+        </p>
+        <h3>Ideally the disclosure would include</h3>
+        <ul>
+            <li>A docker image with python tests showing the vulnerability</li>
+            <li>Detailed notes about the vulnerability and affected parts of the code</li>
+            <li>Suggested mitigation strategies.</li>
+            <li>Your GPG public key so we can securely reply to you.</li>
+        </ul>
+        <p>If you’re unable to communicate with this way please reach out any of the admins on the NavCoin Discord channel and we will setup a secure private channel with you.</p>
+    </div>
 </div>
 
 <style>
-    .grey{
+.purple{
+    margin:0;
+  background-color: #7D5AB5;
+}
+
+.grey{
   margin:0;
   background-color: #FAFAFA;
 }
@@ -124,4 +129,4 @@ imgSrc="/images/responsible-disclosure/dis-hero.svg"
     margin-bottom: 10px;
 }
 
-    </style>
+</style>
