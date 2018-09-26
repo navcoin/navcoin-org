@@ -12,7 +12,7 @@ imgSrc="/images/contribute/con-hero.svg"
 {{< zig_section
 titleText="Translations"
 imgSrc="/images/governance/gov-decentralise.svg"
-  paragraphText="NavCoin Core has been translated into over two dozen languages, with dozens more languages partially translated—but more help is always needed. NavCoin uses Transifex for translation, so you’ll need to setup an account.<br><br>To contribute a translation, go to the NavCoin project on Transifex: <a href=\"https://www.transifex.com/navcoin/navcoin-core\" style=\"text-decoration:underline;\">https://www.transifex.com/navcoin/navcoin-core</a><br><br>Click on the [ Join Team ] button and let us know which languages you’re able to translate. Find a language which needs work and start translating!"
+  paragraphText="NavCoin Core has been translated into over two dozen languages, with dozens more languages partially translated—but more help is always needed. NavCoin uses Transifex for translation, so you’ll need to setup an account.<br><br>To contribute a translation, go to the NavCoin project on Transifex: <br><a href=\"https://www.transifex.com/navcoin/navcoin-core\" style=\"text-decoration:underline;\">https://www.transifex.com/navcoin/navcoin-core</a><br><br>Click on the [ Join Team ] button and let us know which languages you’re able to translate. Find a language which needs work and start translating!"
   buttonText="Set up a Transifex account"
   buttonUrl="https://www.coinpayments.net/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"

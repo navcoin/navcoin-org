@@ -4,7 +4,7 @@
   display: grid;
   grid-column-gap: 64px;
   grid-auto-flow: dense;
-  grid-template-columns:1fr 1fr;
+  grid-template-columns:auto auto;
   grid-template-areas:  "image text"
                         "image text";
 

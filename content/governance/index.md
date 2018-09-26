@@ -45,7 +45,7 @@ reversed="true"
 {{< zig_section
 titleText="Get involved"
 imgSrc="/images/governance/gov-get-involved.svg"
-paragraphText="Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus eu viverra nisl. Proin finibus tortor vel facilisis pretium. Sed ut elit at ipsum feugiat fermentum vel id nisl. Vestibulum elementum sit amet est et iaculis. Proin posuere, ipsum ac finibus lacinia, urna massa rhoncus dui, ac fermentum erat orci non purus. Proin congue velit at augue venenatis, id tempor dui finibus. In hac habitasse platea dictumst. Aenean in convallis tellus. Phasellu" 
+paragraphText="NavCoin is a community initiative that allows anyone to contribute in a number of different ways. The NavCoin ecosystem is more than just open-source development. Content creation, promotion and adoption are equally important as a decentralized digital currency -  that’s why the key to success is contributions from people of different skill sets" 
 reversed="true"
 >}}
 

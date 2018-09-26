@@ -8,7 +8,7 @@ description: ""
 ---
 {{< hero_section
 titleText="Why NavCoin"
-paragraphText="Is your business ‘future ready?’ More and more people are looking for ways to pay using their digital currency. If you want to stay ahead of the trend, now’s the time to start accepting it at your store and online. NavCoin has the right payment solution for your business."
+paragraphText="----!!need copy!!-----Is your business ‘future ready?’ More and more people are looking for ways to pay using their digital currency. If you want to stay ahead of the trend, now’s the time to start accepting it at your store and online. NavCoin has the right payment solution for your business."
 imgSrc="/images/why-navcoin/why-hero.svg"
 >}}
 
@@ -17,48 +17,49 @@ imgSrc="/images/why-navcoin/why-hero.svg"
     subtitleText="A cheaper, faster, more eco-friendly alternative to Bitcoin"
 >}}
     {{< long_text 
-        titleText="You are your own bank"
+        titleText="Be Your Own Bank"
         imgSrc="/images/why-navcoin/why-own-bank.svg"
-        text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use. Hop in if you are experienced with c++"
+        text="There are no banks that run NavCoin, and no one you need to deposit your money to. All payments are peer to peer, and managed through your wallet (no intermediaries to go through). You have control of your money, and any changes to NavCoin have to be approved by the network."
 
     >}}
     {{< long_text 
         titleText="Privacy"
         imgSrc="/images/why-navcoin/why-privacy.svg"
-        text="Bitcoin when used on a mobile device allows you to pay with a simple two-step scan-and-pay. There's no need to sign up, swipe your card, type a PIN, or sign anything. All you need to receive Bitcoin payments is to display the QR code in your Bitcoin wallet app and let the other party scan your mobile, or touch the two phones together (using NFC radio technology)."
+        text="Blockchains by their nature are public ledgers that allows anyone to view every transaction ever sent - which makes privacy a challenge. NavCoin is dedicated to providing privacy for users, so that your information can only be given with your consent, not taken."
 
     >}}
     {{< long_text 
-        titleText="Peer to peer"
+        titleText="Cold Staking"
         imgSrc="/images/why-navcoin/why-peer.svg"
-        text="Bitcoin when used on a mobile device allows you to pay with a simple two-step scan-and-pay. There's no need to sign up, swipe your card, type a PIN, or sign anything. All you need to receive Bitcoin payments is to display the QR code in your Bitcoin wallet app and let the other party scan your mobile, or touch the two phones together (using NFC radio technology)."
+        text="Security is the number one priority for NavCoin, which made cold staking an important feature to have. Instead of just having a single wallet connected to the internet - this allows you to participate in staking the network, while also keeping your coins offline for added protection."
 
     >}}
     {{< long_text 
-        titleText="Resilient 24/7 network"
+        titleText="A network that never sleeps"
         imgSrc="/images/why-navcoin/why-247.svg"
-        text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use. Hop in if you are experienced with c++"
+        text="With nodes all around the world, the NavCoin network is running 24/7. As long as you’re connected to the internet, you can send & receive payments anywhere in the world, at any time of the day, with no downtime - making it ideal for digital commerce."
 
     >}}
     {{< long_text 
-        titleText="Built for people & environment"
+        titleText="Human readable addresses"
         imgSrc="/images/why-navcoin/why-fair.svg"
-        text="Bitcoin when used on a mobile device allows you to pay with a simple two-step scan-and-pay. There's no need to sign up, swipe your card, type a PIN, or sign anything. All you need to receive Bitcoin payments is to display the QR code in your Bitcoin wallet app and let the other party scan your mobile, or touch the two phones together (using NFC radio technology)."
+        text="Personalise your wallet address using OpenAlias, which allows you to create an email style address for your NAV. The service is built on top of the worldwide DNS service to convert a domain name into a cryptocurrency address - making sending a payment easier than ever."
 
     >}}
     {{< long_text 
-        titleText="Low fee’s"
+        titleText="Frictionless payments"
         imgSrc="/images/why-navcoin/why-low-fee.svg"
-        text="Bitcoin when used on a mobile device allows you to pay with a simple two-step scan-and-pay. There's no need to sign up, swipe your card, type a PIN, or sign anything. All you need to receive Bitcoin payments is to display the QR code in your Bitcoin wallet app and let the other party scan your mobile, or touch the two phones together (using NFC radio technology)."
+        text="In the digital economy, sending payments around the world should be fast, cheap, and easy to do. NavCoin can be sent for a fraction of a cent, will show up within seconds (confirmed in 30 seconds), and there are a range of wallets designed to make sending NAV effortless."
 
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
-  titleText="History "
+  titleText="History Of NavCoin "
   imgSrc="/images/why-navcoin/why-history.svg"
-  paragraphText="NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. Check out this demo that shows how easy it is"
-  buttonText="See who's involved"
+  paragraphText="NavCoin is a community-run network that was started in 2014. It initially used Proof of Work, but quickly made the shift to Proof of Stake . With no ICO or premine - NavCoin has always been self-funded to ensure a fair distribution and that everyone has a chance to get involved. You can read more about our Governance principles here:"
+  buttonUrl="/governance/"
+  buttonText="Read about governance"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
 >}}
@@ -71,32 +72,32 @@ imgSrc="/images/why-navcoin/why-hero.svg"
     {{< feature 
         titleText="Buying Goods & Services"
         imgSrc="/images/why-navcoin/why-buy.svg"
-        text="Transactions show up in as little as five seconds, and confirmed in thirty seconds."
+        text="A cheaper way to pay for goods & services - with no expensive chargebacks."
     >}}
     {{< feature 
-        titleText="Digital tips"
+        titleText="Digital Tip Jars"
         imgSrc="/images/why-navcoin/why-digital-tips.svg"
-        text="Payment records permanently stored on a decentralized network, with 24/7 access."
+        text="If you’ve got space to add a QR code, you’re able to accept NAV - it’s that easy."
     >}}
     {{< feature                 
-        titleText="Conditional payments"
+        titleText="Conditional Payments"
         imgSrc="/images/why-navcoin/why-conditional-payment.svg"
-        text="Payment is easy as scanning a QR code. Funds automatically transfer to your NavCoin wallet."
+        text="Programmable money will allow for entirely new types of digital interactions."
     >}}
     {{< feature                 
-        titleText="International payments"
+        titleText="Borderless Payments"
         imgSrc="/images/why-navcoin/why-international.svg"
-        text="Navcoin is one of world's cheapest payment networks in the world, with fees typically under one percent."
+        text="Low cost money transfers makes doing international business even easier."
     >}}
     {{< feature                 
         titleText="Crowdfunding"
         imgSrc="/images/why-navcoin/why-crowdfunding.svg"
-        text="Join a payment network that consumes only a fraction of the energy of other networks."
+        text="Raise funds for your project, without paying the fee’s of going through a middleman."
     >}}
     {{< feature                 
-        titleText="Censorship resistant"
+        titleText="Store Of Wealth"
         imgSrc="/images/why-navcoin/why-wealth.svg"
-        text="A range of payment options to suit your business requirements, with even more in development."
+        text="NavCoin doesn’t require any central authority to run - meaning your money is entirely in your control."
     >}}
 {{< /item_container_section >}}
 
@@ -107,41 +108,42 @@ imgSrc="/images/why-navcoin/why-hero.svg"
     bgPurple="true"
 >}}
     {{< feature 
-        titleText="Scalable"
+        titleText="Community Fund"
         imgSrc="/images/why-navcoin/why-scalable.svg"
-        text="Transactions show up in as little as five seconds, and confirmed in thirty seconds."
+        text="NavCoin’s Community Fund allows contributors to get paid by the network for their efforts."
     >}}
     {{< feature 
-        titleText="Decentralised development"
+        titleText="Lots Of Ways To Get Involved"
         imgSrc="/images/why-navcoin/why-decentralised-dev.svg"
-        text="Payment records permanently stored on a decentralized network, with 24/7 access."
+        text="NavCoin is an ecosystem of different teams and projects - allowing for a number of ways to get involved."
     >}}
     {{< feature                 
-        titleText="Proof of Stake alliance"
+        titleText="Proof Of Stake Alliance Member"
         imgSrc="/images/why-navcoin/why-pos-alliance.svg"
-        text="Payment is easy as scanning a QR code. Funds automatically transfer to your NavCoin wallet."
+        text="Which aims to collaboratively research the PoS protocol - alongside PivX, Blackcoin, Particl, Komodo, and more."
     >}}
     {{< feature                 
-        titleText="Programmable money"
+        titleText="Programmable Money"
         imgSrc="/images/why-navcoin/why-digital-money.svg"
-        text="Navcoin is one of world's cheapest payment networks in the world, with fees typically under one percent."
+        text="Digitising money allows it to be programmable, automatable, and interactable in new and interesting ways."
     >}}
     {{< feature                 
-        titleText="Active Research"
+        titleText="Active Research & Development"
         imgSrc="/images/why-navcoin/why-research.svg"
-        text="Join a payment network that consumes only a fraction of the energy of other networks."
+        text="NavCoin Protocol Improvement Proposals (NPIP’s) is the research playground where cryptographers, economists, and developers collaborate."
     >}}
     {{< feature                 
-        titleText="Security "
+        titleText="Low & Stable Inflation "
         imgSrc="/images/why-navcoin/why-security.svg"
-        text="A range of payment options to suit your business requirements, with even more in development."
+        text="NavCoin has a 4% staking reward to incentivise the security of the network + 1% for the community fund."
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
 titleText="Roadmap"
 imgSrc="/images/why-navcoin/why-roadmap.svg"
-paragraphText="The community fund is a way to support developers in getting involved. A catchy image + we show that we support navcoin’s global developer community with community fund which will help with expanding navcoin’s ecosystem. A reward pool worth 250,000 NAV per year —all for the navcoin community and developers!" 
+paragraphText="" 
+buttonUrl="/roadmap/"
 buttonText="Check out where we're going! "
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
