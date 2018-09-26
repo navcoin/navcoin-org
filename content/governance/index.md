@@ -9,7 +9,7 @@ description: ""
 {{< hero_section
 titleText="Governance"
 imgSrc="/images/governance/gov-hero.svg"
-paragraphText="NavCoin is an open source protocol and NavCoin wallets are maintained by a range of organisations and individuals. It’s advised to take the time to educate yourself about the wallets listed on this page and how to secure your funds. Always remember that it is your responsibility to choose your wallet carefully and adopt good practices in order to protect your money."
+paragraphText="The objective of NavCoin Developer and Content Manifestos is to clearly set out the reasons contributors to the NavCoin community do what we do, how we do it and why. These documents cover guiding principles, purpose, scope of work and operational requirements to ensure we share the same values and always operate in the best interests of the network."
 buttonText="Read our manifestos"
 buttonImgSrc="/images/icons/downward-arrow.svg"
 >}}
@@ -24,21 +24,21 @@ reversed="true"
 {{< zig_section
   titleText="Make the world a better place"
   imgSrc="/images/governance/gov-world.svg"
-  paragraphText="Nam sollicitudin ipsum id ex bibendum, nec dictum erat venenatis. Etiam dui enim, sodales non nulla et, iaculis aliquam tellus. Etiam augue turpis, laoreet non ligula nec, tincidunt sollicitudin mi. Aenean sit amet dui sit amet ex pulvinar rutrum quis non arcu. Nunc hendrerit dapibus turpis, eget eleifend dolor sagittis non. Aliquam laoreet dapibus lorem sit amet tincidunt. Vivamus a magna varius, lobortis sapien eu, accumsan nisi. Praesent sit amet pretium lorem. Suspendisse tincidunt sapien volutpat est faucibus maximus."
+  paragraphText="Decentralized digital currencies like NavCoin take control of the monetary system away from government and corporate elites and returns freedom, privacy and financial power to the individual. That’s why NavCoin is not just a payments protocol, it’s actually a vector for a profound change in the way the global economic system operates. Decentralized governance is at its heart. Because there is no central authority for NavCoin, a crucial part of our role as members of this community is to be champions of neutrality and consensus based decision making. "
   bgPurple="true"
 >}}
 
 {{< zig_section
 titleText="Benefits of decentralisation"
 imgSrc="/images/governance/gov-benifits.svg"
-paragraphText="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae tortor diam. Donec ultricies semper rhoncus. In a viverra velit. Quisque elementum diam commodo urna condimentum, a semper justo malesuada. Etiam pulvinar bibendum malesuada. Suspendisse potenti. Quisque vitae dolor eu massa malesuada consectetur. Vivamus ut urna laoreet, commodo est non, sagittis tortor. suscipit, magna id dignissim egestas, enim tellus convallis risus, et tincid" 
+paragraphText="Decentralization also offers protection from corruption. History has shown us countless times that too much power in too few hands inevitably leads to its abuse. What’s more it gives the individual a chance to make a real difference. Improvements to the protocol come from the bottom up, and can be submitted by anyone. NavCoin’s thriving community is living proof that when people are trusted to do good, they will contribute for the good of all." 
 reversed="true"
 >}}
 
 {{< zig_section
   titleText="It all depends on you"
   imgSrc="/images/governance/gov-you.svg"
-  paragraphText="When everyone in the NavCoin community takes responsibility for contributing to the development of the protocol and actively pushing its message out to the world, not only does the community benefit, the benefits spread to society as a whole. Conversely without your participation as an empowered autonomous individual there can be no decentralization, and hence no NavCoin. NavCoin’s success truly is up to you, and you are free to make it happen.."
+  paragraphText="When everyone in the NavCoin community takes responsibility for contributing to the development of the protocol and is actively pushing it’s message out to the world, not only does the community benefit, the benefits spreads to society as a whole. Conversely, without your participation as an empowered autonomous individual there can be no decentralization, and hence no NavCoin. NavCoin’s success truly is up to you, and you are free to make it happen."
   bgPurple="true"
 >}}
 
