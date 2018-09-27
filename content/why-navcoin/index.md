@@ -109,7 +109,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
 >}}
     {{< feature 
         titleText="Community Fund"
-        imgSrc="/images/why-navcoin/why-scalable.svg"
+        imgSrc="/images/why-navcoin/why-cfund.svg"
         text="NavCoin’s Community Fund allows contributors to get paid by the network for their efforts."
     >}}
     {{< feature 
