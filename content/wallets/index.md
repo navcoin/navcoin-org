@@ -6,6 +6,8 @@ type: "default"
 author: ""
 description: ""
 ---
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 {{< hero_section
 titleText="Wallets"
 imgSrc="/images/wallets/wal-hero.svg"
@@ -23,7 +25,7 @@ buttonLink="https://discord.gg/y4Vu9jw"
         titleText="NavCoin Core Wallet v4.3.0"
         walletImgSrc="/images/wallets/wal-core.png"
         text="NavCoin Core Wallet is a full NavCoin client that allows users to participate in network staking. Released by the core NavCoin developers, it combines speed and reliability with usability."
-        buttonUrl="/navcoin-core/"
+        buttonUrl="#download-core"
         buttonText="Download"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         platformImg1Src="/images/platforms/mac.png"
@@ -49,12 +51,13 @@ buttonLink="https://discord.gg/y4Vu9jw"
         platformImg4Src="/images/platforms/linux.png"
         platformImg5Src="/images/platforms/pwa.png"
         platformImg6Src="/images/platforms/web.png"
+        newTab="true"
     >}}
     {{< wallet 
         titleText="NavPi Stakebox v1.0.9"
         walletImgSrc="/images/wallets/wal-pi.png"
         text="A low-energy NavCoin staking solution based on the Raspberry-Pi platform."
-        buttonUrl="https://navcoin.org/navcoin-core/#links"
+        buttonUrl="https://navhub.org/projects/nav-pi/"
         buttonText="Download"
         platformImg1Src="/images/platforms/pi.png"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -63,7 +66,7 @@ buttonLink="https://discord.gg/y4Vu9jw"
         titleText="NavCoin Paper Wallet Generator"
         walletImgSrc="/images/wallets/wal-paper.png"
         text="Generate keys to be printed and stored offline for additional security."
-        buttonUrl="https://navcoin.org/navcoin-core/#links"
+        buttonUrl="https://paper.navcoin.org/"
         buttonText="Download"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         platformImg1Src="/images/platforms/mac.png"
@@ -74,7 +77,7 @@ buttonLink="https://discord.gg/y4Vu9jw"
         titleText="NEXT Wallet"
         walletImgSrc="/images/wallets/wal-next.png"
         text="A modern and stylish next generation wallet for NavCoin."
-        buttonUrl="https://navcoin.org/navcoin-core/#links"
+        buttonUrl="http://next.navcommunity.net/"
         buttonText="Download"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         platformImg1Src="/images/platforms/mac.png"
@@ -85,7 +88,7 @@ buttonLink="https://discord.gg/y4Vu9jw"
         titleText="Coinomi Wallet"
         walletImgSrc="/images/wallets/wal-coinomi.png"
         text="Coinomi is a Security-First Multi-Asset Wallet for Bitcoin, Altcoins and Tokens."
-        buttonUrl="https://navcoin.org/navcoin-core/#links"
+        buttonUrl="https://www.coinomi.com/"
         buttonText="Download"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         platformImg1Src="/images/platforms/mac.png"
@@ -95,9 +98,58 @@ buttonLink="https://discord.gg/y4Vu9jw"
         titleText="NavCoin M8"
         walletImgSrc="/images/wallets/wal-m8.png"
         text="A high-powered NavCoin staking wallet including NEXT Wallet with DIY options."
-        buttonUrl="https://navcoin.org/navcoin-core/#links"
+        buttonUrl="https://navcoinm8.com/"
         buttonText="Download"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         platformImg1Src="/images/platforms/linux.png"
     >}} 
 {{< /item_container_section >}}
+
+{{< item_container_section 
+    titleText="Download NavCoin Core 4.3.0"
+    subtitleText="The NavCoin Core wallet has been carefully refined to be intuitive and easy to use. It comes with a setup wizard and everything you need to load the blockchain and start sending transactions in a secure environment."
+    bgPurple="true"
+    anchor="download-core"
+    buttonUrl="https://github.com/NAVCoin/navcoin-core"
+    buttonText="View source code"
+    buttonImgSrc="/images/icons/rightward-arrow.svg"
+    newTab="true"
+>}}
+    {{< action 
+        titleText="Windows"
+        imgSrc="/images/merchants/mer-for-store.svg"
+        subtext="Use NavPay wallet on your smartphone. Customers just scan your QR code and transfer the fund instantly"
+        linkText="Demo"
+        linkUrl="https://twitter.com/NavCoin/status/969467480887439360"
+        linkImgSrc="/images/icons/rightward-arrow.svg"
+    >}}
+    {{< action 
+        titleText="Mac"
+        imgSrc="/images/merchants/mer-for-bus.svg"
+        subtext="Integrated NavCoin payment gateway, offering plugins for all the popular webcarts like shopify and woocommence."
+        linkText="Visit Coinpayment"
+        linkUrl="https://www.coinpayments.net/"
+        linkImgSrc="/images/icons/rightward-arrow.svg"
+    >}}
+    {{< action                 
+        titleText="Linux"
+        imgSrc="/images/merchants/mer-for-blog.svg"
+        subtext="Integrating Nav Buttons for quick payments is an easy to implement option that suits individuals or side businesses."
+        linkText="Nav Buttons"
+        linkUrl="https://brianium.github.io/nav-button/"
+        linkImgSrc="/images/icons/rightward-arrow.svg"
+    >}}
+{{< /item_container_section >}}
+
+
+<script>
+$("a[href^='#']").click(function(e) {
+	e.preventDefault();
+	
+	var position = $($(this).attr("href")).offset().top;
+
+	$("body, html").animate({
+		scrollTop: position
+	} /* speed */ );
+});
+</script>
