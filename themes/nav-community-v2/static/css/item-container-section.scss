@@ -27,6 +27,10 @@
     line-height: 25px;
   }
   @media (max-width: 600px) {
+    .container-title{
+      font-size:27px;
+    }
+    
     .container-subtitle {
       margin: 0 0 33px 0;
     }

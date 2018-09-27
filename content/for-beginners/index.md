@@ -8,12 +8,12 @@ description: ""
 ---
 {{< hero_section
 titleText="NavCoin | For Beginners"
-paragraphText="Is your business ‘future ready?’ More and more people are looking for ways to pay using their digital currency. If you want to stay ahead of the trend, now’s the time to start accepting it at your store and online. NavCoin has the right payment solution for your business."
+paragraphText="----!!need copy!!!-----Is your business ‘future ready?’ More and more people are looking for ways to pay using their digital currency. If you want to stay ahead of the trend, now’s the time to start accepting it at your store and online. NavCoin has the right payment solution for your business."
 imgSrc="/images/for-beginners/beg-hero.svg"
 >}}
 {{< step_container_section 
     titleText="Get started here"
-    subtitleText="Welcome! Here’s a quick look at what you have do with NavCoin"
+    subtitleText="If you're new to this project, then here are some handy resources that make set up easy."
 >}}
   {{< step 
       titleText="Step 1: Learn about NavCoin"

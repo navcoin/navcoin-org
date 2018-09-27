@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        stroke: #009bff;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        stroke: #7b47b4;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004aff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#004aff"/>
+    </linearGradient>
+  </defs>
+  <g id="hom-friendly" transform="translate(-952 -1721)">
+    <rect id="Rectangle_4560" data-name="Rectangle 4560" class="cls-1" width="70" height="70" transform="translate(952 1721)"/>
+    <path id="Path_15902" data-name="Path 15902" class="cls-2" d="M23.333,0A23.333,23.333,0,1,1,0,23.333,23.333,23.333,0,0,1,23.333,0Z" transform="translate(975.333 1733)"/>
+    <g id="Group_3583" data-name="Group 3583" transform="translate(-626.93 1293.813)">
+      <g id="Group_801" data-name="Group 801" transform="translate(1585.021 433.818)">
+        <path id="Path_1079" data-name="Path 1079" class="cls-3" d="M1586.2,434.118s9.506,19.563,15.556,8.407C1607.727,431.368,1586.2,434.118,1586.2,434.118Z" transform="translate(-1586.2 -433.818)"/>
+        <path id="Path_1080" data-name="Path 1080" class="cls-3" d="M1631.344,437.176s-21.684-1.65-15.085,9.192C1622.937,457.21,1631.344,437.176,1631.344,437.176Z" transform="translate(-1592.375 -434.519)"/>
+        <path id="Path_1081" data-name="Path 1081" class="cls-3" d="M1593.6,437.9s15.084,4.871,15.084,21.291v8.956" transform="translate(-1587.786 -434.693)"/>
+        <path id="Path_1082" data-name="Path 1082" class="cls-3" d="M1625.078,441.6s-11.785,6.05-13.278,12.256" transform="translate(-1591.687 -435.486)"/>
+      </g>
+      <line id="Line_461" data-name="Line 461" class="cls-3" y2="3.614" transform="translate(1589.342 467.351)"/>
+      <line id="Line_462" data-name="Line 462" class="cls-3" y2="3.614" transform="translate(1619.197 467.351)"/>
+      <line id="Line_463" data-name="Line 463" class="cls-3" y2="3.614" transform="translate(1601.991 467.351)"/>
+      <line id="Line_464" data-name="Line 464" class="cls-3" y2="3.3" transform="translate(1594.763 475.837)"/>
+      <line id="Line_465" data-name="Line 465" class="cls-3" y2="3.3" transform="translate(1612.126 475.837)"/>
+      <line id="Line_466" data-name="Line 466" class="cls-3" y2="3.3" transform="translate(1587.692 483.3)"/>
+      <line id="Line_467" data-name="Line 467" class="cls-3" y2="3.3" transform="translate(1623.125 483.3)"/>
+      <g id="Group_800" data-name="Group 800" transform="translate(1580.7 467.351)">
+        <rect id="Rectangle_404" data-name="Rectangle 404" class="cls-4" width="48.946" height="6.521" transform="translate(0 15.949)"/>
+        <rect id="Rectangle_405" data-name="Rectangle 405" class="cls-4" width="48.946" height="8.564"/>
+        <rect id="Rectangle_406" data-name="Rectangle 406" class="cls-4" width="48.946" height="7.464" transform="translate(0 8.485)"/>
+      </g>
+    </g>
+  </g>
+</svg>

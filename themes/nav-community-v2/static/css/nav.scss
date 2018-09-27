@@ -145,7 +145,7 @@ a {
       }
       a,
       .nav-top-item {
-        padding: 8px 10px;
+        padding: 8px 25px;
         display: block;
         line-height: 20px;
         color: #7b47b4;
@@ -155,12 +155,14 @@ a {
         cursor: pointer;
         border-bottom: 3px solid #fff;
       }
+
       @media (max-width: 920px) {
         a {
           font-size: 16px;
         }
       }
     }
+
     @media (max-width: 768px) {
       float: none;
       background: white;
@@ -881,6 +883,15 @@ a {
   margin-bottom: 50px;
 }
 
+.homepage .hero .grid-container{
+  place-content:center;
+  grid-template-columns: 950px minmax(auto, 840px);
+}
+
+.homepage .hero .grid-container .text-container{
+  margin-left:40px;
+}
+
 @media (max-width: 767px) {
   .step-section .step-card {
     grid-template-areas: "image title"
@@ -909,23 +920,24 @@ a {
       grid-template-columns: 55% 1fr;
   }
   .homepage .hero .grid-container .text-container h1{
-    font-size:40px;
+    font-size:37px;
     margin-bottom: 20px;
   }
   .homepage .hero .grid-container .text-container p{
-    font-size:20px;
+    font-size:19px;
     line-height: 35px;
     max-width: 90%;
     margin-bottom: 20px;
   }
   .homepage .hero .grid-container .text-container a{
-    font-size: 20px;
+    font-size: 19px;
     padding: 12px 30px;
   }
 
 }
 
 @media (max-width:1200px){
+  
   .homepage .values .grid-container{
     margin: 0 auto;
     max-width: 530px;
@@ -941,14 +953,14 @@ a {
     margin: 10px;
   }
   .homepage .hero .grid-container .text-container p{
-    font-size: 18px;
+    font-size: 17px;
     line-height: 35px;
     font-weight: 300;
     text-align: center;
     margin-bottom: 40px;
   }
   .homepage .hero .grid-container .text-container a{
-    font-size: 20px;
+    font-size: 18px;
     padding: 12px 30px;
   }
   .homepage .ecosystem .flex-container .column .round-btn{
@@ -1115,4 +1127,13 @@ a {
 
 .long-text-column .long-text-card a{
   margin-top: auto;
+}
+
+
+//navbar
+@media (max-width: 1200px){
+.stickey .main-menu .navbar-nav li a {
+    font-size: 16px;
+    padding: 8px 10px;
+}
 }

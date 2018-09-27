@@ -7,7 +7,7 @@ type: "default"
 <section class="cf-hero">
     <div class="grid-container">
       <div class="text-container">
-        <h1>Introduction</h1>
+        <h1>Community Fund</h1>
         <p>The NavCoin community fund is a pool of funds that are set aside to help kickstart community projects. NavCoin was built from the ground up - it’s an open-source community project that ran no premine or ICO. So as an extension of this ethos, this fund has been created to help incentivise the ongoing development of NavCoin in a decentralised manner.</p>
       </div>
       <img src="cfund_hero.png" alt="Hero image">
