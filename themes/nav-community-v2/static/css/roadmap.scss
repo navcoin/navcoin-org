@@ -12,13 +12,14 @@
 
 .progress{
   height:18px;
+  box-shadow: none;
 }
 
 .progress:first-child{
   border-radius:20px 0 0 20px;
   background-color:var(--stage-1);
 }
-
+ 
 .progress:nth-child(2){
   background-color:var(--stage-2);
 }
@@ -26,7 +27,7 @@
 .progress:nth-child(3){
   background-color:var(--stage-3);
 }
-
+ 
 .progress:last-child{
   border-radius:0 20px 20px 0;
   background-color:var(--stage-4)

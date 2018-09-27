@@ -1,3 +1,5 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
 <div class="homepage">
   <section class="hero">
     <div class="grid-container">
@@ -52,27 +54,27 @@
       <div class="center">
           <div class="grid-container ninety-vw-container">
             <div class="div-1">
-              <img src="/images/homepage/hom-fast.svg" alt="">
+              <img src="/images/homepage/hom-low-energy.svg" alt="">
               <h2>Sustainable Proof of Stake</h2>
               <p>NavCoin runs on PoS, which consumes a fraction of the energy of a Proof of Work network.</p>
             </div>
             <div class="div-2">
-              <img src="/images/homepage/hom-low-energy.svg" alt="">
+              <img src="/images/homepage/hom-scalable.svg" alt="">
               <h2>Network Scalability</h2>
               <p>Testing shows current network capacity at 260+ tx per second - alongside research in layer 1 and 2 scaling solutions.</p>
             </div>
             <div class="div-3">
-              <img src="/images/homepage/hom-scalable.svg" alt="">
+              <img src="/images/homepage/hom-international.svg" alt="">
               <h2>Low Cost Global Payments</h2>
               <p>Send money cheaply anywhere in the world without needing to go through a bank</p>
             </div>
             <div class="div-4">
-              <img src="/images/homepage/hom-international.svg" alt="">
+              <img src="/images/homepage/hom-privacy.svg" alt="">
               <h2>Privacy</h2>
               <p>Privacy has always been a central part of NavCoin, from the original NavTech to the upcoming zNAV</p>
             </div>
             <div class="div-5">
-              <img src="/images/homepage/hom-privacy.svg" alt="">
+              <img src="/images/homepage/hom-fast.svg" alt="">
               <h2>Quick Payments</h2>
               <p>Transactions show up in seconds, and confirmed within 30 seconds, makes it ideal for commerce.</p>
             </div>
@@ -93,7 +95,7 @@
     <h1>Values Built Into The Network</h1>
       <ul class="grid-container text-container ninety-vw-container">
         <li class="">
-          <img src="/images/homepage/hom-fast.svg" alt="">
+          <img src="/images/homepage/hom-governance.svg" alt="">
           <h2>Open & Transparent Governance</h2>
           <p>No one is in control - everyone is free to work on NavCoin however they want. There are no forced protocol changes, as every wallet gets a say in the direction of NavCoin.</p>
         </li>
@@ -123,7 +125,7 @@
           <p>Privacy is about choice - giving you control of your personal information and who you share it with</p>
         </li>
       </ul>
-    <a href="/governance/" class="round-btn gradient-btn">Governance <img src="images/icons/rightward-arrow.svg" alt="rightward arrow" class="button-icon"></a>
+    <a href="/governance/" class="round-btn gradient-btn go-governance">Governance <img src="images/icons/rightward-arrow.svg" alt="rightward arrow" class="button-icon"></a>
   </section>
   <div class="spacer three"></div>
   <section class="ecosystem">
@@ -148,12 +150,12 @@
         <h2>People</h2>
         <hr>
         <p>Anyone can get involved in NavCoin, and even get paid for their efforts. Join in our community channels to hear the latest news & updates</p>
-        <a href="" class="round-btn white-btn-new">Explore More <img src="images/icons/downward-arrow-purple.svg" alt="downward arrow" class="button-icon"></a>
+        <a href="#community-id" class="round-btn white-btn-new">Explore More <img src="images/icons/downward-arrow-purple.svg" alt="downward arrow" class="button-icon"></a>
       </div>
     </div>
 
   </section>
-  <section class="community">
+  <section id="community-id" class="community">
     <div class="spacer four"></div>
     <h1>Join the NavCoin Community</h1>
     <p>Anyone can get involved in NavCoin, and even get paid for their efforts. Join in our community channels to hear the latest news & updates</p>
@@ -209,3 +211,15 @@
     </div>
   </section>
 </div>
+
+<script>
+$("a[href^='#']").click(function(e) {
+	e.preventDefault();
+	
+	var position = $($(this).attr("href")).offset().top;
+
+	$("body, html").animate({
+		scrollTop: position
+	} /* speed */ );
+});
+</script>
