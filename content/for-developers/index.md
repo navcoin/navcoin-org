@@ -4,12 +4,13 @@ date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
 ---
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 {{< hero_section
 titleText="NavCoin | For Developers"
 imgSrc="/images/for-developers/dev-hero.svg"
 paragraphText="NavCoin is a free and open-source project to which anyone can contribute. It’s design is the collaborative effort of developers from all around the world. Our common goal is to improve the NavCoin protocol and its surrounding software ecosystem. Everyone has the potential to make a positive impact, no matter what your skill level."
 buttonText="Read Developer Manifesto"
-buttonLink="/governance/"
+buttonLink="/governance/#read-manifestos"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
 
@@ -97,3 +98,14 @@ reversed="true"
     buttonTxt="View NavCoin on GitHub"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
+
+$("a[href^='#']").click(function(e) {
+	e.preventDefault();
+	
+	var position = $($(this).attr("href")).offset().top;
+
+	$("body, html").animate({
+		scrollTop: position
+	} /* speed */ );
+});
+</script>

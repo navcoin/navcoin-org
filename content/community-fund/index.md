@@ -8,7 +8,7 @@ type: "default"
     <div class="grid-container">
       <div class="text-container">
         <h1>Community Fund</h1>
-        <p>The NavCoin community fund is a pool of funds that are set aside to help kickstart community projects. NavCoin was built from the ground up - it’s an open-source community project that ran no premine or ICO. So as an extension of this ethos, this fund has been created to help incentivise the ongoing development of NavCoin in a decentralised manner.</p>
+        <p>The NavCoin community fund is a pool of funds that are set aside to help kickstart community projects. NavCoin was built from the ground up - it’s an open-source community project that ran no premine or ICO. So as an extension of this ethos, this fund has been created to help incentivise the ongoing development of NavCoin in a decentralised manner.Anyone and everyone on the network will be able to propose projects, vote, and initiate payments. These proposals can be for anything - the only requirement is for the network to vote ‘yes’.</p>
       </div>
       <img src="cfund_hero.png" alt="Hero image">
     </div>
@@ -80,6 +80,7 @@ type: "default"
   buttonUrl="https://collab.navcoin.org/dashboard"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
+  newTab="true"
 >}}
 
 {{< accordion

@@ -6,12 +6,14 @@ type: "default"
 author: ""
 description: ""
 ---
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 {{< hero_section
 titleText="Governance"
 imgSrc="/images/governance/gov-hero.svg"
 paragraphText="The objective of NavCoin Developer and Content Manifestos is to clearly set out the reasons contributors to the NavCoin community do what we do, how we do it and why. These documents cover guiding principles, purpose, scope of work and operational requirements to ensure we share the same values and always operate in the best interests of the network."
 buttonText="Read our manifestos"
 buttonImgSrc="/images/icons/downward-arrow.svg"
+buttonLink="#read-manifestos"
 >}}
 
 {{< zig_section
@@ -53,6 +55,7 @@ reversed="true"
     titleText="Read our manifestos"
     subtitleText="The NavCoin core values and contribution guidelines"
     bgPurple="true"
+    anchor="read-manifestos"
 >}}
     {{< action 
         titleText="Developer Manifesto"
@@ -79,3 +82,15 @@ reversed="true"
         linkImgSrc="/images/icons/rightward-arrow.svg"
     >}}
 {{< /item_container_section >}}
+
+<script>
+$("a[href^='#']").click(function(e) {
+	e.preventDefault();
+	
+	var position = $($(this).attr("href")).offset().top;
+
+	$("body, html").animate({
+		scrollTop: position
+	} /* speed */ );
+});
+</script>

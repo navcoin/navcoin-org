@@ -56,6 +56,7 @@ imgSrc="/images/for-business/bus-hero.svg"
   buttonUrl="https://twitter.com/NavCoin/status/969467480887439360"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
+  newTab="true"
 >}}
 
 {{< zig_section
@@ -66,6 +67,7 @@ buttonText="Visit Coinpayment"
 buttonUrl="https://www.coinpayments.net/"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
+newTab="true"
 >}}
 
 {{< zig_section
@@ -76,6 +78,7 @@ reversed="true"
   buttonUrl="https://brianium.github.io/nav-button/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
+  newTab="true"
 >}}
 
 {{< center_text_cta
@@ -83,5 +86,5 @@ reversed="true"
     titleText="Find other merchants"
     buttonText="See who's involved"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/shortcodes/"
+    buttonLink="/merchants/"
     innerText="Quite a few sites have already begun to integrate NavCoin as a payment option you can purchase all sorts of things. Check out here.">}}

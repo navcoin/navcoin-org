@@ -15,11 +15,12 @@ $nav-purple-light: #9A54C4;
   h1 {
     color: $nav-purple;
     font-family: 'Raleway', 'Regular', Helvetica, Arial, sans-serif;
+    margin-bottom: 20px;
   }
   p {
     font-family: 'Roboto', sans-serif; 
     font-size: 16px;
-    line-height: 30px;
+    line-height: 25px;
   }
 
   h1 {
@@ -28,7 +29,7 @@ $nav-purple-light: #9A54C4;
   }
 
 
-  padding: 60px 0;
+  padding: 15px 0;
   min-height: 200px;
   color: black;
   text-align: center;
@@ -36,12 +37,12 @@ $nav-purple-light: #9A54C4;
   background: white;
   .grid-container {
     display: grid;
+    max-width: 1440px;
     grid-template-areas: "text img";
-    grid-template-columns: minmax(auto, 630px) 920px;
-    text-align: left;
-    justify-items: flex-end;   
-    align-items: center; 
-    margin: 0 auto; 
+    grid-template-columns: 40% 60%;
+    grid-auto-columns: 1fr;
+    margin: 0 auto;
+    place-content: center center;
     
     .button-icon {
       width: 24px;
@@ -55,11 +56,15 @@ $nav-purple-light: #9A54C4;
     }
     .text-container {
       grid-area: text;
+      place-self: center;
+      text-align: justify;
+      padding-left:20px;
       h1 {
-        margin: 0 0 35px 0;
+            grid-area: text;
+    place-self: center;
+    text-align: justify;
       }
       p {
-        max-width: 550px;
         margin: 0 0 60px 0;
       }
     }
@@ -71,16 +76,18 @@ $nav-purple-light: #9A54C4;
       justify-items: center;
       text-align: center;
     img {
-        max-width: 600px;
+        max-width: 80%;
         justify-self: center;
       }
       .text-container {
-        max-width: 80vw;
+        max-width: 80%;
+        padding-left: 0 20px;
         h1 {
           font-size: 35px;
         }
         p {
           text-align: justify;
+          max-width: 600px;
         }
       }
     }
@@ -93,19 +100,19 @@ $nav-purple-light: #9A54C4;
       justify-items: center;
       text-align: center;
       img {
-        width: 100%;
-        max-width: 90vw;
+        max-width: 100%;
         justify-self: center;
       }
       .text-container {
         max-width: 80vw;
+        padding: 0 10px;
         h1 {
           font-size: 30px;
         }
         p {
           text-align: justify;
           font-size: 15px;
-          line-height: 20px;
+          line-height: 25px;
         }
       }
     }
