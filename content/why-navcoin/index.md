@@ -8,7 +8,7 @@ description: ""
 ---
 {{< hero_section
 titleText="Why NavCoin"
-paragraphText="----!!need copy!!-----Is your business ‘future ready?’ More and more people are looking for ways to pay using their digital currency. If you want to stay ahead of the trend, now’s the time to start accepting it at your store and online. NavCoin has the right payment solution for your business."
+paragraphText="NavCoin is an open source, blockchain-based Proof of Stake cryptocurrency. Its design is public, nobody owns or controls NavCoin, and everyone can take part. It’s a platform that’s run by its users, for its users - with an incentivised network of nodes verifying payments all around the world."
 imgSrc="/images/why-navcoin/why-hero.svg"
 >}}
 
