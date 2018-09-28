@@ -63,7 +63,7 @@ reversed="true"
         subtext="Essential reading for everyone who wants to contribute to NavCoin open-source code."
         linkText="Get the Manifesto"
         linkUrl="/assets/NavCoinDeveloperManifesto.pdf"
-        linkImgSrc="/images/icons/rightward-arrow.svg"
+        linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action 
         titleText="Content Manifesto"
@@ -71,7 +71,7 @@ reversed="true"
         subtext="A guide to the shared values and objectives of NavCoin community content contributors."
         linkText="Get the Manifesto"
         linkUrl="/assets/NavCoinContentManifesto.pdf"
-        linkImgSrc="/images/icons/rightward-arrow.svg"
+        linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action 
         titleText="Brand Guidelines"
@@ -79,7 +79,7 @@ reversed="true"
         subtext="A handbook to help you match the content your create to the NavCoin brand look and feel. "
         linkText="Get the Guide"
         linkUrl="/assets/NavCoinBrandGuidelines.pdf"
-        linkImgSrc="/images/icons/rightward-arrow.svg"
+        linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
 {{< /item_container_section >}}
 

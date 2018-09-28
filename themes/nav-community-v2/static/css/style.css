@@ -875,7 +875,7 @@ a {
     list-style: none;
 }
 .widget-content ul li {
-    margin-bottom: 4px;
+    margin-bottom: 0;
     font-family: 'Roboto', sans-serif;
 }
 .widget-content a {

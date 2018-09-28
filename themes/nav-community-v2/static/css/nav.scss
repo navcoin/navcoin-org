@@ -1,4 +1,4 @@
-@import './colors.scss';
+@import'./colors.scss';
 @import './button.scss';
 @import './themeix.scss';
 
@@ -1137,4 +1137,9 @@ a {
     font-size: 16px;
     padding: 8px 10px;
 }
+}
+
+//footer
+.footer-area ul li{
+  margin-bottom: 0;
 }

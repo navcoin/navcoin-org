@@ -13,6 +13,7 @@ paragraphText="NavCoin is publicly mined and ran no token sale. The only way to 
 buttonText="See market statistics"
 buttonLink="https://coinmarketcap.com/currencies/nav-coin/#markets"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
+newTab="true"
 >}}
 {{< item_container_section 
     titleText="Exchanges"
