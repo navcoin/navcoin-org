@@ -86,5 +86,5 @@ newTab="true"
     titleText="Who's accepting NAV?"
     buttonText="Find merchants here"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/shortcodes/"
+    buttonLink="/merchants/"
     innerText="A number of businesses have already begun to integrate NavCoin as a payment option, and with them you can easily purchase a range of products and services.">}}

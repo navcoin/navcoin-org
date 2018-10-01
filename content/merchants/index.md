@@ -82,14 +82,17 @@ imgSrc="/images/merchants/mer-hero.svg"
     titleText="Accepting NavCoin is easy!"
     subtitleText="NavCoin has the right payment solution for your business."
     bgPurple="true"
-    buttonUrl=""
-    buttonText=""
-    buttonImgSrc=""
+    buttonUrl="/for-business/"
+    buttonText="More Info"
+    buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
     {{< action 
         titleText="For your store"
         imgSrc="/images/merchants/mer-for-store.svg"
         subtext="Use NavPay wallet on your smartphone. Customers just scan your QR code and transfer the fund instantly"
+        linkText="Visit NavPay"
+        linkUrl="https://navhub.org/projects/nav-pay/"
+        linkImgSrc="/images/icons/rightward-arrow.svg"
        
     >}}
     {{< action 
@@ -104,7 +107,7 @@ imgSrc="/images/merchants/mer-hero.svg"
         titleText="For your blog"
         imgSrc="/images/merchants/mer-for-blog.svg"
         subtext="Integrating Nav Buttons for quick payments is an easy to implement option that suits individuals or side businesses."
-        linkText="Nav Buttons"
+        linkText="View buttons here"
         linkUrl="https://brianium.github.io/nav-button/"
         linkImgSrc="/images/icons/rightward-arrow.svg"
     >}}

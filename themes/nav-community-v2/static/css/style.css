@@ -88,7 +88,7 @@ p {
 h1 {
     font-family: 'Raleway', sans-serif;
     font-size: 48px;
-    font-weight: 700;
+    font-weight: 500;
 }
 h2 {
     font-family: 'Raleway', sans-serif;
@@ -429,7 +429,7 @@ a.themeix-tool .fa {
     bottom: 40px;
     color: #FFFFFF;
     font-size: 20px;
-    font-weight: 700;
+    font-weight: 500;
     width: 40px;
     height: 40px;
     right: 3%;
@@ -578,7 +578,7 @@ ul.page-list li a {
 .blog-details h3 a {
     font-size:21px;
     text-transform: NONE;
-    font-weight: 700;
+    font-weight: 500;
     margin: 0px;
     margin-bottom: 0px;
     text-decoration: none;

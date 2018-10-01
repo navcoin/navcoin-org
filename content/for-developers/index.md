@@ -98,7 +98,7 @@ reversed="true"
     buttonTxt="View NavCoin on GitHub"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
-
+<script>
 $("a[href^='#']").click(function(e) {
 	e.preventDefault();
 	

@@ -114,7 +114,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
     >}}
     {{< feature 
         titleText="Community fund"
-        imgSrc="/images/why-navcoin/why-scalable.svg"
+        imgSrc="/images/why-navcoin/why-cfund.svg"
         text="NavCoin’s Community Fund allows contributors to get paid by the network for their efforts."
     >}}
     {{< feature                 
@@ -134,7 +134,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
     >}}
     {{< feature                 
         titleText="An easy payment solution"
-        imgSrc="/images/why-navcoin/why-security.svg"
+        imgSrc="/images/why-navcoin/why-easy-pay.svg"
         text="You don't need to sign up with anything in order to accept payments. It's as easy as showing your address or QR code!"
     >}}
 {{< /item_container_section >}}
