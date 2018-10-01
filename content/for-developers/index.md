@@ -85,7 +85,7 @@ reversed="true"
         titleText="Responsible Disclosure"
         imgSrc="/images/for-developers/dev-disclosure.svg"
         text="NavCoin is experimental technology and sometimes critical bugs are found. If you’re a researcher and you’ve found a critical vulnerability here’s how you can talk securely with the NavCoin Core developers."
-        buttonUrl="https://navhub.org/"
+        buttonUrl="/responsible-disclosure/"
         buttonText="Learn More"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
     >}}
