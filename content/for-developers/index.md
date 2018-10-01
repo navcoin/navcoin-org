@@ -5,9 +5,9 @@ draft: false
 type: "default"
 ---
 {{< hero_section
-titleText="NavCoin | For Developers"
+titleText="NavCoin For Developers"
 imgSrc="/images/for-developers/dev-hero.svg"
-paragraphText="NavCoin is a free and open-source project to which anyone can contribute. It’s design is the collaborative effort of developers from all around the world. Our common goal is to improve the NavCoin protocol and its surrounding software ecosystem. Everyone has the potential to make a positive impact, no matter what your skill level."
+paragraphText="NavCoin is a free and open-source project to which anyone can contribute. Its design is the collaborative effort of developers from all around the world. Our common goal is to improve the NavCoin protocol and its surrounding software ecosystem. Everyone has the potential to make a positive impact, no matter what your skill level."
 buttonText="Read Developer Manifesto"
 buttonLink="/governance/"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -61,14 +61,14 @@ reversed="true"
 
 {{< item_container_section 
     titleText="Contribute Now"
-    subtitleText="HThere are many ways you can contribute to NavCoin, no matter what your skill level."
+    subtitleText="There are many ways you can contribute to NavCoin, no matter what your skill level."
     bgPurple="true"
 >}}
     {{< long_text 
         titleText="NavCoin Protocol"
         imgSrc="/images/for-developers/dev-protocol.svg"
         text="NavCoin is open source and everyone can participate in making it better. Here’s where you can find the procedures to report an issue, fix a issue or suggest an improvement to the consensus protocol."
-        buttonUrl="#"
+        buttonUrl="/contribute/"
         buttonText="Learn More"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
     >}}

@@ -6,14 +6,14 @@ type: "default"
 ---
 {{< hero_section
 titleText="Merchants"
-paragraphText="Anyone can accept NavCoin on their website or in their store to receive instant global payments. If your store accepts NavCoin and you would like to be listed on this page, read about how you can contribute to this website through the link below."
+paragraphText="Anyone can accept NavCoin on their website or in store to receive instant global payments with low fees."
 imgSrc="/images/merchants/mer-hero.svg"
 >}}
 
 
 {{< item_container_section 
     titleText="Stores"
-    subtitleText="Spend your NavCoin at these merchants and services"
+    subtitleText="A selection of merchants & services that allow you to spend your NavCoin"
 >}}
     {{< merchant 
         titleText="Coinpayment"
@@ -49,7 +49,7 @@ imgSrc="/images/merchants/mer-hero.svg"
     {{< merchant 
         titleText="HODL Merch Store "
         imgSrc="/images/merchants/mer-hodl.png"
-        text="The Home of crypto merchants with range of NavCoin clothing and accessories."
+        text="The home of crypto merchants with range of NavCoin clothing and accessories."
         linkUrl="https://alwayshodl.com/pages/official-nav-collection"
     >}}
     {{< merchant 
@@ -67,7 +67,7 @@ imgSrc="/images/merchants/mer-hero.svg"
     {{< merchant 
         titleText="SocialTrades"
         imgSrc="/images/merchants/mer-social-trades.png"
-        text="A Social Media Management Service with 100,000 trusted customers worldwide."
+        text="A Social Media Management service with 100,000 trusted customers worldwide."
         linkUrl="https://www.socialtrades.xyz/"
     >}}
     {{< merchant 
@@ -82,17 +82,15 @@ imgSrc="/images/merchants/mer-hero.svg"
     titleText="Accepting NavCoin is easy!"
     subtitleText="NavCoin has the right payment solution for your business."
     bgPurple="true"
-    buttonUrl="/for-business/"
-    buttonText="See who's involved"
-    buttonImgSrc="/images/icons/rightward-arrow.svg"
+    buttonUrl=""
+    buttonText=""
+    buttonImgSrc=""
 >}}
     {{< action 
         titleText="For your store"
         imgSrc="/images/merchants/mer-for-store.svg"
         subtext="Use NavPay wallet on your smartphone. Customers just scan your QR code and transfer the fund instantly"
-        linkText="Demo"
-        linkUrl="https://twitter.com/NavCoin/status/969467480887439360"
-        linkImgSrc="/images/icons/rightward-arrow.svg"
+       
     >}}
     {{< action 
         titleText="For your online business"

@@ -8,7 +8,7 @@ description: ""
 ---
 {{< hero_section
 titleText="Roadmap"
-paragraphText="Is your business ‘future ready?’ More and more people are looking for ways to pay using their digital currency. If you want to stay ahead of the trend, now’s the time to start accepting it at your store and online. NavCoin has the right payment solution for your business."
+paragraphText="Cryptocurrencies are complicated, and NavCoin’s community roadmap is aimed at changing that. As a community, we are laying the foundation for NavCoin to be an industry-leading cryptocurrency by building better money."
 imgSrc="/images/roadmap/map_hero.svg"
 >}}
 

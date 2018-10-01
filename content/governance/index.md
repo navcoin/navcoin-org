@@ -1,5 +1,5 @@
 ---
-title: "Goernance"
+title: "Governance"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
@@ -9,15 +9,15 @@ description: ""
 {{< hero_section
 titleText="Governance"
 imgSrc="/images/governance/gov-hero.svg"
-paragraphText="The objective of NavCoin Developer and Content Manifestos is to clearly set out the reasons contributors to the NavCoin community do what we do, how we do it and why. These documents cover guiding principles, purpose, scope of work and operational requirements to ensure we share the same values and always operate in the best interests of the network."
+paragraphText="The objective of the NavCoin Manifestos is to clearly set out the reasons contributors to the NavCoin community do what we do, how we do it and why. These documents cover guiding principles, purpose, scope of work and operational requirements to ensure we share the same values and always operate in the best interests of the network."
 buttonText="Read our manifestos"
 buttonImgSrc="/images/icons/downward-arrow.svg"
 >}}
 
 {{< zig_section
-titleText="Why Decentralisation is revolutionary"
+titleText="Why decentralization is revolutionary"
 imgSrc="/images/governance/gov-decentralise.svg"
-paragraphText="As contributors to the NavCoin community we are members of one of the world’s first functioning anarcho-syndicalist societies. This revolutionary system is based on the belief that when people are free to act in their own best interests they naturally work in the best interests of society as well. Another way to describe to anarcho-syndicalism is decentralization." 
+paragraphText="As contributors to the NavCoin community we are members of one of the world’s first functioning anarcho-syndicalist societies. This revolutionary system is based on the belief that when people are free to act in their own best interests, they naturally work in the best interests of society as well. Another way to describe anarcho-syndicalism is decentralization." 
 reversed="true"
 >}}
 
@@ -38,14 +38,14 @@ reversed="true"
 {{< zig_section
   titleText="It all depends on you"
   imgSrc="/images/governance/gov-you.svg"
-  paragraphText="When everyone in the NavCoin community takes responsibility for contributing to the development of the protocol and is actively pushing it’s message out to the world, not only does the community benefit, the benefits spreads to society as a whole. Conversely, without your participation as an empowered autonomous individual there can be no decentralization, and hence no NavCoin. NavCoin’s success truly is up to you, and you are free to make it happen."
+  paragraphText="When everyone in the NavCoin community takes responsibility for contributing to the development of the protocol and is actively pushing it’s message out to the world, not only does the community benefit, the benefits spread to society as a whole. Conversely, without your participation as an empowered autonomous individual there can be no decentralization, and hence no NavCoin. NavCoin’s success truly is up to you, and you are free to make it happen."
   bgPurple="true"
 >}}
 
 {{< zig_section
 titleText="Get involved"
 imgSrc="/images/governance/gov-get-involved.svg"
-paragraphText="NavCoin is a community initiative that allows anyone to contribute in a number of different ways. The NavCoin ecosystem is more than just open-source development. Content creation, promotion and adoption are equally important as a decentralized digital currency -  that’s why the key to success is contributions from people of different skill sets" 
+paragraphText="NavCoin is a community initiative that allows anyone to contribute in a number of different ways. The NavCoin ecosystem is more than just open-source development. Content creation, promotion and adoption are equally important as a decentralized digital currency -  that’s why the key to success is contributions from people of different skill sets." 
 reversed="true"
 >}}
 
@@ -73,7 +73,7 @@ reversed="true"
     {{< action 
         titleText="Brand Guidelines"
         imgSrc="/images/governance/gov-brand.svg"
-        subtext="A handbook to help you match the content your create to the NavCoin brand look and feel. "
+        subtext="A handbook to help you match the content you create to the NavCoin brand look and feel. "
         linkText="Get the Guide"
         linkUrl="/assets/NavCoinBrandGuidelines.pdf"
         linkImgSrc="/images/icons/rightward-arrow.svg"

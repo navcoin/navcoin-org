@@ -8,7 +8,7 @@ type: "default"
     <div class="grid-container">
       <div class="text-container">
         <h1>Community Fund</h1>
-        <p>The NavCoin community fund is a pool of funds that are set aside to help kickstart community projects. NavCoin was built from the ground up - it’s an open-source community project that ran no premine or ICO. So as an extension of this ethos, this fund has been created to help incentivise the ongoing development of NavCoin in a decentralised manner.</p>
+        <p>The NavCoin community fund is a pool of NAV thats set aside to help kickstart community projects. NavCoin was built from the ground up - it’s an open-source community project that ran no premine or ICO. So as an extension of this ethos, this fund has been created to help incentivise the ongoing development of NavCoin in a decentralized manner.</p>
       </div>
       <img src="cfund_hero.png" alt="Hero image">
     </div>
@@ -37,26 +37,26 @@ type: "default"
 {{< /item_container_section >}}
 
 {{< item_container_section 
-    titleText="Features of community fund"
-    subtitleText="Helps you take your idea, nurture it, and build a team to bring it to life - and pays you in NAV"
+    titleText="The worlds most advanced community fund"
+    subtitleText="The fund pays you to take your idea, nurture it, and build a team to bring it to life"
 >}}
     {{< feature 
-        titleText="Dual-Vote Consensus"
+        titleText="Dual-vote consensus"
         imgSrc="/images/community-fund/cfu-dual-vote.svg"
         text="The first community fund to implement a dual vote, to ensure that if work is never completed the funds are returned."
     >}}
     {{< feature 
-        titleText="Open To Anyone"
+        titleText="Open to anyone"
         imgSrc="/images/community-fund/cfu-anyone.svg"
-        text="Anyone and everyone can get involved by submitting a proposal, leaving it to the network to decide what is most valuable."
+        text="Anyone and everyone can get involved by submitting a proposal - leaving it to the network to decide what's most valuable."
     >}}
     {{< feature                 
-        titleText="No Centralised Fund"
+        titleText="No centralised fund"
         imgSrc="/images/community-fund/cfu-decentralised-fund.svg"
         text="No one owns the NAV in the Community Fund, the only way they can ever be spent is by the dual network consensus vote."
     >}}
     {{< feature                 
-        titleText="X amount of NAV per year"
+        titleText="250,000 NAV per year"
         imgSrc="/images/community-fund/cfu-fund-per-year.svg"
         text="Every block that gets minted generates 0.25 NAV into the community fund which accumulates over time."
     >}}
@@ -66,7 +66,7 @@ type: "default"
         text="Funds get released through a second vote - which can be paid out in stages or once the work is completed."
     >}}
     {{< feature                 
-        titleText="The Network Decides"
+        titleText="The network decides"
         imgSrc="/images/community-fund/cfu-network.svg"
         text="The community fund gives more power to the community - by funding people to get involved, and giving the network more of a voice about the direction of NavCoin."
     >}}

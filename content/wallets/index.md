@@ -9,18 +9,18 @@ description: ""
 {{< hero_section
 titleText="Wallets"
 imgSrc="/images/wallets/wal-hero.svg"
-paragraphText="NavCoin is an open source protocol and NavCoin wallets are maintained by a range of organisations and individuals. There are different types of wallets - from ‘full’ wallets that give you complete control and allow you to participate in the NavCoin network, to ‘thin’ wallets that are easier to use. Always remember that it is your responsibility to choose your wallet carefully and adopt good practices in order to protect your money."
-buttonText="Ask Community for assistance"
+paragraphText="NavCoin is an open source protocol, which means that wallets are maintained by a range of organizations and individuals. There are different types of wallets - from ‘full’ wallets that give you complete control and allow you to participate in the NavCoin network, to 'light' wallets that are easier to use. Always remember that it is your responsibility to choose your wallet carefully and adopt good practices in order to protect your money."
+buttonText="Ask community for assistance"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 buttonLink="https://discord.gg/y4Vu9jw"
 >}}
 
 {{< item_container_section
-    titleText="NavCoin Core wallet"
+    titleText="NavCoin core wallet"
     subtitleText="NavCoin's reference implementation"
     >}}
     {{< wallet 
-        titleText="NavCoin Core Wallet v4.3.0"
+        titleText="NavCoin core wallet v4.3.0"
         walletImgSrc="/images/wallets/wal-core.png"
         text="NavCoin Core Wallet is a full NavCoin client that allows users to participate in network staking. Released by the core NavCoin developers, it combines speed and reliability with usability."
         buttonUrl="/navcoin-core/"
@@ -37,7 +37,7 @@ buttonLink="https://discord.gg/y4Vu9jw"
     subtitleText="Make sure to do your own research or ask community for assistance"
     >}}
     {{< wallet 
-        titleText="NavPay Light Wallet v4.2.0"
+        titleText="NavPay light wallet v4.2.0"
         walletImgSrc="/images/wallets/wal-navpay.png"
         text="NavPay is an easy to use light wallet, that allows you to securely store your NAV."
         buttonUrl="https://navhub.org/projects/nav-pay/"
@@ -51,16 +51,16 @@ buttonLink="https://discord.gg/y4Vu9jw"
         platformImg6Src="/images/platforms/web.png"
     >}}
     {{< wallet 
-        titleText="NavPi Stakebox v1.0.9"
+        titleText="NavPi stakebox v1.0.9"
         walletImgSrc="/images/wallets/wal-pi.png"
-        text="A low-energy NavCoin staking solution based on the Raspberry-Pi platform."
+        text="A low-energy NavCoin full wallet based on the Raspberry-Pi platform."
         buttonUrl="https://navcoin.org/navcoin-core/#links"
         buttonText="Download"
         platformImg1Src="/images/platforms/pi.png"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
     >}}
     {{< wallet 
-        titleText="NavCoin Paper Wallet Generator"
+        titleText="NavCoin paper wallet generator"
         walletImgSrc="/images/wallets/wal-paper.png"
         text="Generate keys to be printed and stored offline for additional security."
         buttonUrl="https://navcoin.org/navcoin-core/#links"
@@ -71,7 +71,7 @@ buttonLink="https://discord.gg/y4Vu9jw"
         platformImg3Src="/images/platforms/web.png"
     >}}
     {{< wallet 
-        titleText="NEXT Wallet"
+        titleText="NEXT wallet"
         walletImgSrc="/images/wallets/wal-next.png"
         text="A modern and stylish next generation wallet for NavCoin."
         buttonUrl="https://navcoin.org/navcoin-core/#links"
@@ -82,7 +82,7 @@ buttonLink="https://discord.gg/y4Vu9jw"
         platformImg3Src="/images/platforms/linux.png"
     >}}
     {{< wallet 
-        titleText="Coinomi Wallet"
+        titleText="Coinomi wallet"
         walletImgSrc="/images/wallets/wal-coinomi.png"
         text="Coinomi is a Security-First Multi-Asset Wallet for Bitcoin, Altcoins and Tokens."
         buttonUrl="https://navcoin.org/navcoin-core/#links"
