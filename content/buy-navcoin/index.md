@@ -122,4 +122,4 @@ newTab="true"
     buttonText="Check out the stores"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants"
-    innerText="An internet with these qualities will not come to life on its own. Individuals and organizations must embed these aspirations into internet technology and into the human experience with the internet. The Mozilla Manifesto and A">}}
+    innerText="A number of businesses have already begun to integrate NavCoin as a payment option, and with them you can easily purchase a range of products and services.">}}

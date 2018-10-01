@@ -31,7 +31,7 @@ reversed="true"
 >}}
 
 {{< zig_section
-titleText="Benefits of decentralisation"
+titleText="Benefits of decentralization"
 imgSrc="/images/governance/gov-benifits.svg"
 paragraphText="Decentralization also offers protection from corruption. History has shown us countless times that too much power in too few hands inevitably leads to its abuse. What’s more it gives the individual a chance to make a real difference. Improvements to the protocol come from the bottom up, and can be submitted by anyone. NavCoin’s thriving community is living proof that when people are trusted to do good, they will contribute for the good of all." 
 reversed="true"

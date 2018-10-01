@@ -13,7 +13,7 @@ imgSrc="/images/for-business/bus-hero.svg"
 >}}
 
 {{< item_container_section 
-    titleText="Why NavCoin is good for business"
+    titleText="Why NavCoin Is Good For Business"
     subtitleText=""
 >}}
     {{< feature 
@@ -49,7 +49,7 @@ imgSrc="/images/for-business/bus-hero.svg"
 {{< /item_container_section >}}
 
 {{< zig_section
-  titleText="Accept payments in person"
+  titleText="Accept Payments In Person"
   imgSrc="/images/for-business/bus-for-store.svg"
   paragraphText="NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. With no blockchain to download, it's an easy way to get started."
   buttonText="Visit NavPay"
@@ -60,10 +60,10 @@ imgSrc="/images/for-business/bus-hero.svg"
 >}}
 
 {{< zig_section
-titleText="Accept online payments"
+titleText="Accept Online Payments"
 imgSrc="/images/for-business/bus-for-bus.svg"
 paragraphText="CoinPayments is a little like PayPal, but for digital currencies. Plug-ins include a shopping cart, payment button, invoicing, and point-of-sale interface. If your business is in the EuroZone or USA, you can withdraw funds in EURO or USD. For more information visit www.coinpayments.net." 
-buttonText="Visit Coinpayment"
+buttonText="Visit CoinPayments"
 buttonUrl="https://www.coinpayments.net/"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
@@ -71,7 +71,7 @@ newTab="true"
 >}}
 
 {{< zig_section
-  titleText="Accept personal payments"
+  titleText="Accept Personal Payments"
   imgSrc="/images/for-business/bus-for-blog.svg"
   paragraphText="Integrating NavButtons for quick payments is an easy to implement option that suits individuals or side businesses. It’s as easy as copy-pasting some code onto your website. There is a choice of embeddable buttons, or QR codes for even easier sharing."
   buttonText="View buttons here"
@@ -83,7 +83,7 @@ newTab="true"
 
 {{< center_text_cta
     lightStyle="true"
-    titleText="Who's accepting NAV?"
+    titleText="Who's Accepting NAV?"
     buttonText="Find merchants here"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants/"

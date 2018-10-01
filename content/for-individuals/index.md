@@ -12,7 +12,7 @@ paragraphText="If you're new to this project, and not sure where to start, then 
 imgSrc="/images/for-beginners/beg-hero.svg"
 >}}
 {{< step_container_section 
-    titleText="Getting started"
+    titleText="Getting Started"
     subtitleText=""
 >}}
   {{< step 
@@ -42,7 +42,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
   {{< step
       titleText="Step 4: Secure the network"
       imgSrc="/images/for-beginners/beg-secure-network.svg"
-      text="If you’re running the NavCoin Core wallet, then you have the option to stake your coins and earn rewards at 4% pa. There are a range of devices to make staking easier and lot’s of information created by the community to help get you set up."
+      text="If you’re running the NavCoin Core wallet, then you have the option to stake your coins and receive staking rewards at 4% per annum. There are a range of devices to make staking easier and lots of information created by the community to help get you set up."
   >}}
   {{< step
       titleText="Step 5: Spend NavCoin"
@@ -63,7 +63,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
 {{< /step_container_section >}}
 
 {{< social_grid_section 
-    titleText="Join our active community"
+    titleText="Join Our Active Community"
     subtitleText=""
     bgPurple="true"
 >}}

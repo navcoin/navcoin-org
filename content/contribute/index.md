@@ -5,7 +5,7 @@ draft: false
 type: "default"
 ---
 {{< hero_section
-titleText="Contribute to the Protocol"
+titleText="Contribute To The Protocol"
 paragraphText="There are several ways to contribute to the NavCoin protocol, not all of which require a high level of programming skills. If you’d like to support the NavCoin project, here’s some of the best ways to get involved."
 imgSrc="/images/contribute/con-hero.svg"
 >}} 

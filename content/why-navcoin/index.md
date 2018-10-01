@@ -67,7 +67,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
 
 {{< item_container_section 
     titleText="How To Use NavCoin"
-    subtitleText="A programmable currency for the web3 era"
+    subtitleText="A programmable currency for the web3 era with a range of use cases."
 >}}
     {{< feature 
         titleText="Buying goods & services"
@@ -104,7 +104,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
 
 {{< item_container_section 
     titleText="A Developer-Centric Community"
-    subtitleText="Making it easy for developers to get involved"
+    subtitleText="Making it easy for developers to get involved."
     bgPurple="true"
 >}}
     {{< feature 
