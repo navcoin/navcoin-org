@@ -73,8 +73,9 @@
 
   &:hover, &:active, &:focus {
     color: white;
-    filter: brightness(110%); 
-    transition: 0.2s ease
+    filter: brightness(115%); 
+    transition: 0.2s ease;
+    box-shadow: rgba(65, 45, 178, 0.1) 11px 30px 50px;
   }
 }
 
@@ -107,8 +108,9 @@
   background-color: #53A3FF;
   transition: 0.2s ease;
   &:hover, &:active, &:focus {
-    filter: brightness(110%);
-    transition: 0.2s ease;
+    filter: brightness(115%);
+    transition: 0.2s ease;;
+    box-shadow: rgba(65, 45, 178, 0.1) 11px 30px 50px;
   }
 }
 

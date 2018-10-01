@@ -17,6 +17,7 @@ imgSrc="/images/contribute/con-translate.svg"
   buttonUrl="https://www.transifex.com/signup/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
     reversed="true"
+    newTab="true"
 >}}
 
 {{< zig_section
@@ -27,6 +28,7 @@ imgSrc="/images/contribute/con-translate.svg"
   buttonUrl="https://github.com/NAVCoin/navcoin-dev-docs"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
+  newTab="true"
 >}}
 
 {{< zig_section
@@ -37,6 +39,7 @@ buttonText="Submit an issue"
 buttonUrl="https://github.com/NAVCoin/navcoin-core/issues"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
+newTab="true"
 >}}
 
 
@@ -48,6 +51,7 @@ reversed="true"
   buttonUrl="https://github.com/navcoin/navcoin-core/blob/master/CONTRIBUTING.md"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
+  newTab="true"
 >}}
 
 {{< zig_section
@@ -55,6 +59,7 @@ titleText="Write tests"
 imgSrc="/images/contribute/con-test.svg"
 paragraphText="NavCoin Core is covered by many tests, but patches that improve test coverage are always welcome and are a great way to build familiarity with the codebase.<br><br>Developers are strongly encouraged to write <a href=\"https://github.com/NAVCoin/navcoin-core/blob/master/doc/unit-tests.md\" style=\"text-decoration:underline;\">unit tests</a> for new code, and to submit new unit tests for old code. Unit tests can be compiled and run (assuming they weren't disabled in configure) with: make check.<br><br>There are also <a href=\"https://github.com/NAVCoin/navcoin-core/tree/master/qa\" style=\"text-decoration:underline;\">regression and integration tests</a>, written in Python, that are run automatically on the build server." 
 reversed="true"
+newTab="true"
 >}}
 
 {{< zig_section
@@ -65,6 +70,7 @@ reversed="true"
   buttonUrl="https://github.com/navcoin/navcoin-core/pulls"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
+  newTab="true"
 >}}
 
 {{< zig_section
@@ -75,6 +81,7 @@ buttonText="View NPIP's"
 buttonUrl="https://github.com/NAVCoin/npips"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
+newTab="true"
 >}}
 
 {{< zig_section
@@ -85,4 +92,5 @@ reversed="true"
   buttonUrl="https://github.com/navcoin/navcoin-core/pulls"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
+  newTab="true"
 >}}

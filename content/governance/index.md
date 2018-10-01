@@ -6,12 +6,14 @@ type: "default"
 author: ""
 description: ""
 ---
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 {{< hero_section
 titleText="Governance"
 imgSrc="/images/governance/gov-hero.svg"
 paragraphText="The objective of the NavCoin Manifestos is to clearly set out the reasons contributors to the NavCoin community do what we do, how we do it and why. These documents cover guiding principles, purpose, scope of work and operational requirements to ensure we share the same values and always operate in the best interests of the network."
 buttonText="Read our manifestos"
 buttonImgSrc="/images/icons/downward-arrow.svg"
+buttonLink="#read-manifestos"
 >}}
 
 {{< zig_section
@@ -53,6 +55,7 @@ reversed="true"
     titleText="Read our manifestos"
     subtitleText="The NavCoin core values and contribution guidelines"
     bgPurple="true"
+    anchor="read-manifestos"
 >}}
     {{< action 
         titleText="Developer Manifesto"
@@ -60,7 +63,7 @@ reversed="true"
         subtext="Essential reading for everyone who wants to contribute to NavCoin open-source code."
         linkText="Get the Manifesto"
         linkUrl="/assets/NavCoinDeveloperManifesto.pdf"
-        linkImgSrc="/images/icons/rightward-arrow.svg"
+        linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action 
         titleText="Content Manifesto"
@@ -68,7 +71,7 @@ reversed="true"
         subtext="A guide to the shared values and objectives of NavCoin community content contributors."
         linkText="Get the Manifesto"
         linkUrl="/assets/NavCoinContentManifesto.pdf"
-        linkImgSrc="/images/icons/rightward-arrow.svg"
+        linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action 
         titleText="Brand Guidelines"
@@ -76,6 +79,18 @@ reversed="true"
         subtext="A handbook to help you match the content you create to the NavCoin brand look and feel. "
         linkText="Get the Guide"
         linkUrl="/assets/NavCoinBrandGuidelines.pdf"
-        linkImgSrc="/images/icons/rightward-arrow.svg"
+        linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
 {{< /item_container_section >}}
+
+<script>
+$("a[href^='#']").click(function(e) {
+	e.preventDefault();
+	
+	var position = $($(this).attr("href")).offset().top;
+
+	$("body, html").animate({
+		scrollTop: position
+	} /* speed */ );
+});
+</script>

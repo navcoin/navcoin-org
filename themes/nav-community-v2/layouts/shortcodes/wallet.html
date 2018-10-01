@@ -31,7 +31,7 @@
                 <div class="item-text">
                     <p>{{ .Get "text"  }}</p>
                     {{ if isset .Params "buttonUrl" }}
-                        <a href="{{ .Get "buttonUrl" }}" target="_blank" class="round-btn small gradient-btn">{{ .Get "buttonText" }} <img src="{{ .Get "buttonImgSrc" }}" class="btn-img"> </span></a>
+                        <a href="{{ .Get "buttonUrl" }}" {{if isset .Params "newTab"}} target="_blank" {{ end }} class="round-btn small gradient-btn">{{ .Get "buttonText" }} <img src="{{ .Get "buttonImgSrc" }}" class="btn-img"> </span></a>
                     {{ end }}
                 </div>
             </div>

@@ -80,6 +80,7 @@ type: "default"
   buttonUrl="https://collab.navcoin.org/dashboard"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
+  newTab="true"
 >}}
 
 {{< accordion

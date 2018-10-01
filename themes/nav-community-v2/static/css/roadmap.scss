@@ -37,7 +37,7 @@
   display:grid;
   grid-template-areas:
     "up-coming   in-progress  beta   completed";
-  grid-gap:0 3%;
+  grid-gap:0 1.5%;
   max-width:1850px;
   margin:0 auto;
   padding: 10px;
@@ -50,10 +50,10 @@
       "up-coming      completed"
       "in-progress    completed"
       "beta           completed";
-    grid-gap:0 12%;
+    grid-gap:0 3%;
     max-width:1190px;
     margin:0 auto;
-    padding: 10px;
+    padding: 30px;
   }
   
   .divider{
@@ -74,6 +74,7 @@
       "in-progress"
       "beta"
       "completed";
+      padding: 10px;
   }
   .divider{
     display:none;
@@ -123,16 +124,30 @@
 .roadmap-session h3{
   text-align:center;
   margin: 50px 0 33px 0;
-  font-size:20px;
+  font-size:30px;
   font-family:raleway;
   color:#7D5AB5;
-  font-weight:600;
+  font-weight:500;
 }
 
 .roadmap-card{
-  display:grid;
+  display: grid;
   max-width: 550px;
-  justify-self:center;
+  justify-self: center;
+  padding: 10px 31px 45px 30px;
+  background: #fff;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  box-shadow: 1px 13px 35px rgba(66, 45, 178, 0.12);
+  transition: all 0.3s ease;
+  margin-bottom: 30px;
+}
+
+.roadmap-card:hover{
+  transform: translate(0px, -5px);
+  box-shadow: 5px 23px 39px rgba(66, 45, 178, 0.12);
+
 }
 
 .roadmap-card p{
@@ -179,5 +194,5 @@
     line-height: 37px;
     color: #7D5AB5;
     font-family:raleway;
-    font-weight:600;
+    font-weight:400;
 }

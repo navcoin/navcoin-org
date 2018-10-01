@@ -37,9 +37,10 @@
     padding: 15px;
     border-radius: 10px;
     box-shadow: #ccc 0px 0px 10px;
-    transition: tranform 0.3s ease;
+    transition: all 0.3s ease;
     &:hover {
       transform: translate(0px, -5px);
+      box-shadow: 5px 23px 39px rgba(66, 45, 178, 0.12);
     }
 
     .name {

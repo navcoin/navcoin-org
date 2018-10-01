@@ -56,6 +56,7 @@ imgSrc="/images/for-business/bus-hero.svg"
   buttonUrl="https://navhub.org/projects/nav-pay/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
+  newTab="true"
 >}}
 
 {{< zig_section
@@ -66,6 +67,7 @@ buttonText="Visit Coinpayment"
 buttonUrl="https://www.coinpayments.net/"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
+newTab="true"
 >}}
 
 {{< zig_section
@@ -76,6 +78,7 @@ reversed="true"
   buttonUrl="https://brianium.github.io/nav-button/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
+  newTab="true"
 >}}
 
 {{< center_text_cta

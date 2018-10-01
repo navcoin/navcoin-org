@@ -1,4 +1,4 @@
-@import './colors.scss';
+@import'./colors.scss';
 @import './button.scss';
 @import './themeix.scss';
 
@@ -26,6 +26,7 @@
 @import './step.scss';
 @import './roadmap.scss';
 @import './community-fund.scss'; 
+@import './article.scss'; 
 
 // to push components past the header menu
 
@@ -1045,6 +1046,8 @@ a {
 
 .wallet-column .item-card:hover{
   transform: translate(0px, -5px);
+  box-shadow: 5px 23px 39px rgba(66, 45, 178, 0.12);
+
 }
 
 
@@ -1136,4 +1139,9 @@ a {
     font-size: 16px;
     padding: 8px 10px;
 }
+}
+
+//footer
+.footer-area ul li{
+  margin-bottom: 0;
 }
