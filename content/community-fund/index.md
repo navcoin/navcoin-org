@@ -96,7 +96,7 @@ type: "default"
   itemThreeText="Do you need other skills to bring your project to life? Use NavCoin’s social channels and the NavCollab website to find community members who can help you complete your project."
   
   itemFourTitle="Step 4 - Submit your proposal."
-  itemFourText="Complete the proposal form, including a link to your project page.<br><br>Pay the proposal fee. The projects that pay the highest fees to the network will be accepted first. A fee is necessary to stop people submitting poorly thought out proposals."
+  itemFourText="Complete the proposal form, including a link to your project page.<br><br>To complete the process, you will need to pay a proposal fee. If the fund has only a small amount of NAV left, then the projects that pay the highest fees to the network will be accepted first. A fee is necessary to stop people submitting poorly thought out proposals."
   
   itemFiveTitle="Step 5 - Promote your project to stakers."
   itemFiveText="Once you’ve submitted your proposal, promote your project using the community channels. Communicate why you think it’s worth funding what benefits will it bring? Why should the community support it?"
@@ -108,5 +108,5 @@ type: "default"
   itemSevenText="Start work and do your best to stick to your timeline.<br><br>Keep the community updated with how things are progressing in your project. It’s ok to ask for help along the way."
   
   itemEightTitle="Step 8 - Apply for payment."
-  itemEightText="Once your project is complete you can apply for payment from the Community Fund. If there are clear milestones in your proposal you can apply to receive payments at scheduled points in the timeline.<br><br>Payment is subject to a second consensus vote among NavCoin stakers. There must be a 50% minimum participation, with 50% ‘yes’ vote to be paid and 50% ‘no’ for payment to be rejected."
+  itemEightText="Once your project is complete you can apply for payment from the Community Fund. If there are clear milestones in your proposal you can apply to receive payments at scheduled points in the timeline.<br><br>Payment is subject to a second consensus vote among NavCoin stakers. There must be a 50% minimum participation, with 50% ‘yes’ vote to be paid and 50% ‘no’ for payment to be rejected.<br><br>Note that you will need to submit your payment request before the project expiration date (which you set when you create your proposal - so make sure to include some buffer)."
 >}}
