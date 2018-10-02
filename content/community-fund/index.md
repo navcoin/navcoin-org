@@ -10,7 +10,7 @@ type: "default"
         <h1>Community Fund</h1>
         <p>The NavCoin community fund is a pool of NAV that's set aside to help kickstart community projects. NavCoin was built from the ground up - it’s an open-source community project that ran no premine or ICO. So as an extension of this ethos, this fund has been created to help incentivise the ongoing development of NavCoin in a decentralized manner.</p>
       </div>
-      <img src="cfund_hero.png" alt="Hero image">
+      <img src="/images/community-fund/cfu-hero.png" alt="Hero image">
     </div>
   </section>
   
