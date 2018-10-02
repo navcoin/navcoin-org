@@ -23,7 +23,7 @@ imgSrc="/images/contribute/con-translate.svg"
 {{< zig_section
   titleText="Documentation"
   imgSrc="/images/contribute/con-doc.svg"
-  paragraphText="We are currently working to bring online an open source developer documentation resource for NavCoin Core. If you want to help get this up and running please head over to GitHub and see how you can help out. There’s lots to document, so don’t be shy. Just make sure you follow the GitHub conventions outlined on this page and submit an issue about what documentation you’re writing to reduce duplication of effort."
+  paragraphText="We are currently working to bring online an open source developer documentation resource for NavCoin Core. If you want to help get this up and running please head over to GitHub and see how you can help out. Just make sure you follow the GitHub conventions outlined on this page and submit an issue about what documentation you’re writing to reduce duplication of effort."
   buttonText="Contribute to developer docs"
   buttonUrl="https://github.com/NAVCoin/navcoin-dev-docs"
   buttonImgSrc="/images/icons/rightward-arrow.svg"

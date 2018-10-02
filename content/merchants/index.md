@@ -6,7 +6,7 @@ type: "default"
 ---
 {{< hero_section
 titleText="Merchants"
-paragraphText="Anyone can accept NavCoin on their website or in store to receive instant global payments with low fees."
+paragraphText="Anyone can accept NavCoin on their website or in-store to receive instant global payments with low fees."
 imgSrc="/images/merchants/mer-hero.svg"
 >}}
 
@@ -16,7 +16,7 @@ imgSrc="/images/merchants/mer-hero.svg"
     subtitleText="A selection of merchants & services that allow you to spend your NavCoin"
 >}}
     {{< merchant 
-        titleText="Coinpayment"
+        titleText="CoinPayments"
         imgSrc="/images/merchants/mer-coinpayment.png"
         text="Over 60 merchants accept NAV using the CoinPayments merchant gateway."
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
@@ -99,12 +99,12 @@ imgSrc="/images/merchants/mer-hero.svg"
         titleText="For your online business"
         imgSrc="/images/merchants/mer-for-bus.svg"
         subtext="Integrated NavCoin payment gateway, offering plugins for all the popular webcarts like shopify and woocommence."
-        linkText="Visit Coinpayment"
+        linkText="Visit CoinPayments"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"
     >}}
     {{< action                 
-        titleText="For your blog"
+        titleText="For personal projects"
         imgSrc="/images/merchants/mer-for-blog.svg"
         subtext="Integrating Nav Buttons for quick payments is an easy to implement option that suits individuals or side businesses."
         linkText="View buttons here"

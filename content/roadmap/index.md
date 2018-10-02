@@ -1,5 +1,5 @@
 ---
-title: "Shortcodes"
+title: "Roadmap"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
@@ -17,8 +17,8 @@ imgSrc="/images/roadmap/map_hero.svg"
 >}}
 
 {{< center_text_cta
-    titleText="Get Started"
-    buttonText="Learn more about NavCoin"
+    titleText="Get Involved"
+    buttonText="Learn more"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/why-navcoin/"
     innerText="An internet with these qualities will not come to life on its own. Individuals and organizations must embed these aspirations into internet technology and into the human experience with the internet. The Mozilla Manifesto and Addendum represent Mozilla’s commitment to advancing these aspirations. We aim to work together with people and organizations everywhere who share these goals to make the internet an even better place for everyone.">}}

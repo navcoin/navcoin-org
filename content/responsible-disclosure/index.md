@@ -24,7 +24,7 @@ imgSrc="/images/responsible-disclosure/dis-hero.svg"
                 https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub
             </a>
         </p>
-        <h3>Ideally the disclosure would include</h3>
+        <h3>Ideally the disclosure would include:</h3>
         <ul>
             <li>A docker image with python tests showing the vulnerability</li>
             <li>Detailed notes about the vulnerability and affected parts of the code</li>
