@@ -8,7 +8,7 @@ description: ""
 ---
 {{< hero_section
 titleText="What Is NavCoin"
-paragraphText="NavCoin is an open source, blockchain-based Proof of Stake cryptocurrency. Its design is public, nobody owns or controls NavCoin, and everyone can take part. It’s a platform that’s run by its users, for its users - with an incentivised network of nodes verifying payments all around the world."
+paragraphText="NavCoin is an open-source, blockchain based Proof of Stake cryptocurrency. Its design is public, nobody owns or controls NavCoin, and everyone can take part. It’s a platform that’s run by its users, for its users - with an incentivised network of nodes verifying payments all around the world."
 imgSrc="/images/why-navcoin/why-hero.svg"
 >}}
 
@@ -19,7 +19,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
     {{< long_text 
         titleText="Be your own bank"
         imgSrc="/images/why-navcoin/why-own-bank.svg"
-        text="There are no banks or intermediaries that run NavCoin, and no one you need to deposit your money with. All payments are peer to peer, and managed by your wallet. Unlike the current system - you have total control of your money, and a say in how the network is run."
+        text="There are no banks or intermediaries that run NavCoin, and no one you need to deposit your money with. All payments are peer to peer, and managed by your wallet. Unlike the current system, you have total control of your money, and a say in how the network is run."
 
     >}}
     {{< long_text 
@@ -67,7 +67,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
 
 {{< item_container_section 
     titleText="How To Use NavCoin"
-    subtitleText="A programmable currency for the web3 era with a range of use cases."
+    subtitleText="A programmable currency for the web3 era, with a range of use cases."
 >}}
     {{< feature 
         titleText="Buying goods & services"

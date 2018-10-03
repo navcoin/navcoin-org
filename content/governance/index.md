@@ -47,7 +47,7 @@ reversed="true"
 {{< zig_section
 titleText="Get involved"
 imgSrc="/images/governance/gov-get-involved.svg"
-paragraphText="NavCoin is a community initiative that allows anyone to contribute in a number of different ways. The NavCoin ecosystem is more than just open-source development. Content creation, promotion and adoption are equally important as a decentralized digital currency -  that’s why the key to success is contributions from people of different skill sets." 
+paragraphText="NavCoin is a community initiative that allows anyone to contribute in a number of different ways. The NavCoin ecosystem is more than just open-source development. Content creation, promotion and adoption are equally important as a decentralized digital currency -  that’s why the key to success is contributions from people of different skillsets." 
 reversed="true"
 >}}
 
@@ -60,7 +60,7 @@ reversed="true"
     {{< action 
         titleText="Developer Manifesto"
         imgSrc="/images/governance/gov-dev-manifesto.svg"
-        subtext="Essential reading for everyone who wants to contribute to NavCoin open-source code."
+        subtext="Essential reading for anyone who wants to contribute to NavCoin's code."
         linkText="Get the Manifesto"
         linkUrl="/assets/NavCoinDeveloperManifesto.pdf"
         linkImgSrc="/images/icons/downward-arrow.svg"

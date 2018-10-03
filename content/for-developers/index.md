@@ -17,7 +17,7 @@ buttonImgSrc="/images/icons/rightward-arrow.svg"
 {{< zig_section
 titleText="Get Funded By The NavCoin Network"
 imgSrc="/images/for-developers/dev-get-involved.svg"
-paragraphText="NavCoin’s Community Fund enables any developer to get paid by the network for their contributions to the NavCoin. Projects are funded and approved by the decentralized network with no central authority. This ensures NavCoin’s direction remains firmly in the best interest of the network and is autonomously determined by the community." 
+paragraphText="NavCoin’s Community Fund enables any developer to get paid by the network for their contributions to the NavCoin ecosystem. Projects are funded and approved by the decentralized network with no central authority. This ensures NavCoin’s direction remains firmly in the best interest of the network and is autonomously determined by the community." 
 buttonText="Learn more"
 buttonUrl="/community-fund"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -46,7 +46,7 @@ reversed="true"
     {{< feature                 
         titleText="Easy to get started"
         imgSrc="/images/for-developers/dev-easy.svg"
-        text="All the resources to get involved are at your fingertips and there’s lots of ways to get involved."
+        text="All the resources to get involved are at your fingertips and there are lots of ways to get involved."
     >}}
     {{< feature                 
         titleText="Programmable money"
@@ -54,9 +54,9 @@ reversed="true"
         text="With a publicly verifiable transaction ledger, you can easily use NavCoin in your apps and websites."
     >}}
     {{< feature                 
-        titleText="Always open source"
+        titleText="Always open-source"
         imgSrc="/images/for-developers/dev-trust.svg"
-        text="NavCoin software will always be free and in alignment with open source principles."
+        text="NavCoin software will always be free and in alignment with open-source principles."
     >}}
 {{< /item_container_section >}}
 
@@ -68,7 +68,7 @@ reversed="true"
     {{< long_text 
         titleText="NavCoin Protocol"
         imgSrc="/images/for-developers/dev-protocol.svg"
-        text="NavCoin is open source and everyone can participate in making it better. Here’s where you can find the procedures to report an issue, fix a issue or suggest an improvement to the consensus protocol."
+        text="NavCoin is open-source and everyone can participate in making it better. Here’s where you can find the procedures to report an issue, fix a issue or suggest an improvement to the consensus protocol."
         buttonUrl="/contribute/"
         buttonText="Learn more"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
