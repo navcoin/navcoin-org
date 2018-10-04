@@ -88,9 +88,9 @@ imgSrc="/images/for-beginners/beg-hero.svg"
     linkUrl="https://t.me/navcoin"
 >}}
 {{< social                 
-    titleText="BitcoinTalk"
-    imgSrc="/images/for-beginners/beg-bitcointalk.svg"
-    linkUrl="https://bitcointalk.org/index.php?topic=679791"
+    titleText="Facebook"
+    imgSrc="/images/for-beginners/beg-fb.svg"
+    linkUrl="https://www.facebook.com/NavCoin/"
 >}}
 {{< social                 
     titleText="Twitter"
@@ -104,7 +104,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
 >}}
 {{< social                 
     titleText="Medium"
-    imgSrc="/images/for-beginners/beg-medium.svg"
+    imgSrc="/images/for-beginners/beg-medium-new.svg"
     linkUrl="https://medium.com/nav-coin"
 >}}
 

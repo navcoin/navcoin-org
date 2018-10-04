@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 108 108">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2.5px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="beg-medium-new" transform="translate(6848 -131)">
+    <rect id="Rectangle_1059" data-name="Rectangle 1059" class="cls-1" width="108" height="108" transform="translate(-6848 131)"/>
+    <path id="Path_3296" data-name="Path 3296" class="cls-2" d="M36,0A36,36,0,1,1,0,36,36,36,0,0,1,36,0Z" transform="translate(-6812 149)"/>
+    <path id="Path_15958" data-name="Path 15958" class="cls-3" d="M28.555,42.391c0-9.138-.017-18.26.017-27.4a1.62,1.62,0,0,0-1.058-1.7C21.428,10.259,15.359,7.172,9.29,4.086,7.434,3.149,5.579,2.2,3.723,1.277,1.833.34.533,1.138.463,3.253c-.017.468,0,.919,0,1.387V17.386q0,19.924.017,39.866a4.3,4.3,0,0,0,2.5,4.058q8.167,4.188,16.369,8.306c1.959.988,3.884,2.029,5.9,2.9a2.288,2.288,0,0,0,3.295-2.133c.035-.381.017-.746.017-1.127ZM56.629,60.026a3.58,3.58,0,0,0,.295-.4q13.6-22.4,27.207-44.773c.607-.988.607-1.006-.416-1.509Q71.516,7.181,59.317,1A2.931,2.931,0,0,0,55.1,2.213c-4.89,8.046-16.59,25.526-16.59,25.526S55.363,57.529,56.629,60.026Zm3.592,1.762S73.5,68.662,80,71.9a5.845,5.845,0,0,0,2.237.572,2.212,2.212,0,0,0,2.462-2.22c.035-.434.017-.867.017-1.3V22.328m-52.2,25.084c2.653,1.318,21.053,11.071,24.1,12.615.035-.052-1.561-2.035-1.526-2.087-5.9-11.566-22.579-41.184-22.579-41.184" transform="translate(-6846.956 148.1)"/>
+  </g>
+</svg>
