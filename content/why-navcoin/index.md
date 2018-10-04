@@ -14,7 +14,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
 
 {{< item_container_section 
     titleText="Why Are People Using&nbsp;NavCoin?"
-    subtitleText="A cheaper, faster, more eco-friendly alternative"
+    subtitleText="A cheaper, faster, more eco-friendly alternative."
 >}}
     {{< long_text 
         titleText="Be your own bank"
@@ -31,7 +31,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
     {{< long_text 
         titleText="Cold staking"
         imgSrc="/images/why-navcoin/why-peer.svg"
-        text="Security is the number one priority for NavCoin, which makes cold staking an important upcoming feature to implement. Instead of having all your coins connected to the internet - this allows you to participate in staking the network, while also keeping your coins offline for&nbsp;added&nbsp;protection."
+        text="Security is the number one priority for NavCoin, which makes cold staking an important upcoming feature to be implemented. Instead of having all your coins connected to the internet - this allows you to participate in staking the network, while also keeping your coins offline for&nbsp;added&nbsp;protection."
 
     >}}
     {{< long_text 
@@ -95,7 +95,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
         text="Create a shared account with family or friends, with a range of&nbsp;security&nbsp;options."
     >}}
     {{< feature                 
-        titleText="Store Of Wealth"
+        titleText="Store of wealth"
         imgSrc="/images/why-navcoin/why-wealth.svg"
         text="NavCoin doesn’t require any central authority to run - meaning your money is in&nbsp;your&nbsp;control."
     >}}
@@ -125,7 +125,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
     {{< feature                 
         titleText="Active research & development"
         imgSrc="/images/why-navcoin/why-research.svg"
-        text="NavCoin Protocol Improvement Proposals (NPIP’s) are the research playground where cryptographers, economists, and&nbsp;developers&nbsp;collaborate."
+        text="NavCoin Protocol Improvement Proposals (NPIP’s) are the research playground where cryptographers, economists, and developers&nbsp;collaborate."
     >}}
     {{< feature                 
         titleText="Programmable money"
@@ -140,7 +140,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
 {{< /item_container_section >}}
 
 {{< zig_section
-titleText="Protocol roadmap"
+titleText="Protocol Roadmap"
 imgSrc="/images/why-navcoin/why-roadmap.svg"
 paragraphText="With an active community working on the NavCoin protocol, check out the roadmap to see what's&nbsp;coming&nbsp;next." 
 buttonUrl="/roadmap/"

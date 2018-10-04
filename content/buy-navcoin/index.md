@@ -9,7 +9,7 @@ description: ""
 {{< hero_section
 titleText="Buy NavCoin"
 imgSrc="/images/buy-navcoin/buy-hero.svg"
-paragraphText="NavCoin is publicly mined and ran no token sale. The only way to get NAV is to purchase it from a third party or exchange. Exchanges provide highly varying degrees of safety, security, privacy, and control over your funds and information. Perform your own due diligence and choose a wallet where you will keep your NavCoin before selecting an exchange. Please follow the link to check exchange volumes for more information."
+paragraphText="NavCoin is publicly mined and ran no token sale. The only way to get NAV is to purchase it from a third party or exchange. Exchanges provide highly varying degrees of safety, security, privacy, and control over your funds and information. Perform your own due diligence and choose a wallet where you will keep your NavCoin before selecting an exchange. Please follow the link to check exchange volumes for more&nbsp;information."
 buttonText="See market statistics"
 buttonLink="https://coinmarketcap.com/currencies/nav-coin/#markets"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -17,7 +17,7 @@ newTab="true"
 >}}
 {{< item_container_section 
     titleText="Exchanges"
-    subtitleText="NavCoin is available at the following exchanges"
+    subtitleText="NavCoin is available at the following&nbsp;exchanges"
 >}}
     {{< exchange 
         titleText="Poloniex"
@@ -122,4 +122,4 @@ newTab="true"
     buttonText="Check out the stores"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants"
-    innerText="A number of businesses have already begun to integrate NavCoin as a payment option, and with them you can easily purchase a range of products and services.">}}
+    innerText="A number of businesses have already begun to integrate NavCoin as a payment option, and with them you can easily purchase a range of products and&nbsp;services.">}}

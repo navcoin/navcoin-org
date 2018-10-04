@@ -6,7 +6,7 @@
             </div>
             <div class="lower-half">
                 <h3>{{ .Get "titleText" }}</h3>
-                <p>{{ .Get "text"  }}</p>
+                <p>{{ .Get "text" | safeHTML }}</p>
             </div>
         </div>
     </a>
