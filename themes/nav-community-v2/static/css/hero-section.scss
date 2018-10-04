@@ -4,9 +4,11 @@
   display: grid;
   grid-column-gap: 64px;
   grid-auto-flow: dense;
-  grid-template-columns:auto auto;
+  grid-template-columns: 1fr 1fr;
   grid-template-areas:  "image text"
                         "image text";
+
+  min-width: 100vw;
 
   background: linear-gradient(90deg, #6989D8 -50%, #9A55C5 150%);
 
