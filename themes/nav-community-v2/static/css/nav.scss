@@ -1189,3 +1189,9 @@ a {
     }
   }
 }
+
+// iOS Menu Fix 
+
+.navbar-colpse.in {
+  overflow-y: none !important; 
+}
