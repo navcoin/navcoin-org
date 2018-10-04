@@ -5,4 +5,5 @@ draft: false
 authors: ""
 description: ""
 status: ""
+externalUrl: ""
 ---
