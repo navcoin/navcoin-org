@@ -19,13 +19,13 @@ newTab="true"
 >}}
 
 {{< item_container_section
-    titleText="NavCoin core wallet"
+    titleText="NavCoin Core Wallet"
     subtitleText="NavCoin's reference implementation"
     >}}
     {{< wallet 
-        titleText="NavCoin core wallet v4.3.0"
+        titleText="NavCoin Core wallet v4.3.0"
         walletImgSrc="/images/wallets/wal-core.png"
-        text="NavCoin Core Wallet is a full NavCoin client that allows users to participate in network staking. Released by the core NavCoin developers, it combines speed and reliability with usability."
+        text="NavCoin Core wallet is a full NavCoin client that allows users to participate in network staking. Released by the core NavCoin developers, it combines speed and reliability with usability."
         buttonUrl="#download-core"
         buttonText="Download"
         buttonImgSrc="/images/icons/downward-arrow.svg"
@@ -36,7 +36,7 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="NavCoin community wallets"
+    titleText="NavCoin Community Wallets"
     subtitleText="Make sure to do your own research or ask community for assistance"
     >}}
     {{< wallet 

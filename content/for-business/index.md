@@ -62,7 +62,7 @@ imgSrc="/images/for-business/bus-hero.svg"
 {{< zig_section
 titleText="Accept Online Payments"
 imgSrc="/images/for-business/bus-for-bus.svg"
-paragraphText="CoinPayments is a little like PayPal, but for digital currencies. Plug-ins include a shopping cart, payment button, invoicing, and point-of-sale interface. If your business is in the EuroZone or USA, you can withdraw funds in EURO or USD. For more information visit www.coinpayments.net." 
+paragraphText="CoinPayments is a little like PayPal, but for digital currencies. Plug-ins include a shopping cart, payment button, invoicing, and point-of-sale interface. If your business is in the EuroZone or USA, you can withdraw funds in EURO or USD." 
 buttonText="Visit CoinPayments"
 buttonUrl="https://www.coinpayments.net/"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
