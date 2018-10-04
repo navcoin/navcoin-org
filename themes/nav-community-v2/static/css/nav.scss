@@ -1041,6 +1041,8 @@ a {
 
 
 
+
+
 //wallets
 .wallet-column .item-icon{
   padding:0;
@@ -1152,4 +1154,21 @@ a {
 //footer
 .footer-area ul li{
   margin-bottom: 0;
+}
+
+
+@media (max-width:400px){
+  .homepage .hero .grid-container{
+    .text-container{
+      max-width: 100vw;
+      p{
+        line-height: 30px;
+        margin-bottom: 25px;
+      }
+      h1{
+        font-size:30px;
+        margin-top:0;
+      }
+    }
+  }
 }

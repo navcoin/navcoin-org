@@ -188,18 +188,11 @@ $nav-purple-light: #9A54C4;
             text-align: justify;
             font-size: 15px;
             line-height: 20px;
-          }
+          } 
         }
       }
     }
 
-    @media (max-width:400px){
-      .grid-container{
-        .text-container{
-          max-width: 100vw;
-        }
-      }
-    }
   }
 
   .welcome {
