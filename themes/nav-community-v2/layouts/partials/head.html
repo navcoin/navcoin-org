@@ -3,7 +3,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>{{ if .Title }} {{.Title}} | {{ end }}{{ .Site.Title }}</title>
     <meta name="author" content="NavCoin">
-    <meta name="description" content="NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of NavCoin is carried out collectively by the network. NavCoin is open-source; its design is public, nobody owns or controls NavCoin and everyone can take part.">
+    <meta name="description" content="{{ if isset .Params "og_description" }}{{ .Params.og_description }}{{ else }}NavCoin is an easy to use digital currency - run by its community. It’s programmable money that lowers the cost of doing business in the Web3 economy.{{ end }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Google Tag Manager -->
@@ -36,18 +36,34 @@
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="NavCoin">
-    <meta name="twitter:description" content="NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of NavCoin is carried out collectively by the network. NavCoin is open-source; its design is public, nobody owns or controls NavCoin and everyone can take part.">
-    <meta name="twitter:image" content="https://navcoin.org/images/nav_blue-trend.png">
+    <meta property="twitter:description" content="{{ if isset .Params "og_description" }}{{ .Params.og_description }}{{ else }}NavCoin is an easy to use digital currency - run by its community. It’s programmable money that lowers the cost of doing business in the Web3 economy.{{ end }}" />
+    <meta property="twitter:image" content="{{ if isset .Params "og_image" }}{{ .Params.og_image }}{{ else }}https://navcoin.org/images/nav_blue-trend.png{{ end }}" />
 
     <!-- Open Graph data -->
     <meta property="og:site_name" content="NavCoin">
     <meta property="og:title" content="NavCoin">
-    <meta property="og:description" content="NavCoin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of NavCoin is carried out collectively by the network. NavCoin is open-source; its design is public, nobody owns or controls NavCoin and everyone can take part.">
-    <meta property="og:image" content="https://navcoin.org/images/nav_blue-trend.png">
-    <meta property="og:url" content="https://navcoin.org/">
-    <meta property="og:type" content="article">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ if isset .Params "og_url" }}{{ .Params.og_url }}{{ else }}https://navcoin.org{{ end }}" />
+    <meta property="og:image" content="{{ if isset .Params "og_image" }}{{ .Params.og_image }}{{ else }}https://navcoin.org/images/nav_blue-trend.png{{ end }}" />
+    <meta property="og:description" content="{{ if isset .Params "og_description" }}{{ .Params.og_description }}{{ else }}NavCoin is an easy to use digital currency - run by its community. It’s programmable money that lowers the cost of doing business in the Web3 economy.{{ end }}" />
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGRT2RZ"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
+
+    <script type="application/ld+json">
+        {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "NavCoin",
+          "url": "https://navcoin.org/",
+          "logo": "https://navcoin.org/images/nav_blue-trend.png",
+          "sameAs": [
+            "https://www.facebook.com/NAVCoin/",
+            "https://twitter.com/NavCoin",
+            "https://www.youtube.com/channel/UCjDs4JceVSsaeCyvkA9cWCg",
+            "https://github.com/NAVCoin"
+          ]
+        }
+        </script>
 </head>
