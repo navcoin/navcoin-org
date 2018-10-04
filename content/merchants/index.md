@@ -55,7 +55,7 @@ imgSrc="/images/merchants/mer-hero.svg"
     {{< merchant 
         titleText="DrApis"
         imgSrc="/images/merchants/mer-dr-apis.png"
-        text="Raw honey by Portuguese&nbsp;bees."
+        text="Raw honey by Portuguese bees. Straight from the hive: pure, unheated, &nbsp;unpasteurized."
         linkUrl="https://drapis.com/"
     >}}
     {{< merchant 

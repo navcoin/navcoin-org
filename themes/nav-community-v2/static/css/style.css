@@ -1007,9 +1007,9 @@ ul li.cat-item a {
 }
 
 .sidebar ul li.cat-item a {
-    border-bottom: 1px solid #e4e4e4;
     padding: 10px 0;
     position: relative;
+    color: 7d5ab5;
 }
 
 .blog-meta-wrapper .blog-cats,
