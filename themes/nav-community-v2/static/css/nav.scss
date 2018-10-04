@@ -893,6 +893,12 @@ a {
   margin-left:40px;
 }
 
+@media (max-width: 767px){
+  .homepage .hero .grid-container .text-container{
+    margin-left:0;
+  }
+}
+
 @media (max-width: 767px) {
   .step-section .step-card {
     grid-template-areas: "image title"
@@ -959,6 +965,8 @@ a {
     font-weight: 300;
     text-align: center;
     margin-bottom: 40px;
+    margin-right:auto;
+    margin-left: auto;
   }
   .homepage .hero .grid-container .text-container a{
     font-size: 18px;
@@ -983,7 +991,7 @@ a {
 
 @media (max-width: 600px){
   .homepage .hero .grid-container img{
-    width: 130%;
+    width: 100%;
     max-width: 110vw;
   }
 

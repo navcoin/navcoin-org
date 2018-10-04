@@ -161,8 +161,10 @@ $nav-purple-light: #9A54C4;
           }
           p {
             text-align: justify;
+            margin-left: auto;
+            margin-right: auto;
           }
-        }
+        } 
       }
     }
 
@@ -187,6 +189,14 @@ $nav-purple-light: #9A54C4;
             font-size: 15px;
             line-height: 20px;
           }
+        }
+      }
+    }
+
+    @media (max-width:400px){
+      .grid-container{
+        .text-container{
+          max-width: 100vw;
         }
       }
     }
