@@ -122,7 +122,9 @@ a {
       a:active {
         background: none;
       }
-      &:hover ul {
+      &:hover ul,
+      &:focus ul,
+      &:active ul {
         display: initial;
         background: #fff;
         box-shadow: 0 4px 5px rgba(0, 0, 0, 0.05);
@@ -141,7 +143,11 @@ a {
       }
 
       a:hover,
-      &:hover .nav-top-item {
+      a:active,
+      a:focus,
+      &:hover .nav-top-item,
+      &:active .nav-top-item,
+      &:focus .nav-top-item {
         border-bottom: 3px solid #999;
       }
       a,
@@ -867,7 +873,13 @@ a {
 .homepage .features .grid-container > div:hover {
   filter: drop-shadow(rgba(63, 50, 82, 0.32) 3px 4px 7px);
 }
- 
+
+@media (max-width: 888px) {
+  .homepage .features .grid-container > div:hover{
+    filter: drop-shadow(0 0 0);
+  }
+}
+
 .homepage .values .text-container li img{
   width: 70px;
 }
