@@ -114,6 +114,12 @@ a {
 
   padding: 20px 0px;
 
+  .navbar-toggle:active {
+    #bs-example-navbar-collapse-1 {
+      display: initial;
+    }
+
+  }
   .navbar-nav {
     li {
       float: left;
