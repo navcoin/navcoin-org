@@ -34,7 +34,7 @@ imgSrc="/images/contribute/con-translate.svg"
 {{< zig_section
 titleText="Submit an issue"
 imgSrc="/images/contribute/con-issue.svg"
-paragraphText="For all non-critical problems with NavCoin Core please search for similar issues and if you don’t find any, submit a new issue providing the information below.<br><ul><li>A clear description of the problem and steps to reproduce the problem.</li><li>What version of NavCoin Core you use or what commit you built using.</li><li>Any relevant entries from your debug.log file. Please ensure to strip out any sensitive information before publishing your debut.log entries.</li></ul><p class=\"paragraph-text\">The best strategy to get your issue fixed quickly is to make it as easy as possible for the development team to track down the problem and write a fix. Providing more information and organizing it well helps significantly.</p>" 
+paragraphText="For all non-critical problems with NavCoin Core please search for similar issues and if you don’t find any, submit a new issue providing the information below.<br><ul class=\"article-ul\" style=\"color: rgba(0, 0, 0, 0.55);\"><li>A clear description of the problem and steps to reproduce the problem.</li><li>What version of NavCoin Core you use or what commit you built using.</li><li>Any relevant entries from your debug.log file. Please ensure to strip out any sensitive information before publishing your debut.log entries.</li></ul><p class=\"paragraph-text\">The best strategy to get your issue fixed quickly is to make it as easy as possible for the development team to track down the problem and write a fix. Providing more information and organizing it well helps significantly.</p>" 
 buttonText="Submit an issue"
 buttonUrl="https://github.com/NAVCoin/navcoin-core/issues"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -46,7 +46,7 @@ newTab="true"
 {{< zig_section
   titleText="Resolve an issue"
   imgSrc="/images/contribute/con-resolve.svg"
-  paragraphText="The issue tracker is the best place to find a useful way to contribute to NavCoin Core. Before starting to write any patches for issues you find, you may want to comment on the issue to make sure nobody else is already working on it. Remember that even if you’re resolving an issue you’ve found you will need to first create an issue in the issue tracker.<br>To resolve an issue follow this process:<br><ul style=\"color:rgba(255, 255, 255, 0.55);\"><li>Fork NavCoin/navcoin-core to your own GitHub account.</li><li>Create a branch to work in to resolve the issue then get to work.</li><li>Write or update unit and integration tests to cover any changes you’ve made.</li><li>Make a pull request from your branch back into the main NavCoin Core repository with the issue type and number in the title (eg. Trivial: fixes spelling mistake #145).</li><li>Talk with other NavCoin Core contributors on Discord or through GitHub to alert them to the pending Pull Request and they will review it as soon as possible.</li></ul><p class=\"paragraph-text\">For the full contribution workflow details, please see the readme on GitHub.</p>"
+  paragraphText="The issue tracker is the best place to find a useful way to contribute to NavCoin Core. Before starting to write any patches for issues you find, you may want to comment on the issue to make sure nobody else is already working on it. Remember that even if you’re resolving an issue you’ve found you will need to first create an issue in the issue tracker.<br>To resolve an issue follow this process:<br><ul class=\"article-ul\" style=\"color: rgba(255,255,255,0.55);\"><li>Fork NavCoin/navcoin-core to your own GitHub account.</li><li>Create a branch to work in to resolve the issue then get to work.</li><li>Write or update unit and integration tests to cover any changes you’ve made.</li><li>Make a pull request from your branch back into the main NavCoin Core repository with the issue type and number in the title (eg. Trivial: fixes spelling mistake #145).</li><li>Talk with other NavCoin Core contributors on Discord or through GitHub to alert them to the pending Pull Request and they will review it as soon as possible.</li></ul><p class=\"paragraph-text\">For the full contribution workflow details, please see the readme on GitHub.</p>"
   buttonText="See the readme"
   buttonUrl="https://github.com/navcoin/navcoin-core/blob/master/CONTRIBUTING.md"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -94,3 +94,15 @@ newTab="true"
   bgPurple="true"
   newTab="true"
 >}}
+
+<style>
+.article-ul>li{
+    margin-bottom: 8px;
+    font-size: 16px;       
+    font-family: roboto;
+    line-height: 25px;
+    text-align: justify;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+</style>
