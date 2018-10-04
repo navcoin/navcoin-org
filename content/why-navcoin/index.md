@@ -90,7 +90,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
         text="Low-cost money transfers makes doing international business&nbsp;even&nbsp;easier."
     >}}
     {{< feature                 
-        titleText="Multi-person accounts "
+        titleText="Multi-person wallets "
         imgSrc="/images/why-navcoin/why-crowdfunding.svg"
         text="Create a shared account with family or friends, with a range of&nbsp;security&nbsp;options."
     >}}
