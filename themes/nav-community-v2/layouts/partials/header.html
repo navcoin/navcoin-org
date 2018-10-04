@@ -42,7 +42,54 @@
          </div>
          <!-- Collect the nav links, forms, and other content for toggling -->
          <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1" style="z-index:1;">
-            {{ partial "header_menu.html" .  }}
+            <nav>
+                <ul class="nav navbar-nav">
+                <li>
+                    <a class="">Get Started <span class="arrow"></span></a>
+                        <ul>
+                            <li class="active"><a href="/why-navcoin/">Why NavCoin</a></li>
+                            <li class="active"><a href="/governance/">Governance</a></li>
+                            <li class="active"><a href="/contribute/">Contribute</a></li>
+                            <!-- <li class="active"><a href="">Documentation</a></li> -->
+                            <hr>
+                            <li class="active"><a href="/for-individuals/">For Individuals</a></li>
+                            <li class="active"><a href="/for-developers/">For Developers</a></li>
+                            <li class="active"><a href="/for-business/">For Businesses</a></li>
+                            <hr>
+                            <li class="active"><a href="/merchants/">Merchants</a></li>
+                            <li class="active"><a href="/buy-navcoin/">Buy NavCoin</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/roadmap/">Roadmap</a>
+                    </li>
+                    <li>
+                        <a href="/notices/">News</a>
+                    </li>
+                    <li>
+                        <a href="/community-fund/">Community Fund</a>
+                    </li>
+                    <li>
+                        <a href="/wallets/">Wallets</a>
+                    </li>
+            
+                    <!-- <li class="">
+                        <a href="#">
+                            <span>{{ .Lang }} </span> <span class="arrow"></span>
+                        </a>
+                        <ul class="sub-menu">
+                            {{ range $.Site.Home.AllTranslations }}
+                                <li class="active"><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+                            {{ end }}
+                        </ul>
+                    </li> -->
+                </ul>
+            </nav>
+            
+            
+            
+            
+            
          </div>
          <!-- /.navbar-collapse -->
       </div>
