@@ -22,7 +22,7 @@ newTab="true"
     titleText="NavCoin Core Wallet"
     subtitleText="NavCoin's reference implementation"
     >}}
-    {{< wallet 
+    {{< wallet
         titleText="NavCoin Core wallet v4.3.0"
         walletImgSrc="/images/wallets/wal-core.png"
         text="NavCoin Core wallet is a full NavCoin client that allows users to participate in network staking. Released by the core NavCoin developers, it combines speed and reliability with&nbsp;usability."
@@ -39,7 +39,7 @@ newTab="true"
     titleText="NavCoin Community Wallets"
     subtitleText="Make sure to do your own research or ask community for&nbsp;assistance"
     >}}
-    {{< wallet 
+    {{< wallet
         titleText="NavPay light wallet v4.2.0"
         walletImgSrc="/images/wallets/wal-navpay.png"
         text="NavPay is an easy to use light wallet, that allows you to securely store your&nbsp;NAV."
@@ -54,7 +54,7 @@ newTab="true"
         platformImg6Src="/images/platforms/web.png"
         newTab="true"
     >}}
-    {{< wallet 
+    {{< wallet
         titleText="NavPi stakebox v1.0.9"
         walletImgSrc="/images/wallets/wal-pi.png"
         text="A low-energy NavCoin full wallet based on the Raspberry-Pi&nbsp;platform."
@@ -64,7 +64,7 @@ newTab="true"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         newTab="true"
     >}}
-    {{< wallet 
+    {{< wallet
         titleText="NavCoin paper wallet generator"
         walletImgSrc="/images/wallets/wal-paper.png"
         text="Generate keys to be printed and stored offline for additional&nbsp;security."
@@ -76,7 +76,7 @@ newTab="true"
         platformImg3Src="/images/platforms/web.png"
         newTab="true"
     >}}
-    {{< wallet 
+    {{< wallet
         titleText="NEXT wallet"
         walletImgSrc="/images/wallets/wal-next.png"
         text="A modern and stylish next generation wallet for&nbsp;NavCoin."
@@ -88,7 +88,7 @@ newTab="true"
         platformImg3Src="/images/platforms/linux.png"
         newTab="true"
     >}}
-    {{< wallet 
+    {{< wallet
         titleText="Coinomi wallet"
         walletImgSrc="/images/wallets/wal-coinomi.png"
         text="Coinomi is a Security-First Multi-Asset Wallet for Bitcoin, Altcoins and&nbsp;Tokens."
@@ -99,7 +99,7 @@ newTab="true"
         platformImg2Src="/images/platforms/android.png"
         newTab="true"
     >}}
-    {{< wallet 
+    {{< wallet
         titleText="NavCoin M8"
         walletImgSrc="/images/wallets/wal-m8.png"
         text="A high-powered NavCoin staking wallet including NEXT Wallet with DIY&nbsp;options."
@@ -108,20 +108,20 @@ newTab="true"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         platformImg1Src="/images/platforms/linux.png"
         newTab="true"
-    >}} 
+    >}}
 {{< /item_container_section >}}
 
-{{< item_container_section 
+{{< item_container_section
     titleText="Download NavCoin Core 4.3.0"
     subtitleText="The NavCoin Core wallet has been carefully refined to be intuitive and easy to use. It comes with a setup wizard and everything you need to load the blockchain and start sending transactions in a secure&nbsp;environment."
     bgPurple="true"
     anchor="download-core"
-    buttonUrl="https://github.com/NAVCoin/navcoin-core"
-    buttonText="View source code"
+    buttonUrl="https://github.com/NAVCoin/navcoin-core/releases/latest"
+    buttonText="Advanced Downloads"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     newTab="true"
 >}}
-    {{< action 
+    {{< action
         titleText="Windows"
         imgSrc="/images/wallets/wal-windows.svg"
         subtext=""
@@ -129,7 +129,7 @@ newTab="true"
         linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.3.0/navcoin-4.3.0-win64-setup.exe"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
-    {{< action 
+    {{< action
         titleText="Mac"
         imgSrc="/images/wallets/wal-mac.svg"
         subtext=""
@@ -151,7 +151,7 @@ newTab="true"
 <script>
 $("a[href^='#']").click(function(e) {
 	e.preventDefault();
-	
+
 	var position = $($(this).attr("href")).offset().top;
 
 	$("body, html").animate({

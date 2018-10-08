@@ -12,41 +12,41 @@ paragraphText="NavCoin is an open-source, blockchain based Proof of Stake crypto
 imgSrc="/images/why-navcoin/why-hero.svg"
 >}}
 
-{{< item_container_section 
+{{< item_container_section
     titleText="Why Are People Using&nbsp;NavCoin?"
     subtitleText="A cheaper, faster, more eco-friendly alternative."
 >}}
-    {{< long_text 
+    {{< long_text
         titleText="Be your own bank"
         imgSrc="/images/why-navcoin/why-own-bank.svg"
         text="There are no banks or intermediaries that run NavCoin, and no one you need to deposit your money with. All payments are peer to peer, and managed by your wallet. Unlike the current system, you have total control of your money, and a say in how the network&nbsp;is&nbsp;run."
 
     >}}
-    {{< long_text 
+    {{< long_text
         titleText="Privacy"
         imgSrc="/images/why-navcoin/why-privacy.svg"
         text="Blockchains by their nature are public ledgers that allows anyone to view every transaction ever sent, which makes privacy a challenge. NavCoin is dedicated to providing privacy for users, so that your information can only be given with your consent,&nbsp;not&nbsp;taken."
 
     >}}
-    {{< long_text 
+    {{< long_text
         titleText="Cold staking"
         imgSrc="/images/why-navcoin/why-peer.svg"
         text="Security is the number one priority for NavCoin, which makes cold staking an important upcoming feature to be implemented. Instead of having all your coins connected to the internet - this allows you to participate in staking the network, while also keeping your coins offline for&nbsp;added&nbsp;protection."
 
     >}}
-    {{< long_text 
+    {{< long_text
         titleText="A network that never sleeps"
         imgSrc="/images/why-navcoin/why-247.svg"
         text="With nodes all around the world, the NavCoin network is running 24/7. As long as you’re connected to the internet, you can send & receive payments anywhere in the world, at any time of the day, with no downtime - making it ideal for&nbsp;digital&nbsp;commerce."
 
     >}}
-    {{< long_text 
+    {{< long_text
         titleText="A human readable address"
         imgSrc="/images/why-navcoin/why-fair.svg"
         text="You can personalise your wallet using OpenAlias, which allows you to create an email-style address for your NAV. The service is built on top of the worldwide DNS service to convert a domain name into a cryptocurrency address, making sending a payment easier&nbsp;than&nbsp;ever."
 
     >}}
-    {{< long_text 
+    {{< long_text
         titleText="Frictionless payments"
         imgSrc="/images/why-navcoin/why-low-fee.svg"
         text="In the digital economy, sending payments around the world should be fast, cheap, and easy to do. NavCoin can be sent for a fraction of a cent, will show up within seconds (confirmed in 30 seconds), and there are a range of wallets designed to make sending&nbsp;NAV&nbsp;effortless."
@@ -65,16 +65,16 @@ imgSrc="/images/why-navcoin/why-hero.svg"
 >}}
 
 
-{{< item_container_section 
+{{< item_container_section
     titleText="How To Use&nbsp;NavCoin"
     subtitleText="A programmable currency for the web3 era, with a range of&nbsp;use&nbsp;cases."
 >}}
-    {{< feature 
+    {{< feature
         titleText="Buying goods & services"
         imgSrc="/images/why-navcoin/why-buy.svg"
         text="A cheaper way to pay for goods & services - with no&nbsp;expensive&nbsp;chargebacks."
     >}}
-    {{< feature 
+    {{< feature
         titleText="Digital tip jar"
         imgSrc="/images/why-navcoin/why-digital-tips.svg"
         text="If you’ve got space to add a QR code, you’re able to accept NAV - it’s&nbsp;that&nbsp;easy."
@@ -102,17 +102,17 @@ imgSrc="/images/why-navcoin/why-hero.svg"
 {{< /item_container_section >}}
 
 
-{{< item_container_section 
+{{< item_container_section
     titleText="A Developer-Centric Community"
     subtitleText="Making it easy for developers to get involved."
     bgPurple="true"
 >}}
-    {{< feature 
+    {{< feature
         titleText="Lots of ways to get involved"
         imgSrc="/images/why-navcoin/why-decentralised-dev.svg"
         text="NavCoin is an ecosystem of different teams and projects - allowing for a number of ways to&nbsp;get&nbsp;involved."
     >}}
-    {{< feature 
+    {{< feature
         titleText="Community fund"
         imgSrc="/images/why-navcoin/why-cfund.svg"
         text="NavCoin’s Community Fund allows contributors to get paid by the network for&nbsp;their&nbsp;efforts."
@@ -125,7 +125,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
     {{< feature                 
         titleText="Active research & development"
         imgSrc="/images/why-navcoin/why-research.svg"
-        text="NavCoin Protocol Improvement Proposals (NPIP’s) are the research playground where cryptographers, economists, and developers&nbsp;collaborate."
+        text="NavCoin Protocol Improvement Proposals (NPIPs) are the research playground where cryptographers, economists, and developers&nbsp;collaborate."
     >}}
     {{< feature                 
         titleText="Programmable money"
@@ -142,7 +142,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
 {{< zig_section
 titleText="Protocol Roadmap"
 imgSrc="/images/why-navcoin/why-roadmap.svg"
-paragraphText="With an active community working on the NavCoin protocol, check out the roadmap to see what's&nbsp;coming&nbsp;next." 
+paragraphText="With an active community working on the NavCoin protocol, check out the roadmap to see what's&nbsp;coming&nbsp;next."
 buttonUrl="/roadmap/"
 buttonText="Check out where we're going"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
