@@ -8,15 +8,21 @@
   {{ partial "header.html" .  }}
 
   <div class="hero-section">
-    <img src="/images/roadmap/map_hero.svg" class="hero-img">
+      <img src="/images/roadmap/map_hero.svg" class="hero-img">
     <div class="text-section-container">
-      <h1>Roadmap</h1>
-      <p class="paragraph-text">
-        Cryptocurrencies are complicated, and NavCoin’s community roadmap is aimed at changing that. As a community, we are laying the foundation for NavCoin to be an industry-leading cryptocurrency by building better money.
-      </p>
-      </div>    
+        <h1 class="">Roadmap</h1>
+        <p class="paragraph-text">
+            Cryptocurrencies are complicated, and NavCoin’s community roadmap is aimed at changing that. As a community, we are laying the foundation for NavCoin to be an industry-leading cryptocurrency by building better money.
+          </p>
+        
+            <div>
+                <a href="https://www.navexplorer.com/soft-forks" class="round-btn blue-btn" target="_blank">
+                    View soft fork stats
+                    <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+            </div>    
+        
     </div>
-  </div>
+</div>
 
   <section>
     <div class="roadmap-grid-container">
@@ -54,12 +60,57 @@
     </div>
   </section> 
 
-  <div class="center-text-cta-section inner-text-exists" >
+  
+  <section class="item-container-section  bg-purple " id="">
+    <div class="ninety-vw-container">
+        <h1 class="container-title">Get Involved</h1>
+        <h3 class="container-subtitle">NavCoin and its ecosystem of projects are all open source, and anyone is free to get involved.</h3>
+        <div class="grid-container">
+            
+    <div class="long-text-column">
+    <div class="long-text-card">
+        <img src="/images/roadmap/map-why.svg" alt="" class="item-icon">
+        <h3>Why NavCoin</h3>
+        <p>NavCoin is an open-source, blockchain based Proof of Stake cryptocurrency. Its design is public, nobody owns or controls NavCoin, and everyone can take part. It’s a platform that’s run by its users, for its users - with an incentivised network of nodes verifying payments all around the&nbsp;world.</p>
+        
+            <a href="/why-navcoin/" class="round-btn gradient-btn">Learn more <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+        
+    </div>
+</div>
+    <div class="long-text-column">
+    <div class="long-text-card">
+        <img src="/images/roadmap/map-contribute.svg" alt="" class="item-icon">
+        <h3>Contribute</h3>
+        <p>There are several ways to contribute to the NavCoin protocol, not all of which require a high level of programming skills. If you’d like to support the NavCoin project, here’s some of the best ways to get&nbsp;involved.</p>
+        
+            <a href="/contribute/" class="round-btn gradient-btn">Learn more <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+      
+    </div>
+</div>
+    <div class="long-text-column">
+    <div class="long-text-card">
+      <img src="/images/roadmap/map-navhub.svg" alt="" class="item-icon">
+        <h3>More Projects</h3>
+        <p>Beside showing what is going on with NavCoin at the protocol layer, the NavHub is the 2nd layer of our ecosystem, and is where you can see the various projects being built on top of the NavCoin&nbsp;protocol.</p>
+        
+            <a href="https://navhub.org" target="_blank" class="round-btn gradient-btn">Visit NavHub <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+        
+    </div>
+</div>
+  
+        </div>
+        
+    </div>
+</section>
+
+  <!-- <div class="center-text-cta-section inner-text-exists" >
     <h2 class="title">Get Involved</h2>
     <p class="inner-text">
       NavCoin and its ecosystem of projects are all open source, and anyone is free to get involved. If you want to contribute to any of these protocol projects you can via the NavCoin GitHub repositories. </p>
     <a href="/contribute/" class="round-btn gradient-btn" >Learn more <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
-  </div>
+  </div> -->
+
+  
 
   {{ partial "footer.html" . }}
 

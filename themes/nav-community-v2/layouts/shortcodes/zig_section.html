@@ -2,7 +2,7 @@
   <div class="zig-container {{ if eq (.Get "reversed") "true" }} reversed {{ end }}" >
     <img src="{{ .Get "imgSrc" }}" class="zig-img">
     <div class="text-section-container">
-      <h1 class="">{{ .Get "titleText"}}</h1>
+      <h1 class="">{{ .Get "titleText" | safeHTML }}</h1>
       <p class="paragraph-text">{{ .Get "paragraphText" | safeHTML }}</p>
       {{ if (isset  .Params "buttonText") }}
         <div>
