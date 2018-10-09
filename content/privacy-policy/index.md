@@ -2,6 +2,7 @@
 title: "Privacy Policy"
 date: 2018-03-12T17:47:48+13:00
 draft: false
+description: "By using the site, you agree to the collection and use of information in accordance with this policy."
 ---
 {{< text_section
     title="Privacy Policy"

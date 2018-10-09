@@ -3,6 +3,7 @@ title: "Community Fund"
 date: 2018-03-20T07:41:22+13:01
 draft: false
 type: "default"
+description: "The NavCoin community fund is a pool of NAV that's set aside to help kickstart community projects and  incentivise the ongoing development of NavCoin."
 ---
 <section class="cf-hero">
     <div class="grid-container">

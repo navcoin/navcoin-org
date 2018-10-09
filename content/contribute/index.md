@@ -3,6 +3,7 @@ title: "Contribute to the Protocol"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
+description: "There are several ways to contribute to the NavCoin protocol - so if you’d like to support the project, here’s some of the best ways to get involved"
 ---
 {{< hero_section
 titleText="Contribute to the Protocol"
