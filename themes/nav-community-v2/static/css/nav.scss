@@ -176,7 +176,7 @@ a {
       }
     }
 
-    @media (max-width: 768px) {
+    @media (max-width: 767px) {
       float: none;
       background: white;
       width: 100vw;
@@ -1082,31 +1082,6 @@ a {
 
 
 ///component based changes
-
-//zig
-.zig-section .zig-container a{ 
-  margin: 35px 0 0 0;
-}
-
-.zig-section .zig-container .text-section-container{
-  padding:0 !important;
-}
-
-.zig-section .zig-container h1{
-  text-align: left;
-  line-height: 50px;
-} 
-
-@media (max-width:1100px){
-  .zig-section .zig-container.reversed {
-  grid-template-columns: 50% 35%;
-  }
-
-  .zig-section .zig-container{
-    grid-template-columns: 35% 50%; 
-  }
-}
-
 
 //hero
 .hero-section .text-section-container{
