@@ -9,4 +9,4 @@ externalUrl: https://navcoin.org/community-fund/
 
 ---
 
-The community have suggested a change in the consensus mechanism which allows for community contributors to receive funding from the network for their efforts.
+NavCoin’s Community Fund enables anyone to get paid by the network for their contributions to the NavCoin ecosystem. Projects are funded and approved by the decentralized network with no central&nbsp;authority.

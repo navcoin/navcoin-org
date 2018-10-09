@@ -8,4 +8,4 @@ status: testing
 externalUrl: https://github.com/NAVCoin/npips/blob/npip-0004/npip-0002.mediawiki
 ---
 
-Allowing for NAV, which are stored offline, to sign staking inputs that greatly increase the security of funds used for staking.
+Allowing for NAV, which are stored offline, to sign staking inputs that greatly increase the security of funds used for&nbsp;staking.

@@ -8,4 +8,4 @@ status: completed
 externalUrl: https://github.com/NAVCoin/navcoin-core/releases/tag/4.2.0/
 ---
 
-NavCoin Core 'Open Alias' 4.3.0 is now available for download. OpenAlias is an open standard that allows users to transform a lengthy alphanumeric wallet address into a form that’s much easier to read, write, and remember.
+NavCoin Core now makes it mandatory to clock sync against an NTP server on launch. This was introduced to prevent stakers creating blocks with incorrect timestamps which was causing block spacing issues for the network.

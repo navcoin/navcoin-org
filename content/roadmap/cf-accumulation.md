@@ -8,4 +8,4 @@ status: completed
 externalUrl: https://github.com/NAVCoin/navcoin-core/releases/tag/4.2.0/
 ---
 
-NavCoin Core 'Open Alias' 4.3.0 is now available for download. OpenAlias is an open standard that allows users to transform a lengthy alphanumeric wallet address into a form that’s much easier to read, write, and remember.
+The NavCoin network voted to reduce the staking reward to 4% and include 0.25 NAV per block for the Community Fund. This consensus change was  activated on the 3rd of July 2018 and the Community Fund has been steadily accumulating&nbsp;since.
