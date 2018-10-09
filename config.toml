@@ -148,7 +148,7 @@ enableRobotsTXT = true
         name = "Contribute"
         title = "Contribute"
         weight = 12
-        url = "/contribute/"
+        url = "/get-involved/"
         identifier = "contribute"
         parent = "learn"
 

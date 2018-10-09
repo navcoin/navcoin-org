@@ -70,7 +70,7 @@ reversed="true"
         titleText="NavCoin Protocol"
         imgSrc="/images/for-developers/dev-protocol.svg"
         text="NavCoin is open-source and everyone can participate in making it better. Here’s where you can find the procedures to report an issue, fix a issue or suggest an improvement to the consensus&nbsp;protocol."
-        buttonUrl="/contribute/"
+        buttonUrl="/get-involved/"
         buttonText="Learn more"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
     >}}
