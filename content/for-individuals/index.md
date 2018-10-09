@@ -100,7 +100,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
 {{< social                 
     titleText="Youtube"
     imgSrc="/images/for-beginners/beg-yt.svg"
-    linkUrl="https://www.youtube.com/channel/UCjDs4JceVSsaeCyvkA9cWCg"
+    linkUrl="https://www.youtube.com/NavCoinCore"
 >}}
 {{< social                 
     titleText="Medium"

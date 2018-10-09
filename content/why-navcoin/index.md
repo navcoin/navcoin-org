@@ -14,7 +14,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
 
 {{< item_container_section
     titleText="Why Are People Using&nbsp;NavCoin?"
-    subtitleText="A cheaper, faster, more eco-friendly alternative."
+    subtitleText="It's cheap, fast, eco-friendly and privacy focused."
 >}}
     {{< long_text
         titleText="Be your own bank"

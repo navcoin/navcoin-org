@@ -2,8 +2,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12" style="text-align: center;">
-                <h1>{{ .Get "titleText" }}</h1>
-                <h2>{{ .Get "subtitleText" }}</h2>
+                <h1>{{ .Get "titleText" | safeHTML }}</h1>
+                <h2>{{ .Get "subtitleText" | safeHTML }}</h2>
             </div>
         </div>
         <div class="row">
@@ -155,5 +155,3 @@
         </div>
     </div>
 </section>
-
-

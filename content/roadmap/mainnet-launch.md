@@ -8,4 +8,4 @@ status: completed
 externalUrl: https://bitcointalk.org/index.php?topic=679791.0
 ---
 
-Upgrading NavCoin Core to align with the Bitcoin 0.13 source code to increase NavCoin’s stability, functionality and the ability to integrate with other software including the Insight API.
+The NavCoin mainnet was launched in July 2014. NavCoin launched as a community driven project with no ICO or pre-mine. The Community's focus was on building a privacy centric, proof of stake cryptocurrency which was fast, cheap and secure.

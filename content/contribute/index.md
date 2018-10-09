@@ -5,10 +5,10 @@ draft: false
 type: "default"
 ---
 {{< hero_section
-titleText="Contribute To The Protocol"
+titleText="Contribute to the Protocol"
 paragraphText="There are several ways to contribute to the NavCoin protocol, not all of which require a high level of programming skills. If you’d like to support the NavCoin project, here’s some of the best ways to get&nbsp;involved."
 imgSrc="/images/contribute/con-hero.svg"
->}} 
+>}}
 {{< zig_section
 titleText="Translations"
 imgSrc="/images/contribute/con-translate.svg"
@@ -34,7 +34,7 @@ imgSrc="/images/contribute/con-translate.svg"
 {{< zig_section
 titleText="Submit an issue"
 imgSrc="/images/contribute/con-issue.svg"
-paragraphText="For all non-critical problems with NavCoin Core please search for similar issues and if you don’t find any, submit a new issue providing the information&nbsp;below.<br><ul class=\"article-ul\" style=\"color: rgba(0, 0, 0, 0.55);\"><li>A clear description of the problem and steps to reproduce the&nbsp;problem.</li><li>What version of NavCoin Core you use or what commit you built using.</li><li>Any relevant entries from your debug.log file. Please ensure to strip out any sensitive information before publishing your debut.log&nbsp;entries.</li></ul><p class=\"paragraph-text\">The best strategy to get your issue fixed quickly is to make it as easy as possible for the development team to track down the problem and write a fix. Providing more information and organizing it well helps&nbsp;significantly.</p>" 
+paragraphText="For all non-critical problems with NavCoin Core please search for similar issues and if you don’t find any, submit a new issue providing the information&nbsp;below.<br><ul class=\"article-ul\" style=\"color: rgba(0, 0, 0, 0.55);\"><li>A clear description of the problem and steps to reproduce the&nbsp;problem.</li><li>What version of NavCoin Core you use or what commit you built using.</li><li>Any relevant entries from your debug.log file. Please ensure to strip out any sensitive information before publishing your debug.log&nbsp;entries.</li></ul><p class=\"paragraph-text\">The best strategy to get your issue fixed quickly is to make it as easy as possible for the development team to track down the problem and write a fix. Providing more information and organizing it well helps&nbsp;significantly.</p>"
 buttonText="Submit an issue"
 buttonUrl="https://github.com/NAVCoin/navcoin-core/issues"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -46,7 +46,7 @@ newTab="true"
 {{< zig_section
   titleText="Resolve an issue"
   imgSrc="/images/contribute/con-resolve.svg"
-  paragraphText="The issue tracker is the best place to find a useful way to contribute to NavCoin Core. Before starting to write any patches for issues you find, you may want to comment on the issue to make sure nobody else is already working on it. Remember that even if you’re resolving an issue you’ve found you will need to first create an issue in the issue&nbsp;tracker.<br>To resolve an issue follow this process:<br><ul class=\"article-ul\" style=\"color: rgba(255,255,255,0.55);\"><li>Fork NavCoin/navcoin-core to your own GitHub&nbsp;account.</li><li>Create a branch to work in to resolve the issue then get to&nbsp;work.</li><li>Write or update unit and integration tests to cover any changes you’ve&nbsp;made.</li><li>Make a pull request from your branch back into the main NavCoin Core repository with the issue type and number in the title (eg. Trivial: fixes spelling mistake #145).</li><li>Talk with other NavCoin Core contributors on Discord or through GitHub to alert them to the pending Pull Request and they will review it as soon as&nbsp;possible.</li></ul><p class=\"paragraph-text\">For the full contribution workflow details, please see the readme on&nbsp;GitHub.</p>"
+  paragraphText="The issue tracker is the best place to find a useful way to contribute to NavCoin&nbsp;Core. Before starting to write any patches for issues you find, you may want to comment on the issue to make sure nobody else is already working on it. Remember that even if you’re resolving an issue you’ve found you will need to first create an issue in the issue&nbsp;tracker.<br><br>To resolve an issue follow this process:<br><ul class=\"article-ul\" style=\"color: rgba(255,255,255,0.55);\"><li>Fork NavCoin/navcoin-core to your own GitHub&nbsp;account.</li><li>Create a branch to work in to resolve the issue then get to&nbsp;work.</li><li>Write or update unit and integration tests to cover any changes you’ve&nbsp;made.</li><li>Make a pull request from your branch back into the main NavCoin Core repository with the issue type and number in the title (eg. Trivial: fixes spelling mistake #145).</li><li>Talk with other NavCoin Core contributors on Discord or through GitHub to alert them to the pending Pull Request and they will review it as soon as&nbsp;possible.</li></ul><p class=\"paragraph-text\">For the full contribution workflow details, please see the readme on&nbsp;GitHub.</p>"
   buttonText="See the readme"
   buttonUrl="https://github.com/navcoin/navcoin-core/blob/master/CONTRIBUTING.md"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -57,7 +57,7 @@ newTab="true"
 {{< zig_section
 titleText="Write tests"
 imgSrc="/images/contribute/con-test.svg"
-paragraphText="NavCoin Core is covered by many tests, but patches that improve test coverage are always welcome and are a great way to build familiarity with the codebase.<br><br>Developers are strongly encouraged to write <a href=\"https://github.com/NAVCoin/navcoin-core/blob/master/doc/unit-tests.md\" style=\"text-decoration:underline;\">unit tests</a> for new code, and to submit new unit tests for old code. Unit tests can be compiled and run (assuming they weren't disabled in configure) with: make&nbsp;check.<br><br>There are also <a href=\"https://github.com/NAVCoin/navcoin-core/tree/master/qa\" style=\"text-decoration:underline;\">regression and integration tests</a>, written in Python, that are run automatically on the build&nbsp;server." 
+paragraphText="NavCoin Core is covered by many tests, but patches that improve test coverage are always welcome and are a great way to build familiarity with the codebase.<br><br>Developers are strongly encouraged to write <a href=\"https://github.com/NAVCoin/navcoin-core/blob/master/doc/unit-tests.md\" target=\"e\" style=\"text-decoration:underline;\">unit tests</a> for new code, and to submit new unit tests for old code. Unit tests can be compiled and run (assuming they weren't disabled in configure) with: make&nbsp;check.<br><br>There are also <a href=\"https://github.com/NAVCoin/navcoin-core/tree/master/qa\" target=\"e\" style=\"text-decoration:underline;\">regression and integration tests</a>, written in Python, that are run automatically on the build&nbsp;server."
 reversed="true"
 newTab="true"
 >}}
@@ -76,7 +76,7 @@ newTab="true"
 {{< zig_section
 titleText="Suggest a protocol improvement"
 imgSrc="/images/contribute/con-npips.svg"
-paragraphText="NavCoin Core strives to continually improve the underlying protocol of NavCoin. Our aim is always to improve security, privacy and efficiency while encouraging decentralisation, uptake and usability. If you want to help us improve the NavCoin protocol, the best place to document your suggestion is on the NPIPs (NavCoin Protocol Improvement Proposals) GitHub&nbsp;repository.<br><br>People wishing to submit NPIPs, first should propose their idea or document to the NavCoin Core development community through Discord or IRC (irc.freenode.net #navcoin). After discussion, please open a PR to the NPIPs repository. After copy-editing and acceptance, it will be published&nbsp;there.<br><br>We are fairly liberal with approving NPIPs, and try not to be too involved in decision making on behalf of the community. The exception is in very rare cases of dispute resolution when a decision is contentious and cannot be agreed upon. In those cases, the conservative option will always be&nbsp;preferred.<br><br>Having a NPIP here does not make it a formally accepted standard until its status becomes Final or Active.<br><br>Those proposing changes should consider that ultimately consent may rest with the consensus of the NavCoin&nbsp;users." 
+paragraphText="NavCoin Core strives to continually improve the underlying protocol of NavCoin. Our aim is always to improve security, privacy and efficiency while encouraging decentralisation, uptake and usability. If you want to help us improve the NavCoin protocol, the best place to document your suggestion is on the NPIPs (NavCoin Protocol Improvement Proposals) GitHub&nbsp;repository.<br><br>People wishing to submit NPIPs, first should propose their idea or document to the NavCoin Core development community through Discord or IRC (irc.freenode.net #navcoin). After discussion, please open a PR to the NPIPs repository. After copy-editing and acceptance, it will be published&nbsp;there.<br><br>We are fairly liberal with approving NPIPs, and try not to be too involved in decision making on behalf of the community. The exception is in very rare cases of dispute resolution when a decision is contentious and cannot be agreed upon. In those cases, the conservative option will always be&nbsp;preferred.<br><br>Having a NPIP here does not make it a formally accepted standard until its status becomes Final or Active.<br><br>Those proposing changes should consider that ultimately consent may rest with the consensus of the NavCoin&nbsp;users."
 buttonText="View NPIP's"
 buttonUrl="https://github.com/NAVCoin/npips"
 buttonImgSrc="/images/icons/rightward-arrow.svg"

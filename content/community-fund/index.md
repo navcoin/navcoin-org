@@ -8,44 +8,44 @@ type: "default"
     <div class="grid-container">
       <div class="text-container">
         <h1>Community Fund</h1>
-        <p>The NavCoin community fund is a pool of NAV that's set aside to help kickstart community projects. NavCoin was built from the ground up - it’s an open-source community project that ran no premine or ICO. So as an extension of this ethos, this fund has been created to help incentivise the ongoing development of NavCoin in a decentralized&nbsp;manner.</p>
+        <p>NavCoin is built by the community, for the community - it’s an open-source project that ran no premine or ICO. NavCoin’s Community Fund enables anyone to get paid by the network for their contributions to the NavCoin ecosystem. Projects are funded and approved by the decentralized network with no central authority. This ensures NavCoin’s direction remains firmly in the best interest of the network and is autonomously determined by the community.</p>
       </div>
       <img src="/images/community-fund/cfu-hero.png" alt="Hero image">
     </div>
   </section>
-  
-{{< item_container_section 
+
+{{< item_container_section
     titleText="How The Fund Works In 3&nbsp;Steps"
     subtitleText=""
     bgPurple="true"
     >}}
-    {{< feature 
+    {{< feature
         titleText="Step 1: Submit"
         imgSrc="/images/community-fund/cfu-submit.svg"
         text="Dream up the improvements you would like to see in the NavCoin ecosystem, and submit your proposal to the&nbsp;network."
     >}}
-    {{< feature 
+    {{< feature
         titleText="Step 2: Vote"
         imgSrc="/images/community-fund/cfu-vote.svg"
-        text="Anyone who is staking the NavCoin network can vote ‘yes’ or ‘no’ for every&nbsp;proposal."
+        text="Anyone who is staking the NavCoin network can vote ‘yes’ or ‘no’ for every&nbsp;proposal with their full network weight."
     >}}
     {{< feature                 
         titleText="Step 3: Payment"
         imgSrc="/images/community-fund/cfu-payment.svg"
-        text="Once funds have been allocated to a project, the payments are only released after a second vote to ensure&nbsp;accountability."
+        text="Payments are only released after a second round of voting validating ‘proof&nbsp;of&nbsp;effort’ by the proposal owner."
     >}}
 {{< /item_container_section >}}
 
-{{< item_container_section 
+{{< item_container_section
     titleText="The Worlds Most Advanced Community&nbsp;Fund"
     subtitleText="The fund pays you to take your idea, nurture it, and build a team to bring it to&nbsp;life"
     >}}
-    {{< feature 
+    {{< feature
         titleText="Dual-vote consensus"
         imgSrc="/images/community-fund/cfu-dual-vote.svg"
         text="The first community fund to implement a dual vote, to ensure that if work is never completed the funds are&nbsp;returned."
     >}}
-    {{< feature 
+    {{< feature
         titleText="Open to anyone"
         imgSrc="/images/community-fund/cfu-anyone.svg"
         text="Anyone and everyone can get involved by submitting a proposal - leaving it to the network to decide what's most&nbsp;valuable."
@@ -94,19 +94,67 @@ type: "default"
 
   itemThreeTitle="Step 3 - Create your team."
   itemThreeText="Do you need other skills to bring your project to life? Use NavCoin’s social channels and the NavCollab website to find community members who can help you complete your project."
-  
+
   itemFourTitle="Step 4 - Submit your proposal."
   itemFourText="Complete the proposal form, including a link to your project page.<br><br>To complete the process, you will need to pay a proposal fee. If the fund has only a small amount of NAV left, then the projects that pay the highest fees to the network will be accepted first. A fee is necessary to stop people submitting poorly thought out&nbsp;proposals."
-  
+
   itemFiveTitle="Step 5 - Promote your project to stakers."
   itemFiveText="Once you’ve submitted your proposal, promote your project using the community channels. Communicate why you think it’s worth funding what benefits will it bring? Why should the community support&nbsp;it?"
-  
+
   itemSixTitle="Step 6 - Voting begins."
   itemSixText="To be eligible to vote you must be staking NavCoin. Each voting period lasts 20,000 blocks (roughly 7 days).<br><br><ul><li>The minimum participation rate of stakers needs to be 50%</li><br><li>Of that 50%, a proposal must receive 75% ‘yes’ votes to be accepted</li><br><li>67.5% ‘no’ votes will result in it being rejected.</li><br><li>Proposals that don't met the 50% participation rate after 6 block periods will timeout and need to be resubmitted."
-  
+
   itemSevenTitle="Step 7 - Begin the work."
   itemSevenText="Start work and do your best to stick to your&nbsp;timeline.<br><br>Keep the community updated with how things are progressing in your project. It’s ok to ask for help along the&nbsp;way."
-  
+
   itemEightTitle="Step 8 - Apply for payment."
   itemEightText="Once your project is complete you can apply for payment from the Community Fund. If there are clear milestones in your proposal you can apply to receive payments at scheduled points in the&nbsp;timeline.<br><br>Payment is subject to a second consensus vote among NavCoin stakers. There must be a 50% minimum participation, with 50% ‘yes’ vote to be paid and 50% ‘no’ for payment to be&nbsp;rejected.<br><br>Note that you will need to submit your payment request before the project expiration date (which you set when you create your proposal - so make sure to include some&nbsp;buffer)."
 >}}
+
+{{< social_grid_section
+    titleText="Join Our Community"
+    subtitleText="Promote your proposal ideas to the NavCoin community to get feedback, find collaborators and get votes."
+    bgPurple="true"
+>}}
+    {{< social                 
+    titleText="Discord"
+    imgSrc="/images/for-beginners/beg-discord.svg"
+    linkUrl="https://discordapp.com/invite/y4Vu9jw"
+>}}
+{{< social                 
+    titleText="Collab"
+    imgSrc="/images/for-beginners/beg-collab.svg"
+    linkUrl="https://collab.navcoin.org/dashboard"
+>}}
+{{< social                 
+    titleText="Reddit"
+    imgSrc="/images/for-beginners/beg-reddit.svg"
+    linkUrl="https://reddit.com/r/NavCoin/"
+>}}
+{{< social                 
+    titleText="Telegram"
+    imgSrc="/images/for-beginners/beg-telegram.svg"
+    linkUrl="https://t.me/navcoin"
+>}}
+{{< social                 
+    titleText="Facebook"
+    imgSrc="/images/for-beginners/beg-fb.svg"
+    linkUrl="https://www.facebook.com/NavCoin/"
+>}}
+{{< social                 
+    titleText="Twitter"
+    imgSrc="/images/for-beginners/beg-twitter.svg"
+    linkUrl="https://twitter.com/NavCoin"
+>}}
+{{< social                 
+    titleText="Youtube"
+    imgSrc="/images/for-beginners/beg-yt.svg"
+    linkUrl="https://www.youtube.com/NavCoinCore"
+>}}
+{{< social                 
+    titleText="Medium"
+    imgSrc="/images/for-beginners/beg-medium-new.svg"
+    linkUrl="https://medium.com/nav-coin"
+>}}
+
+{{< /social_grid_section >}}

@@ -19,13 +19,13 @@ newTab="true"
 >}}
 
 {{< item_container_section
-    titleText="NavCoin Core Wallet"
-    subtitleText="NavCoin's reference implementation"
+    titleText="NavCoin Wallets"
+    subtitleText="Make sure to do your own research or ask community for&nbsp;assistance."
     >}}
     {{< wallet
-        titleText="NavCoin Core wallet v4.3.0"
+        titleText="NavCoin Core"
         walletImgSrc="/images/wallets/wal-core.png"
-        text="NavCoin Core wallet is a full NavCoin client that allows users to participate in network staking. Released by the core NavCoin developers, it combines speed and reliability with&nbsp;usability."
+        text="NavCoin Core wallet is a full NavCoin client that allows users to participate in network staking. This is the official reference implementation published by the NavCoin Core&nbsp;developers."
         buttonUrl="#download-core"
         buttonText="Download"
         buttonImgSrc="/images/icons/downward-arrow.svg"
@@ -33,16 +33,10 @@ newTab="true"
         platformImg2Src="/images/platforms/windows.png"
         platformImg3Src="/images/platforms/linux.png"
     >}}
-{{< /item_container_section >}}
-
-{{< item_container_section
-    titleText="NavCoin Community Wallets"
-    subtitleText="Make sure to do your own research or ask community for&nbsp;assistance"
-    >}}
     {{< wallet
-        titleText="NavPay light wallet v4.2.0"
+        titleText="NavPay"
         walletImgSrc="/images/wallets/wal-navpay.png"
-        text="NavPay is an easy to use light wallet, that allows you to securely store your&nbsp;NAV."
+        text="NavPay is an easy to use light wallet, that allows you to securely store your NAV. It's available across desktop and mobile, and doesn't take up gigabytes of storage."
         buttonUrl="https://navhub.org/projects/nav-pay/"
         buttonText="Download"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -55,31 +49,9 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
-        titleText="NavPi stakebox v1.0.9"
-        walletImgSrc="/images/wallets/wal-pi.png"
-        text="A low-energy NavCoin full wallet based on the Raspberry-Pi&nbsp;platform."
-        buttonUrl="https://navhub.org/projects/nav-pi/"
-        buttonText="Download"
-        platformImg1Src="/images/platforms/pi.png"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        newTab="true"
-    >}}
-    {{< wallet
-        titleText="NavCoin paper wallet generator"
-        walletImgSrc="/images/wallets/wal-paper.png"
-        text="Generate keys to be printed and stored offline for additional&nbsp;security."
-        buttonUrl="https://paper.navcoin.org/"
-        buttonText="Download"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg1Src="/images/platforms/mac.png"
-        platformImg2Src="/images/platforms/windows.png"
-        platformImg3Src="/images/platforms/web.png"
-        newTab="true"
-    >}}
-    {{< wallet
-        titleText="NEXT wallet"
+        titleText="NEXT"
         walletImgSrc="/images/wallets/wal-next.png"
-        text="A modern and stylish next generation wallet for&nbsp;NavCoin."
+        text="A modern and stylish next generation wallet for NavCoin. As well as staking, NEXT offers a simple interface to create and vote on community fund proposals."
         buttonUrl="http://next.navcommunity.net/"
         buttonText="Download"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -89,7 +61,7 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
-        titleText="Coinomi wallet"
+        titleText="Coinomi"
         walletImgSrc="/images/wallets/wal-coinomi.png"
         text="Coinomi is a Security-First Multi-Asset Wallet for Bitcoin, Altcoins and&nbsp;Tokens."
         buttonUrl="https://www.coinomi.com/"
@@ -100,6 +72,16 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
+        titleText="NavPi StakeBox"
+        walletImgSrc="/images/wallets/wal-pi.png"
+        text="A low-energy NavCoin full wallet based on the Raspberry-Pi&nbsp;platform."
+        buttonUrl="https://navhub.org/projects/nav-pi/"
+        buttonText="Download"
+        platformImg1Src="/images/platforms/pi.png"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+        newTab="true"
+    >}}
+    {{< wallet
         titleText="NavCoin M8"
         walletImgSrc="/images/wallets/wal-m8.png"
         text="A high-powered NavCoin staking wallet including NEXT Wallet with DIY&nbsp;options."
@@ -107,6 +89,18 @@ newTab="true"
         buttonText="Learn More"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         platformImg1Src="/images/platforms/linux.png"
+        newTab="true"
+    >}}
+    {{< wallet
+        titleText="NavPaper"
+        walletImgSrc="/images/wallets/wal-paper.png"
+        text="Generate keys to be printed and stored offline for additional&nbsp;security."
+        buttonUrl="https://paper.navcoin.org/"
+        buttonText="Download"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+        platformImg1Src="/images/platforms/mac.png"
+        platformImg2Src="/images/platforms/windows.png"
+        platformImg3Src="/images/platforms/web.png"
         newTab="true"
     >}}
 {{< /item_container_section >}}

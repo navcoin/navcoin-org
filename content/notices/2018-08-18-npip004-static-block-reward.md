@@ -7,7 +7,8 @@ feature_image: /images/uploads/npip004.png
 notice_categories:
   - NPIP
 ---
-After the ClockSync fix was soft forked into the network a couple of months ago, NavCoin is now compliant with the Proof of Stake v2 protocol as published by Blackcoin:
+After the ClockSync fix was soft forked into the network a couple of months ago, NavCoin is now compliant with the Proof of Stake v2 protocol as published by Blackcoin.
+<!--more-->
 
 https://blackcoin.org/blackcoin-pos-protocol-v2-whitepaper.pdf
 
@@ -49,11 +50,11 @@ Personally, i'm the for the deflationary model. I think the difference in mining
 
 There has been some discussion as to how this could drive a further divide between stakers with more and less NAV. The thing to keep in mind is that although the rewards are fixed, the number of blocks you stake is still proportional to your staking weight on the network. This means that stakers still increase in wealth proportionally to each other as a percentage. Let's run a few scenarios.
 
-The simple equation is: 
+The simple equation is:
 
 `Total Rewards / Network Weight * Balance`
 
-Assuming there are 20M NAV contributing to staking, just like there is today. Here's what the stake rewards would look like for some different balances over a 1 year period. 
+Assuming there are 20M NAV contributing to staking, just like there is today. Here's what the stake rewards would look like for some different balances over a 1 year period.
 
 `2,102,400 / 20,000,000 * Balance`
 
@@ -143,7 +144,7 @@ Not sure what else, i haven't thought of any other ways to solve this problem ye
 
 ### Conclusion
 
-I'm personally in favour of changing the block reward to 2 NAV and increasing the Community Fund to 0.5 NAV per block. 
+I'm personally in favour of changing the block reward to 2 NAV and increasing the Community Fund to 0.5 NAV per block.
 
 I would suggest bundling these changes with NPIP002 and NPIP003 into NavCoin Core v4.5.0 (4.3.0 is Open Alias, 4.4.0 is Community Fund Claims) so we can reduce the number of versions released. Each individual protocol change will have its own version bit, so people can vote on each individually if they only want some of the updates rather than all of them.
 
