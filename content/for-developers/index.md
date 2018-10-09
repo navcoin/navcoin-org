@@ -3,6 +3,7 @@ title: "For Developers"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
+description: "NavCoin is a free and open-source project to which anyone can contribute. Its design is the collaborative effort of developers from all around the world."
 ---
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 {{< hero_section

@@ -4,7 +4,7 @@ date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
-description: ""
+description: "NavCoin is an open-source, blockchain based Proof of Stake cryptocurrency. It’s a platform that’s run by its users, for its users."
 ---
 {{< hero_section
 titleText="What Is NavCoin"

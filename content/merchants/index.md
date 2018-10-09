@@ -3,6 +3,7 @@ title: "Merchants"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
+description: "Anyone can accept NavCoin on their website or in-store to receive instant global payments with low fees."
 ---
 {{< hero_section
 titleText="Merchants"

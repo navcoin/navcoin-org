@@ -4,7 +4,7 @@ date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: "Mike Delucchi"
-description: ""
+description: "NavCoin Core wallet is a full NavCoin client that allows users to participate in network staking."
 ---
 {{< project_header
     title="NavCoin Core"
