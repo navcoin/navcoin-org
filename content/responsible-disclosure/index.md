@@ -3,6 +3,7 @@ title: "Responsible Disclosure"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
+description: "If you’re a researcher and you’ve found a critical vulnerability here’s how you can talk securely with the NavCoin Core developers."
 ---
 {{< hero_section
 titleText="Responsible Disclosure"

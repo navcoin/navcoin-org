@@ -4,7 +4,7 @@ date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
-description: ""
+description: "NavCoin is publicly mined and ran no token sale. The only way to buy NavCoin is to purchase it from a third party or exchange."
 ---
 {{< hero_section
 titleText="Buy NavCoin"

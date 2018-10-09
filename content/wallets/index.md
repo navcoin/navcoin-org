@@ -4,7 +4,7 @@ date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
-description: ""
+description: "NavCoin is an open source protocol, which means that wallets are maintained by a range of organizations and individuals"
 ---
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
