@@ -20,3 +20,51 @@ command = "gulp sass && hugo"
   to = "https://navhub.org/projects/nav-pay"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/manifestos"
+  to = "/governance"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/getting-started"
+  to = "/for-individuals"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/about-this-website"
+  to = "/"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/about-navcoin"
+  to = "/why-navcoin"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/buying-navcoin"
+  to = "/buy-navcoin"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/how-to-accept-navcoin"
+  to = "/for-business"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/community-roadmap"
+  to = "/roadmap"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/project-roadmap"
+  to = "/roadmap"
+  status = 301
+  force = true
