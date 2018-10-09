@@ -1,0 +1,63 @@
+<section class="links-section  {{ .Get "class"}} our-service-section {{ if eq (.Get "gradient") "true" }} bg-gradient {{ end }}" style="background-image: url({{ .Get "bgImgSrc" }}); background-color: {{ .Get "bgColor" }}; padding: {{ .Get "containerPadding" }};" id="{{ .Get "id" }}">
+    <div class="container">
+        <div class="row" style="margin: {{ .Get "titleMargin" }}">
+            <div class="col-md-12">
+                {{ if (isset .Params "title") }}
+                    <h2 class="themeix-title-h1" style="color: {{ .Get "titleFontColor" }}">{{ .Get "title"}}</h2>
+                {{ end }}
+                {{ if (isset .Params "subtitle") }}
+                    <div style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "subtitle" }}</div>
+                {{ end }}     
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="single-item">
+                    <a href="{{ .Get "feature1Link" }}" target="e" class="link-section-item">
+                        <div class="service-main">
+                                <img src="{{ .Get "feature1Img" }}" alt="" class=" {{ if eq (.Get "dropShadow") "true" }} drop-shadow {{ end }}">
+                            <div class="service-content">
+                                <h3 style="color: {{ .Get "titleFontColor" }}; margin-bottom: 5px;">{{ .Get "feature1Title" }}</h3>
+                                <p class="themeix-para-style links-desc" style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "feature1Desc"  }}</p>
+                                <p class="themeix-para-style link-section-link" style="color: {{ .Get "txtFontColor" }}">{{ .Get "feature1Txt"  }}</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="single-item">
+                    <a href="{{ .Get "feature2Link" }}" target="e" class="link-section-item">
+                        <div class="service-main">
+                                <img src="{{ .Get "feature2Img" }}" alt="" class=" {{ if eq (.Get "dropShadow") "true" }} drop-shadow {{ end }}">
+                            <div class="service-content">
+                                <h3 style="color: {{ .Get "titleFontColor" }}; margin-bottom: 5px;">{{ .Get "feature2Title" }}</h3>
+                                <p class="themeix-para-style links-desc" style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "feature2Desc"  }}</p>
+                                <p class="themeix-para-style link-section-link" style="color: {{ .Get "txtFontColor" }}">{{ .Get "feature2Txt"  }}</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="single-item">
+                    <a href="{{ .Get "feature3Link" }}" target="e" class="link-section-item">
+                        <div class="service-main">
+                                <img src="{{ .Get "feature3Img" }}" alt="" class=" {{ if eq (.Get "dropShadow") "true" }} drop-shadow {{ end }}">
+                            <div class="service-content">
+                                <h3 style="color: {{ .Get "titleFontColor" }}; margin-bottom: 5px;">{{ .Get "feature3Title" }}</h3>
+                                <p class="themeix-para-style links-desc" style="color: {{ .Get "subtitleFontColor" }}">{{ .Get "feature3Desc"  }}</p>
+                                <p class="themeix-para-style link-section-link" style="color: {{ .Get "txtFontColor" }}">{{ .Get "feature3Txt"  }}</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        {{ if isset .Params "btnLink" }}
+            <div class="col-xs-12 center">
+                <a href="{{ .Get "btnLink" }}" class="round-btn blue-btn-old">{{ .Get "btnTxt" }}</a>
+            </div>
+        {{ end }}
+    </div>
+</section>

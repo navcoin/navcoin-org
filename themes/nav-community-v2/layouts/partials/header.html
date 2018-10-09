@@ -1,0 +1,24 @@
+<!-- main menu area -->
+<header class="stickey">
+  <nav class="main-menu">
+      <div class="nav-container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <div class="logo-brand">
+              <a href="/">
+              <img src="/images/navcoin-header.svg" alt="navcoin logo" class="header-img">               
+            </a>
+          </div>
+            <div class="navbar-toggle collapsed custom-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" onclick="void(0)">
+              <img src="/images/hamburger-menu.svg" style="width: 25px;"/>
+            </div>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+            {{ partial "header_menu.html" .  }}
+        </div>
+        <!-- /.navbar-collapse -->
+      </div>
+      <!-- /.container-fluid -->
+  </nav>
+</header>

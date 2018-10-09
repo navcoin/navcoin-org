@@ -1,0 +1,130 @@
+.zig-section {
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+
+  &.bg-purple {
+    background-color: #7D5AB5;
+    color: white;
+    .zig-container {
+      .paragraph-text, h1 {
+        color: #fff;
+      }
+    }
+  }
+  .zig-container {
+    width: 100vw;
+    max-width: 1250px;
+    color: #7D5AB5;
+    padding: 80px 0;
+    display: grid;
+    grid-column-gap: 120px;
+    grid-auto-flow: dense;
+    grid-template-columns: 1fr 2fr;
+    grid-template-areas: "image text" "image text";
+    justify-content: center;
+    align-items: center;
+
+    a {
+      margin: 35px 0 0 0;
+    }
+
+    .zig-img {
+      grid-area: image;
+      max-height: 234px;
+      height: 100%;
+      max-width: 234px;
+      width: 100%;
+      justify-self: flex-end;
+    }
+
+    h1 {
+      color: inherit;
+      text-align: left;
+      font-size: 40px;
+      line-height: 50px;    
+      margin-bottom: 32px;
+      font-weight: 500;
+      margin-top: 0px;
+    }
+
+    .paragraph-text {
+      color: #404040;
+      margin: 0;
+      font-size: 16px;
+      line-height: 25px;
+      font-family: 'Roboto', sans-serif;
+      font-weight: 300;
+      text-align: justify;
+    }
+
+    .text-section-container {
+      grid-area: text;
+      color: inherit;
+      align-self: flex-start;
+      max-width: 600px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center; 
+      align-content: center;
+
+      padding: 0 20px 50px 0;
+      text-align: justify;
+      text-justify: inter-word;
+    }
+
+    &.reversed {
+      grid-template-columns: 2fr 1fr;
+      grid-template-areas: "text image" "text image";
+      .text-section-container {
+        justify-self: flex-end;
+        padding: 0 0 50px 20px;  
+      }
+      .zig-img { 
+        justify-self: flex-start;
+      }
+    }
+  }
+
+  @media (max-width: 900px) {
+    .zig-container, .zig-container.reversed {
+      grid-column-gap: 30px;
+      h1 {
+        font-size: 35px;
+      }
+    }
+  }
+  @media (max-width: 620px) {
+    .zig-container, .zig-container.reversed {
+      grid-template-columns: 1fr;
+      padding: 55px 0 55px 0;
+      grid-template-areas:  "image"
+                            "text";
+      .zig-img {
+        height: 210px;
+        justify-self: center;
+      } 
+
+      .text-section-container {
+        align-self: center;
+        padding: 0 25px;
+        text-align: center;
+        justify-self:center;
+      }
+      .paragraph-text {
+        max-width: 500px;
+      }
+
+      h1 {
+        margin: 27px 0;
+        font-size: 27px;
+        font-weight: 500;
+        line-height: 32px;
+        margin-bottom: 10px;
+        text-align: center;
+      }
+    }
+  }
+}

@@ -1,0 +1,157 @@
+<section id="accordion-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12" style="text-align: center;">
+                <h1>{{ .Get "titleText" | safeHTML }}</h1>
+                <h2>{{ .Get "subtitleText" | safeHTML }}</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+                <div class="panel-group col-xs-12 col-md-10" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingOne">
+                        <h4 class="panel-title">
+                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            {{ .Get "itemOneTitle" }} <img class="accordian-img" src="/images/expand_icon.png">
+                            </a>
+                        </h4>
+                        </div>
+                        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                        <div class="panel-body">
+                            <div class="accodian-img-and-text">
+                                {{ .Get "itemOneText" | safeHTML}}
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                {{ if isset .Params  "itemTwoTitle" }}
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingTwo">
+                        <h4 class="panel-title">
+                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            {{ .Get "itemTwoTitle" }} <img class="accordian-img" src="/images/expand_icon.png">
+                            </a>
+                        </h4>
+                        </div>
+                        <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                        <div class="panel-body">
+                            <div class="accodian-img-and-text">
+                                {{ .Get "itemTwoText" | safeHTML}}
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                {{ end }}
+                {{ if isset .Params  "itemThreeTitle" }}
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingThree">
+                        <h4 class="panel-title">
+                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            {{ .Get "itemThreeTitle" }} <img class="accordian-img" src="/images/expand_icon.png">
+                            </a>
+                        </h4>
+                        </div>
+                        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                            <div class="panel-body">
+                                <div class="accodian-img-and-text">
+                                    {{ .Get "itemThreeText" | safeHTML}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {{ end }}
+                {{ if isset .Params  "itemFourTitle" }}
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingFour">
+                            <h4 class="panel-title">
+                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                {{ .Get "itemFourTitle" }} <img class="accordian-img" src="/images/expand_icon.png">
+                            </a>
+                            </h4>
+                        </div>
+                        <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+                            <div class="panel-body">
+                                <div class="accodian-img-and-text">
+                                    {{ .Get "itemFourText" | safeHTML}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {{ end }}
+                {{ if isset .Params  "itemFiveTitle" }}
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingFive">
+                            <h4 class="panel-title">
+                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                {{ .Get "itemFiveTitle" }} <img class="accordian-img" src="/images/expand_icon.png">
+                            </a>
+                            </h4>
+                        </div>
+                        <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+                            <div class="panel-body">
+                                <div class="accodian-img-and-text">
+                                    {{ .Get "itemFiveText" | safeHTML}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {{ end }}
+                {{ if isset .Params  "itemSixTitle" }}
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingSix">
+                            <h4 class="panel-title">
+                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                {{ .Get "itemSixTitle" }} <img class="accordian-img" src="/images/expand_icon.png">
+                            </a>
+                            </h4>
+                        </div>
+                        <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
+                            <div class="panel-body">
+                                <div class="accodian-img-and-text">
+                                    {{ .Get "itemSixText" | safeHTML}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {{ end }}
+                {{ if isset .Params  "itemSevenTitle" }}
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingSeven">
+                            <h4 class="panel-title">
+                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                {{ .Get "itemSevenTitle" }} <img class="accordian-img" src="/images/expand_icon.png">
+                            </a>
+                            </h4>
+                        </div>
+                        <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
+                            <div class="panel-body">
+                                <div class="accodian-img-and-text">
+                                    {{ .Get "itemSevenText" | safeHTML}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {{ end }}
+                {{ if isset .Params  "itemEightTitle" }}
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingEight">
+                            <h4 class="panel-title">
+                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                {{ .Get "itemEightTitle" }} <img class="accordian-img" src="/images/expand_icon.png">
+                            </a>
+                            </h4>
+                        </div>
+                        <div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
+                            <div class="panel-body">
+                                <div class="accodian-img-and-text">
+                                    {{ .Get "itemEightText" | safeHTML}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>

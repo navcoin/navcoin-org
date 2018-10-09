@@ -1,0 +1,120 @@
+$dark-blue: #191e5d;
+$light-grey: #fafafa;
+$grey: #F0F0F0;
+$dark-grey: #707070;
+$nav-purple: #7b47b4;
+$nav-purple-light: #9A54C4;
+
+.cf-hero {
+  color: $dark-grey;
+  img.button-icon {
+    max-height: 15px;
+    display: inline;
+    margin-left: 20px;
+  }
+  h1 {
+    color: $nav-purple;
+    font-family: 'Raleway', 'Regular', Helvetica, Arial, sans-serif;
+    margin-bottom: 20px;
+  }
+  p {
+    font-family: 'Roboto', sans-serif; 
+    font-size: 16px;
+    line-height: 25px;
+  }
+
+  h1 {
+    line-height: 44px;
+    font-size: 40px;
+  }
+
+
+  padding: 15px 0;
+  min-height: 200px;
+  color: black;
+  text-align: center;
+  vertical-align: center;
+  background: white;
+  .grid-container {
+    display: grid;
+    max-width: 1440px;
+    grid-template-areas: "text img";
+    grid-template-columns: 40% 60%;
+    grid-auto-columns: 1fr;
+    margin: 0 auto;
+    place-content: center center;
+    
+    .button-icon {
+      width: 24px;
+      height: 18px;
+    }
+
+    .left-image {
+      grid-area: img;
+      max-width: 945px;
+      width: 50vw;
+    }
+    .text-container {
+      grid-area: text;
+      place-self: center;
+      text-align: justify;
+      padding-left:80px;
+      h1 {
+            grid-area: text;
+    place-self: center;
+    text-align: justify;
+      }
+      p {
+        margin: 0 0 60px 0;
+      }
+    }
+  }
+  @media (max-width: 1200px) {
+    .grid-container {
+      grid-template-areas: "img" "text";
+      grid-template-columns: 1fr;
+      justify-items: center;
+      text-align: center;
+    img {
+        max-width: 80%;
+        justify-self: center;
+      }
+      .text-container {
+        max-width: 80%;
+        padding:0px 25px;
+        h1 {
+          font-size: 35px;
+        }
+        p {
+          text-align: justify;
+          max-width: 600px;
+        }
+      }
+    }
+  }
+
+  @media (max-width: 600px) {
+    .grid-container {
+      grid-template-areas: "img" "text";
+      grid-template-columns: 1fr;
+      justify-items: center;
+      text-align: center;
+      img {
+        max-width: 100%;
+        justify-self: center;
+      }
+      .text-container {
+        max-width: 80vw;
+        padding: 0 10px;
+        h1 {
+          font-size: 30px;
+        }
+        p {
+          text-align: justify;
+          font-size: 15px;
+          line-height: 25px;
+        }
+      }
+    }
+  }
+}

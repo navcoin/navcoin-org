@@ -1,0 +1,10 @@
+<div class="long-text-column">
+    <div class="long-text-card">
+        <img src="{{ .Get "imgSrc" }}" alt="" class="item-icon">
+        <h3>{{ .Get "titleText" }}</h3>
+        <p>{{ .Get "text" | safeHTML }}</p>
+        {{ if isset .Params "buttonUrl" }}
+            <a href="{{ .Get "buttonUrl" }}" target="_blank" class="round-btn gradient-btn">{{ .Get "buttonText" }} <img src="{{ .Get "buttonImgSrc" }}" class="btn-img"> </span></a>
+        {{ end }}
+    </div>
+</div>

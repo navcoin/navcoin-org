@@ -1,0 +1,61 @@
+.merchant-column {
+    margin: 20px auto 0 auto;
+    min-width: 200px;
+    width: 100%;
+    max-width: 450px;
+    
+    a {
+      color: #fff;
+    }
+  .merchant-card {
+    box-shadow: 1px 13px 35px rgba(66,45,178,0.12);
+    transition: all 0.3s ease;
+    &:hover {
+      transform: translate(0px,-5px);
+      box-shadow: 5px 23px 39px rgba(66, 45, 178, 0.12);
+    }
+  }
+  
+  .upper-half {
+    display: flex;
+    flex-direction: column;
+    height: 158px;
+    padding: 5px;
+    background: #fff;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px 8px 0 0;
+    
+  } 
+  
+  .item-icon {
+    padding: 10px 0 10px 0;
+    width: 108px;
+  }
+  
+  .lower-half {
+    background: #7D5AB5;  
+    padding: 13px; 
+    border-radius: 0 0 8px 8px;
+    text-align: center;
+    
+    h3 {
+      font-size: 20px;
+      margin: 0 0 20px 0;
+    }
+
+    p {
+      font-size: 16px;
+      margin: 0;
+      font-family: 'Roboto', sans-serif;
+    }
+  }
+
+  a:hover, a:active, a:visited {
+    filter: brightness(110%)
+  }
+
+  @media (max-width: 800px) {
+    margin: 0 auto;
+  }
+}

@@ -1,0 +1,17 @@
+<div class="roadmap-card">
+  <h3>{{ .Title }}</h3>
+  <div class="roadmap-porgress-bar">
+    <div class="progress"></div>
+    <div class="progress"></div>
+    <div class="progress"></div>
+    <div class="progress"></div>
+  </div>
+  <p class="roadmap-author">
+    Project lead: {{ .Params.Author}}
+  </p>
+  {{ .Content }}
+
+  {{ if .Params.ExternalUrl }}
+    <a href="{{ .Params.ExternalURL }}" target="_blank">More Information  <img src="/images/icons/rightward-arrow-blue.svg" class="btn-img"> </a>      
+  {{ end }}
+</div>

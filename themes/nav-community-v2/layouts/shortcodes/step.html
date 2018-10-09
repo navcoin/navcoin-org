@@ -1,0 +1,11 @@
+<div class="step-section">
+  <div class="step-card">
+    <img src="{{ .Get "imgSrc" }}" alt="" class="item-icon">
+    <h3>{{ .Get "titleText" }}</h3>
+    <p>{{ .Get "text" | safeHTML }}</p>
+    {{ if isset .Params "buttonUrl" }}
+      <a href="{{ .Get "buttonUrl" }}" class="round-btn gradient-btn button-one">{{ .Get "buttonText"}} <img src="{{ .Get "buttonImgSrc" }}" class="btn-img"> </span></a>
+      <a href="{{ .Get "buttonUrl" }}" class="round-btn gradient-btn small button-two">{{ .Get "buttonText" }} <img src="{{ .Get "buttonImgSrc" }}" class="btn-img"> </span></a>
+    {{ end }}
+  </div>
+</div>

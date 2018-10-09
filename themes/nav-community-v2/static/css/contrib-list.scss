@@ -1,0 +1,113 @@
+.contrib-list {
+  padding: 80px 0;
+
+  .contrib-list-title {
+    color: #7D5AB5;
+    font-size: 40px;
+    margin: 0 0 26px 0;
+  }
+
+  .subtitle {
+    color: #7D5AB5;
+    font-size: 16px;
+    margin: 0 0 55px 0;
+  }
+
+  .round-btn {
+    margin: 50px 0 0 0;
+  }
+
+  .git-disp-pic {
+    height: 48px;
+    border-radius: 225px;
+    margin: 13px 22px 8px 5px;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 300px);
+    grid-gap: 15px 20px;
+    justify-content: center;
+  }
+
+  .single-item {
+    background-color: #7d5ab5;
+    max-width: 450px;
+    overflow: auto;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: #ccc 0px 0px 10px;
+    transition: all 0.3s ease;
+    &:hover {
+      transform: translate(0px, -5px);
+      box-shadow: 5px 23px 39px rgba(66, 45, 178, 0.12);
+    }
+
+    .name {
+      font-size: 20px;
+    }
+
+    .underline {
+      font-size: 13px;
+      display: inline-block;
+      border-bottom: 1px solid #fff;
+    }
+
+    .contrib-info {
+      margin-top: 10px;
+      margin-left: 5px;
+    }
+
+    a, a:visited {
+      color: #fff;
+    }
+    a:hover, a:active {
+      filter: brightness(90%);
+    }
+    a {
+      display: flex;
+      flex-direction: row;
+    }
+    @media (max-width: 767px) {
+      a {
+        justify-content: flex-start;
+      }
+    }
+  }
+  @media (max-width: 1199px) {
+    .grid-container {
+      grid-gap: 20px 10px;
+    }
+    .single-item {
+      overflow: auto;
+      padding: 15px 20px;
+      border-radius: 10px;
+      .name {
+        font-size: 22px;
+      }
+    }
+  }
+  @media (max-width: 650px) {
+    .contrib-list-title {
+      font-size: 27px;
+      font-weight: 500;
+      line-height: 32px;
+    }
+    .grid-container {
+      grid-template-columns: repeat(auto-fit, minmax(225px, 450px));
+    }
+
+    .git-disp-pic {
+      margin: 13px 12px 8px 0px;
+    }
+
+    .single-item {
+      overflow: auto;
+      padding: 10px;
+      border-radius: 10px;
+      .name {
+        font-size: 18px;
+      }
+    }
+  }
+}

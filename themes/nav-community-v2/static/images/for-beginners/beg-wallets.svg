@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 108 108">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        stroke: #7d5ab5;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2.5px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004aff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#004aff"/>
+    </linearGradient>
+  </defs>
+  <g id="beg-wallets" transform="translate(-568 -207)">
+    <rect id="Rectangle_1039" data-name="Rectangle 1039" class="cls-1" width="108" height="108" transform="translate(568 207)"/>
+    <path id="Path_3274" data-name="Path 3274" class="cls-2" d="M36,0A36,36,0,1,1,0,36,36,36,0,0,1,36,0Z" transform="translate(604 225.72)"/>
+    <g id="Group_2519" data-name="Group 2519" transform="translate(569.44 222.84)">
+      <g id="Group_1933" data-name="Group 1933" transform="translate(0 12.56)">
+        <g id="Group_1931" data-name="Group 1931" transform="translate(0 0)">
+          <path id="Path_2559" data-name="Path 2559" class="cls-3" d="M1462.9,4185.632v25.027l12.017-8.4V4177.5Z" transform="translate(-1462.9 -4177.499)"/>
+          <path id="Path_2560" data-name="Path 2560" class="cls-3" d="M1547.9,4177.5v24.757l12.017,8.4v-25.027Z" transform="translate(-1471.098 -4177.499)"/>
+          <path id="Path_2561" data-name="Path 2561" class="cls-3" d="M1497.343,4177.5H1476.2v24.757h64.785V4177.5h-21.866" transform="translate(-1464.183 -4177.499)"/>
+          <rect id="Rectangle_913" data-name="Rectangle 913" class="cls-3" width="64.785" height="40.389" transform="translate(12.017 24.757)"/>
+        </g>
+        <g id="Group_1932" data-name="Group 1932" transform="translate(49.786 51.954)">
+          <line id="Line_1962" data-name="Line 1962" class="cls-3" y1="4.698" transform="translate(18.613)"/>
+          <line id="Line_1963" data-name="Line 1963" class="cls-3" y1="2.349" transform="translate(14.367 2.349)"/>
+          <line id="Line_1964" data-name="Line 1964" class="cls-3" y1="4.698" transform="translate(9.578)"/>
+          <line id="Line_1965" data-name="Line 1965" class="cls-3" y1="2.349" transform="translate(5.15 2.349)"/>
+          <line id="Line_1966" data-name="Line 1966" class="cls-3" y1="4.698"/>
+        </g>
+        <rect id="Rectangle_914" data-name="Rectangle 914" class="cls-3" width="10.572" height="10.572" transform="translate(18.704 48.521)"/>
+        <rect id="Rectangle_915" data-name="Rectangle 915" class="cls-3" width="13.282" height="16.264" transform="translate(37.768 25.029)"/>
+      </g>
+      <g id="Group_1934" data-name="Group 1934" transform="translate(39.124 0)">
+        <path id="Path_2562" data-name="Path 2562" class="cls-3" d="M1516.772,4185.2l-4.969,5.421-5.6-5.421" transform="translate(-1506.2 -4165.684)"/>
+        <line id="Line_1967" data-name="Line 1967" class="cls-3" y1="24.938" transform="translate(5.602)"/>
+      </g>
+    </g>
+  </g>
+</svg>

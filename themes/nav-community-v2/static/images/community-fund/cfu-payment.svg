@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 130 130">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-9 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-9 {
+        stroke: #fafafa;
+      }
+
+      .cls-3 {
+        stroke-linecap: square;
+        stroke-linejoin: bevel;
+        stroke-width: 3px;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-4, .cls-5, .cls-9 {
+        stroke-linejoin: round;
+      }
+
+      .cls-4 {
+        stroke-width: 4px;
+      }
+
+      .cls-5, .cls-6, .cls-9 {
+        stroke-width: 2px;
+      }
+
+      .cls-8 {
+        fill: #fafafa;
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="cfu-payment" transform="translate(16616 552)">
+    <rect id="Rectangle_4501" data-name="Rectangle 4501" class="cls-1" width="130" height="130" transform="translate(-16616 -552)"/>
+    <g id="Group_3528" data-name="Group 3528" transform="translate(-16579 -533)">
+      <ellipse id="Ellipse_106" data-name="Ellipse 106" class="cls-2" cx="46.5" cy="46.5" rx="46.5" ry="46.5" transform="translate(0 0)"/>
+    </g>
+    <g id="Group_3526" data-name="Group 3526" transform="translate(-28836 -2461.477)">
+      <g id="Group_3093" data-name="Group 3093" transform="translate(12222.2 1954.138)">
+        <path id="Path_1407" data-name="Path 1407" class="cls-3" d="M2205.6,2270.877v-8.233s0-6.443,6.444-6.443h48.8s6.921-.12,6.921,6.443v5.728" transform="translate(-2205.481 -2256.2)"/>
+        <g id="Group_1154" data-name="Group 1154" transform="translate(0 12.29)">
+          <path id="Path_1408" data-name="Path 1408" class="cls-4" d="M2286.645,2282.4h-25.058a2.393,2.393,0,0,0-2.386,2.386v13.126a2.393,2.393,0,0,0,2.386,2.386h25.058a2.393,2.393,0,0,0,2.386-2.386v-13.126A2.393,2.393,0,0,0,2286.645,2282.4Z" transform="translate(-2195.123 -2263.428)"/>
+          <path id="Path_1409" data-name="Path 1409" class="cls-4" d="M2269.577,2300.985v-13.126a2.394,2.394,0,0,1,2.386-2.387h20.047V2270.08a3.516,3.516,0,0,0-3.58-3.58H2209.08a3.516,3.516,0,0,0-3.58,3.58v48.684a3.516,3.516,0,0,0,3.58,3.579h79.351a3.516,3.516,0,0,0,3.58-3.579v-15.393h-20.047A2.394,2.394,0,0,1,2269.577,2300.985Z" transform="translate(-2205.5 -2266.5)"/>
+        </g>
+        <path id="Path_1410" data-name="Path 1410" class="cls-5" d="M2275.169,2290.434a4.535,4.535,0,1,1-4.534-4.534A4.458,4.458,0,0,1,2275.169,2290.434Z" transform="translate(-2193.789 -2250.461)"/>
+      </g>
+      <g id="Group_3099" data-name="Group 3099" transform="translate(12281.052 1936.03)">
+        <g id="Ellipse_231" data-name="Ellipse 231" class="cls-6" transform="translate(0 0)">
+          <circle class="cls-10" cx="13.59" cy="13.59" r="13.59"/>
+          <circle class="cls-1" cx="13.59" cy="13.59" r="12.59"/>
+        </g>
+        <g id="Ellipse_232" data-name="Ellipse 232" class="cls-7" transform="translate(4.727 4.727)">
+          <circle class="cls-10" cx="8.863" cy="8.863" r="8.863"/>
+          <circle class="cls-1" cx="8.863" cy="8.863" r="8.363"/>
+        </g>
+      </g>
+      <path id="Path_15653" data-name="Path 15653" class="cls-8" d="M15.7,1,12.5,7.521,8.808,1H4.565L0,11.571H4.262L6.98,5.252l3,5.356.529.945h4.271L19.93,1ZM11.94,8.6l.606.689S11.949,8.623,11.94,8.6Z" transform="translate(12231.383 1998.491)"/>
+      <line id="Line_7850" data-name="Line 7850" class="cls-9" x2="13.912" transform="translate(12283.034 1939.104) rotate(-90)"/>
+      <line id="Line_7851" data-name="Line 7851" class="cls-9" x1="6.956" transform="translate(12290.381 1929.785) rotate(-90)"/>
+      <line id="Line_7852" data-name="Line 7852" class="cls-9" x1="3.039" transform="translate(12290.381 1936.471) rotate(-90)"/>
+      <line id="Line_7853" data-name="Line 7853" class="cls-9" x2="10.603" transform="translate(12297.361 1933.432) rotate(-90)"/>
+    </g>
+  </g>
+</svg>

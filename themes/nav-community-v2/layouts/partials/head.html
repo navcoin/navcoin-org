@@ -1,0 +1,69 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>{{ if .Title }} {{.Title}} | {{ end }}{{ .Site.Title }}</title>
+    <meta name="author" content="NavCoin">
+    <meta name="description" content="{{ if isset .Params "description" }}{{ .Params.description }}{{ else }}NavCoin is an easy to use digital currency - run by its community. It’s programmable money that lowers the cost of doing business in the Web3 economy.{{ end }}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TGRT2RZ');</script>
+    <!-- End Google Tag Manager -->
+    <meta name="google-site-verification" content="hiuSpo_2DJbL4agTuGzmasRuOdIJ50t31-eSsalEaHQ" />
+    <!-- favi icon -->
+    <link rel="shortcut icon" href="/images/favicon-1.png">
+    <!-- Site Title -->
+
+    <!-- google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,500|Roboto:400,500|Source+Sans+Pro" rel="stylesheet">
+
+    <!-- bootstrap -->
+    <link rel="stylesheet" href='{{ "css/bootstrap.min.css" | relURL }}'>
+
+    <!-- font awesome css -->
+    <link rel="stylesheet" href='{{ "css/font-awesome.min.css" | relURL }}'>
+
+    <!-- Theme main css -->
+    <link rel="stylesheet" href='{{ "css/style.css" | relURL }}'>
+
+    <!-- nav css -->
+    <link rel="stylesheet" href='{{ "css/nav.css" | relURL }}'>
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="NavCoin">
+    <meta property="twitter:description" content="{{ if isset .Params "description" }}{{ .Params.description }}{{ else }}NavCoin is an easy to use digital currency - run by its community. It’s programmable money that lowers the cost of doing business in the Web3 economy.{{ end }}" />
+    <meta property="twitter:image" content="{{ if isset .Params "og_image" }}{{ .Params.og_image }}{{ else }}https://navcoin.org/images/nav_blue-trend.png{{ end }}" />
+
+    <!-- Open Graph data -->
+    <meta property="og:site_name" content="NavCoin">
+    <meta property="og:title" content="{{ if .Title }} {{.Title}} | {{ end }}{{ .Site.Title }}" />
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta property="og:image" content="{{ if isset .Params "og_image" }}{{ .Params.og_image }}{{ else }}https://navcoin.org/images/nav_blue-trend.png{{ end }}" />
+    <meta property="og:description" content="{{ if isset .Params "description" }}{{ .Params.description }}{{ else }}NavCoin is an easy to use digital currency - run by its community. It’s programmable money that lowers the cost of doing business in the Web3 economy.{{ end }}" />
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGRT2RZ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <script type="application/ld+json">
+        {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "NavCoin",
+          "url": "https://navcoin.org/",
+          "logo": "https://navcoin.org/images/nav_blue-trend.png",
+          "sameAs": [
+            "https://www.facebook.com/NAVCoin/",
+            "https://twitter.com/NavCoin",
+            "https://www.youtube.com/NavCoinCore",
+            "https://github.com/NAVCoin"
+          ]
+        }
+        </script>
+</head>

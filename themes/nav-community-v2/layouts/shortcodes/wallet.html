@@ -1,0 +1,40 @@
+<div class="wallet-column">
+    <div class="item-card">
+        <div class="item-main">
+            <div class="item-icon-container">
+                <img src="{{ .Get "walletImgSrc" }}" alt="" class="item-icon">
+            </div>
+            <div class="item-details-group">
+                <h3>{{ .Get "titleText" }}</h3>
+                <section id="box-item-group">
+                    <div id="box-items">
+                        {{ if isset .Params "platformImg1Src" }}
+                            <div><img src="{{ .Get "platformImg1Src" }}"></div>
+                        {{ end }}
+                        {{ if isset .Params "platformImg2Src" }}
+                            <div><img src="{{ .Get "platformImg2Src" }}"></div>
+                        {{ end }}
+                        {{ if isset .Params "platformImg3Src" }}
+                            <div><img src="{{ .Get "platformImg3Src" }}"></div>
+                        {{ end }}
+                        {{ if isset .Params "platformImg4Src" }}
+                            <div><img src="{{ .Get "platformImg4Src" }}"></div>
+                        {{ end }}
+                        {{ if isset .Params "platformImg5Src" }}
+                            <div><img src="{{ .Get "platformImg5Src" }}"></div>
+                        {{ end }}
+                        {{ if isset .Params "platformImg6Src" }}
+                            <div><img src="{{ .Get "platformImg6Src" }}"></div>
+                        {{ end }}
+                    </div>
+                </section>
+                <div class="item-text">
+                    <p>{{ .Get "text" | safeHTML }}</p>
+                    {{ if isset .Params "buttonUrl" }}
+                        <a href="{{ .Get "buttonUrl" }}" {{if isset .Params "newTab"}} target="_blank" {{ end }} class="round-btn small gradient-btn">{{ .Get "buttonText" }} <img src="{{ .Get "buttonImgSrc" }}" class="btn-img"> </span></a>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
