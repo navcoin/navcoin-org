@@ -36,7 +36,7 @@
 .roadmap-grid-container{
   display:grid;
   grid-template-areas:
-    "up-coming   in-progress  beta   completed";
+    "upcoming   inprogress  beta   completed";
   grid-gap:0 1.5%;
   max-width:1850px;
   margin:0 auto;
@@ -71,7 +71,7 @@
   .roadmap-grid-container{
     grid-template-areas:
       "upcoming"
-      " inprogress"
+      "inprogress"
       "beta"
       "completed";
       padding: 10px;
