@@ -12,10 +12,10 @@ title = "NavCoin - An Easy To Use Decentralized Cryptocurrency"
 weight = 1
 languageName = "English"
 
-[Languages.fr]
-title = "Documentation du thème Hugo Learn"
+[Languages.es]
+title = "es NavCoin - An Easy To Use Decentralized Cryptocurrency"
 weight = 2
-languageName = "Français"
+languageName = "español"
 
 twitter_username = "navcoin"
 enableRobotsTXT = true
@@ -43,153 +43,112 @@ enableRobotsTXT = true
 
 # Main Menu
 [[menu.main]]
-    name = "About"
-    title = "About"
-    weight = 1
-    url = "/about-navcoin/"
-    identifier = "about-NavCoin"
-
-[[menu.main]]
-    name = "Protocol"
-    title = "Protocol"
-    weight = 1
-    identifier = "protocol"
-    [[menu.main]]
-        name = "Notices"
-        title = "Notices"
-        weight = 2
-        url = "/notices/"
-        identifier = "notices"
-        parent = "protocol"
-    [[menu.main]]
-        name = "NavCoin Core"
-        title = "NavCoin Core"
-        weight = 3
-        url = "/navcoin-core/"
-        identifier = "core"
-        parent = "protocol"
-
-[[menu.main]]
-    name = "Learn"
-    title = "Learn"
-    weight = 2
-    identifier = "learn"
+    name = "Get Started"
+    title = "Get Started"
+    weight = 10
+    identifier = "get-started"
     depth = 1
     [[menu.main]]
-        name = "Getting Started"
-        title = "Getting Started"
-        weight = 2
-        url = "/getting-started/"
-        identifier = "getting-started"
-        parent = "learn"
+        name = "Why NavCoin"
+        title = "Why NavCoin"
+        weight = 20
+        url = "/why-navcoin/"
+        identifier = "why-navcoin"
+        parent = "get-started"
     [[menu.main]]
-        name = "Manifestos"
-        title = "Manifestos"
-        weight = 3
-        url = "/manifestos"
-        identifier = "manifestos"
-        parent = "getting-started"
+        name = "Governance"
+        title = "Governance"
+        weight = 30
+        url = "/governance/"
+        identifier = "governance"
+        parent = "get-started"
     [[menu.main]]
-        name = "Buying NavCoin"
-        title = "Buying NavCoin"
-        weight = 4
-        url = "/buying-navcoin"
-        identifier = "buying-navcoin"
-        parent = "learn"
+        name = "For Individuals"
+        title = "For Individuals"
+        weight = 40
+        url = "/for-individuals/"
+        identifier = "for-individuals"
+        parent = "get-started"
     [[menu.main]]
-        name = "Community Fund"
-        title = "Community Fund"
-        weight = 5
-        identifier = "community-fund"
-        url = "/community-fund/"
-        parent="learn"
+        name = "For Developers"
+        title = "For Developers"
+        weight = 50
+        identifier = "for-developers"
+        url = "/for-developers/"
+        parent="get-started"
     [[menu.main]]
-        name = "Knowledge Base"
-        title = "Knowledge Base"
-        weight = 6
-        url = "https://info.navcoin.org"
-        parent="learn"
+        name = "For Businesses"
+        title = "For Businesses"
+        weight = 60
+        identifier = "for-business"
+        url = "/for-business/"
+        parent="get-started"
+    [[menu.main]]
+        name = "Buy NavCoin"
+        title = "Buy NavCoin"
+        weight = 70
+        url = "/buy-navcoin/"
+        identifier = "buy-navcoin"
+        parent = "get-started"
+
+[[menu.main]]
+    name = "Explore"
+    title = "Explore"
+    weight = 20
+    identifier = "explore"
+    [[menu.main]]
+        name = "Roadmap"
+        title = "Roadmap"
+        weight = 20
+        url = "/roadmap/"
+        identifier = "roadmap"
+        parent = "explore"
+    [[menu.main]]
+        name = "Block Explorer"
+        title = "Block Explorer"
+        weight = 30
+        url = "https://navexplorer.com"
+        identifier = "block-explorer"
+        parent = "explore"
+    [[menu.main]]
+        name = "NavHub"
+        title = "NavHub"
+        weight = 40
+        url = "https://navhub.org"
+        identifier = "navhub"
+        parent = "explore"
     [[menu.main]]
         name = "Merchants"
         title = "Merchants"
-        weight = 7
-        url = "/merchants"
+        weight = 50
+        url = "/merchants/"
         identifier = "merchants"
-        parent = "learn"
+        parent = "explore"
     [[menu.main]]
-        name = "Manifestos"
-        title = "Manifestos"
-        weight = 7
-        url = "/manifestos"
-        identifier = "manifestos"
-        parent = "learn"
-    [[menu.main]]
-        name = "Buying NavCoin"
-        title = "Buying NavCoin"
-        weight = 8
-        url = "/buying-navcoin"
-        identifier = "buying-navcoin"
-        parent = "learn"
-    [[menu.main]]
-        name = "Accepting NavCoin"
-        title = "Accepting NavCoin"
-        weight = 9
-        url = "/how-to-accept-navcoin"
-        identifier = "how-to-accept-navcoin"
-        parent = "learn"
-    [[menu.main]]
-        name = "About This Website"
-        title = "About This Website"
-        weight = 10
-        url = "/about-this-website/"
-        identifier = "about-this-website"
-        parent = "learn"
-    [[menu.main]]
-        name = "Contribute"
-        title = "Contribute"
-        weight = 12
+        name = "Get Involved"
+        title = "Get Involved"
+        weight = 60
         url = "/get-involved/"
-        identifier = "contribute"
-        parent = "learn"
-
+        identifier = "get-involved"
+        parent = "explore"
 
 [[menu.main]]
-    name = "Community"
-    title = "Community"
-    weight = 3
-    identifier = "community"
-    [[menu.main]]
-        name = "Community Hub"
-        title = "Community Hub"
-        weight = 1
-        identifier = "community-hub"
-        url = "https://www.navhub.org"
-        parent="community"
-    [[menu.main]]
-        name = "NavTech Servers"
-        title = "NavTech Servers"
-        weight = 2
-        identifier = "navtech-servers"
-        url = "https://navtechservers.com/"
-        parent="community"
-    [[menu.main]]
-        name = "NavCommunity"
-        title = "NavCommunity"
-        weight = 3
-        identifier = "navcommunity"
-        url = "https://navcommunity.net/"
-        parent="community"
-    [[menu.main]]
-        name = "NavCoin Italia"
-        title = "NavCoin Italia"
-        weight = 4
-        identifier = "navcoin-italia"
-        url = "https://www.navcoinitalia.com/"
-        parent="community"
+    name = "News"
+    title = "News"
+    url="/notices/"
+    weight = 30
+    identifier = "news"
+
+[[menu.main]]
+    name = "Community Fund"
+    title = "Community Fund"
+    weight = 40
+    identifier = "community-fund"
+    url = "/community-fund/"
 
 [[menu.main]]
     name = "Wallets"
     title = "Wallets"
-    weight = 4
+    weight = 50
     identifier = "wallets"
     url = "/wallets/"
