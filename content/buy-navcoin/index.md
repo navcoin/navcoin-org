@@ -117,7 +117,7 @@ newTab="true"
     >}}
     {{< exchange
          titleText="Bitexlive"
-         imgSrc="/images/buy-navcoin/bitexlive.jpg"
+         imgSrc="/images/buy-navcoin/bitexlive.png"
          text="BTC / NAV"
          linkUrl="https://bitexlive.com/exchange/BTC-NAV"
      >}}
