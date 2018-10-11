@@ -64,12 +64,12 @@ description: ""
 {{< zig_section
   titleText="For your store"
   imgSrc="/images/icons/house.svg"
-  paragraphText="NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. Check out this demo that shows how easy it is"
   buttonText="See who's involved"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
 >}}
-
+NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. Check out this demo that shows how easy it is
+{{< /zig_section>}}
 {{< zig_section
 titleText="For your store"
 imgSrc="/images/icons/house.svg"
@@ -78,6 +78,7 @@ buttonText="See who's involved"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 >}}
+{{< /zig_section>}}
 
 {{< contrib_list
     titleText="NavCoin Protocol Contributors"

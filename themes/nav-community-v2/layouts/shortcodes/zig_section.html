@@ -3,7 +3,7 @@
     <img src="{{ .Get "imgSrc" }}" class="zig-img">
     <div class="text-section-container">
       <h1 class="">{{ .Get "titleText" | safeHTML }}</h1>
-      <p class="paragraph-text">{{ .Get "paragraphText" | safeHTML }}</p>
+      <p class="paragraph-text">{{ .Inner }}</p>
       {{ if (isset  .Params "buttonText") }}
         <div>
             <a href="{{ .Get "buttonUrl" }}" class="round-btn gradient-btn" {{if isset .Params "newTab"}} target="_blank" {{end}}>

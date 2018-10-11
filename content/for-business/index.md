@@ -51,35 +51,38 @@ imgSrc="/images/for-business/bus-hero.svg"
 {{< zig_section
   titleText="Accept Payments In Person"
   imgSrc="/images/for-business/bus-for-store.svg"
-  paragraphText="NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. With no blockchain to download, it's an easy way to get&nbsp;started."
   buttonText="Visit NavPay"
   buttonUrl="https://navhub.org/projects/nav-pay/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
+NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. With no blockchain to download, it's an easy way to get&nbsp;started.
+{{< /zig_section>}}
 
 {{< zig_section
 titleText="Accept Online Payments"
 imgSrc="/images/for-business/bus-for-bus.svg"
-paragraphText="CoinPayments is a little like PayPal, but for digital currencies. Plug-ins include a shopping cart, payment button, invoicing, and point-of-sale interface. If your business is in the EuroZone or USA, you can withdraw funds in EURO or&nbsp;USD." 
 buttonText="Visit CoinPayments"
 buttonUrl="https://www.coinpayments.net/"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 newTab="true"
 >}}
+CoinPayments is a little like PayPal, but for digital currencies. Plug-ins include a shopping cart, payment button, invoicing, and point-of-sale interface. If your business is in the EuroZone or USA, you can withdraw funds in EURO or&nbsp;USD.
+{{< /zig_section>}}
 
 {{< zig_section
   titleText="Accept Personal Payments"
   imgSrc="/images/for-business/bus-for-blog.svg"
-  paragraphText="Integrating NavButtons for quick payments is an easy to implement option that suits individuals or side businesses. It’s as easy as copy-pasting some code onto your website. There is a choice of embeddable buttons, or QR codes for even easier&nbsp;sharing."
   buttonText="View buttons here"
   buttonUrl="https://brianium.github.io/nav-button/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
+Integrating NavButtons for quick payments is an easy to implement option that suits individuals or side businesses. It’s as easy as copy-pasting some code onto your website. There is a choice of embeddable buttons, or QR codes for even easier&nbsp;sharing.
+{{< /zig_section>}}
 
 {{< center_text_cta
     lightStyle="true"
