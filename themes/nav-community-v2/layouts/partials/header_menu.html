@@ -42,7 +42,7 @@
                 </span>     
             <ul class="sub-menu">
                 {{ range $.Site.Home.AllTranslations }}
-                    <li class="active sub-menu-item"><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+                    <li class="active sub-menu-item"><a href="{{ .Permalink }}{{ $currentPage.Dir }}">{{ .Language.LanguageName }}</a></li>
                 {{ end }}
             </ul>
         </li>
