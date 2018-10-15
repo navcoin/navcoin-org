@@ -43,7 +43,7 @@ function duplicateEnglishMarkdown(dirPath, languageCode) {
         console.log(`**** \n${dirPath + translationFilename} exists \n****`)
         return
       } catch (e) {
-        fs.copyFile(englishFiles[i], `${englishFiles[i].substring(0,-3)}.${languageCode}.md`, (err) => {
+        fs.copyFile(`${dirPath + englishFiles[i]}`, `${ dirPath + translationFilename}`, (err) => {
           if (err) throw err;
           console.log(`${dirPath + englishFiles[i]} was copied as ${translationFilename}`);
         })
