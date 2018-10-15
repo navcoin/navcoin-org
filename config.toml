@@ -4,7 +4,7 @@ theme = "nav-community-v2"
 # English is the default language
 defaultContentLanguage = "en"
 # Force to have /en/my-page and /fr/my-page routes, even for default language.
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 twitter_username = "navcoin"
 enableRobotsTXT = true
