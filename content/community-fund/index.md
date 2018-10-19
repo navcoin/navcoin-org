@@ -19,7 +19,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
     titleText="How The Fund Works In 3&nbsp;Steps"
     subtitleText=""
     bgPurple="true"
-    >}}
+    >}} 
     {{< feature
         titleText="Step 1: Submit"
         imgSrc="/images/community-fund/cfu-submit.svg"
@@ -87,8 +87,10 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
 {{< accordion
   titleText="How To Create A&nbsp;Proposal"
   subtitleText="We’ve got a process to help you ensure your proposal has the best chance of&nbsp;passing."
-  itemOneTitle="Step 1 - Develop your ideas."
-  itemOneText="Think of things that could inspire the NavCoin network. You can go it alone or discuss it with the community in <a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> or on the <a href=\"https://collab.navcoin.org\">NavCollab website</a>."
+  anchor="download-core"
+
+  itemOneTitle="Step 1 - Understand the system and develop your ideas."
+  itemOneText="Think of project that could inspire the NavCoin network. You can go it alone or discuss it with the community in <a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> or on the <a href=\"https://collab.navcoin.org\">NavCollab website</a>.  <br><img src=\"/images/community-fund/cfu-voting.svg\" alt=\"voting image\">"    
 
   itemTwoTitle="Step 2 - Create a project page."
   itemTwoText="It can be anywhere, but to give your project maximum visibility in the community consider using the <a href=\"\">NavCollab website</a>.<br><br>Work out the details of the project. You need to communicate why the NavCoin community should fund it, if you need to tap into other people’s skills, and how long it will take from start to finish. <br><br>Your proposal might suiting being funded in stages, especially if it’s long term devising a roadmap will help."
@@ -97,19 +99,19 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
   itemThreeText="Do you need other skills to bring your project to life? Use NavCoin’s social channels and the NavCollab website to find community members who can help you complete your project."
 
   itemFourTitle="Step 4 - Submit your proposal."
-  itemFourText="Complete the proposal form, including a link to your project page.<br><br>To complete the process, you will need to pay a proposal fee. If the fund has only a small amount of NAV left, then the projects that pay the highest fees to the network will be accepted first. A fee is necessary to stop people submitting poorly thought out&nbsp;proposals."
+  itemFourText="Complete the proposal form below, including a link to your project page.<br><br>To complete the process, you will need to pay a proposal fee. If the fund has only a small amount of NAV left, then the projects that pay the highest fees to the network will be accepted first. A fee of 50 Nav is necessary to stop people submitting poorly thought out proposals.<br><br><br><iframe src=\"https://nav-proposal-creator.netlify.com/proposal/create\" style=\"width:100%; height:600px;border:none;\"></iframe>"
 
   itemFiveTitle="Step 5 - Promote your project to stakers."
   itemFiveText="Once you’ve submitted your proposal, promote your project using the community channels. Communicate why you think it’s worth funding what benefits will it bring? Why should the community support&nbsp;it?"
 
   itemSixTitle="Step 6 - Voting begins."
-  itemSixText="To be eligible to vote you must be staking NavCoin. Each voting period lasts 20,000 blocks (roughly 7 days).<br><br><ul><li>The minimum participation rate of stakers needs to be 50%</li><br><li>Of that 50%, a proposal must receive 75% ‘yes’ votes to be accepted</li><br><li>67.5% ‘no’ votes will result in it being rejected.</li><br><li>Proposals that don't met the 50% participation rate after 6 block periods will timeout and need to be resubmitted."
+  itemSixText="To be eligible to vote you must be staking NavCoin. Each voting period lasts 20,000 blocks (roughly 7 days).<br><br><ul><li>The minimum participation rate of stakers needs to be 50%</li><br><li>Of that 50%, a proposal must receive 70% ‘yes’ votes to be accepted</li><br><li>70% ‘no’ votes will result in it being rejected.</li><br><li>Proposals that don't met the 50% participation rate after 6 block periods will timeout and need to be resubmitted."
 
   itemSevenTitle="Step 7 - Begin the work."
   itemSevenText="Start work and do your best to stick to your&nbsp;timeline.<br><br>Keep the community updated with how things are progressing in your project. It’s ok to ask for help along the&nbsp;way."
 
   itemEightTitle="Step 8 - Apply for payment."
-  itemEightText="Once your project is complete you can apply for payment from the Community Fund. If there are clear milestones in your proposal you can apply to receive payments at scheduled points in the&nbsp;timeline.<br><br>Payment is subject to a second consensus vote among NavCoin stakers. There must be a 50% minimum participation, with 50% ‘yes’ vote to be paid and 50% ‘no’ for payment to be&nbsp;rejected.<br><br>Note that you will need to submit your payment request before the project expiration date (which you set when you create your proposal - so make sure to include some&nbsp;buffer)."
+  itemEightText="Once your project is complete you can apply for payment from the Community Fund. If there are clear milestones in your proposal you can apply to receive payments at scheduled points in the&nbsp;timeline.<br><br>Payment is subject to a second consensus vote among NavCoin stakers. There must be a 50% minimum participation, with 70% ‘yes’ vote to be paid and 70% ‘no’ for payment to be&nbsp;rejected.<br><br>Note that you will need to submit your payment request before the project expiration date (which you set when you create your proposal - so make sure to include some&nbsp;buffer)."
 >}}
 
 {{< social_grid_section
@@ -159,3 +161,10 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
 >}}
 
 {{< /social_grid_section >}}
+
+
+<style>
+mat-card.mat-card {
+    box-shadow: none !important;
+}
+</style>
