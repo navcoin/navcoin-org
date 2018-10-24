@@ -1,9 +1,9 @@
-<section class="contrib-list">     
+<section class="contrib-list" id="contributor-list">     
     <div class="container">
         <div class="row">
             <div class="col-md-12" style="text-align: center;">
                 <h2 class="contrib-list-title">{{ .Get "titleText"}}</h2>
-                <div class="subtitle">{{ .Get "subtitleText" }}</div>
+                <div class="subtitle">{{ .Get "subtitleText" | safeHTML}}</div>
             </div>
         </div>
         <div class="grid-container">
