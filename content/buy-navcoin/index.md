@@ -38,11 +38,41 @@ newTab="true"
         linkUrl="https://www.binance.com/trade.html?symbol=NAV_BTC"
     >}}
     {{< exchange
+         titleText="UPbit"
+         imgSrc="/images/buy-navcoin/upbit.png"
+         text="BTC / NAV"
+         linkUrl="https://upbit.com/exchange?code=CRIX.UPBIT.BTC-NAV"
+     >}}
+     {{< exchange
+          titleText="Changelly"
+          imgSrc="/images/buy-navcoin/buy-changelly.png"
+          text="Instant Exchange"
+          linkUrl="https://changelly.com/"
+      >}}
+      {{< exchange
+           titleText="Litebit"
+           imgSrc="/images/buy-navcoin/buy-litebit.png"
+           text="Euro Direct Purchase"
+           linkUrl="https://www.litebit.eu/en/buy/navcoin"
+       >}}
+    {{< exchange
         titleText="Cryptopia"
         imgSrc="/images/buy-navcoin/buy-crypopia.png"
         text="BTC, USD, NZD / NAV"
         linkUrl="https://www.cryptopia.co.nz/Exchange/?market=NAV_BTC"
     >}}
+    {{< exchange
+         titleText="Easy Crypto"
+         imgSrc="/images/buy-navcoin/buy-easy-crypto.png"
+         text="NZD Direct Purchase"
+         linkUrl="https://www.easycrypto.nz/"
+     >}}
+    {{< exchange
+         titleText="BitPrime"
+         imgSrc="/images/buy-navcoin/buy-bitprime.png"
+         text="NZD Direct Buy/Sell"
+         linkUrl="https://www.bitprime.co.nz/product/navcoin-nav"
+     >}}
     {{< exchange
         titleText="Cfinex"
         imgSrc="/images/buy-navcoin/buy-cfinex.png"
@@ -50,22 +80,10 @@ newTab="true"
         linkUrl="https://cfinex.com/#NAV-BTC"
     >}}
    {{< exchange
-        titleText="Litebit"
-        imgSrc="/images/buy-navcoin/buy-litebit.png"
-        text="Euro Direct Purchase"
-        linkUrl="https://www.litebit.eu/en/buy/navcoin"
-    >}}
-   {{< exchange
         titleText="Bisq"
         imgSrc="/images/buy-navcoin/buy-bisq.png"
         text="Decentralised Exchange"
         linkUrl="https://bitsquare.io/"
-    >}}
-   {{< exchange
-        titleText="Changelly"
-        imgSrc="/images/buy-navcoin/buy-changelly.png"
-        text="Instant Exchange"
-        linkUrl="https://changelly.com/"
     >}}
    {{< exchange
         titleText="Best Rate"
@@ -78,18 +96,6 @@ newTab="true"
         imgSrc="/images/buy-navcoin/buy-godex.png"
         text="Decentralised Exchange"
         linkUrl="https://godex.io/"
-    >}}
-   {{< exchange
-        titleText="Easy Crypto"
-        imgSrc="/images/buy-navcoin/buy-easy-crypto.png"
-        text="NZD Direct Purchase"
-        linkUrl="https://www.easycrypto.nz/"
-    >}}
-   {{< exchange
-        titleText="BitPrime"
-        imgSrc="/images/buy-navcoin/buy-bitprime.png"
-        text="NZD Direct Buy/Sell"
-        linkUrl="https://www.bitprime.co.nz/product/navcoin-nav"
     >}}
    {{< exchange
         titleText="Change Now"
