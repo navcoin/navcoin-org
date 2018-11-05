@@ -17,13 +17,13 @@
             {{ $list := (.Data.Pages) }}
             {{ range $index, $element := .Data.Pages }}
               <div class="blog-item">
-                  <a href="{{ .URL }}">
+                  <a href="{{ .URL | absLangURL }}">
                     <div class="blog-image" style="background-image:url({{ .Params.feature_image }});">
                       <div class="item-overlay"></div>
                     </div>
                   </a>
                   <div class="blog-details">
-                              <h3><a href="{{ .URL }}">{{ .Title }}</a></h3>
+                              <h3><a href="{{ .URL | absLangURL }}">{{ .Title }}</a></h3>
                               <ul class="blog-author-name">
                                   <li><i class="fa fa-user-o"></i>{{ .Params.author }}</li>
                                   <li>
@@ -48,11 +48,11 @@
                                 justify-content: space-between;
                                  align-items: center;
                                 margin: 10px 0px 10px;">
-                              <a href="{{ .URL }}" class="round-btn gradient-btn" style="box-shadow: none;">Read More 
+                              <a href="{{ .URL | absLangURL }}" class="round-btn gradient-btn" style="box-shadow: none;">Read More 
                                     <img src=/images/icons/rightward-arrow.svg class="btn-img"> </span></a>
                               <!-- <div class="read-more">
                                   <div class="themeix-button-group">
-                                      <a href="{{ .URL }}" class="themeix-btn themeix-danger">read more</a>
+                                      <a href="{{ .URL | absLangURL }}" class="themeix-btn themeix-danger">read more</a>
                                   </div>
                               </div> -->
                               {{ partial "social_share.html" .  }}
@@ -69,7 +69,7 @@
                         <ul>
                           {{ range first 10 .Site.Taxonomies.notice_categories.ByCount }}
                             {{ $filter := replace .Name "-" " " }}
-                              <li class="cat-item" ><a href="/notice_categories/{{ .Name | urlize }}">{{ $filter }}</a> </li>
+                              <li class="cat-item" ><a href="/en/notice_categories/{{ .Name | urlize | absLangURL }}">{{ $filter }}</a> </li>
                           {{ end }}
                         </ul>
                     </div>
