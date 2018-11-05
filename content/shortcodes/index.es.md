@@ -36,7 +36,6 @@ description: ""
 {{< accordion
   titleText="Accordion"
   subtitleText="NavCoin is an open source protocol and NavCoin wallets"
-
   itemOneTitle="Step 1 - Develop your ideas."
   itemOneText="Think of things that could inspire the NavCoin network. You can go it alone or discuss it with the community in <a href=\"https://reddit.com/r/navcoin\">Reddit</a> or <a href=\"https://discord.gg/dRyhDjm\">Discord</a>."
 
@@ -65,12 +64,12 @@ description: ""
 {{< zig_section
   titleText="For your store"
   imgSrc="/images/icons/house.svg"
-  paragraphText="NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. Check out this demo that shows how easy it is"
   buttonText="See who's involved"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
 >}}
-
+NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. Check out this demo that shows how easy it is
+{{< /zig_section>}}
 {{< zig_section
 titleText="For your store"
 imgSrc="/images/icons/house.svg"
@@ -79,6 +78,7 @@ buttonText="See who's involved"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 >}}
+{{< /zig_section>}}
 
 {{< contrib_list
     titleText="NavCoin Protocol Contributors"

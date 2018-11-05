@@ -65,30 +65,29 @@ A `zig_section` looks like this:
 {{< zig_section
   titleText="For your store"
   imgSrc="/images/icons/house.svg"
-  paragraphText="NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. Check out this demo that shows how easy it is"
   buttonText="See who's involved"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
 >}}
-
+NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. Check out this demo that shows how easy it is
+{{< /zig_section>}}
 {{< zig_section
 titleText="For your store"
 imgSrc="/images/icons/house.svg"
-paragraphText="NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. Check out this demo that shows how easy it is" 
 buttonText="See who's involved"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 >}}
-
+NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. Check out this demo that shows how easy it is
+{{< /zig_section>}}
 
 The button attributes are optional and excluding them will not render a button.
 If you set the `zig_section` to use a _purple background_ the style (font color, etc) of the rest of it will change too.
-
+It's important that you have the `{{< /zig_section>}}` part at the end so you can insert paragraph text into the zig_section.
 
 | Attribute | Purpose | Content |
 |--- |:---: | ---:|
 | titleText | Sets the title text. | Plain text |
-| paragraphText | Sets the text. | Plain text |
 | imgSrc | Sets the image for the action | A path e.g. `/images/logos/wallet-navpi-logo.png"` |
 | buttonUrl | Sets the button URL | If it's an on-site link a simple relative link is fine, e.g. `/buy-nav`. An off-site link will need to be written in full, e.g. `https://www.navhub.org` |
 | buttonText | Sets the button text  | Plain text |

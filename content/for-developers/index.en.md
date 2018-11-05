@@ -18,13 +18,13 @@ buttonImgSrc="/images/icons/rightward-arrow.svg"
 {{< zig_section
 titleText="Get Funded By The NavCoin&nbsp;Network"
 imgSrc="/images/for-developers/dev-get-involved.svg"
-paragraphText="NavCoin’s Community Fund enables any developer to get paid by the network for their contributions to the NavCoin ecosystem. Projects are funded and approved by the decentralized network with no central authority. This ensures NavCoin’s direction remains firmly in the best interest of the network and is autonomously determined by the&nbsp;community." 
 buttonText="Learn more"
 buttonUrl="/community-fund"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 >}}
-
+NavCoin’s Community Fund enables any developer to get paid by the network for their contributions to the NavCoin ecosystem. Projects are funded and approved by the decentralized network with no central authority. This ensures NavCoin’s direction remains firmly in the best interest of the network and is autonomously determined by the&nbsp;community.
+{{< /zig_section>}}
 {{< item_container_section 
     titleText="Why You Should Get Involved"
     subtitleText="NavCoin is built for the community, by the community."

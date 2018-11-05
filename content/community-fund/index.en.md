@@ -76,13 +76,14 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
 {{< zig_section
   titleText="How Do I Get Involved?"
   imgSrc="/images/community-fund/cfu-get-involved.svg"
-  paragraphText="The NavCoin Collab website is the space to find the range of projects that the community is working on. It acts as the ‘town square’, and makes it easier for the community to collaborate on projects&nbsp;together."
   buttonText="Join the Collab"
   buttonUrl="https://collab.navcoin.org/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
+The NavCoin Collab website is the space to find the range of projects that the community is working on. It acts as the ‘town square’, and makes it easier for the community to collaborate on projects&nbsp;together.
+{{< /zig_section>}}
 
 {{< accordion
   titleText="How To Create A&nbsp;Proposal"

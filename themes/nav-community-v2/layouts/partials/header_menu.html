@@ -1,56 +1,50 @@
 <nav>
-    <ul class="nav navbar-nav">
-    <li>
-        <a class="">Get Started <span class="arrow"></span></a>
-            <ul>
-                <li class="active"><a href="/why-navcoin/">Why NavCoin</a></li>
-                <li class="active"><a href="/governance/">Governance</a></li>
-                <!-- <li class="active"><a href="/get-involved/">Contribute</a></li> -->
-                <!-- <li class="active"><a href="">Documentation</a></li> -->
-                <hr>
-                <li class="active"><a href="/for-individuals/">For Individuals</a></li>
-                <li class="active"><a href="/for-developers/">For Developers</a></li>
-                <li class="active"><a href="/for-business/">For Businesses</a></li>
-                <hr>
-                <li class="active"><a href="/buy-navcoin/">Buy NavCoin</a></li>
-            </ul>
-        </li>
-        <li>
-            <a class="">Explore <span class="arrow"></span></a>
-            <ul>
-                <li class="active"><a href="/roadmap/">Roadmap</a></li>
-                <li class="active"><a href="https://www.navexplorer.com/" target="_blank">Block Explorer <img src="https://static.thenounproject.com/png/3878-200.png" alt="external" style="margin-left:5px; width: 10px; opacity: 0.5;"> </a></li>
-                <li class="active"><a href="https://www.navhub.org/" target="_blank">NavHub <img src="https://static.thenounproject.com/png/3878-200.png" alt="external" style="margin-left:5px; width: 10px; opacity: 0.5;"> </a></li>
+    <ul id="navigation-bar">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+            {{ if .HasChildren }}
+                <li class=" {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }} nav-dropdown">
+                    <span class="menu-item nav-top-item">
+                        {{ .Pre }}
+                        <span class="name">{{ .Name }}</span>
+                        <span class="arrow"></span>
+                    </span>
+                    <ul class="sub-menu">
+                        {{ range .Children }}
+                            <li class="sub-menu-item {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                                <a href="{{ .URL  | absLangURL}}">{{ .Name }}
+                                </a>
+                            {{ if or (eq .Identifier "navhub") (eq .Identifier "block-explorer") }}
+                                <img src="/images/external-link-img.png" alt="external" class="external-link-img"> 
+                            {{ end }}
+                            </li>
+                            {{ if or (eq .Identifier "governance") (eq .Identifier "for-business") (eq .Identifier "navhub") (eq .Identifier "merchants" ) }}
+                                <div class="hr-container">
+                                    <hr>
+                                </div>
+                            {{ end }}
+                        {{ end }}
+                    </ul>
+                </li>
+            {{else}}
+                <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                    <a class="menu-item nav-top-item" href="{{ .URL  | absLangURL}}">
+                        {{ .Pre }}
+                        <span class="name">{{ .Name }}</span>
+                    </a>
+                </li>
+            {{end}}
+        {{end}}
 
-                <hr>
-                <li class="active"><a href="/merchants/">Merchants</a></li>
-                <hr>
-                <li class="active"><a href="/get-involved/">Get Involved</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="/notices/">News</a>
-        </li>
-        <li>
-            <a href="/community-fund/">Community Fund</a>
-        </li>
-        <li>
-            <a href="/wallets/">Wallets</a>
-        </li>
-
-        <!-- <li class="">
-            <a href="#">
-                <span>{{ .Lang }} </span> <span class="arrow"></span>
-            </a>
+        <li class="">
+                <span class="nav-top-item menu-item">
+                    {{ .Lang }}  <span class="arrow"></span>
+                </span>     
             <ul class="sub-menu">
                 {{ range $.Site.Home.AllTranslations }}
-                    <li class="active"><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+                    <li class="active sub-menu-item"><a href="{{ .Permalink }}{{ $currentPage.Dir }}">{{ .Language.LanguageName }}</a></li>
                 {{ end }}
             </ul>
-        </li> -->
+        </li>
     </ul>
 </nav>
-
-
-
-

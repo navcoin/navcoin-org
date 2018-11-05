@@ -20,7 +20,6 @@
 		2.2. Default CSS
 		2.3. All Padding Margin
 	5. About Section
-	6. Sticky Menu
 	17. Footer Area
 	20. Blog
 	21. Pagination
@@ -270,33 +269,6 @@ section.pt-25 {
     background-color:#F5F5F5;
 }
 
-
-
-/* ==========================================
-6. Sticky Menu
-   ========================================== */
-
-.stickey .main-menu {
-    //box-shadow: 0 4px 5px rgba(0, 0, 0, 0.05);
-    background: #FFFFFF;
-    left: 0;
-    color: #6d7680 !important;
-    margin: 0 auto;
-    position: fixed;
-    right: 0;
-    top: 0;
-    z-index: 10;
-    padding: 0px 0;
-    border: 0;
-    opacity: 0.95;
-}
-.sub-menu {
-    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.05);
-}
-
-.stickey .main-menu ul li a {
-    color: #6d7680;
-}
 
 /* ==========================================
 7. About Fixing
@@ -1245,28 +1217,6 @@ ul li.cat-item a {
 }
 .recent-posts li:nth-child(5) {
   display: block;
-}
-
-nav li ul {
-  display: none;
-  position: fixed;
-}
-
-.main-menu .navbar-nav li ul li {
-  padding: 0;
-}
-
-.main-menu .navbar-nav li ul li a {
-  padding: 8px 30px;
-}
-
-.nav li:hover ul {
-  display: block;
-  background-color: #FFF;
-}
-
-.sub-menu .fa {
-  margin-right: 5px;
 }
 
 .links-image-shadow .service-icon img {

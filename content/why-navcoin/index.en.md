@@ -57,13 +57,13 @@ imgSrc="/images/why-navcoin/why-hero.svg"
 {{< zig_section
   titleText="History Of NavCoin"
   imgSrc="/images/why-navcoin/why-history.svg"
-  paragraphText="NavCoin is a community-run network that was started in 2014. It initially used Proof of Work, but quickly made the shift to Proof of Stake. With no ICO or premine, NavCoin has always been self-funded to ensure a fair distribution and that everyone has a chance to&nbsp;get&nbsp;involved."
   buttonUrl="/governance/"
   buttonText="Read more about governance"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
 >}}
-
+NavCoin is a community-run network that was started in 2014. It initially used Proof of Work, but quickly made the shift to Proof of Stake. With no ICO or premine, NavCoin has always been self-funded to ensure a fair distribution and that everyone has a chance to&nbsp;get&nbsp;involved.
+{{< /zig_section>}}
 
 {{< item_container_section
     titleText="How To Use&nbsp;NavCoin"
@@ -142,9 +142,10 @@ imgSrc="/images/why-navcoin/why-hero.svg"
 {{< zig_section
 titleText="Protocol Roadmap"
 imgSrc="/images/why-navcoin/why-roadmap.svg"
-paragraphText="With an active community working on the NavCoin protocol, check out the roadmap to see what's&nbsp;coming&nbsp;next."
 buttonUrl="/roadmap/"
 buttonText="Check out where we're going"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 >}}
+With an active community working on the NavCoin protocol, check out the roadmap to see what's&nbsp;coming&nbsp;next.
+{{< /zig_section>}}
