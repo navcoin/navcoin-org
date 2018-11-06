@@ -11,7 +11,7 @@ titleText="NavCoin For Developers"
 imgSrc="/images/for-developers/dev-hero.svg"
 paragraphText="NavCoin is a free and open-source project to which anyone can contribute. Its design is the collaborative effort of developers from all around the world. Our common goal is to improve the NavCoin protocol and its surrounding software ecosystem. Everyone has the potential to make a positive impact, no matter what your skill&nbsp;level."
 buttonText="Read developer manifesto"
-buttonLink="/governance/#read-manifestos"
+buttonLink="/en/governance/#read-manifestos"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
 

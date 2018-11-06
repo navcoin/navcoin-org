@@ -300,7 +300,7 @@ A `item_container_section` looks like this:
         walletImgSrc="/images/logos/wallet-navcoincore-logo.png"
         text="These wallets run the blockchain & participate in validating transactions."
         buttonImgSrc="/images/icons/rightward-arrow.svg"
-        buttonUrl="https://navcoin.org/navcoin-core/#links"
+        buttonUrl="https://navcoin.org/en/navcoin-core/#links"
         buttonText="Download"
         platformImg1Src="/images/platforms/mac.png"
         platformImg2Src="/images/platforms/windows.png"
@@ -382,7 +382,7 @@ The `long_text` shortcode looks like this:
     titleText="Turtle Store"
     imgSrc="/images/logos/wallet-navpi-logo.png"
     text="Bitcoin when used on a mobile device allows you to pay with a simple two-step scan-and-pay. There's no need to sign up, swipe your card, type a PIN, or sign anything. All you need to receive Bitcoin payments is to display the QR code in your Bitcoin wallet app and let the other party scan your mobile, or touch the two phones together (using NFC radio technology)."
-    buttonUrl="https://navcoin.org/navcoin-core/#links"
+    buttonUrl="https://navcoin.org/en/navcoin-core/#links"
     buttonText="Download"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
@@ -410,7 +410,7 @@ The `merchant` shortcode looks like this:
     titleText="Crypto Garden"
     imgSrc="/images/logos/wallet-navcoincore-logo.png"
     text="Spend your NavCoin on exotic potplants and shrubs"
-    linkUrl="https://navcoin.org/navcoin-core/#links"
+    linkUrl="https://navcoin.org/en/navcoin-core/#links"
 >}}
 ```
 It is intended to be placed inside a `item_container_section` and no where else.
@@ -433,7 +433,7 @@ The `exchange` shortcode looks like this:
     titleText="Bittrex"
     imgSrc="/images/logos/wallet-navcoincore-logo.png"
     text="BTC/NAV, USD/NAV, ETH/NAV"
-    linkUrl="https://navcoin.org/navcoin-core/#links"
+    linkUrl="https://navcoin.org/en/navcoin-core/#links"
 >}}
 ```
 It is intended to be placed inside a `item_container_section` and no where else.
@@ -456,7 +456,7 @@ The `wallet` shortcode looks like this:
     titleText="NavCoin Core Wallet v4.3.0"
     walletImgSrc="/images/logos/wallet-navcoincore-logo.png"
     text="These wallets run the blockchain & participate in validating transactions."
-    buttonUrl="https://navcoin.org/navcoin-core/#links"
+    buttonUrl="https://navcoin.org/en/navcoin-core/#links"
     buttonText="Download"
     platformImg1Src="/images/platforms/mac.png"
     platformImg2Src="/images/platforms/windows.png"
