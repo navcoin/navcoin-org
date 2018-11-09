@@ -8,6 +8,7 @@ notice_categories:
   - Mandatory Update
 ---
 The Community Fund soft fork has successfully passed network consensus with over 83% of blocks voting in favour of the consensus change on just the third voting period since version 4.4.0 was released.
+<!--more-->
 
 This means soft fork is now locked-in and the consensus change will activate at block height 2,620,800. After this block, nodes running 4.3.x and below have an increasing risk of ending up on a fork from the main chain and forking will become unavoidable when the first payment request is processed.
 
