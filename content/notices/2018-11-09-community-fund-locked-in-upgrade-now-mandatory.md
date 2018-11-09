@@ -3,7 +3,7 @@ layout: notices
 title: 'Community Fund Locked-in, Upgrade Now Mandatory'
 author: Craig MacGregor
 date: '2018-11-09T11:27:30+13:00'
-feature_image: /images/uploads/navcoin-template-1-.png
+feature_image: /images/uploads/community-fund-mandatory.png
 notice_categories:
   - Mandatory Update
 ---
@@ -14,7 +14,7 @@ This means soft fork is now locked-in and the consensus change will activate at 
 
 It is highly recommended to upgrade to version 4.4.0 as soon as possible to avoid any problems after the consensus change activates. After the soft fork activates, the upgrade is considered mandatory and all older versions of NavCoin Core become deprecated.
 
-There are two additional soft forks which have also locked in. 
+There are two additional soft forks which have also locked in.
 
 <https://www.navexplorer.com/soft-forks>
 
