@@ -57,7 +57,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
         text="No one owns the NAV in the Community Fund, the only way they can ever be spent is by the dual network consensus&nbsp;vote."
     >}}
     {{< feature                 
-        titleText="250,000 NAV per year"
+        titleText="500,000 NAV per year"
         imgSrc="/images/community-fund/cfu-fund-per-year.svg"
         text="Every block that gets minted generates 0.25 NAV into the community fund which accumulates over&nbsp;time."
     >}}
