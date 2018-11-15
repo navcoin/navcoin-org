@@ -23,17 +23,17 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
     {{< feature
         titleText="Step 1: Submit"
         imgSrc="/images/community-fund/cfu-submit.svg"
-        text="Dream up the improvements you would like to see in the NavCoin ecosystem, and submit your proposal to the&nbsp;network. <a href="https://info.navcoin.org/knowledge-base/creating-a-community-fund-proposal/" target="_blank">Click here for instructions.</a>"
+        text="Dream up the improvements you would like to see in the NavCoin ecosystem, and submit your proposal to the&nbsp;network. <a href=\"https://info.navcoin.org/knowledge-base/creating-a-community-fund-proposal/\" target=\"_blank\">Click here for instructions.</a>"
     >}}
     {{< feature
         titleText="Step 2: Vote"
         imgSrc="/images/community-fund/cfu-vote.svg"
-        text="Anyone who is staking the NavCoin network can vote ‘yes’ or ‘no’ for every&nbsp;proposal with their full network weight. <a href="https://info.navcoin.org/knowledge-base/voting-for-a-community-fund-proposal/" target="_blank">Click here for instructions.</a>"
+        text="Anyone who is staking the NavCoin network can vote ‘yes’ or ‘no’ for every&nbsp;proposal with their full network weight. <a href=\"https://info.navcoin.org/knowledge-base/voting-for-a-community-fund-proposal/\" target=\"_blank\">Click here for instructions.</a>"
     >}}
     {{< feature                 
         titleText="Step 3: Payment"
         imgSrc="/images/community-fund/cfu-payment.svg"
-        text="Payments are only released after a second round of voting validating ‘proof&nbsp;of&nbsp;effort’ by the proposal owner. <a href="https://info.navcoin.org/knowledge-base/creating-a-community-fund-payment-request/" target="_blank">Click here for instructions.</a>"
+        text="Payments are only released after a second round of voting validating ‘proof&nbsp;of&nbsp;effort’ by the proposal owner. <a href=\"https://info.navcoin.org/knowledge-base/creating-a-community-fund-payment-request/\" target=\"_blank\">Click here for instructions.</a>"
     >}}
 {{< /item_container_section >}}
 
