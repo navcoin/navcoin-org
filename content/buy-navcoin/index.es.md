@@ -1,23 +1,23 @@
 ---
-title: "Buy NavCoin"
+title: "Comprar NavCoins"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
-description: "NavCoin is publicly mined and ran no token sale. The only way to buy NavCoin is to purchase it from a third party or exchange."
+description: "NavCoin es un criptoactivo generado públicamente y no ha sido pre-minado/vendido. La única manera de comprar NavCoin es a través de una casa de intercambio tercerizada."
 ---
 {{< hero_section
 titleText="Buy NavCoin"
 imgSrc="/images/buy-navcoin/buy-hero.svg"
-paragraphText="NavCoin is publicly mined and ran no token sale. The only way to get NAV is to purchase it from a third party or exchange. Exchanges provide highly varying degrees of safety, security, privacy, and control over your funds and information. Perform your own due diligence and choose a wallet where you will keep your NavCoin before selecting an exchange. Please follow the link to check exchange volumes for more&nbsp;information."
-buttonText="See market statistics"
+paragraphText="NavCoin es un criptoactivo generado públicamente y no ha sido pre-minado/vendido. La única manera de comprar NavCoin es a través de una casa de intercambio tercerizada. Dichas páginas de intercambio proveen distintos grados de seguridad, privacidad y control sobre sus fondos e informacion. Antes de iniciar cualquier transaccion se recomienda investigar bien donde van a hacer la transferencia. Para mayot informacion sobre páginas de intercambio ir al siguente&nbsp;enlace:"
+buttonText="Estadisticas del mercado"
 buttonLink="https://coinmarketcap.com/currencies/nav-coin/#markets"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 newTab="true"
 >}}
 {{< item_container_section
-    titleText="Exchanges"
-    subtitleText="NavCoin is available at the following&nbsp;exchanges"
+    titleText="Páginas de intercambio"
+    subtitleText="NavCoin está disponible en las siguientes&nbsp;páginas"
 >}}
     {{< exchange
         titleText="Poloniex"
@@ -94,19 +94,19 @@ newTab="true"
     {{< exchange
         titleText="Change Now"
         imgSrc="/images/buy-navcoin/buy-changenow.png"
-        text="Instant Exchange"
+        text="Intercambio instantaneo"
         linkUrl="https://changenow.io/"
     >}}
     {{< exchange
         titleText="Coindirect"
         imgSrc="/images/buy-navcoin/buy-coindirect.png"
-        text="Direct Purchase"
+        text="Compra Directa''
         linkUrl="https://www.coindirect.com/buy/navcoin"
     >}}
     {{< exchange
         titleText="Crex24"
         imgSrc="/images/buy-navcoin/buy-crex-24.png"
-        text="Multi Exchange Platform"
+        text="Plataformas de intercambio múltiple"
         linkUrl="https://crex24.com/exchange/NAV-BTC"
     >}}
     {{< exchange
@@ -124,8 +124,8 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< center_text_cta
-    titleText="Spend Your NavCoin"
-    buttonText="Check out the stores"
+    titleText="Usar sus NavCoins"
+    buttonText="Chequear tiendas que aceptan NavCoin"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants"
-    innerText="A number of businesses have already begun to integrate NavCoin as a payment option, and with them you can easily purchase a range of products and&nbsp;services.">}}
+    innerText="Un número considerable de tiendas online han empezado a integrar NavCoin como opción de pagos, haciendole muy fácil a nuestra comunidad comprar productos y&nbsp;servicios.">}}
