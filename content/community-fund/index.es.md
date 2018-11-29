@@ -1,15 +1,15 @@
 ---
-title: "Community Fund"
+title: "Fondo Comunitario"
 date: 2018-03-20T07:41:22+13:01
 draft: false
 type: "default"
-description: "The NavCoin community fund is a pool of NAV that's set aside to help kickstart community projects and  incentivise the ongoing development of NavCoin."
+description: "El fondo comunitario de NavCoin es un sistema de incentivación descentralizado con el fin de recompensar de manera democrática a proyectos comunitarios relacionados con el desarrollo de NavCoin"
 ---
 <section class="cf-hero">
     <div class="grid-container">
       <div class="text-container">
-        <h1>Community Fund</h1>
-        <p>NavCoin is built by the community, for the community - it’s an open-source project that ran no premine or ICO. NavCoin’s Community Fund enables anyone to get paid by the network for their contributions to the NavCoin ecosystem. Projects are funded and approved by the decentralized network with no central authority. This ensures NavCoin’s direction remains firmly in the best interest of the network and is autonomously determined by the community.</p>
+        <h1>Fondo comunitario</h1>
+        <p>NavCoin se construye gracias a su comunidad. Es un proyecto de código abierto que no ha sido ni preminado ni pertenee al formato ""ICO". NavCoin’s Community Fund enables anyone to get paid by the network for their contributions to the NavCoin ecosystem. Projects are funded and approved by the decentralized network with no central authority. This ensures NavCoin’s direction remains firmly in the best interest of the network and is autonomously determined by the community.</p>
       </div>
       <img src="/images/community-fund/cfu-hero.png" alt="Hero image">
     </div>
