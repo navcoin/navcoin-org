@@ -100,7 +100,7 @@ newTab="true"
     {{< exchange
         titleText="Coindirect"
         imgSrc="/images/buy-navcoin/buy-coindirect.png"
-        text="Compra Directa''
+        text="Compra Directa"
         linkUrl="https://www.coindirect.com/buy/navcoin"
     >}}
     {{< exchange
