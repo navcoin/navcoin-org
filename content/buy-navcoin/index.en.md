@@ -127,6 +127,12 @@ newTab="true"
          text="BTC / NAV"
          linkUrl="https://bitexlive.com/exchange/BTC-NAV"
      >}}
+     {{< exchange
+          titleText="Bitqist"
+          imgSrc="/images/buy-navcoin/bitqist.png"
+          text="EUR / NAV"
+          linkUrl="https://bitqist.com/exchange/nav-coin"
+      >}}
 {{< /item_container_section >}}
 
 {{< center_text_cta
