@@ -23,28 +23,28 @@ description: "El fondo comunitario de NavCoin es un sistema de incentivación de
     {{< feature
         titleText="1: Presentación"
         imgSrc="/images/community-fund/cfu-submit.svg"
-        text="Dream up the improvements you would like to see in the NavCoin ecosystem, and submit your proposal to the&nbsp;network."
+        text="Imaginen las mejoras que quisieran ver dentro del ecosistema de NavCoin y envien su propuesta a la&nbsp;red"
     >}}
     {{< feature
-        titleText="Step 2: Vote"
+        titleText="2: Voto"
         imgSrc="/images/community-fund/cfu-vote.svg"
-        text="Anyone who is staking the NavCoin network can vote ‘yes’ or ‘no’ for every&nbsp;proposal with their full network weight."
+        text="Todas los nodos que participan en la prueba de participacion pueden votar por Si o No con el peso de sus&nbsp;monedas."
     >}}
     {{< feature                 
-        titleText="Step 3: Payment"
+        titleText="3: Pago"
         imgSrc="/images/community-fund/cfu-payment.svg"
-        text="Payments are only released after a second round of voting validating ‘proof&nbsp;of&nbsp;effort’ by the proposal owner."
+        text="Los pagos son validados luego de una segunda tanda de votos luego que el dueño de la propuesta termine el&nbsp;proyecto"
     >}}
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="The Worlds Most Advanced Community&nbsp;Fund"
-    subtitleText="The fund pays you to take your idea, nurture it, and build a team to bring it to&nbsp;life"
+    titleText="El fondo comunitario más avanzado dentro de las&nbsp;criptomonedas."
+    subtitleText="El fondo paga a sus usuarios por llevar la idea, trabajarla y construir un equipo para llevarla a&nbsp;cabo"
     >}}
     {{< feature
-        titleText="Dual-vote consensus"
+        titleText="Consenso basado en un Doble-Voto"
         imgSrc="/images/community-fund/cfu-dual-vote.svg"
-        text="The first community fund to implement a dual vote, to ensure that if work is never completed the funds are&nbsp;returned."
+        text="NavCoin es el primer fondo comunitario en implementer un doble voto, para asegurar que si el trabajo nunca es finalizado, los fondos estén a&nbsp;salvo."
     >}}
     {{< feature
         titleText="Open to anyone"
