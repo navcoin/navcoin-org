@@ -9,19 +9,19 @@ description: "El fondo comunitario de NavCoin es un sistema de incentivación de
     <div class="grid-container">
       <div class="text-container">
         <h1>Fondo comunitario</h1>
-        <p>NavCoin se construye gracias a su comunidad. Es un proyecto de código abierto que no ha sido ni preminado ni pertenee al formato ""ICO". NavCoin’s Community Fund enables anyone to get paid by the network for their contributions to the NavCoin ecosystem. Projects are funded and approved by the decentralized network with no central authority. This ensures NavCoin’s direction remains firmly in the best interest of the network and is autonomously determined by the community.</p>
+        <p>NavCoin se construye gracias a su comunidad. Es un proyecto de código abierto que no ha sido ni preminado ni pertenece al formato ""ICO". El fondo comunitario de NavCoin permite a los contribuyentes del ecosistema ser remunerados por la red. Los proteyectos son aprobados y los fondos son liberados de una manera descentralizada sin autoridad central. De esta manera nos aseguramos que la dirección de NAV es un fiel reflejo del interés de la comunidad autonoma.</p>
       </div>
       <img src="/images/community-fund/cfu-hero.png" alt="Hero image">
     </div>
   </section>
 
 {{< item_container_section
-    titleText="How The Fund Works In 3&nbsp;Steps"
+    titleText="Funcionamiento del fondo en 3&nbsp;pasos"
     subtitleText=""
     bgPurple="true"
     >}}
     {{< feature
-        titleText="Step 1: Submit"
+        titleText="1: Presentación"
         imgSrc="/images/community-fund/cfu-submit.svg"
         text="Dream up the improvements you would like to see in the NavCoin ecosystem, and submit your proposal to the&nbsp;network."
     >}}
