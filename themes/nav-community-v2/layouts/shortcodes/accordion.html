@@ -8,34 +8,16 @@
         </div>
         <div class="row">
             <div class="col-md-1"></div>
-                <!-- <div class="panel-group col-xs-12 col-md-10" id="accordion" role="tablist" aria-multiselectable="true">
+                {{ if isset .Params  "itemOneTitle" }}
                     <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="headingOne">
                         <h4 class="panel-title">
-                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
                             {{ .Get "itemOneTitle" }} <img class="accordian-img" src="/images/expand_icon.png">
                             </a>
                         </h4>
                         </div>
-                        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                        <div class="panel-body">
-                            <div class="accodian-img-and-text">
-                                {{ .Get "itemOneText" | safeHTML}}
-                            </div>
-                        </div>
-                        </div>
-                    </div> -->
-
-                {{ if isset .Params  "itemOneTitle" }}
-                    <div class="panel panel-default">
-                        <div class="panel-heading" role="tab" id="headingTwo">
-                        <h4 class="panel-title">
-                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            {{ .Get "itemOneTitle" }} <img class="accordian-img" src="/images/expand_icon.png">
-                            </a>
-                        </h4>
-                        </div>
-                        <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                        <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
                         <div class="panel-body">
                             <div class="accodian-img-and-text">
                                 {{ .Get "itemOneText" | safeHTML}}
