@@ -1,4 +1,8 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css" media="screen" />
+
 
 <div class="homepage">
   <section class="hero">
@@ -20,7 +24,19 @@
   <section class="welcome" id="welcome">
     <h1>Welcome To NavCoin</h1>
     <div class="grid-container ninety-vw-container">
-      <img src="/images/homepage/Apple-Devices2@2x.png" alt="NavCoin Wallets" class="left-img">
+      <!-- <img src="/images/homepage/Apple-Devices2@2x.png" alt="NavCoin Wallets" class="left-img"> -->
+
+      <div class="container">
+        <a class="video" title="Test title" href="https://www.youtube.com/watch?v=kIC-AflIY2Q">
+          <div class="content">
+            <div class="button">
+              <h2>Play Video</h2>
+            </div>
+          </div>
+      
+          <img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/47300124_485330758540651_3813373175740235776_n.png?_nc_cat=107&_nc_ht=scontent-syd2-1.xx&oh=204204a57e586231a34f4eb4427f0e10&oe=5CA45B30" alt="">
+        </a>
+      </div>
       <ul class="text-container">
         <li class="">
           <img src="/images/homepage/hom-fast-cheap.svg" alt="">
@@ -222,4 +238,77 @@ $("a[href^='#']").click(function(e) {
 		scrollTop: position
 	} /* speed */ );
 });
+
+$(".video").magnificPopup({
+  type: "iframe",
+
+  iframe: {
+    markup:
+      '<div class="mfp-iframe-scaler">' +
+      '<div class="mfp-close"></div>' +
+      '<iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe>' +
+      '<div class="mfp-title">Some caption</div>' +
+      "</div>"
+  },
+  callbacks: {
+    markupParse: function(template, values, item) {
+      values.title = item.el.attr("title");
+    }
+  }
+});
+
+
 </script>
+
+
+<style scoped>
+.container {
+  position: relative;
+  max-width: 558px;
+
+  .content {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .button {
+    background-color: #ffffff;
+    color: #9a54c4;
+    border-radius: 50px;
+    padding: 10px 25px;
+    position: absolute;
+    bottom: 10%;
+  }
+
+  .button:hover {
+    background-color: #ffffff;
+    opacity: 0.9;
+    transition: 0.4s ease;
+  }
+
+  .button > h2 {
+    font-size: 1rem;
+    margin: 0;
+    font-family: raleway;
+    font-weight: 600;
+  }
+
+  img {
+    width: 100%;
+    display: block;
+    border-radius: 14px;
+    box-shadow: 4px 7px 40px #695faf9e;
+  }
+}
+
+
+</style>
+
