@@ -29,7 +29,7 @@
         <a class="video-eco" title="Test title" href="https://www.youtube.com/watch?v=kIC-AflIY2Q">
           <div class="content-eco">
             <div class="button-eco">
-              <h2>Play Video</h2>
+              <p class="text-eco">Play Video</p>
             </div>
           </div>
       
@@ -238,7 +238,7 @@ $("a[href^='#']").click(function(e) {
 	} /* speed */ );
 });
 
-$(".video").magnificPopup({
+$(".video-eco").magnificPopup({
   type: "iframe",
 
   iframe: {
@@ -264,6 +264,7 @@ $(".video").magnificPopup({
 .container-eco {
   position: relative;
   max-width: 668px;
+  margin: auto;
 }
 
 .content-eco {
@@ -283,7 +284,7 @@ $(".video").magnificPopup({
   background-color: #ffffff;
   color: #9a54c4;
   border-radius: 50px;
-  padding: 10px 25px;
+  padding: 5px 18px;
   position: absolute;
   bottom: 10%;
 }
@@ -294,8 +295,8 @@ $(".video").magnificPopup({
   transition: 0.4s ease;
 }
 
-.button-eco > h2 {
-  font-size: 1rem;
+.button-eco > p {
+  font-size: 15px;
   margin: 0;
   font-family: raleway;
   font-weight: 600;
