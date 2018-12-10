@@ -133,11 +133,11 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
         <div class="item-card">
           <div class="item-main">
             <div class="item-icon-container">
-              <h2 style="color: #7d5ab5;font-family: raleway;display: flex;align-items: center;font-weight: 500;"> NavCoin NEXT Wallet </h2>
+              <h2 class="cf-proposal-title"> NavCoin Sticker </h2>
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">NavCoin NEXT Wallet (Completed) https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10 https://www.nextwallet.org</p>
+                <p style="margin-top:0; margin-bottom: 15px;">NavCoin Sticker Creation for the community - https://collab.navcoin.org/s/navcoin-sticker-creation/custom_pages/container/view?id=12</p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
                     <h4>Pending</h4>
@@ -145,7 +145,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div class="cf-proposal-stat">
                     <h4>Nav Request</h4>
-                    <h4>2000 Nav</h4>
+                    <h4>2,000 NAV NAV</h4>
                 </div>
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
@@ -160,11 +160,11 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
         <div class="item-card">
           <div class="item-main">
             <div class="item-icon-container">
-              <h2 style="color: #7d5ab5;font-family: raleway;display: flex;align-items: center;font-weight: 500;"> NavCoin NEXT Wallet </h2>
+              <h2 class="cf-proposal-title"> NavCoin Carbon Neutral </h2>
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">NavCoin NEXT Wallet (Completed) https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10 https://www.nextwallet.org</p>
+                <p style="margin-top:0; margin-bottom: 15px;">This Community Fund project is designed to offset the carbon footprint of the NavCoin network, making NAV the worlds first carbon neutral cryptocurrency. Read more at the link below: https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6</p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
                     <h4>Pending</h4>
@@ -172,7 +172,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div class="cf-proposal-stat">
                     <h4>Nav Request</h4>
-                    <h4>2000 Nav</h4>
+                    <h4>5,000 Nav</h4>
                 </div>
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
@@ -186,7 +186,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
         <div class="item-card">
           <div class="item-main">
             <div class="item-icon-container">
-              <h2 style="color: #7d5ab5;font-family: raleway;display: flex;align-items: center;font-weight: 500;"> NavCoin NEXT Wallet </h2>
+              <h2 class="cf-proposal-title"> NavCoin NEXT Wallet </h2>
             </div>
             <div class="item-details-group">
               <div class="item-text">
