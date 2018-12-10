@@ -137,7 +137,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">NavCoin Sticker Creation for the community - https://collab.navcoin.org/s/navcoin-sticker-creation/custom_pages/container/view?id=12</p>
+                <p style="margin-top:0; margin-bottom: 15px;">NavCoin Sticker Creation for the community - <a href="https://collab.navcoin.org/s/navcoin-sticker-creation/custom_pages/container/view?id=12"></p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
                     <h4>Pending</h4>
@@ -164,7 +164,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">This Community Fund project is designed to offset the carbon footprint of the NavCoin network, making NAV the worlds first carbon neutral cryptocurrency. Read more at the link below: https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6</p>
+                <p style="margin-top:0; margin-bottom: 15px;">This Community Fund project is designed to offset the carbon footprint of the NavCoin network, making NAV the worlds first carbon neutral cryptocurrency. Read more at the link below: <a href="https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6"></p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
                     <h4>Pending</h4>
@@ -190,7 +190,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">NavCoin NEXT Wallet (Completed) https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10 https://www.nextwallet.org</p>
+                <p style="margin-top:0; margin-bottom: 15px;">NavCoin NEXT Wallet (Completed) <a href="https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10"></p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
                     <h4>Pending</h4>
