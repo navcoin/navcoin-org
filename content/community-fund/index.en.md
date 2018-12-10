@@ -16,9 +16,6 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
 </section>
 
 
-
-
-
 <!--- {{< item_container_section
     titleText="How The Fund Works In 3&nbsp;Steps"
     subtitleText=""
