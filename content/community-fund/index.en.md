@@ -150,7 +150,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="#download-core" class="round-btn small gradient-btn">Veiw Proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://communityfund.nav.community/discussion/aabb434ae2a248cbf8ffa903f9e9610e4d51ac53e507f09450b3e7ebac66ee59" class="round-btn small gradient-btn">Veiw Proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
@@ -177,7 +177,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="#download-core" class="round-btn small gradient-btn">Veiw Proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://communityfund.nav.community/discussion/0a4c915850491675e264fafacd20d14b8d9f0b165d4065ff2f53a21bbf0f72a2" class="round-btn small gradient-btn">Veiw Proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
@@ -198,19 +198,19 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div class="cf-proposal-stat">
                     <h4>Nav Request</h4>
-                    <h4>2000 Nav</h4>
+                    <h4>46.800 NAV</h4>
                 </div>
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="#download-core" class="round-btn small gradient-btn">Veiw Proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://communityfund.nav.community/discussion/97229d571fdade1c48fda8c1b1060820f87c1dc1c99d3a8cd498a3809537d723" class="round-btn small gradient-btn">Veiw Proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
         </div>
       </div></div>
     <div style="display: block; max-width: 200px; margin: 0 auto; margin-top: 7%;">
-      <a href="https://communityfund.nav.community/?PENDING=on&amp;WAITING=on" target="_blank" class="round-btn gradient-btn">View All Proposals        <img src="https://d33wubrfki0l68.cloudfront.net/481180a17b0b66e8a65614caf461ac81f22ab787/4e3e4/images/icons/rightward-arrow.svg" class="btn-img"> 
+      <a href="https://communityfund.nav.community/" target="_blank" class="round-btn gradient-btn">View All Proposals        <img src="https://d33wubrfki0l68.cloudfront.net/481180a17b0b66e8a65614caf461ac81f22ab787/4e3e4/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
     </div>
   </div>
