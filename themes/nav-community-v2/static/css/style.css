@@ -1249,3 +1249,9 @@ body > p {
   padding-left: 40px;
   margin: 20px 0;
 }
+
+
+.cf-proposal-stat {
+    display: flex;
+    justify-content: space-between; }
+  

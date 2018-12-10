@@ -7,15 +7,19 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
 ---
 <section class="cf-hero">
     <div class="grid-container">
-      <div class="text-container">
-        <h1>Community Fund</h1>
-        <p>NavCoin is built by the community, for the community - it’s an open-source project that ran no premine or ICO. NavCoin’s Community Fund enables anyone to get paid by the network for their contributions to the NavCoin ecosystem. Projects are funded and approved by the decentralized network with no central authority. This ensures NavCoin’s direction remains firmly in the best interest of the network and is autonomously determined by the community.</p>
-      </div>
-      <img src="/images/community-fund/cfu-hero.png" alt="Hero image">
+        <div class="text-container">
+            <h1 style="font-weight: 600;">Community Fund</h1>
+            <p>NavCoin is built by the community, for the community - it’s an open-source project that ran no premine or ICO. NavCoin’s Community Fund enables anyone to get paid by the network for their contributions to the NavCoin ecosystem. Projects are funded and approved by the decentralized network with no central authority. This ensures NavCoin’s direction remains firmly in the best interest of the network and is autonomously determined by the community.</p>
+        </div>
+        <img src="/images/community-fund/cfu-hero.png" alt="Hero image">
     </div>
-  </section>
+</section>
 
-{{< item_container_section
+
+
+
+
+<!--- {{< item_container_section
     titleText="How The Fund Works In 3&nbsp;Steps"
     subtitleText=""
     bgPurple="true"
@@ -35,7 +39,9 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
         imgSrc="/images/community-fund/cfu-payment.svg"
         text="Payments are only released after a second round of voting validating ‘proof&nbsp;of&nbsp;effort’ by the proposal owner."
     >}}
-{{< /item_container_section >}}
+{{< /item_container_section >}} -->
+
+
 
 {{< item_container_section
     titleText="The Worlds Most Advanced Community&nbsp;Fund"
@@ -72,6 +78,143 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
         text="The community fund gives more power to the community - by funding people to get involved, and giving the network more of a voice about the direction of&nbsp;NavCoin."
     >}}
 {{< /item_container_section >}}
+
+<section class="item-container-section  bg-purple " id="">
+    <div class="ninety-vw-container" style="max-width: 1400px;">
+        <h1 class="container-title">How The Fund Works In 4&nbsp;Steps</h1>
+        <h3 class="container-subtitle"></h3>
+        <div class="grid-container" style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));">
+            <div class="feature-column">
+                <div class="feature-card">
+                    <img src="https://d33wubrfki0l68.cloudfront.net/f145969a74c17e9d1678b887e7e9ac6ff51c6057/115b7/images/community-fund/cfu-submit.svg" alt="" class="item-icon">
+                    <h3>Step 1: Submit Proposal</h3>
+                    <p style="margin-bottom: 10%">Dream up the improvements you would like to see in the NavCoin ecosystem, and submit your proposal to the&nbsp;network.</p>
+                    <a href="https://communityfund.nav.community/create-proposal" target="_blank" class="round-btn small gradient-btn">Create Proposal        <img src="https://d33wubrfki0l68.cloudfront.net/481180a17b0b66e8a65614caf461ac81f22ab787/4e3e4/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    </a>
+                </div>
+            </div>
+            <div class="feature-column">
+                <div class="feature-card">
+                    <img src="https://d33wubrfki0l68.cloudfront.net/a6136e0554b83cc742e44f715978ee9fbd3c7791/88e3e/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
+                    <h3>Step 2: Vote Proposal</h3>
+                    <p style="margin-bottom: 10%">Anyone who is staking the NavCoin network can vote ‘yes’ or ‘no’ for every&nbsp;proposal with their full network weight.</p>
+                    <a href="https://communityfund.nav.community/?PENDING=on&WAITING=on" target="_blank" class="round-btn small gradient-btn">View All Proposals        <img src="https://d33wubrfki0l68.cloudfront.net/481180a17b0b66e8a65614caf461ac81f22ab787/4e3e4/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    </a>
+                </div>
+            </div>
+            <div class="feature-column">
+                <div class="feature-card">
+                    <img src="https://d33wubrfki0l68.cloudfront.net/6be625e8bf582732c2b66ffa1705dd083fdd6c51/f8c8a/images/community-fund/cfu-payment.svg" alt="" class="item-icon">
+                    <h3>Step 3: Payment Request</h3>
+                    <p style="margin-bottom: 10%">Payments are only released after a second round of voting validating ‘proof&nbsp;of&nbsp;effort’ by the proposal owner.</p>
+                    <a href="https://communityfund.nav.community/create-payment-request" target="_blank" class="round-btn small gradient-btn">Creat Payment Request        <img src="https://d33wubrfki0l68.cloudfront.net/481180a17b0b66e8a65614caf461ac81f22ab787/4e3e4/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    </a>
+                </div>
+            </div>
+            <div class="feature-column">
+                <div class="feature-card">
+                    <img src="https://d33wubrfki0l68.cloudfront.net/6be625e8bf582732c2b66ffa1705dd083fdd6c51/f8c8a/images/community-fund/cfu-payment.svg" alt="" class="item-icon">
+                    <h3>Step 4: Vote for Payment</h3>
+                    <p style="margin-bottom: 10%">Payments are only released after a second round of voting validating ‘proof&nbsp;of&nbsp;effort’ by the proposal owner.</p>
+                    <a href="https://communityfund.nav.community/?WAITING=on" target="_blank" class="round-btn small gradient-btn">View Payment Requests        <img src="https://d33wubrfki0l68.cloudfront.net/481180a17b0b66e8a65614caf461ac81f22ab787/4e3e4/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="item-container-section " id="">
+  <div class="ninety-vw-container">
+    <h1 class="container-title">Feature Proposals</h1>
+    <h3 class="container-subtitle">Make sure to do your own research or ask community for&nbsp;assistance.</h3>
+    <div class="grid-container">
+      <div class="wallet-column">
+        <div class="item-card">
+          <div class="item-main">
+            <div class="item-icon-container">
+              <h2 style="color: #7d5ab5;font-family: raleway;display: flex;align-items: center;font-weight: 500;"> NavCoin NEXT Wallet </h2>
+            </div>
+            <div class="item-details-group">
+              <div class="item-text">
+                <p style="margin-top:0; margin-bottom: 15px;">NavCoin NEXT Wallet (Completed) https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10 https://www.nextwallet.org</p>
+                <div class="cf-proposal-stat">
+                    <h4>Status</h4>
+                    <h4>Pending</h4>
+                </div>
+                <hr style="margin: 5px 0; opacity: 0.4;">
+                <div class="cf-proposal-stat">
+                    <h4>Nav Request</h4>
+                    <h4>2000 Nav</h4>
+                </div>
+                <hr style="margin: 5px 0; opacity: 0.4;">
+                <div style="margin-buttom: 40px"></div>
+                <br>
+                <a href="#download-core" class="round-btn small gradient-btn">Veiw Proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+              </div>    
+            </div>
+          </div>
+        </div>
+      </div>      
+    <div class="wallet-column">
+        <div class="item-card">
+          <div class="item-main">
+            <div class="item-icon-container">
+              <h2 style="color: #7d5ab5;font-family: raleway;display: flex;align-items: center;font-weight: 500;"> NavCoin NEXT Wallet </h2>
+            </div>
+            <div class="item-details-group">
+              <div class="item-text">
+                <p style="margin-top:0; margin-bottom: 15px;">NavCoin NEXT Wallet (Completed) https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10 https://www.nextwallet.org</p>
+                <div class="cf-proposal-stat">
+                    <h4>Status</h4>
+                    <h4>Pending</h4>
+                </div>
+                <hr style="margin: 5px 0; opacity: 0.4;">
+                <div class="cf-proposal-stat">
+                    <h4>Nav Request</h4>
+                    <h4>2000 Nav</h4>
+                </div>
+                <hr style="margin: 5px 0; opacity: 0.4;">
+                <div style="margin-buttom: 40px"></div>
+                <br>
+                <a href="#download-core" class="round-btn small gradient-btn">Veiw Proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+              </div>    
+            </div>
+          </div>
+        </div>
+      </div><div class="wallet-column">
+        <div class="item-card">
+          <div class="item-main">
+            <div class="item-icon-container">
+              <h2 style="color: #7d5ab5;font-family: raleway;display: flex;align-items: center;font-weight: 500;"> NavCoin NEXT Wallet </h2>
+            </div>
+            <div class="item-details-group">
+              <div class="item-text">
+                <p style="margin-top:0; margin-bottom: 15px;">NavCoin NEXT Wallet (Completed) https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10 https://www.nextwallet.org</p>
+                <div class="cf-proposal-stat">
+                    <h4>Status</h4>
+                    <h4>Pending</h4>
+                </div>
+                <hr style="margin: 5px 0; opacity: 0.4;">
+                <div class="cf-proposal-stat">
+                    <h4>Nav Request</h4>
+                    <h4>2000 Nav</h4>
+                </div>
+                <hr style="margin: 5px 0; opacity: 0.4;">
+                <div style="margin-buttom: 40px"></div>
+                <br>
+                <a href="#download-core" class="round-btn small gradient-btn">Veiw Proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+              </div>    
+            </div>
+          </div>
+        </div>
+      </div></div>
+    <div style="display: block; max-width: 200px; margin: 0 auto; margin-top: 7%;">
+      <a href="https://communityfund.nav.community/?PENDING=on&amp;WAITING=on" target="_blank" class="round-btn gradient-btn">View All Proposals        <img src="https://d33wubrfki0l68.cloudfront.net/481180a17b0b66e8a65614caf461ac81f22ab787/4e3e4/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    </a>
+    </div>
+  </div>
+</section>
 
 {{< zig_section
   titleText="How Do I Get Involved?"
