@@ -127,7 +127,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
 <section class="item-container-section " id="">
   <div class="ninety-vw-container">
     <h1 class="container-title">Feature Proposals</h1>
-    <h3 class="container-subtitle">Make sure to do your own research or ask community for&nbsp;assistance.</h3>
+    <!-- <h3 class="container-subtitle"></h3> -->
     <div class="grid-container">
       <div class="wallet-column">
         <div class="item-card">
