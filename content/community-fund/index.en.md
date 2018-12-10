@@ -86,19 +86,19 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
         <div class="grid-container" style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));">
             <div class="feature-column">
                 <div class="feature-card">
-                    <img src="https://d33wubrfki0l68.cloudfront.net/f145969a74c17e9d1678b887e7e9ac6ff51c6057/115b7/images/community-fund/cfu-submit.svg" alt="" class="item-icon">
+                    <img src="/images/community-fund/cfu-submit.svg" alt="" class="item-icon">
                     <h3>Step 1: Submit Proposal</h3>
                     <p style="margin-bottom: 10%">Dream up the improvements you would like to see in the NavCoin ecosystem, and submit your proposal to the&nbsp;network.</p>
-                    <a href="https://communityfund.nav.community/create-proposal" target="_blank" class="round-btn small gradient-btn">Create Proposal        <img src="https://d33wubrfki0l68.cloudfront.net/481180a17b0b66e8a65614caf461ac81f22ab787/4e3e4/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://communityfund.nav.community/create-proposal" target="_blank" class="round-btn small gradient-btn">Create Proposal        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
             <div class="feature-column">
                 <div class="feature-card">
-                    <img src="https://d33wubrfki0l68.cloudfront.net/a6136e0554b83cc742e44f715978ee9fbd3c7791/88e3e/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
+                    <img src="/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
                     <h3>Step 2: Vote Proposal</h3>
                     <p style="margin-bottom: 10%">Anyone who is staking the NavCoin network can vote ‘yes’ or ‘no’ for every&nbsp;proposal with their full network weight.</p>
-                    <a href="https://communityfund.nav.community/?PENDING=on&WAITING=on" target="_blank" class="round-btn small gradient-btn">View All Proposals        <img src="https://d33wubrfki0l68.cloudfront.net/481180a17b0b66e8a65614caf461ac81f22ab787/4e3e4/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://communityfund.nav.community/?PENDING=on&WAITING=on" target="_blank" class="round-btn small gradient-btn">View All Proposals        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -107,16 +107,16 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
                     <img src="https://d33wubrfki0l68.cloudfront.net/6be625e8bf582732c2b66ffa1705dd083fdd6c51/f8c8a/images/community-fund/cfu-payment.svg" alt="" class="item-icon">
                     <h3>Step 3: Payment Request</h3>
                     <p style="margin-bottom: 10%">Payments are only released after a second round of voting validating ‘proof&nbsp;of&nbsp;effort’ by the proposal owner.</p>
-                    <a href="https://communityfund.nav.community/create-payment-request" target="_blank" class="round-btn small gradient-btn">Creat Payment Request        <img src="https://d33wubrfki0l68.cloudfront.net/481180a17b0b66e8a65614caf461ac81f22ab787/4e3e4/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://communityfund.nav.community/create-payment-request" target="_blank" class="round-btn small gradient-btn">Creat Payment Request        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
             <div class="feature-column">
                 <div class="feature-card">
-                    <img src="https://d33wubrfki0l68.cloudfront.net/6be625e8bf582732c2b66ffa1705dd083fdd6c51/f8c8a/images/community-fund/cfu-payment.svg" alt="" class="item-icon">
+                    <img src="hhttps://d33wubrfki0l68.cloudfront.net/a6136e0554b83cc742e44f715978ee9fbd3c7791/88e3e/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
                     <h3>Step 4: Vote for Payment</h3>
                     <p style="margin-bottom: 10%">Payments are only released after a second round of voting validating ‘proof&nbsp;of&nbsp;effort’ by the proposal owner.</p>
-                    <a href="https://communityfund.nav.community/?WAITING=on" target="_blank" class="round-btn small gradient-btn">View Payment Requests        <img src="https://d33wubrfki0l68.cloudfront.net/481180a17b0b66e8a65614caf461ac81f22ab787/4e3e4/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://communityfund.nav.community/?WAITING=on" target="_blank" class="round-btn small gradient-btn">View Payment Requests        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -210,7 +210,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
         </div>
       </div></div>
     <div style="display: block; max-width: 200px; margin: 0 auto; margin-top: 7%;">
-      <a href="https://communityfund.nav.community/" target="_blank" class="round-btn gradient-btn">View All Proposals        <img src="https://d33wubrfki0l68.cloudfront.net/481180a17b0b66e8a65614caf461ac81f22ab787/4e3e4/images/icons/rightward-arrow.svg" class="btn-img"> 
+      <a href="https://communityfund.nav.community/" target="_blank" class="round-btn gradient-btn">View All Proposals        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
     </div>
   </div>
