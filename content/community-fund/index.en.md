@@ -95,7 +95,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
                     <img src="/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
                     <h3>Step 2: Vote Proposal</h3>
                     <p style="margin-bottom: 10%">Anyone who is staking the NavCoin network can vote ‘yes’ or ‘no’ for every&nbsp;proposal with their network&nbsp;weight.</p>
-                    <a href="https://communityfund.nav.community/?PENDING=on&WAITING=on" target="_blank" class="round-btn small gradient-btn">View All Proposals        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://communityfund.nav.community/?PENDING=on" target="_blank" class="round-btn small gradient-btn">View All Proposals        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -113,7 +113,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
                     <img src="https://d33wubrfki0l68.cloudfront.net/a6136e0554b83cc742e44f715978ee9fbd3c7791/88e3e/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
                     <h3>Step 4: Vote for Payment</h3>
                     <p style="margin-bottom: 10%">Once a milestone is reached, the network votes to ensure that the project is on track, which releases the&nbsp;funds.</p>
-                    <a href="https://communityfund.nav.community/?WAITING=on" target="_blank" class="round-btn small gradient-btn">View Payment Requests        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://communityfund.nav.community/?ACCEPTED=on&PENDING_PR=on" target="_blank" class="round-btn small gradient-btn">View Payment Requests        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
