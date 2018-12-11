@@ -102,7 +102,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="https://d33wubrfki0l68.cloudfront.net/6be625e8bf582732c2b66ffa1705dd083fdd6c51/f8c8a/images/community-fund/cfu-payment.svg" alt="" class="item-icon">
-                    <h3>Step 3: Submit Payment Request</h3>
+                    <h3>Step 3: Payment Request</h3>
                     <p style="margin-bottom: 10%">Payments are only released after a second round of voting validating ‘proof&nbsp;of&nbsp;effort’ by the proposal owner.</p>
                     <a href="https://communityfund.nav.community/create-payment-request" target="_blank" class="round-btn small gradient-btn">Create payment request        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
