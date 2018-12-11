@@ -9,7 +9,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
     <div class="grid-container">
         <div class="text-container">
             <h1 style="font-weight: 600; margin-bottom:35px;">Community Fund</h1>
-            <p>NavCoin is built by the community, for the community - it’s an open-source project that ran no premine or ICO. NavCoin’s Community Fund enables anyone to get paid by the network for their contributions to the NavCoin ecosystem. </p>
+            <p>NavCoin is built by the community, for the community. Being an open-source project that ran no premine or ICO - NavCoin’s Community Fund enables anyone to get paid by the network for their contribution to the ecosystem. </p>
         </div>
         <img src="/images/community-fund/cfu-hero.png" alt="Hero image">
     </div>
