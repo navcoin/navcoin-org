@@ -7,16 +7,250 @@ author: ""
 description: "NavCoin is an open source protocol, which means that wallets are maintained by a range of organizations and individuals"
 ---
 
+
+<h3>Block Explorers</h3>
+<div class="links-flex-box">
 {{< link
-    text="<h2>hello to shortcode</h2>"
+    titleText="NavExplorer"
+    text="NavExplorer is an open source web tool that allows you to view information about blocks, addresses, and transactions on the NavCoin blockchain."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://www.navexplorer.com/"
      >}}
+{{< link
+    titleText="cryptoID"
+    text="This site provides blockchain explorers for several crypto-currencies, including NavCoin."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://chainz.cryptoid.info/nav/"
+     >}}
+</div>
+
+<h3>News</h3>
+<div class="links-flex-box">
+{{< link
+    titleText="Protocol Notice"
+    text="NavCoin is an open source protocol to which anyone can contribute. The NavCoin Core developers have enacted a policy to provide fair opportunity for any interested party to review all changes they make to the NavCoin protocol prior to public release."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://navcoin.org/en/notices/"
+     >}}
+{{< link
+    titleText="Community News"
+    text="Weekly update on the NavCoin development, and new things happened around the community. You can also write your own news here."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://navhub.org/news/"
+     >}}     
+</div>
+
+
+<h3>Tools</h3>
+<div class="links-flex-box">
+{{< link
+    titleText="OpenAlias"
+    text="OpenAlias is a little like PayPal, which lets you send a payment to an email address. The difference is that OpenAlias allows you to set an easy to remember ‘email style’ address to represent your full NavCoin address."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://openalias.nav.community/#/"
+     >}}
+</div>
+
+
+<h3>Community Fund Proposal Viewers</h3>
+<div class="links-flex-box">
+{{< link
+    titleText="Proposal Viewer"
+    text="Proposal Viewer implemented by the NavCoin Core Dev Alex. Allow you to view all proposal, create and vote on. The the reference site for all proposals. You can disscuss"
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://communityfund.nav.community/"
+     >}}
+{{< link
+    titleText="NavExplorer Viewer"
+    text="The viewers with handy graph interfaces implemented by the NavExploere creator Propek"
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://www.navexplorer.com/community-fund/proposals/pending"
+     >}} 
+{{< link
+    titleText="NavCommunity Viewer"
+    text="Sak has implement his own style of virew, come with nice UI and beatifule design"
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://navcommunity.net/community-fund"
+     >}} 
+{{< link
+    titleText="Proposal Tool"
+    text="A handy tool allows you to create, vote, request payment all in one place, you can embed it on your own site."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://nav-proposal-creator.netlify.com/proposal/create"
+     >}} 
+</div>
+
+
+<h3>Information</h3>
+<div class="links-flex-box">
+{{< link
+    titleText="Knowledge Base"
+    text="Knowledge base can be the first step you should check if you come across questions. Help topcis include wallets, technical support and community fund etc."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://info.navcoin.org/"
+     >}}
+{{< link
+    titleText="NavTech"
+    text="All Nav Coin Tutorials in one place. Cannot find the tutorial you need or is there a tutorial we forgot to list? Contact us! We want to help you with everything related to Nav Coin."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://navtechservers.com/tutorials/"
+     >}}   
+{{< link
+    titleText="Protocol improvement"
+    text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://github.com/NAVCoin/npips"
+     >}}     
+</div>
+
+<h3>Codebase</h3>
+<div class="links-flex-box">
+{{< link
+    titleText="Github"
+    text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://github.com/NAVCoin"
+     >}}
+</div>
+
+
+
+<h3>Community</h3>
+<div class="links-flex-box">
+{{< link
+    titleText="NavHub"
+    text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://navhub.org/"
+     >}}
+{{< link
+    titleText="NavCollab"
+    text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://collab.navcoin.org/"
+     >}}
+{{< link
+    titleText="NavCoin Italia"
+    text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://www.navcoinitalia.com/"
+     >}}
+{{< link
+    titleText="NavCommunity"
+    text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="http://navcommunity.net/"
+     >}}
+{{< link
+    titleText="Forum"
+    text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://forum.navcommunity.net/"
+     >}}     
+</div>
+
+
+<h3>Social</h3>
+<div class="links-flex-box">
+{{< link
+    titleText="Discord"
+    text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://discord.gg/y4Vu9jw"
+     >}}
+{{< link
+    titleText="Tiwtter"
+    text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://twitter.com/NavCoin"
+     >}}
+{{< link
+    titleText="Reddit"
+    text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://www.reddit.com/r/NavCoin"
+     >}}
+{{< link
+    titleText="Facebook"
+    text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://www.facebook.com/NavCoin/"
+     >}}
+{{< link
+    titleText="Youtube"
+    text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://www.youtube.com/NavCoinCore"
+     >}}     
+{{< link
+    titleText="Telegram"
+    text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://t.me/navcoin"
+     >}} 
+{{< link
+    titleText="Medium"
+    text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="http://medium.com/nav-coin"
+     >}} 
+{{< link
+    titleText="BitcoinTalk"
+    text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://bitcointalk.org/index.php?topic=679791.0"
+     >}} 
+</div>
+
+<h3>Store</h3>
+<div class="links-flex-box">
+{{< link
+    titleText="NavCoin Store"
+    text="You can interact with the network by this API to send transaction and query the network. Navcoin is a community-centric cryptocurrency with a focus on decentralization, privacy, and real-world use."
+    
+    buttonImgSrc="/images/icons/rightward-arrow-blue.svg"
+    buttonLink="https://navcoinstore.com/"
+     >}}
+</div>
+
+
+
+    
+
+
 
 <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 {{< hero_section
 titleText="Wallets"
 imgSrc="/images/wallets/wal-hero.svg"
 paragraphText="NavCoin is an open source protocol, which means that wallets are maintained by a range of organizations and individuals. There are different types of wallets - from ‘full’ wallets that give you complete control and allow you to participate in the NavCoin network, to 'light' wallets that are easier to use. Always remember that it is your responsibility to choose your wallet carefully and adopt good practices in order to protect your&nbsp;money."
-buttonText="Ask community for assistance"
+
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 buttonLink="https://discord.gg/y4Vu9jw"
 newTab="true"
