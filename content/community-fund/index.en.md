@@ -39,7 +39,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
     {{< feature                 
         titleText="500,000 NAV per year"
         imgSrc="/images/community-fund/cfu-fund-per-year.svg"
-        text="Every block that gets minted generates 0.25 NAV into the community fund which accumulates over&nbsp;time."
+        text="Every block that gets minted generates 0.5 NAV into the community fund which accumulates over&nbsp;time."
     >}}
     {{< feature                 
         titleText="Different ways to get paid"
@@ -111,8 +111,8 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">Public awareness is one of the most important things to achieve for any cryptocurrency, and one way to achieve this is by creating stickers which you can post to different places like your car, the window of your store etc.<br><br>
-                This proposal is to get the things needed, to print and cut NAV stickers and send them out to the people interested in it in community. You can <a href="https://collab.navcoin.org/s/navcoin-sticker-creation/custom_pages/container/view?id=12" style="color:white; text-decoration: underline">read more about it here.</a></p>
+                <p style="margin-top:0; margin-bottom: 15px;">Public awareness is one of the most important things to achieve for any cryptocurrency, and one way to achieve this is by creating stickers which you can post to different places like your car, the window of your store, etc.<br><br>
+                This proposal is to get the things needed to print and cut NAV stickers and send them out to the people interested in the community. You can <a href="https://collab.navcoin.org/s/navcoin-sticker-creation/custom_pages/container/view?id=12" target="_blank" style="color:white; text-decoration: underline">read more about it here.</a></p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
                     <h4>Pending</h4>
@@ -139,7 +139,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">This Community Fund project is designed to offset the carbon footprint of the NavCoin network, making NAV the worlds first carbon neutral cryptocurrency. <br><br>This proposal calculates the amount of electricity used by the network and the ecosystem around it - and purchase native forest carbon credits to offset this. You can <a href="https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6" style="color:white; text-decoration: underline">read more about it here.</a></p>
+                <p style="margin-top:0; margin-bottom: 15px;">This Community Fund project is designed to offset the carbon footprint of the NavCoin network, making NAV the world's first carbon neutral cryptocurrency. <br><br>This proposal calculates the amount of electricity used by the network and the ecosystem around it - and proposes to purchase native forest carbon credits to offset this. You can <a href="https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6" target="_blank" style="color:white; text-decoration: underline">read more about it here.</a></p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
                     <h4>Pending</h4>
@@ -165,8 +165,8 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">NEXT is an alternative wallet for NavCoin. It's an open source, cross-platform full node NavCoin wallet. It can be run on Windows, Mac and Linux. NEXT provides all the basic wallet features like sending/receive coins, and much&nbsp;more. 
-                <br><br>This proposal is to fund the ongoing research & development of the NEXT wallet. You can <a href="https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10" style="color:white; text-decoration: underline">read more about it here.</a><br></p>
+                <p style="margin-top:0; margin-bottom: 15px;">NEXT is an alternative wallet for NavCoin. It's an open source, cross-platform full node NavCoin wallet. It can be run on Windows, Mac and Linux. NEXT provides all the basic wallet features like sending/receiving coins, and much&nbsp;more. 
+                <br><br>This proposal is to fund the ongoing research & development of the NEXT wallet. You can <a href="https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10" target="_blank" style="color:white; text-decoration: underline">read more about it here.</a><br></p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
                     <h4>Pending</h4>
@@ -201,7 +201,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
   bgPurple="true"
   newTab="true"
 >}}
-Once you've joined the community channels, the NavCoin Collab website is one the places to find the range of projects that the community is working on. It's a forum that acts as the ‘town square’, and makes it easier for the community to share their projects ideas with each&nbsp;other.
+Once you've joined the community channels, the NavCoin Collab website is one of the places to find the range of projects that the community is working on. It's a forum that acts as the ‘town square’, and makes it easier for the community to share their project ideas with each&nbsp;other.
 {{< /zig_section>}}
 
 {{< accordion
@@ -222,10 +222,10 @@ Once you've joined the community channels, the NavCoin Collab website is one the
   itemFourText="Complete the proposal form below, including a link to your project page.<br><br>To complete the process, you will need to pay a proposal fee. If the fund has only a small amount of NAV left, then the projects that pay the highest fees to the network will be accepted first. A fee of 50 Nav is necessary to stop people submitting poorly thought out proposals.<br><br><br><iframe src=\"https://nav-proposal-creator.netlify.com/proposal/create\" style=\"width:100%; height:600px;border:none;\"></iframe>"
 
   itemFiveTitle="Step 5 - Promote your project to stakers."
-  itemFiveText="Once you’ve submitted your proposal, promote your project using the community channels. Communicate why you think it’s worth funding what benefits will it bring? Why should the community support&nbsp;it?"
+  itemFiveText="Once you’ve submitted your proposal, promote your project using the community channels. Communicate why you think it’s worth funding - what benefits will it bring? Why should the community support&nbsp;it?"
 
   itemSixTitle="Step 6 - Voting begins."
-  itemSixText="To be eligible to vote you must be staking NavCoin. Each voting period lasts 20,000 blocks (roughly 7 days).<br><br><ul><li>The minimum participation rate of stakers needs to be 50%</li><br><li>Of that 50%, a proposal must receive 70% ‘yes’ votes to be accepted</li><br><li>70% ‘no’ votes will result in it being rejected.</li><br><li>Proposals that don't met the 50% participation rate after 6 block periods will timeout and need to be resubmitted."
+  itemSixText="To be eligible to vote you must be staking NavCoin. Each voting period lasts 20,000 blocks (roughly 7 days).<br><br><ul><li>The minimum participation rate of stakers needs to be 50%.</li><br><li>Of that 50%, a proposal must receive 70% ‘yes’ votes to be accepted.</li><br><li>70% ‘no’ votes will result in it being rejected.</li><br><li>Proposals that don't met the 50% participation rate after 6 block periods will timeout and need to be resubmitted."
 
   itemSevenTitle="Step 7 - Begin the work."
   itemSevenText="Start work and do your best to stick to your&nbsp;timeline.<br><br>Keep the community updated with how things are progressing in your project. It’s ok to ask for help along the&nbsp;way."
