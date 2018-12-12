@@ -1040,6 +1040,9 @@ a {
   position: relative;
   max-width: 668px;
   margin: auto;
+  overflow: hidden;
+  box-shadow: 4px 7px 40px #695faf9e;
+  border-radius: 14px;
 }
 
 .content-eco {
@@ -1053,6 +1056,7 @@ a {
   justify-content: center;
   flex-direction: column;
   text-align: center;
+  z-index: 100;
 }
 
 .button-eco {
@@ -1062,12 +1066,6 @@ a {
   padding: 5px 18px;
   position: absolute;
   bottom: 10%;
-}
-
-.button-eco:hover {
-  background-color: #ffffff;
-  opacity: 0.9;
-  transition: 0.4s ease;
 }
 
 .button-eco > p {
@@ -1080,6 +1078,17 @@ a {
 .img-eco {
   width: 100%;
   display: block;
-  border-radius: 14px;
-  box-shadow: 4px 7px 40px #695faf9e;
+  transition: all 0.5s ease;
+}
+
+.container-eco:hover .img-eco{
+  transform: scale(1.15);
+  filter: brightness(90%);
+}
+
+.container-eco:hover .button-eco{
+  background-color: #9a54c4;
+  color: white;
+  opacity: 0.9;
+  transition: 0.25s ease;
 }
