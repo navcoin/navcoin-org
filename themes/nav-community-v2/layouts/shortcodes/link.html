@@ -1,125 +1,81 @@
-<!-- <div class="wallet-column">
-    <div class="item-card">
-        <div class="item-main">
-            <div class="item-icon-container">
-                <img src="{{ .Get "walletImgSrc" }}" alt="" class="item-icon">
-            </div>
-            <div class="item-details-group">
-                <h3>{{ .Get "titleText" }}</h3>
-                <section id="box-item-group">
-                    <div id="box-items">
-                        {{ if isset .Params "platformImg1Src" }}
-                            <div><img src="{{ .Get "platformImg1Src" }}"></div>
-                        {{ end }}
-                        {{ if isset .Params "platformImg2Src" }}
-                            <div><img src="{{ .Get "platformImg2Src" }}"></div>
-                        {{ end }}
-                        {{ if isset .Params "platformImg3Src" }}
-                            <div><img src="{{ .Get "platformImg3Src" }}"></div>
-                        {{ end }}
-                        {{ if isset .Params "platformImg4Src" }}
-                            <div><img src="{{ .Get "platformImg4Src" }}"></div>
-                        {{ end }}
-                        {{ if isset .Params "platformImg5Src" }}
-                            <div><img src="{{ .Get "platformImg5Src" }}"></div>
-                        {{ end }}
-                        {{ if isset .Params "platformImg6Src" }}
-                            <div><img src="{{ .Get "platformImg6Src" }}"></div>
-                        {{ end }}
-                    </div>
-                </section>
-                <div class="item-text">
-                    <p>{{ .Get "text" | safeHTML }}</p>
-                    {{ if isset .Params "buttonUrl" }}
-                        <a href="{{ .Get "buttonUrl" }}" {{if isset .Params "newTab"}} target="_blank" {{ end }} class="round-btn small gradient-btn">{{ .Get "buttonText" }} <img src="{{ .Get "buttonImgSrc" }}" class="btn-img"> </span></a>
-                    {{ end }}
-                </div>
-            </div>
-        </div>
-    </div>
-</div> -->
-
-<div class="grid-el">
-    <h2>{{ .Get "titleText" | safeHTML }}</h2>
-    <p>{{ .Get "text" | safeHTML }}</p>
+<div class="link-grid-el">
+    <h2 class="link-title">{{ .Get "titleText" | safeHTML }}</h2>
+    <p class="link-text">{{ .Get "text" | safeHTML }}</p>
     <a href="{{ .Get "buttonLink" }}" target="_blank">Visit Site  
         <img src="{{ .Get "buttonImgSrc" }}">
     </a>
 </div>
 
-
 <style>
-h3{
-  text-align: center;
-  margin: 50px 0 33px 0;
-  font-size: 30px;
-  font-family: raleway;
-  color: #7D5AB5;
-  font-weight: 500;
-}
-
-.links-flex-box { 
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-
-}
-
-.grid-el {
-    margin: 8px;
-    display: grid;
-    max-width: 350px;
-    justify-self: center;
-    padding: 25px 25px;
-    background: #fff;
-    align-items: center;
+.links-set{
+    text-align: center;
+    margin: 50px 0 33px 0;
+    font-size: 30px;
+    font-family: raleway;
+    color: #7D5AB5;
+    font-weight: 500;
+  }
+  
+  .links-flex-box { 
+    display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    border-radius: 8px;
-    box-shadow: 1px 13px 35px rgba(66, 45, 178, 0.12);
-    transition: all 0.3s ease;
-    margin-bottom: 5px;
-}
-
-h2 {
-  color: rgb(125, 90, 181);
-  text-align: left;
-  font: normal normal 400 normal 20px / 37px raleway;
-  margin: 0px;
-  outline: rgb(125, 90, 181) none 0px;
-}
-
-p {
-
-  margin: 0;
-  font-size: 16px;
-  line-height: 25px;
-  text-align: justify;
-  text-justify: inter-word;
-  color: #404040;
-  font-family: "Roboto", sans-serif;
-  margin-bottom: 24px;
-}
-
-a {
-  color: rgb(0, 110, 255);
-  justify-self: start;
-  text-decoration: none solid rgb(0, 110, 255);
-  border-bottom: 1px solid rgb(0, 110, 255);
-  font-family: "Roboto", sans-serif;
-}
-
-img {
-  width: 17px;
-}
-
-@media (max-width: 400px) {
-  .grid {
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   }
-  p {
-    font-size: 13px;
-    line-height: 20px;
+  
+  .link-grid-el {
+      margin: 8px;
+      display: grid;
+      max-width: 350px;
+      justify-self: center;
+      padding: 25px 25px;
+      background: #fff;
+      align-items: center;
+      justify-content: center;
+      border-radius: 8px;
+      box-shadow: 1px 13px 35px rgba(66, 45, 178, 0.12);
+      transition: all 0.3s ease;
+      margin-bottom: 5px;
   }
-}
-
+  
+  .link-grid-el > .link-title {
+    color: rgb(125, 90, 181);
+    text-align: left;
+    font: normal normal 400 normal 20px / 37px raleway;
+    margin: 0px;
+    outline: rgb(125, 90, 181) none 0px;
+  }
+  
+  .link-grid-el > .link-text {
+    margin: 0;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: justify;
+    text-justify: inter-word;
+    color: #404040;
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 24px;
+  }
+  
+  .link-grid-el > a {
+    color: rgb(0, 110, 255);
+    justify-self: start;
+    text-decoration: none solid rgb(0, 110, 255);
+    border-bottom: 1px solid rgb(0, 110, 255);
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .link-grid-el > a > img {
+    width: 17px;
+  }
+  
+  @media (max-width: 400px) {
+    .link-grid-el {
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
+    .link-grid-el > .link-text {
+      font-size: 13px;
+      line-height: 20px;
+    }
+  }
+  
 </style>
