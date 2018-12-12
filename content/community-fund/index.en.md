@@ -16,29 +16,6 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
 </section>
 
 
-<!--- {{< item_container_section
-    titleText="How The Fund Works In 3&nbsp;Steps"
-    subtitleText=""
-    bgPurple="true"
-    >}} 
-    {{< feature
-        titleText="Step 1: Submit"
-        imgSrc="/images/community-fund/cfu-submit.svg"
-        text="Dream up the improvements you would like to see in the NavCoin ecosystem, and submit your proposal to the&nbsp;network."
-    >}}
-    {{< feature
-        titleText="Step 2: Vote"
-        imgSrc="/images/community-fund/cfu-vote.svg"
-        text="Anyone who is staking the NavCoin network can vote ‘yes’ or ‘no’ for every&nbsp;proposal with their full network weight."
-    >}}
-    {{< feature                 
-        titleText="Step 3: Payment"
-        imgSrc="/images/community-fund/cfu-payment.svg"
-        text="Payments are only released after a second round of voting validating ‘proof&nbsp;of&nbsp;effort’ by the proposal owner."
-    >}}
-{{< /item_container_section >}} -->
-
-
 
 {{< item_container_section
     titleText="The Worlds Most Advanced Community&nbsp;Fund"
@@ -305,9 +282,3 @@ Once you've joined the community channels, the NavCoin Collab website is one the
 
 {{< /social_grid_section >}}
 
-
-<style>
-mat-card.mat-card {
-    box-shadow: none !important;
-}
-</style>
