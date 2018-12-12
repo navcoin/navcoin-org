@@ -107,16 +107,23 @@ enableRobotsTXT = true
         identifier = "navhub"
         parent = "explore"
     [[Languages.en.menu.main]]
+        name = "Link Directories"
+        title = "Link Directories"
+        weight = 50
+        url = "/links/"
+        identifier = "links"
+        parent = "explore"
+    [[Languages.en.menu.main]]
         name = "Merchants"
         title = "Merchants"
-        weight = 50
+        weight = 60
         url = "/merchants/"
         identifier = "merchants"
         parent = "explore"
     [[Languages.en.menu.main]]
         name = "Get Involved"
         title = "Get Involved"
-        weight = 60
+        weight = 70
         url = "/get-involved/"
         identifier = "get-involved"
         parent = "explore"
