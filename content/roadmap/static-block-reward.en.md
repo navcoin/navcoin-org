@@ -2,9 +2,9 @@
 layout: roadmap
 title: Static Block Reward
 author: Craig MacGregor
-date: '2018-06-06T17:07:30+12:00'
+date: '2018-12-06'
 feature_image: /images/uploads/navpi-patch.jpg
-status: in-progress
+status: completed
 externalUrl: https://github.com/NAVCoin/npips/blob/master/npip-0004.mediawiki
 ---
 
