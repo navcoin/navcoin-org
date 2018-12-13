@@ -120,7 +120,7 @@ newTab="true"
         imgSrc="/images/wallets/wal-windows.svg"
         subtext=""
         linkText="Download"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.5.0/navcoin-4.5.0-win64.zip"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.5.0/navcoin-4.5.0-win64-setup.exe"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action
