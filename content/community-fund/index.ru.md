@@ -55,42 +55,42 @@ description: "Фонд Сообщества NavCoin - это пул NAV, кот�
 
 <section class="item-container-section  bg-purple " id="">
     <div class="ninety-vw-container" style="max-width: 1400px;">
-        <h1 class="container-title">How The Fund Works In 4&nbsp;Steps</h1>
+        <h1 class="container-title">Процесс работы фонда в 4&nbsp;этапа</h1>
         <h3 class="container-subtitle"></h3>
         <div class="grid-container" style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));">
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="/images/community-fund/cfu-submit.svg" alt="" class="item-icon">
-                    <h3>Step 1: Submit Proposal</h3>
-                    <p style="margin-bottom: 10%">Dream up the improvements you would like to see in the NavCoin ecosystem, and submit your proposal to the&nbsp;network.</p>
-                    <a href="https://communityfund.nav.community/create-proposal" target="_blank" class="round-btn small gradient-btn">Create proposal        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <h3>Шаг 1: Подача предложения</h3>
+                    <p style="margin-bottom: 10%">Придумайте улучшения, которые бы вы хотели увидеть в экосистеме NavCoin и подайте свое предложение в&nbsp;сеть.</p>
+                    <a href="https://communityfund.nav.community/create-proposal" target="_blank" class="round-btn small gradient-btn">Создать предложение        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
-                    <h3>Step 2: Vote for Proposal</h3>
-                    <p style="margin-bottom: 10%">Anyone who is staking the NavCoin network can vote ‘yes’ or ‘no’ for every&nbsp;proposal with their network&nbsp;weight.</p>
-                    <a href="https://communityfund.nav.community/?PENDING=on" target="_blank" class="round-btn small gradient-btn">View all proposals        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <h3>Шаг 2: Голосование за предложение</h3>
+                    <p style="margin-bottom: 10%">Любой, кто занимается стекингом сети NavCoin, может проголосовать «да» или «нет» за каждое&nbsp;предложение учитывая свой вес в&nbsp;сети.</p>
+                    <a href="https://communityfund.nav.community/?PENDING=on" target="_blank" class="round-btn small gradient-btn">Просмотреть все предложения        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="https://d33wubrfki0l68.cloudfront.net/6be625e8bf582732c2b66ffa1705dd083fdd6c51/f8c8a/images/community-fund/cfu-payment.svg" alt="" class="item-icon">
-                    <h3>Step 3: Payment Request</h3>
-                    <p style="margin-bottom: 10%">Payments are only released after a second round of voting validating ‘proof&nbsp;of&nbsp;effort’ by the proposal owner.</p>
-                    <a href="https://communityfund.nav.community/create-payment-request" target="_blank" class="round-btn small gradient-btn">Create payment request        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <h3>Шаг 3: Запрос оплаты</h3>
+                    <p style="margin-bottom: 10%">Платежи освобождаются только после второго тура голосования, которое утверждает «доказательство&nbsp;усилия» владельца предложения.</p>
+                    <a href="https://communityfund.nav.community/create-payment-request" target="_blank" class="round-btn small gradient-btn">Создать запрос на оплату        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="https://d33wubrfki0l68.cloudfront.net/a6136e0554b83cc742e44f715978ee9fbd3c7791/88e3e/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
-                    <h3>Step 4: Vote for Payment</h3>
-                    <p style="margin-bottom: 10%">Once a milestone is reached, the network votes to ensure that the project is on track, which releases the&nbsp;funds.</p>
-                    <a href="https://communityfund.nav.community/?ACCEPTED=on&PENDING_PR=on" target="_blank" class="round-btn small gradient-btn">View payment requests        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <h3>Шаг 4: Голосование за оплату</h3>
+                    <p style="margin-bottom: 10%">Как только задача выполнена, сеть голосует, чтобы убедиться, что проект успешно выполняется, что в свою очередь, высвобождает&nbsp;средства.</p>
+                    <a href="https://communityfund.nav.community/?ACCEPTED=on&PENDING_PR=on" target="_blank" class="round-btn small gradient-btn">Просмотреть запросы на оплату        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -100,32 +100,32 @@ description: "Фонд Сообщества NavCoin - это пул NAV, кот�
 
 <section class="item-container-section " id="">
   <div class="ninety-vw-container">
-    <h1 class="container-title">Featured Proposals</h1>
+    <h1 class="container-title">Обработанные предложения</h1>
     <!-- <h3 class="container-subtitle"></h3> -->
     <div class="grid-container">
       <div class="wallet-column">
         <div class="item-card">
           <div class="item-main">
             <div class="item-icon-container">
-              <h2 class="cf-proposal-title"> NavCoin Sticker&nbsp;Creation </h2>
+              <h2 class="cf-proposal-title"> Создание стикеров&nbsp;NavCoin </h2>
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">Public awareness is one of the most important things to achieve for any cryptocurrency, and one way to achieve this is by creating stickers which you can post to different places like your car, the window of your store, etc.<br><br>
-                This proposal is to get the things needed to print and cut NAV stickers and send them out to the people interested in the community. You can <a href="https://collab.navcoin.org/s/navcoin-sticker-creation/custom_pages/container/view?id=12" target="_blank" style="color:white; text-decoration: underline">read more about it here.</a></p>
+                <p style="margin-top:0; margin-bottom: 15px;">Информирование общественности является одной из самых важных вещей для любой криптовалюты, и один из способов этого добиться - создавать стикеры, которые вы можете клеить в различных местах, таких как ваш автомобиль, витрина вашего магазина и т. д.<br><br>
+                Это предложение создано для того, чтобы получить финансирование на вещи, необходимые для печати, вырезания стикеров NAV и для рассылки заинтересованным людям. Вы можете <a href="https://collab.navcoin.org/s/navcoin-sticker-creation/custom_pages/container/view?id=12" target="_blank" style="color:white; text-decoration: underline">прочитать подробнее об этом здесь.</a></p>
                 <div class="cf-proposal-stat">
-                    <h4>Status</h4>
-                    <h4>Pending</h4>
+                    <h4>Статус</h4>
+                    <h4>В ожидании</h4>
                 </div>
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div class="cf-proposal-stat">
-                    <h4>Request</h4>
-                    <h4>2,000 NAV</h4>
+                    <h4>Запрос</h4>
+                    <h4>2 000 NAV</h4>
                 </div>
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://communityfund.nav.community/discussion/aabb434ae2a248cbf8ffa903f9e9610e4d51ac53e507f09450b3e7ebac66ee59" target="_blank" class="round-btn small gradient-btn">View proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://communityfund.nav.community/discussion/aabb434ae2a248cbf8ffa903f9e9610e4d51ac53e507f09450b3e7ebac66ee59" target="_blank" class="round-btn small gradient-btn">Посмотреть предложение <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
@@ -135,24 +135,24 @@ description: "Фонд Сообщества NavCoin - это пул NAV, кот�
         <div class="item-card">
           <div class="item-main">
             <div class="item-icon-container">
-              <h2 class="cf-proposal-title">Carbon Neutral&nbsp;NavCoin </h2>
+              <h2 class="cf-proposal-title">Углеродная нейтральность&nbsp;NavCoin </h2>
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">This Community Fund project is designed to offset the carbon footprint of the NavCoin network, making NAV the world's first carbon neutral cryptocurrency. <br><br>This proposal calculates the amount of electricity used by the network and the ecosystem around it - and proposes to purchase native forest carbon credits to offset this. You can <a href="https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6" target="_blank" style="color:white; text-decoration: underline">read more about it here.</a></p>
+                <p style="margin-top:0; margin-bottom: 15px;">Этот проект Фонда Сообщества спроектирован, чтобы компенсировать углеродное присутствие сети NavCoin, что сделает NAV первой в мире криптовалютой с углеродной нейтральностью. <br><br>В этом предложении будет вычислено количество электроэнергии, используемое сетью и окружающей ее экосистемой. Чтобы это компенсировать, предлагается приобрести местные лесные углеродные кредиты. Вы можете <a href="https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6" target="_blank" style="color:white; text-decoration: underline">прочитать подробнее об этом здесь.</a></p>
                 <div class="cf-proposal-stat">
-                    <h4>Status</h4>
-                    <h4>Pending</h4>
+                    <h4>Статус</h4>
+                    <h4>В ожидании</h4>
                 </div>
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div class="cf-proposal-stat">
-                    <h4>Request</h4>
-                    <h4>5,000 NAV</h4>
+                    <h4>Запрос</h4>
+                    <h4>5 000 NAV</h4>
                 </div>
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://communityfund.nav.community/discussion/0a4c915850491675e264fafacd20d14b8d9f0b165d4065ff2f53a21bbf0f72a2" target="_blank" class="round-btn small gradient-btn">View proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://communityfund.nav.community/discussion/0a4c915850491675e264fafacd20d14b8d9f0b165d4065ff2f53a21bbf0f72a2" target="_blank" class="round-btn small gradient-btn">Посмотреть предложение <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
@@ -161,82 +161,82 @@ description: "Фонд Сообщества NavCoin - это пул NAV, кот�
         <div class="item-card">
           <div class="item-main">
             <div class="item-icon-container">
-              <h2 class="cf-proposal-title"> NavCoin NEXT Wallet </h2>
+              <h2 class="cf-proposal-title"> NavCoin Кошелек NEXT </h2>
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">NEXT is an alternative wallet for NavCoin. It's an open source, cross-platform full node NavCoin wallet. It can be run on Windows, Mac and Linux. NEXT provides all the basic wallet features like sending/receiving coins, and much&nbsp;more. 
-                <br><br>This proposal is to fund the ongoing research & development of the NEXT wallet. You can <a href="https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10" target="_blank" style="color:white; text-decoration: underline">read more about it here.</a><br></p>
+                <p style="margin-top:0; margin-bottom: 15px;">NEXT - альтернативный кошелек для NavCoin. Это кроссплатформенный полный узел кошелька NavCoin с открытым исходным кодом. Он может работать на Windows, Mac и Linux. NEXT предоставляет все основные функции кошелька, такие как отправка / получение монет и многое&nbsp;другое. 
+                <br><br>Это предложение предназначено для финансирования постоянных исследований и разработок кошелька NEXT. Вы можете <a href="https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10" target="_blank" style="color:white; text-decoration: underline">прочитать подробнее об этом здесь.</a><br></p>
                 <div class="cf-proposal-stat">
-                    <h4>Status</h4>
-                    <h4>Pending</h4>
+                    <h4>Статус</h4>
+                    <h4>В ожидании</h4>
                 </div>
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div class="cf-proposal-stat">
-                    <h4>Request</h4>
-                    <h4>46,800 NAV</h4>
+                    <h4>Запрос</h4>
+                    <h4>46 800 NAV</h4>
                 </div>
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://communityfund.nav.community/discussion/97229d571fdade1c48fda8c1b1060820f87c1dc1c99d3a8cd498a3809537d723" target="_blank" class="round-btn small gradient-btn">View proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://communityfund.nav.community/discussion/97229d571fdade1c48fda8c1b1060820f87c1dc1c99d3a8cd498a3809537d723" target="_blank" class="round-btn small gradient-btn">Посмотреть предложение <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
         </div>
       </div></div>
     <div style="display: block; max-width: 200px; margin: 0 auto; margin-top: 7%;">
-      <a href="https://communityfund.nav.community/" target="_blank" class="round-btn gradient-btn">View all proposals        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+      <a href="https://communityfund.nav.community/" target="_blank" class="round-btn gradient-btn">Просмотреть все предложения        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
     </div>
   </div>
 </section>
 
 {{< zig_section
-  titleText="Where should I start?"
+  titleText="С чего мне начать?"
   imgSrc="/images/community-fund/cfu-get-involved.svg"
-  buttonText="Join the Collab"
+  buttonText="Присоединяйтесь к Collab"
   buttonUrl="https://collab.navcoin.org/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-Once you've joined the community channels, the NavCoin Collab website is one of the places to find the range of projects that the community is working on. It's a forum that acts as the ‘town square’, and makes it easier for the community to share their project ideas with each&nbsp;other.
+Как только вы присоединитесь к каналам сообщества, веб-сайт NavCoin Collab будет одним из тех мест, где можно найти ряд проектов, над которыми работает сообщество. Это форум, который действует как «городская площадь», где сообществу легче делиться своими проектными идеями друг с&nbsp;другом.
 {{< /zig_section>}}
 
 {{< accordion
-  titleText="How To Create A&nbsp;Proposal"
-  subtitleText="We’ve got a process to help you ensure your proposal has the best chance of&nbsp;passing."
+  titleText="Как создать&nbsp;предложение"
+  subtitleText="У нас есть метод, который поможет вам обеспечить, чтобы ваше предложение имело лучшие шансы&nbsp;пройти."
   anchor="download-core"
 
-  itemOneTitle="Step 1 - Understand the system and develop your ideas."
-  itemOneText="Think of project that could inspire the NavCoin network. You can go it alone or discuss it with the community in <a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> or on the <a href=\"https://collab.navcoin.org\">NavCollab website</a>.  <br><img src=\"/images/community-fund/cfu-voting.png\" alt=\"voting image\">"    
+  itemOneTitle="Шаг 1 - Понимание системы и создание ваших идей."
+  itemOneText="Придумайте проект, который может вдохновить сеть NavCoin. Вы можете работать над ним в одиночку или обсудить проект с сообществом в <a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> или на <a href=\"https://collab.navcoin.org\">веб-сайте NavCollab</a>.  <br><img src=\"/images/community-fund/cfu-voting.png\" alt=\"voting image\">"    
 
-  itemTwoTitle="Step 2 - Create a project page."
-  itemTwoText="It can be anywhere, but to give your project maximum visibility in the community consider using the <a href=\"\">NavCollab website</a>.<br><br>Work out the details of the project. You need to communicate why the NavCoin community should fund it, if you need to tap into other people’s skills, and how long it will take from start to finish. <br><br>Your proposal might suit being funded in stages, especially if it’ll take some time to complete."
+  itemTwoTitle="Шаг 2 - Создание страницы проекта."
+  itemTwoText="Это может быть где угодно, но для обеспечения максимальной видимости вашего проекта в сообществе, рассмотрите возможность использования <a href=\"\">веб-сайта NavCollab</a>.<br><br>Разработайте детали проекта. Вам нужно рассказать, почему сообщество NavCoin должно профинансировать вашу идею, сообщить если вам нужно задействовать навыки других людей и сколько времени это займет от начала до конца. <br><br>Вашему предложению может подойти поэтапное финансирование, особенно если для его завершения потребуется некоторое время."
 
-  itemThreeTitle="Step 3 - Create your team."
-  itemThreeText="Do you need other skills to bring your project to life? Use NavCoin’s social channels and the NavCollab website to find community members who can help you complete your project."
+  itemThreeTitle="Шаг 3 - Создание вашей команды."
+  itemThreeText="Вам нужно задействовать другие навыки для воплощения вашего проекта в жизнь? Используйте социальные каналы NavCoin и веб-сайт NavCollab, чтобы найти членов сообщества, которые могут помочь вам завершить ваш проект."
 
-  itemFourTitle="Step 4 - Submit your proposal."
-  itemFourText="Complete the proposal form below, including a link to your project page.<br><br>To complete the process, you will need to pay a proposal fee. If the fund has only a small amount of NAV left, then the projects that pay the highest fees to the network will be accepted first. A fee of 50 Nav is necessary to stop people submitting poorly thought out proposals.<br><br><br><iframe src=\"https://nav-proposal-creator.netlify.com/proposal/create\" style=\"width:100%; height:600px;border:none;\"></iframe>"
+  itemFourTitle="Шаг 4 - Подача вашего предложения."
+  itemFourText="Заполните форму предложения ниже, включая ссылку на страницу вашего проекта.<br><br>Чтобы завершить этот процесс вам нужно будет оплатить сбор за подачу предложения. Если в фонде осталось лишь небольшое количество NAV, то будут приняты первыми те проекты, которые заплатят наибольшую плату сети. Плата в 50 Nav необходима для того, чтобы люди не могли подавать плохо продуманные предложения.<br><br><br><iframe src=\"https://nav-proposal-creator.netlify.com/proposal/create\" style=\"width:100%; height:600px;border:none;\"></iframe>"
 
-  itemFiveTitle="Step 5 - Promote your project to stakers."
-  itemFiveText="Once you’ve submitted your proposal, promote your project using the community channels. Communicate why you think it’s worth funding - what benefits will it bring? Why should the community support&nbsp;it?"
+  itemFiveTitle="Шаг 5 - Продвижение вашего проекта среди стекеров."
+  itemFiveText="После того, как вы подадите свое предложение, продвигайте свой проект с помощью каналов сообщества. Расскажите, почему стоит финансировать именно ваш проект? Какую пользу это принесет? Почему сообщество должно это&nbsp;поддержать?"
 
-  itemSixTitle="Step 6 - Voting begins."
-  itemSixText="To be eligible to vote you must be staking NavCoin. Each voting period lasts 20,000 blocks (roughly 7 days).<br><br><ul><li>The minimum participation rate of stakers needs to be 50%.</li><br><li>Of that 50%, a proposal must receive 70% ‘yes’ votes to be accepted.</li><br><li>70% ‘no’ votes will result in it being rejected.</li><br><li>Proposals that don't met the 50% participation rate after 6 block periods will timeout and need to be resubmitted."
+  itemSixTitle="Шаг 6 - Старт голосования."
+  itemSixText="Чтобы иметь право голосовать, вы должны запустить стекинг NavCoin. Каждый период голосования длится 20 000 блоков (примерно 7 дней).<br><br><ul><li>Минимальный уровень участия стекеров должен составлять 50%.</li><br><li>Чтобы предложение было принято, из этих 50% предложение должно получить 70% голосов с ответом «да».</li><br><li>В случае получения 70% голосов с ответом «нет», предложение будет отклонено.</li><br><li>Предложения, которые не достигли уровня участия в 50% после 6 периодов блока, истекают и требуют повторной подачи."
 
-  itemSevenTitle="Step 7 - Begin the work."
-  itemSevenText="Start work and do your best to stick to your&nbsp;timeline.<br><br>Keep the community updated with how things are progressing in your project. It’s ok to ask for help along the&nbsp;way."
+  itemSevenTitle="Шаг 7 - Начало работы."
+  itemSevenText="Начните работу и сделайте все возможное, чтобы выполнить работу в оговоренный&nbsp;срок.<br><br>Держите сообщество в курсе того, как идут дела над вашим проектом. Просьба о помощи по ходу работы&nbsp;приветствуется."
 
-  itemEightTitle="Step 8 - Apply for payment."
-  itemEightText="Once your project is complete you can apply for payment from the Community Fund. If there are clear milestones in your proposal you can apply to receive payments at scheduled points in the&nbsp;timeline.<br><br>Payment is subject to a second consensus vote among NavCoin stakers. There must be a 50% minimum participation, with 70% ‘yes’ vote to be paid and 70% ‘no’ for payment to be&nbsp;rejected.<br><br>Note that you will need to submit your payment request before the project expiration date (which you set when you create your proposal - so make sure to include some&nbsp;buffer)."
+  itemEightTitle="Шаг 8 - Подача запроса на оплату."
+  itemEightText="Когда ваш проект будет завершен, вы можете подать запрос на оплату, которая будет произведена из Фонда Сообщества. Если в вашем предложении есть четкие контрольные показатели, то вы можете подать запрос на получение платежей в запланированные моменты&nbsp;времени.<br><br>Оплата подлежит повторному консенсусному голосованию среди участников NavCoin. В голосовании должно участвовать не менее 50%, из которых 70% должны проголосовать «да», чтобы вы получили свою оплату. При 70% голосов «нет», платеж будет&nbsp;отклонен.<br><br>Обратите внимание, что вам нужно будет подать запрос на оплату до истечения срока действия проекта (этот срок вы указываете при создании предложения, поэтому рекоммендуется включить запас&nbsp;времени)."
 >}}
 
 {{< social_grid_section
-    titleText="Join Our Community"
-    subtitleText="Promote your proposal ideas to the NavCoin community to get feedback, find collaborators and get votes."
+    titleText="Присоединяйтесь к нашему сообществу"
+    subtitleText="Продвигайте свои идеи предложений сообществу NavCoin для получения отзывов, поиска соавторов и получения голосов."
     bgPurple="true"
 >}}
     {{< social                 
