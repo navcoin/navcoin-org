@@ -27,6 +27,14 @@ enableRobotsTXT = true
         title = "NavCoin - Una Criptomoneda descentralizada fácil de usar "
         weight = 2
         languageName = "español"
+    [Languages.ru]
+        title = "NavCoin - Una Criptomoneda descentralizada fácil de usar "
+        weight = 3
+        languageName = "Russian"
+    [Languages.zh]
+        title = "NavCoin - Una Criptomoneda descentralizada fácil de usar "
+        weight = 4
+        languageName = "Chinese"
 
 
 # Main Menu English
@@ -249,6 +257,234 @@ enableRobotsTXT = true
     url = "/community-fund/"
 
 [[Languages.es.menu.main]]
+    name = "Carteras"
+    title = "Carteras"
+    weight = 50
+    identifier = "wallets"
+    url = "/wallets/"
+
+
+# Main Menu Russian
+
+[[Languages.ru.menu.main]]
+    name = "Empezar"
+    title = "Empezar"
+    weight = 10
+    identifier = "get-started"
+    depth = 1
+    [[Languages.ru.menu.main]]
+        name = "¿Por qué NavCoin?"
+        title = "¿Por qué NavCoin?"
+        weight = 20
+        url = "/why-navcoin/"
+        identifier = "why-navcoin"
+        parent = "get-started"
+    [[Languages.ru.menu.main]]
+        name = "Gobernancia"
+        title = "Gobernancia"
+        weight = 30
+        url = "/governance/"
+        identifier = "governance"
+        parent = "get-started"
+    [[Languages.ru.menu.main]]
+        name = "Para individuos"
+        title = "Para individuos"
+        weight = 40
+        url = "/for-individuals/"
+        identifier = "for-individuals"
+        parent = "get-started"
+    [[Languages.ru.menu.main]]
+        name = "Para desarrolladores"
+        title = "Para desarrolladores"
+        weight = 50
+        identifier = "for-developers"
+        url = "/for-developers/"
+        parent="get-started"
+    [[Languages.ru.menu.main]]
+        name = "Por negocios"
+        title = "Por negocios"
+        weight = 60
+        identifier = "for-business"
+        url = "/for-business/"
+        parent="get-started"
+    [[Languages.ru.menu.main]]
+        name = "Comprar NavCoin"
+        title = "Comprar NavCoin"
+        weight = 70
+        url = "/buy-navcoin/"
+        identifier = "buy-navcoin"
+        parent = "get-started"
+
+[[Languages.ru.menu.main]]
+    name = "Explorar"
+    title = "Explorar"
+    weight = 20
+    identifier = "explore"
+    [[Languages.ru.menu.main]]
+        name = "Mapa vial"
+        title = "Mapa vial"
+        weight = 20
+        url = "/roadmap/"
+        identifier = "roadmap"
+        parent = "explore"
+    [[Languages.ru.menu.main]]
+        name = "Explorador de bloques"
+        title = "Explorador de bloques"
+        weight = 30
+        url = "https://navexplorer.com"
+        identifier = "block-explorer"
+        parent = "explore"
+    [[Languages.ru.menu.main]]
+        name = "NavHub"
+        title = "NavHub"
+        weight = 40
+        url = "https://navhub.org"
+        identifier = "navhub"
+        parent = "explore"
+    [[Languages.ru.menu.main]]
+        name = "Mercantes"
+        title = "Mercantes"
+        weight = 50
+        url = "/merchants/"
+        identifier = "merchants"
+        parent = "explore"
+    [[Languages.ru.menu.main]]
+        name = "Involucrarse"
+        title = "Involucrarse"
+        weight = 60
+        url = "/get-involved/"
+        identifier = "get-involved"
+        parent = "explore"
+
+[[Languages.ru.menu.main]]
+    name = "Noticias"
+    title = "Noticias"
+    url="/notices/"
+    weight = 30
+    identifier = "news"
+
+[[Languages.ru.menu.main]]
+    name = "Fondo comunitario"
+    title = "Fondo comunitario"
+    weight = 40
+    identifier = "community-fund"
+    url = "/community-fund/"
+
+[[Languages.ru.menu.main]]
+    name = "Carteras"
+    title = "Carteras"
+    weight = 50
+    identifier = "wallets"
+    url = "/wallets/"
+
+
+# Main Menu Chinese
+
+[[Languages.zh.menu.main]]
+    name = "Empezar"
+    title = "Empezar"
+    weight = 10
+    identifier = "get-started"
+    depth = 1
+    [[Languages.zh.menu.main]]
+        name = "¿Por qué NavCoin?"
+        title = "¿Por qué NavCoin?"
+        weight = 20
+        url = "/why-navcoin/"
+        identifier = "why-navcoin"
+        parent = "get-started"
+    [[Languages.zh.menu.main]]
+        name = "Gobernancia"
+        title = "Gobernancia"
+        weight = 30
+        url = "/governance/"
+        identifier = "governance"
+        parent = "get-started"
+    [[Languages.zh.menu.main]]
+        name = "Para individuos"
+        title = "Para individuos"
+        weight = 40
+        url = "/for-individuals/"
+        identifier = "for-individuals"
+        parent = "get-started"
+    [[Languages.zh.menu.main]]
+        name = "Para desarrolladores"
+        title = "Para desarrolladores"
+        weight = 50
+        identifier = "for-developers"
+        url = "/for-developers/"
+        parent="get-started"
+    [[Languages.zh.menu.main]]
+        name = "Por negocios"
+        title = "Por negocios"
+        weight = 60
+        identifier = "for-business"
+        url = "/for-business/"
+        parent="get-started"
+    [[Languages.zh.menu.main]]
+        name = "Comprar NavCoin"
+        title = "Comprar NavCoin"
+        weight = 70
+        url = "/buy-navcoin/"
+        identifier = "buy-navcoin"
+        parent = "get-started"
+
+[[Languages.zh.menu.main]]
+    name = "Explorar"
+    title = "Explorar"
+    weight = 20
+    identifier = "explore"
+    [[Languages.zh.menu.main]]
+        name = "Mapa vial"
+        title = "Mapa vial"
+        weight = 20
+        url = "/roadmap/"
+        identifier = "roadmap"
+        parent = "explore"
+    [[Languages.zh.menu.main]]
+        name = "Explorador de bloques"
+        title = "Explorador de bloques"
+        weight = 30
+        url = "https://navexplorer.com"
+        identifier = "block-explorer"
+        parent = "explore"
+    [[Languages.zh.menu.main]]
+        name = "NavHub"
+        title = "NavHub"
+        weight = 40
+        url = "https://navhub.org"
+        identifier = "navhub"
+        parent = "explore"
+    [[Languages.zh.menu.main]]
+        name = "Mercantes"
+        title = "Mercantes"
+        weight = 50
+        url = "/merchants/"
+        identifier = "merchants"
+        parent = "explore"
+    [[Languages.zh.menu.main]]
+        name = "Involucrarse"
+        title = "Involucrarse"
+        weight = 60
+        url = "/get-involved/"
+        identifier = "get-involved"
+        parent = "explore"
+
+[[Languages.zh.menu.main]]
+    name = "Noticias"
+    title = "Noticias"
+    url="/notices/"
+    weight = 30
+    identifier = "news"
+
+[[Languages.zh.menu.main]]
+    name = "Fondo comunitario"
+    title = "Fondo comunitario"
+    weight = 40
+    identifier = "community-fund"
+    url = "/community-fund/"
+
+[[Languages.zh.menu.main]]
     name = "Carteras"
     title = "Carteras"
     weight = 50
