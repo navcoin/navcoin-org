@@ -1,23 +1,23 @@
 ---
-title: "Buy NavCoin"
+title: "Купить NavCoin"
 date: 2018-03-20T08:09:08+13:00
 draft: false
-type: "default"
+type: "по умолчанию"
 author: ""
-description: "NavCoin is publicly mined and ran no token sale. The only way to buy NavCoin is to purchase it from a third party or exchange."
+description: "NavCoin добывается публично и он не осуществлял продажу токенов. Единственным способом купить NavCoin является его покупка у третьего лица или на бирже."
 ---
 {{< hero_section
-titleText="Buy NavCoin"
+titleText="Купить NavCoin"
 imgSrc="/images/buy-navcoin/buy-hero.svg"
-paragraphText="NavCoin is publicly mined and ran no token sale. The only way to get NAV is to purchase it from a third party or exchange. Exchanges provide highly varying degrees of safety, security, privacy, and control over your funds and information. Perform your own due diligence and choose a wallet where you will keep your NavCoin before selecting an exchange. Please follow the link to check exchange volumes for more&nbsp;information."
-buttonText="See market statistics"
+paragraphText="NavCoin добывается публично и он не осуществлял продажу токенов. Единственным способом купить NavCoin является его покупка у третьего лица или на бирже. Биржи предоставляют различную высокой степени безопасность, надеждность, конфиденциальность и контроль над вашими средствами и информацией. Прежде, чем выбрать биржу, самостоятельно изучите варианты того кошелька, в котором вы будете хранить свои NavCoin. Пожалуйста, перейдите по ссылке, чтобы проверить объемы бирж для получения дополнительной&nbsp;информации."
+buttonText="Посмотреть статистику рынка"
 buttonLink="https://coinmarketcap.com/currencies/nav-coin/#markets"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
-newTab="true"
+newTab="подлинный"
 >}}
 {{< item_container_section
-    titleText="Exchanges"
-    subtitleText="NavCoin is available at the following&nbsp;exchanges"
+    titleText="Биржи"
+    subtitleText="NavCoin доступен на следующих&nbsp;биржах"
 >}}
     {{< exchange
         titleText="Poloniex"
@@ -46,13 +46,13 @@ newTab="true"
      {{< exchange
           titleText="Changelly"
           imgSrc="/images/buy-navcoin/buy-changelly.png"
-          text="Instant Exchange"
+          text="Мгновенный обмен"
           linkUrl="https://changelly.com/"
       >}}
       {{< exchange
            titleText="Litebit"
            imgSrc="/images/buy-navcoin/buy-litebit.png"
-           text="Euro Direct Purchase"
+           text="Прямая покупка Евро"
            linkUrl="https://www.litebit.eu/en/buy/navcoin"
        >}}
     {{< exchange
@@ -64,55 +64,55 @@ newTab="true"
     {{< exchange
          titleText="Easy Crypto"
          imgSrc="/images/buy-navcoin/buy-easy-crypto.png"
-         text="NZD Direct Purchase"
+         text="Прямая покупка NZD"
          linkUrl="https://www.easycrypto.nz/"
      >}}
     {{< exchange
          titleText="BitPrime"
          imgSrc="/images/buy-navcoin/buy-bitprime.png"
-         text="NZD Direct Buy/Sell"
+         text="Прямая покупка/продажа NZD"
          linkUrl="https://www.bitprime.co.nz/product/navcoin-nav"
      >}}
     {{< exchange
         titleText="Cfinex"
         imgSrc="/images/buy-navcoin/buy-cfinex.png"
-        text="Multi Exchange Platform"
+        text="Мультивалютная биржа"
         linkUrl="https://cfinex.com/#NAV-BTC"
     >}}
    {{< exchange
         titleText="Bisq"
         imgSrc="/images/buy-navcoin/buy-bisq.png"
-        text="Decentralised Exchange"
+        text="Децентрализованная биржа"
         linkUrl="https://bitsquare.io/"
     >}}
    {{< exchange
         titleText="Best Rate"
         imgSrc="/images/buy-navcoin/buy-bestrate.png"
-        text="Instant Exchange"
+        text="Мгновенный обмен"
         linkUrl="https://bestrate.org/"
     >}}
    {{< exchange
         titleText="Godex"
         imgSrc="/images/buy-navcoin/buy-godex.png"
-        text="Decentralised Exchange"
+        text="Децентрализованная биржа"
         linkUrl="https://godex.io/"
     >}}
    {{< exchange
         titleText="Change Now"
         imgSrc="/images/buy-navcoin/buy-changenow.png"
-        text="Instant Exchange"
+        text="Мгновенный обмен"
         linkUrl="https://changenow.io/"
     >}}
    {{< exchange
         titleText="Coindirect"
         imgSrc="/images/buy-navcoin/buy-coindirect.png"
-        text="Direct Purchase"
+        text="Прямая покупка"
         linkUrl="https://www.coindirect.com/buy/navcoin"
     >}}
    {{< exchange
         titleText="Crex24"
         imgSrc="/images/buy-navcoin/buy-crex-24.png"
-        text="Multi Exchange Platform"
+        text="Мультивалютная биржа"
         linkUrl="https://crex24.com/exchange/NAV-BTC"
     >}}
    {{< exchange
@@ -130,8 +130,8 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< center_text_cta
-    titleText="Spend Your NavCoin"
-    buttonText="Check out the stores"
+    titleText="Тратьте свои NavCoin"
+    buttonText="Ознакомьтесь со списком магазинов"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/merchants"
-    innerText="A number of businesses have already begun to integrate NavCoin as a payment option, and with them you can easily purchase a range of products and&nbsp;services.">}}
+    buttonLink="/продавцы"
+    innerText="Некоторые предприятия уже начали интегрировать NavCoin в качестве способа оплаты, и с их помощью вы можете легко приобрести ряд продуктов и&nbsp;услуг.">}}
