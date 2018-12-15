@@ -1,5 +1,5 @@
 ---
-title: "For Business"
+title: "Для бизнеса"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
@@ -7,63 +7,63 @@ author: ""
 description: ""
 ---
 {{< hero_section
-titleText="NavCoin For Business"
-paragraphText="Is your business ‘future ready?’ More and more people are looking for ways to pay using their digital currency. If you want to stay ahead of the trend, now’s the time to start accepting it at your store and online. NavCoin has the right payment solution for your&nbsp;business."
+titleText="NavCoin для бизнеса"
+paragraphText="Готов ли ваш бизнес к будущему? Все больше и больше людей ищут способы оплачивать своей цифровой валютой. Если вы хотите идти в ногу со временем, сейчас самое время начать принимать криптовалюту в своем магазине и онлайн. У NavCoin есть подходящее платежное решение для вашего&nbsp;бизнеса."
 imgSrc="/images/for-business/bus-hero.svg"
 >}}
 
 {{< item_container_section 
-    titleText="Why NavCoin Is Good For&nbsp;Business"
+    titleText="Почему NavCoin хорош для&nbsp;бизнеса"
     subtitleText=""
 >}}
     {{< feature 
-        titleText="Fast payments"
+        titleText="Быстрые платежи"
         imgSrc="/images/for-business/bus-fast-payment.svg"
-        text="Transactions show up in as little as five seconds, and confirmed in thirty&nbsp;seconds."
+        text="Транзакции отображаются всего за пять секунд и подтверждаются в течение тридцати&nbsp;секунд."
     >}}
     {{< feature 
-        titleText="Secure"
+        titleText="Безопасно"
         imgSrc="/images/for-business/bus-secure.svg"
-        text="Payment records permanently stored on a decentralized network, with 24/7&nbsp;access."
+        text="Платежные записи постоянно хранятся в децентрализованной сети с круглосуточным&nbsp;доступом."
     >}}
     {{< feature                 
-        titleText="Simple"
+        titleText="Просто"
         imgSrc="/images/for-business/bus-simple.svg"
-        text="Payment is easy as scanning a QR code. Funds automatically transfer to your NavCoin&nbsp;wallet."
+        text="Процесс оплаты прост, как сканирование QR-кода. Средства автоматически переводятся на ваш кошелек&nbsp;NavCoin."
     >}}
     {{< feature                 
-        titleText="Low fees"
+        titleText="Низкая комиссия"
         imgSrc="/images/for-business/bus-low-fee.svg"
-        text="NavCoin is one of world's cheapest payment networks in the world, with fees typically under one&nbsp;percent."
+        text="NavCoin является одной из самых дешевых платежных сетей в мире. Комиссия обычно составляет менее одного&nbsp;процента."
     >}}
     {{< feature                 
-        titleText="Eco-friendly"
+        titleText="Экологично"
         imgSrc="/images/for-business/bus-eco.svg"
-        text="Join a payment network that consumes only a fraction of the energy of other&nbsp;networks."
+        text="Присоединяйтесь к платежной сети, которая потребляет лишь часть энергии других&nbsp;сетей."
     >}}
     {{< feature                 
-        titleText="Flexibility"
+        titleText="Гибкость"
         imgSrc="/images/for-business/bus-flex.svg"
-        text="A range of payment options to suit your business requirements, with even more in&nbsp;development."
+        text="Диапазон вариантов оплаты для соответствия вашим бизнес-требованиям. Еще больше в&nbsp;разработке."
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
-  titleText="Accept Payments In Person"
+  titleText="Принимайте платежи лично"
   imgSrc="/images/for-business/bus-for-store.svg"
-  buttonText="Visit NavPay"
+  buttonText="Посетите NavPay"
   buttonUrl="https://navhub.org/projects/nav-pay/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. With no blockchain to download, it's an easy way to get&nbsp;started.
+NavPay - это простая версия кошелька, которая совместима с вашим смартфоном или настольным компьютером. Клиенты просто сканируют ваш QR-код, и их средства практически мгновенно переводятся на ваш кошелек. Без необходимости загружать блокчейн это является простым способом начать&nbsp;работу.
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="Accept Online Payments"
+titleText="Принимать онлайн-платежи"
 imgSrc="/images/for-business/bus-for-bus.svg"
-buttonText="Visit CoinPayments"
+buttonText="Посетите CoinPayments"
 buttonUrl="https://www.coinpayments.net/"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
