@@ -1,15 +1,15 @@
 ---
-title: "Community Fund"
+title: "Фонд Сообщества"
 date: 2018-03-20T07:41:22+13:01
 draft: false
 type: "default"
-description: "The NavCoin community fund is a pool of NAV that's set aside to help kickstart community projects and  incentivise the ongoing development of NavCoin."
+description: "Фонд Сообщества NavCoin - это пул NAV, который предназначен для помощи в запуске проектов сообщества и для стимулирования постоянного развития NavCoin."
 ---
 <section class="cf-hero">
     <div class="grid-container">
         <div class="text-container">
             <h1 style="font-weight: 600; margin-bottom:35px;">Community Fund</h1>
-            <p>NavCoin is built by the community, for the community. Being an open-source project that ran no premine or ICO - NavCoin’s Community Fund enables anyone to get paid by the network for their contribution to the ecosystem. </p>
+            <p>NavCoin создан сообществом и для сообщества. Являясь проектом с открытым исходным кодом, у которого не было предварительно премайна или ICO, Фонд Сообщества NavCoin позволяет любому участнику сообщества заработать за его вклад в экосистему с помощью сети.</p>
         </div>
         <img src="/images/community-fund/cfu-hero.png" alt="Hero image">
     </div>
@@ -18,38 +18,38 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
 
 
 {{< item_container_section
-    titleText="The Worlds Most Advanced Community&nbsp;Fund"
-    subtitleText="Projects are funded and approved by the decentralized network with no central authority. This ensures NavCoin’s direction remains firmly in the best interest of the entire network. This fund pays you to take your idea, nurture it, and build a team to bring it to&nbsp;life."
+    titleText="Самый передовой Фонд Сообщества в&nbsp;мире"
+    subtitleText="Проекты финансируются и утверждаются децентрализованной сетью, без участия центральной власти. Это гарантирует, что направление NavCoin неизменно остается в наилучших интересах всей сети. Этот фонд платит вам за то, чтобы вы создали свою идею, развили ее и создали под нее команду, которая воплотила бы вашу идею в&nbsp;жизнь."
     >}}
     {{< feature
-        titleText="Dual-vote consensus"
+        titleText="Консенсус двойного голосования"
         imgSrc="/images/community-fund/cfu-dual-vote.svg"
-        text="The first community fund to implement a dual vote, to ensure that if work is never completed the funds are&nbsp;returned."
+        text="Первый фонд сообщества, который внедрил двойное голосование, которое гарантирует, что в случае, если работа так и не будет завершена, средства будут возвращены в&nbsp;фонд."
     >}}
     {{< feature
-        titleText="Open to anyone"
+        titleText="Открыт для всех"
         imgSrc="/images/community-fund/cfu-anyone.svg"
-        text="Anyone and everyone can get involved by submitting a proposal - leaving it to the network to decide what's most&nbsp;valuable."
+        text="Любой пользователь может принять участие, подав свое предложение. Сообщество само решит, какое предложение является наиболее&nbsp;полезным."
     >}}
     {{< feature                 
-        titleText="No centralised fund"
+        titleText="Нет централизованного фонда"
         imgSrc="/images/community-fund/cfu-decentralised-fund.svg"
-        text="No one owns the NAV in the Community Fund, the only way they can ever be spent is by the dual network consensus&nbsp;vote."
+        text="Никто не владеет монетами NAV в Фонде Сообщества. Единственный способ, при котором они когда-либо могут быть потрачены, является процедура голосования через двойной сетевой&nbsp;консенсус."
     >}}
     {{< feature                 
-        titleText="500,000 NAV per year"
+        titleText="500 000 NAV в год"
         imgSrc="/images/community-fund/cfu-fund-per-year.svg"
-        text="Every block that gets minted generates 0.5 NAV into the community fund which accumulates over&nbsp;time."
+        text="Каждый добываемый блок генерирует 0,5 NAV в фонд сообщества, который с течением времени&nbsp;накапливается."
     >}}
     {{< feature                 
-        titleText="Different ways to get paid"
+        titleText="Различные способы получить оплату"
         imgSrc="/images/community-fund/cfu-get-paid.svg"
-        text="Funds get released through a second vote - which can be paid out in stages or once the work is&nbsp;completed."
+        text="Средства освобождаются через повторное голосование, которое может выплачиваться поэтапно или после завершения&nbsp;работы."
     >}}
     {{< feature                 
-        titleText="The network decides"
+        titleText="Решает сеть"
         imgSrc="/images/community-fund/cfu-network.svg"
-        text="The community fund gives more power to the community - by funding people to get involved, and giving the network more of a voice about the direction of&nbsp;NavCoin."
+        text="Фонд сообщества дает больше власти сообществу с помощью которого, они могут финансировать людей, принимающих участие в развитии. Также фонд дает сети более широкие права в направлении&nbsp;NavCoin."
     >}}
 {{< /item_container_section >}}
 
