@@ -54,65 +54,65 @@ newTab="true"
     {{< merchant
         titleText="Магазин товаров HODL"
         imgSrc="/images/merchants/mer-hodl.png"
-        text="The home of crypto merchants with range of NavCoin clothing and&nbsp;accessories."
+        text="Дом для криптоторговцев торгующих одеждой и аксессуарами&nbsp;NavCoin."
         linkUrl="https://alwayshodl.com/pages/official-nav-collection"
     >}}
     {{< merchant
         titleText="DrApis"
         imgSrc="/images/merchants/mer-dr-apis.png"
-        text="Raw honey by Portuguese bees. Straight from the hive: pure, unheated, &nbsp;unpasteurized."
+        text="Сырой мед, сделанный португальскими пчелами. Прямо из улья - чистый, не нагретый,&nbsp;непастеризованный."
         linkUrl="https://drapis.com/"
     >}}
     {{< merchant
         titleText="Lurento"
         imgSrc="/images/merchants/mer-lurento.png"
-        text="Luxury & sports car rental services, available in Europe and&nbsp;UAE."
+        text="Прокат роскошных и спортивных автомобилей, доступных в Европе и&nbsp;ОАЭ."
         linkUrl="https://lurento.com/"
     >}}
     {{< merchant
         titleText="SocialTrades"
         imgSrc="/images/merchants/mer-social-trades.png"
-        text="A Social Media Management service with 100,000 trusted customers&nbsp;worldwide."
+        text="Сервис по управлению социальными сетями с 100 000 доверенными клиентами по всему&nbsp;миру."
         linkUrl="https://www.socialtrades.xyz/"
     >}}
     {{< merchant
         titleText="1Gbits"
         imgSrc="/images/merchants/mer-1gbits.png"
-        text="More than 20 world class server centers in more than 15 different&nbsp;countries."
+        text="Более 20 сервисных центров мирового класса в более чем 15&nbsp;странах."
         linkUrl="https://1gbits.com/"
     >}}
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="Accepting NavCoin is easy!"
-    subtitleText="NavCoin has the right payment solution for your&nbsp;business."
+    titleText="Принимать NavCoin просто!"
+    subtitleText="У NavCoin есть подходящее платежное решение для вашего&nbsp;бизнеса."
     bgPurple="true"
     buttonUrl="/for-business/"
-    buttonText="More Info"
+    buttonText="Подробнее"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
     {{< action
-        titleText="For your store"
+        titleText="Для вашего магазина"
         imgSrc="/images/merchants/mer-for-store.svg"
-        subtext="Use NavPay wallet on your smartphone. Customers just scan your QR code and transfer the fund&nbsp;instantly"
-        linkText="Visit NavPay"
+        subtext="Используйте кошелек NavPay на вашем смартфоне. Клиенты просто сканируют ваш QR-код и мгновенно переводят&nbsp;средства"
+        linkText="Посетите NavPay"
         linkUrl="https://navhub.org/projects/nav-pay/"
         linkImgSrc="/images/icons/rightward-arrow.svg"
 
     >}}
     {{< action
-        titleText="For your online business"
+        titleText="Для вашего интернет-бизнеса"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="Integrated NavCoin payment gateway, offering plugins for all the popular webcarts like shopify and&nbsp;woocommence."
-        linkText="Visit CoinPayments"
+        subtext="Интегрированный платежный шлюз NavCoin, предлагающий плагины для всех популярных веб-карт, таких как shopify и&nbsp;woocommence."
+        linkText="Посетите CoinPayments"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"
     >}}
     {{< action                 
-        titleText="For personal projects"
+        titleText="Для личных проектов"
         imgSrc="/images/merchants/mer-for-blog.svg"
-        subtext="Integrating Nav Buttons for quick payments is an easy to implement option that suits individuals or side&nbsp;businesses."
-        linkText="View buttons here"
+        subtext="Интеграция кнопок Nav для осуществления быстрых платежей является простым в реализации вариантом, который подходит для частных лиц или сторонних&nbsp;предприятий."
+        linkText="Посмотреть кнопки здесь"
         linkUrl="https://brianium.github.io/nav-button/"
         linkImgSrc="/images/icons/rightward-arrow.svg"
     >}}
