@@ -1,40 +1,39 @@
 ---
 layout: notices
-title: NavCoin Core 4.2.0 Release Candidate
+title: Предварительная версия NavCoin Core 4.2.0
 author: Craig MacGregor
 date: '2018-05-27T12:46:15+12:00'
 feature_image: /images/uploads/4.2.0-rc-hero.png
 notice_categories:
   - Release Candidates
 ---
-The NavCoin Core developers have enacted a policy to create a release candidate and publicly notify all interested parties of any important updates prior to merging the changes into the master branch. This release schedule will be formalised into a process document to be published on the NavCoin.org website in the near future as reference.
+Разработчики NavCoin Core ввели установку для создания релиз-кандидата (предварительная версия) и публичного уведомления всех заинтересованных сторон о любых важных обновлениях до объединения изменений в основную ветку. Этот план релиза будет оформлен в виде процессуального документа, который, в ближайшем будущем, будет опубликован на веб-сайте NavCoin.org.
 <!--more-->
-There are two reasons for this update:
+Существуют две причины для этого обновления:
 
-## 1. To begin accumulating NAV in the NavCoin Community Fund.
+## 1. Для начала аккумулирования криптовалюты NAV в фонд сообщества NavCoin.
 
-The Community Fund was endorsed by the NavCoin network early in 2018. NavCoin Core 4.2.0 is the first step in enabling the Community Fund. It contains a soft fork to reduce the staking rewards from 5% to 4%, with 0.25 NAV per block being accumulated to the Community Fund. The Community Fund proposal system is live on the testnet, but there is still more unit tests and network testing to do before the proposal system itself is launched on the mainnet. When the fund is live you’ll be able to vote on and submit proposals to the network to apply for project funding. More information on the proposal process will be available on NavCoin.org as its release approaches.
+Фонд Сообщества был одобрен сетью NavCoin в начале 2018-го года. NavCoin Core 4.2.0 является первым шагом к созданию благоприятных условий для функционирования Фонда Сообщества. Он содержит софтфорк для уменьшения вознаграждения за стекинг с 5% до 4%, при этом 0,25 NAV за блок будут направлены в накопительный счет Фонда Сообщества. Система предложений Фонда Сообщества уже работает в тестовой сети, но еще предстоит пройти отдельные тесты и тестирование сети, прежде чем сама система предложений будет запущена уже в основной сети. Когда фонд начнет работать, вы сможете голосовать и подавать предложения в сеть для получения финансирования. Более подробная информация о процессе подачи предложений будет доступна на NavCoin.org по мере приближения данного релиза
+## 2. Для исправления ошибки синхронизации часов.
 
-## 2. To fix the Clock Sync bug.
+В блокчейне NavCoin периодически возникали сложности и проблемы с интервалами между блоками. NavCoin Core 4.2.0 содержит софтфорк, который решит данную проблему, запретив блокам уходить слишком далеко в будущее или прошлое и сбрасывая соединения с пользователями без синхронизации системных часов. Системные часы пользователей для подтверждения их корректной работы теперь будут проверяться на глобальных NTP-серверах. Если ваши часы некорректны, вы получите сообщение для их настройки. В противном случае вы будете отключены от сети до тех пор, пока они не будут синхронизированы должным образом.
 
-The NavCoin blockchain has been seeing some intermittent difficulty and block spacing issues. NavCoin Core 4.2.0 contains a soft fork to fix this problem by disallowing blocks too far in the future or past and dropping connections to users with out of sync system clocks. The users system clock is now checked against global NTP servers to confirm it’s correct. If your clock is wrong you’ll get a message to adjust it, otherwise you’ll be bumped off the network until it’s properly synced.
-
-Reviewing the NavCoin Core 4.2.0 release candidate The pull request (PR) into the master branch can be viewed here:
+Обзор запроса на добавление (The pull request) релиз-кандидата NavCoin Core 4.2.0 в основную ветку можно посмотреть здесь:
 
 <https://github.com/NAVCoin/navcoin-core/pull/209>
 
-There is a release candidate available for testing here:
+Релиз-кандидат для тестирования доступен здесь:
 
 <https://build.nav.community/v4.2.0-rc>
 
-Any comments or suggestions should be made directly on the PR on GitHub so we are able to track and respond to any queries.
+Любые комментарии или предложения следует направлять непосредственно в PR (The pull request) на GitHub, чтобы мы могли отслеживать и отвечать на любые запросы.
 
-## What happens next?
+## Что будет далее?
 
-We are hoping to release version 4.2.0 within the next week if there are no well founded objections to the update. When the new version is released, the way to signal your support for the consensus change is to simply update to version 4.2.0.
+Если не будет никаких обоснованных возражений против этого обновления, в течение следующей недели мы надеемся выпустить версию 4.2.0. Когда выйдет новая версия, вы можете поддержать изменения консенсуса путем простого обновления до версии 4.2.0.
 
-The consensus changes are released in a dormant state inside version 4.2.0. When 75% of the blocks in a 20160 block period are signalling support for the consensus changes, the change will be locked in for activation at the end of the next block period.
+Консенсусные изменения выпущены в спящем режиме внутри версии 4.2.0. Как только 75% блоков в периоде блока 20160 будут сигнализировать о поддержке консенсусных изменений, то изменение сразу же будет заблокировано для активации в конце следующего периода блока.
 
-At the time of activation, you may lose connectivity to the network if you have not updated. So please keep an eye out for the soft fork lock in and update during the grace period if you haven’t already.
+Во время активации вы можете потерять связь с сетью, если вы не обновили до последней версии. Поэтому, пожалуйста, следите за блокировкой софтфорка и обновите его в течение грейс-периода, если вы этого еще не сделали.
 
-More information on how to monitor the soft fork signalling process and keep up to date with the Community Fund proposal system release will be published as it is available.
+Более подробная информация о мониторинге за процессом сигнализации софтфорка и как быть в курсе релиза системы предложений Фонда Сообщества, будет публиковаться по мере ее поступления.
