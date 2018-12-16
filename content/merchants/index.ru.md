@@ -1,15 +1,15 @@
 ---
-title: "Merchants"
+title: "Торговцы"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
-description: "Anyone can accept NavCoin on their website or in-store to receive instant global payments with low fees."
+description: "Любой может принимать NavCoin на своем веб-сайте или в магазине, чтобы получать мгновенные, международные платежи с низкой комиссией.."
 ---
 {{< hero_section
 titleText="Merchants"
-paragraphText="Anyone can accept NavCoin on their website or in-store to receive instant global payments with low&nbsp;fees. This page is not an exhaustive list, there is no registration required to accept NavCoin. If you accept NavCoin and want your store listed here, please create a pull request or open an issue on GitHub."
+paragraphText="Любой может принимать NavCoin на своем веб-сайте или в магазине, чтобы получать мгновенные, международные платежи с низкой&nbsp;комиссией. Эта страница не является исчерпывающим списком, и для принятия NavCoin регистрация не требуется. Если вы принимаете NavCoin и хотите, чтобы ваш магазин был здесь указан, пожалуйста, создайте запрос на добавление или откройте запрос на GitHub."
 imgSrc="/images/merchants/mer-hero.svg"
-buttonText="Add your store"
+buttonText="Добавить свой магазин"
 buttonLink="https://github.com/NAVCoin/navcoin-org/issues/new"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 newTab="true"
@@ -17,42 +17,42 @@ newTab="true"
 
 
 {{< item_container_section
-    titleText="Stores"
-    subtitleText="A selection of merchants & services that allow you to spend your&nbsp;NavCoin"
+    titleText="Магазины"
+    subtitleText="Список торговцев и сервисов, которые позволяют вам тратить ваши&nbsp;NavCoin"
 >}}
     {{< merchant
         titleText="CoinPayments"
         imgSrc="/images/merchants/mer-coinpayment.png"
-        text="Over 70 merchants accept NAV using the CoinPayments merchant&nbsp;gateway."
+        text="Более 70 продавцов принимают NAV с помощью торгового шлюза&nbsp;CoinPayments."
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}}
 
     {{< merchant
-        titleText="NavPi Store"
+        titleText="Магазин NavPi"
         imgSrc="/images/merchants/mer-navpi.png"
-        text="Purchase a NavPi with NavCoin to stake your NAV easily 24 hours a&nbsp;day."
+        text="Покупайте NavPi с NavCoin, чтобы легко заниматься стекингом NAV, 24 часа в&nbsp;сутки."
         linkUrl="https://navpi.navcoinstore.com/product/navpi-stakebox/"
     >}}
      {{< merchant
-        titleText="NavCoin Merch Store"
+        titleText="Магазин товаров NavCoin"
         imgSrc="/images/merchants/mer-nav.png"
-        text="Wear NavCoin with pride with this range of branded&nbsp;merchandise."
+        text="С гордстью носите NavCoin выбрав что-то из этого ассортимента фирменных&nbsp;товаров."
         linkUrl="https://navcoinstore.com/"
     >}}
     {{< merchant
         titleText="BitcoinGallery.Art"
         imgSrc="/images/merchants/mer-bitcoingallery.png"
-        text="Art and crypto collide in unique handmade sculptures of your favourite&nbsp;coin."
+        text="Искусство и криптовалюта сталкиваются в уникальных скульптурах ручной работы вашей любимой&nbsp;монеты."
         linkUrl="http://www.sigmasixdesign.com/bitcoingallery-store#!/The-Simplifier-NAV/p/102127036/category=28247023"
     >}}
     {{< merchant
-        titleText="Mile High Ambulance"
+        titleText="Скорая помощь Mile High"
         imgSrc="/images/merchants/mer-mile-high.png"
-        text="Full service ambulance company which accepts NavCoin for bill&nbsp;payments."
+        text="Скорая помощь, которая принимает NavCoin для оплаты&nbsp;счетов."
         linkUrl="https://milehighambulance.com/now-accepting-navcoin"
     >}}
     {{< merchant
-        titleText="HODL Merch Store "
+        titleText="Магазин товаров HODL"
         imgSrc="/images/merchants/mer-hodl.png"
         text="The home of crypto merchants with range of NavCoin clothing and&nbsp;accessories."
         linkUrl="https://alwayshodl.com/pages/official-nav-collection"
