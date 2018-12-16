@@ -2,9 +2,9 @@
 layout: roadmap
 title: Increase Community Fund
 author: Craig MacGregor
-date: '2018-06-06T17:07:30+12:00'
+date: '2018-06-01'
 feature_image: /images/uploads/navpi-patch.jpg
-status: in-progress
+status: completed
 externalUrl: https://medium.com/@craig.b.macgregor/next-steps-for-navcoin-core-e7fa9541dca9
 ---
 

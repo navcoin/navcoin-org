@@ -25,7 +25,7 @@
 </div>
 
   <section>
-    <div class="roadmap-grid-container">
+    <div class="roadmap-grid-container" style="max-width: 1190px;">
       <div class="roadmap-session up-coming">
         <img src="/images/roadmap/map-up-coming.svg"/>
         <h3>Upcoming</h3>
@@ -34,7 +34,7 @@
         {{ end }}
       </div>
 
-      <div class="roadmap-session in-progress">
+      <!-- <div class="roadmap-session in-progress">
         <img src="/images/roadmap/map-in-progress.svg"/>
         <h3>In Progress</h3>
         {{ range where .Site.Pages "Params.status" "in-progress" }}
@@ -48,7 +48,7 @@
         {{ range where .Site.Pages "Params.status" "testing" }}
           {{ partial "roadmap_item.html" . }}
         {{ end }}
-      </div>
+      </div> -->
 
       <div class="roadmap-session complete">
         <img src="/images/roadmap/map-completed.svg"/>
@@ -72,3 +72,4 @@
 
 </body>
 </html>
+
