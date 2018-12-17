@@ -14,7 +14,7 @@ Currently if a node reindexes their chainstate db, the node will recalculate the
 
 The issue has been successfully patched and the unit tests have been updated to confirm the issue is resolved.
 
-NavCoin Core 4.5.1 contains a hard fork which explicitly rejects blocks from obsolete versions (4.5.0 and below) signalled by version bit 20. Upgrading to 4.5.1 will avoid the potential fork issue and ensure you remain on the same blockchain as the rest of the network.
+4.5.1 contains a hard fork which explicitly rejects blocks from obsolete versions (4.5.0 and below) signalled by version bit 20. Upgrading to 4.5.1 will avoid a potential network fork and ensure you remain on the same blockchain as the rest of the network.
 
 ### Update to 4.5.1 before Friday 21 December
 
