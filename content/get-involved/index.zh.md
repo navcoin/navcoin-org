@@ -1,126 +1,126 @@
 ---
-title: "Contribute to the Protocol"
+title: "为协议做贡献"
 date: 2018-03-20T07:41:22+13:00
-draft: false
-type: "default"
-description: "There are several ways to contribute to the NavCoin protocol - so if you’d like to support the project, here’s some of the best ways to get involved"
+draft:错误的
+type: "默认值"
+description: "有几种方法可以为NavCoin协议做出贡献——所以如果你想支持这个项目，这里有一些最好的方法"
 ---
 {{< hero_section
-titleText="Get Involved"
-paragraphText="There are several ways to contribute to the NavCoin protocol, not all of which require a high level of programming skills. If you’d like to support the NavCoin project, here’s some of the best ways to get&nbsp;involved."
+titleText="参与其中"
+paragraphText="以下是几种有助于NavCoin协议的方法，并非所有方法都需要高水平的编程技能。如果你想支持NavCoin项目，这里有一些最好的&nbsp;方法。"
 imgSrc="/images/get-involved/con-hero.svg"
 >}}
 {{< zig_section
-titleText="Translations"
+titleText="翻译"
 imgSrc="/images/get-involved/con-translate.svg"
-  buttonText="Set up a Transifex account"
+  buttonText="建立一个Transifex账户"
   buttonUrl="https://www.transifex.com/signup/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
-    reversed="true"
-    newTab="true"
+    reversed="正确的"
+    newTab="正确的"
 >}}
-NavCoin Core has been translated into over two dozen languages, with dozens more languages partially translated — but more help is always needed. NavCoin uses Transifex for translation, so you’ll need to setup an&nbsp;account.<br><br>To contribute a translation, go to the NavCoin project on Transifex: <br><a href="https://www.transifex.com/navcoin/navcoin-core" style="text-decoration:underline;">https://www.transifex.com/navcoin/navcoin-core</a><br><br>Click on the 'Join Team' button, let us know which languages you’re able to translate, and start&nbsp;translating!
+NavCoin Core已经被翻译成二十多种语言，还有几十种语言是部分翻译的，但是总是需要更多的帮助。NavCoin使用Transifex进行翻译，所以你需要建立一个账户。<br><br>要投稿翻译，请到Transifex上的NavCoin项目&nbsp;:<br><a href="https://www.transifex.com/navcoin/navcoin-core" style="text-decoration:underline";
 {{< /zig_section>}}
 
 {{< zig_section
   titleText="Documentation"
   imgSrc="/images/get-involved/con-doc.svg"
-  buttonText="Contribute to developer docs"
+  buttonText="贡献给开发人员文档"
   buttonUrl="https://github.com/NAVCoin/navcoin-dev-docs"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="true"
-  newTab="true"
+  bgPurple="正确的"
+  newTab="正确的"
 >}}
-We are currently working to bring online an open source developer documentation resource for NavCoin Core. If you want to help get this up and running please head over to GitHub and see how you can help out. Just make sure you follow the GitHub conventions outlined on this page and submit an issue about what documentation you’re writing to reduce duplication of&nbsp;effort.
+我们目前正致力于为NavCoin Core提供一个开源的开发者文档资源。如果您想要帮助启动并运行这个程序，请前往GitHub，看看您如何提供帮助。只要确保您遵循本页概述的GitHub约定，并提交关于您正在编写哪些文档以减少重复工作的&nbsp;问题。
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="Submit an issue"
+titleText="提交问题"
 imgSrc="/images/get-involved/con-issue.svg"
-buttonText="Submit an issue"
+buttonText="提交一个问题"
 buttonUrl="https://github.com/NAVCoin/navcoin-core/issues"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
-reversed="true"
-newTab="true"
+reversed="正确的"
+newTab="正确的"
 >}}
-For all non-critical problems with NavCoin Core please search for similar issues and if you don’t find any, submit a new issue providing the information&nbsp;below.
+对于NavCoin Core的所有非关键问题，请搜索类似的问题，如果没有发现，请提交一个新问题，提供以下&nbsp;信息。
 <br>
 <ul class="article-ul" style="color: rgba(0, 0, 0, 0.55);">
-  <li>A clear description of the problem and steps to reproduce the&nbsp;problem.</li>
-  <li>What version of NavCoin Core you use or what commit you built using.</li><li>Any relevant entries from your debug.log file. Please ensure to strip out any sensitive information before publishing your debug.log&nbsp;entries.</li>
+  <li>对问题的清晰描述以及重现问题的&nbsp;步骤。</li>
+  <li>您使用的是什么版本的NavCoin Core，或者您使用什么提交构建的.</li><li>从您的debug.log 文件中来的任何相关条目。请确保在发布您的debug.log之前已经删除任何敏感 &nbsp;信息。</li>
 </ul>
-<p class="paragraph-text">The best strategy to get your issue fixed quickly is to make it as easy as possible for the development team to track down the problem and write a fix. Providing more information and organizing it well helps&nbsp;significantly.</p>
+<p class="paragraph-text">The best strategy to get your issue fixed quickly is to make it as easy as possible for the development team to 跟踪问题并编写修复程序。提供更多的信息并组织好这些信息将大有&nbsp;帮助。</p>
 {{< /zig_section>}}
 
 {{< zig_section
-  titleText="Resolve an issue"
+  titleText="解决一个问题"
   imgSrc="/images/get-involved/con-resolve.svg"
-  buttonText="See the readme"
+  buttonText="查看自述文件"
   buttonUrl="https://github.com/navcoin/navcoin-core/blob/master/CONTRIBUTING.md"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="true"
-  newTab="true"
+  bgPurple="正确的"
+  newTab="正确的"
 >}}
-The issue tracker is the best place to find a useful way to contribute to NavCoin&nbsp;Core. Before starting to write any patches for issues you find, you may want to comment on the issue to make sure nobody else is already working on it. Remember that even if you’re resolving an issue you’ve found you will need to first create an issue in the issue&nbsp;tracker.
+问题跟踪器是找到对navcoin&core有用的方法的最佳场所。在开始为您发现的问题编写补丁之前，您可能希望对这个问题进行评论，以确保没有其他人已经在处理它。请记住，即使您正在解决已经发现的问题，也需要首先在问题跟踪器中创建一个&nbsp;问题。
 <br><br>
-To resolve an issue follow this process:
+要解决问题，请遵循以下流程:
 <br>
 <ul class="article-ul" style="color: rgba(255,255,255,0.55);">
-  <li>Fork NavCoin/navcoin-core to your own GitHub&nbsp;account.</li>
-  <li>Create a branch to work in to resolve the issue then get to&nbsp;work.</li>
-  <li>Write or update unit and integration tests to cover any changes you’ve&nbsp;made.</li>
-  <li>Make a pull request from your branch back into the main NavCoin Core repository with the issue type and number in the title (eg. Trivial: fixes spelling mistake #145).</li>
-  <li>Talk with other NavCoin Core contributors on Discord or through GitHub to alert them to the pending Pull Request and they will review it as soon as&nbsp;possible.</li>
+  <li>建立NavCoin/ NavCoin -core到你自己的github&nbsp;账户。</li>
+  <li>创建一个分支来解决问题，然后开始&nbsp;工作。</li>
+  <li>编写或更新单元和集成测试，以覆盖您所做的任何&nbsp;更改。</li>
+  <li>从分支向主NavCoin核心存储库发出pull请求，标题中包含问题类型和&nbsp;编号(例如. 修正了145的拼写错误)。</li>
+  <li>与其他NavCoin核心贡献者讨论不一致的地方，或者通过GitHub提醒他们正在等待的Pull请求，他们会尽快审查&nbsp;它。</li>
 </ul>
-<p class="paragraph-text">For the full contribution workflow details, please see the readme on&nbsp;GitHub.</p>
+<p class="paragraph-text">有关完整贡献工作流程的详细信息，请参阅GitHub上的&nbsp;自述。</p>
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="Write tests"
+titleText="编写测试"
 imgSrc="/images/get-involved/con-test.svg"
-reversed="true"
-newTab="true"
+reversed="正确的"
+newTab="正确的"
 >}}
-NavCoin Core is covered by many tests, but patches that improve test coverage are always welcome and are a great way to build familiarity with the codebase.
+NavCoin Core包含了许多测试，但是改进测试覆盖率的补丁总是备受欢迎，并且是熟悉代码库的好方法。
 <br><br>
-Developers are strongly encouraged to write <a href="https://github.com/NAVCoin/navcoin-core/blob/master/doc/unit-tests.md" target="e" style="text-decoration:underline;">unit tests</a> for new code, and to submit new unit tests for old code. Unit tests can be compiled and run (assuming they weren't disabled in configure) with: make&nbsp;check.
+强烈建议开发人员编写 <a href="https://github.com/NAVCoin/navcoin-core/blob/master/doc/unit-tests.md" target="e" style="text-decoration:underline;">unit tests</a> for new code, 并为旧代码提交新的单元测试。单元测试可以编译并使用make check&nbsp;运行。 (假设在configure中没有禁用它们) 
 <br><br>
-There are also <a href="https://github.com/NAVCoin/navcoin-core/tree/master/qa" target="e" style="text-decoration:underline;">regression and integration tests</a>, written in Python, that are run automatically on the build&nbsp;server.
+还有 <a href="https://github.com/NAVCoin/navcoin-core/tree/master/qa" target="e" style="text-decoration:underline;">回归与集成测试</a>, 使用Python编写，在构建服务器上自动&nbsp;运行。
 {{< /zig_section>}}
 
 {{< zig_section
-  titleText="Review the code"
+  titleText="检查代码"
   imgSrc="/images/get-involved/con-bug.svg"
-    buttonText="Review pull requests"
+    buttonText="审查的请求"
   buttonUrl="https://github.com/navcoin/navcoin-core/pulls"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="true"
-  newTab="true"
+  bgPurple="正确的"
+  newTab="正确的"
 >}}
-NavCoin Core is security software that helps protect assets worth millions of dollars, so every code change needs to be reviewed by experienced&nbsp;developers.<br><br>It can take a long time for other developers to review your pull requests. Remember that all reviewers are taking time away from their own projects to review your pull requests, so be patient and respectful of their&nbsp;time.<br><br>Please also consider helping to review other people’s pull requests. You don’t need to be an expert in NavCoin, the NavCoin Core codebase, or C++ (although all these things help). There are almost always open pull requests that any programmer can&nbsp;review.
+NavCoin Core是一款安全软件，它可以帮助保护价值数百万美元的资产，因此每一个代码更改都需要由经验丰富的开发人员进行&nbsp;评审。<br><br>其他开发人员可能需要很长时间来审查您的pull请求。记住，所有的评审人员都是从他们自己的项目中抽出时间来评审您的pull请求的，所以要耐心和尊重他们的&nbsp;时间。<br><br>也请考虑帮助审查其他人的pull请求。你不需要成为NavCoin，NavCoin的核心代码库， 或者C++的专家， (尽管所有这些都有帮助)。T几乎所有程序员都可以查看open pull&nbsp;请求。
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="Suggest a protocol improvement"
+titleText="建议改进协议"
 imgSrc="/images/get-involved/con-npips.svg"
-buttonText="View NPIP's"
+buttonText="查看NPIP's"
 buttonUrl="https://github.com/NAVCoin/npips"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
-reversed="true"
-newTab="true"
+reversed="正确的"
+newTab="正确的"
 >}}
-NavCoin Core strives to continually improve the underlying protocol of NavCoin. Our aim is always to improve security, privacy and efficiency while encouraging decentralisation, uptake and usability. If you want to help us improve the NavCoin protocol, the best place to document your suggestion is on the NPIPs (NavCoin Protocol Improvement Proposals) GitHub&nbsp;repository.<br><br>People wishing to submit NPIPs, first should propose their idea or document to the NavCoin Core development community through Discord or IRC (irc.freenode.net #navcoin). After discussion, please open a PR to the NPIPs repository. After copy-editing and acceptance, it will be published&nbsp;there.<br><br>We are fairly liberal with approving NPIPs, and try not to be too involved in decision making on behalf of the community. The exception is in very rare cases of dispute resolution when a decision is contentious and cannot be agreed upon. In those cases, the conservative option will always be&nbsp;preferred.<br><br>Having a NPIP here does not make it a formally accepted standard until its status becomes Final or Active.<br><br>Those proposing changes should consider that ultimately consent may rest with the consensus of the NavCoin&nbsp;users.
+NavCoin Core致力于不断完善NavCoin的底层协议。我们的目标始终是提高安全性、隐私性和效率，同时鼓励去中心化、吸收和可用性。如果您希望帮助我们改进NavCoin协议，那么记录您的su问题的最佳位置是在NPIPs GitHub存储库&nbsp;上<br><br>希望提交NPIPs的人，首先应该通过Discord或IRC向NavCoin核心开发社区提出他们的想法或文档(irc.freenode.net #navcoin)。讨论之后，请向NPIPs存储库打开PR。经过编辑和验收，将在那里&nbsp;出版。<br><br>我们在批准核项目执行计划方面相当开明，尽量不代表社会过多地参与决策。只有在非常罕见的情况下，争议解决的决定是有争议的，不能达成一致意见。在这些情况下，保守的选择将永远是&nbsp;首选。<br><br>在这里有一个NPIP并不能使它成为正式接受的标准，直到它的状态变为Final或&nbsp;Active。<br><br>那些提议修改的人应该考虑到，最终的同意可能取决于NavCoin用户的一致&nbsp;意见。
 {{< /zig_section>}}
 
 {{< zig_section
-  titleText="Disclose a security vulnerability"
+  titleText="披露安全漏洞"
   imgSrc="/images/get-involved/con-disclosure.svg"
-  paragraphText="NavCoin is experimental technology and sometimes critical bugs are found. If you’re a researcher and you’ve found a security vulnerability head over to the Responsible Disclosure page to see how you can report&nbsp;it."
-    buttonText="Responsible disclosure"
+  paragraphText="NavCoin是一种实验性技术，有时会发现关键的bug。如果您是一名研究人员，并且您发现了一个安全漏洞，请访问“责任披露”页面，查看如何报告该&nbsp;漏洞."
+    buttonText="信息披露责任"
   buttonUrl="/responsible-disclosure/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="true"
-  newTab="true"
+  bgPurple="正确的"
+  newTab="正确的"
 >}}
 {{< /zig_section>}}
 
