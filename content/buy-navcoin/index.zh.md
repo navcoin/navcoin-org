@@ -17,7 +17,7 @@ newTab="正确的"
 >}}
 {{< item_container_section
     titleText="交易所"
-    subtitleText="NavCoin is available at the following&nbsp;exchanges"
+    subtitleText="NavCoin在以下的交易所中&nbsp;找到"
 >}}
     {{< exchange
         titleText="P网"
@@ -134,4 +134,4 @@ newTab="正确的"
     buttonText="去商店看看"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/商人"
-    innerText="许多企业已经开始将NavCoin集成作为一种支付选项，使用它，您可以轻松地购买一系列产品and&nbsp;services.">}}
+    innerText="许多企业已经开始将NavCoin集成作为一种支付选项，使用它，您可以轻松地购买一系列产品和&nbsp;服务。">}}
