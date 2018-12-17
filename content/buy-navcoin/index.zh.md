@@ -2,37 +2,37 @@
 title: "购买 NavCoin"
 date: 2018-03-20T08:09:08+13:00
 draft: 错误的
-type: "default"
+type: "默认值"
 author: ""
-description: "NavCoin is publicly mined and ran no token sale. The only way to buy NavCoin is to purchase it from a third party or exchange."
+description: "是公开开采的，没有代币销售。购买NavCoin的唯一方法是从第三方或交易所购买。"
 ---
 {{< hero_section
-titleText="Buy NavCoin"
+titleText="购买NavCoin"
 imgSrc="/images/buy-navcoin/buy-hero.svg"
-paragraphText="NavCoin is publicly mined and ran no token sale. The only way to get NAV is to purchase it from a third party or exchange. Exchanges provide highly varying degrees of safety, security, privacy, and control over your funds and information. Perform your own due diligence and choose a wallet where you will keep your NavCoin before selecting an exchange. Please follow the link to check exchange volumes for more&nbsp;information."
-buttonText="See market statistics"
+paragraphText="NavCoin是公开开采的，没有代币销售。获得资产净值的唯一方法是从第三方或交易所购买。交换提供了高度不同程度的安全性、安全性、隐私以及对您的资金和信息的控制。执行您自己的尽职调查，并选择一个钱包，您将保留您的NavCoin在选择一个交易所。请按此连结查阅兑换金额，以获取更多资讯。"
+buttonText="查看市场数据"
 buttonLink="https://coinmarketcap.com/currencies/nav-coin/#markets"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
-newTab="true"
+newTab="正确的"
 >}}
 {{< item_container_section
-    titleText="Exchanges"
+    titleText="交易所"
     subtitleText="NavCoin is available at the following&nbsp;exchanges"
 >}}
     {{< exchange
-        titleText="Poloniex"
+        titleText="P网"
         imgSrc="/images/buy-navcoin/buy-poloniex.png"
         text="BTC / NAV"
         linkUrl="https://poloniex.com/exchange#btc_nav"
     >}}
     {{< exchange
-        titleText="Bittrex"
+        titleText="B网"
         imgSrc="/images/buy-navcoin/buy-bittrex.png"
         text="BTC / NAV"
         linkUrl="https://bittrex.com/Market/Index?MarketName=BTC-NAV"
     >}}
     {{< exchange
-        titleText="Binance"
+        titleText="币安网"
         imgSrc="/images/buy-navcoin/buy-binance.png"
         text="BTC / NAV"
         linkUrl="https://www.binance.com/trade.html?symbol=NAV_BTC"
@@ -46,17 +46,17 @@ newTab="true"
      {{< exchange
           titleText="Changelly"
           imgSrc="/images/buy-navcoin/buy-changelly.png"
-          text="Instant Exchange"
+          text="即时交易"
           linkUrl="https://changelly.com/"
       >}}
       {{< exchange
-           titleText="Litebit"
+           titleText="莱特币"
            imgSrc="/images/buy-navcoin/buy-litebit.png"
-           text="Euro Direct Purchase"
+           text="欧元直接购买"
            linkUrl="https://www.litebit.eu/en/buy/navcoin"
        >}}
     {{< exchange
-        titleText="Cryptopia"
+        titleText="C网"
         imgSrc="/images/buy-navcoin/buy-crypopia.png"
         text="BTC, USD, NZD / NAV"
         linkUrl="https://www.cryptopia.co.nz/Exchange/?market=NAV_BTC"
@@ -64,55 +64,55 @@ newTab="true"
     {{< exchange
          titleText="Easy Crypto"
          imgSrc="/images/buy-navcoin/buy-easy-crypto.png"
-         text="NZD Direct Purchase"
+         text="NZD 直接购买"
          linkUrl="https://www.easycrypto.nz/"
      >}}
     {{< exchange
          titleText="BitPrime"
          imgSrc="/images/buy-navcoin/buy-bitprime.png"
-         text="NZD Direct Buy/Sell"
+         text="NZD 直接买／卖"
          linkUrl="https://www.bitprime.co.nz/product/navcoin-nav"
      >}}
     {{< exchange
         titleText="Cfinex"
         imgSrc="/images/buy-navcoin/buy-cfinex.png"
-        text="Multi Exchange Platform"
+        text="复合交易平台"
         linkUrl="https://cfinex.com/#NAV-BTC"
     >}}
    {{< exchange
         titleText="Bisq"
         imgSrc="/images/buy-navcoin/buy-bisq.png"
-        text="Decentralised Exchange"
+        text="去中心化交易所"
         linkUrl="https://bitsquare.io/"
     >}}
    {{< exchange
-        titleText="Best Rate"
+        titleText="最好的利率"
         imgSrc="/images/buy-navcoin/buy-bestrate.png"
-        text="Instant Exchange"
+        text="即时交易"
         linkUrl="https://bestrate.org/"
     >}}
    {{< exchange
         titleText="Godex"
         imgSrc="/images/buy-navcoin/buy-godex.png"
-        text="Decentralised Exchange"
+        text="去中心化交易所"
         linkUrl="https://godex.io/"
     >}}
    {{< exchange
-        titleText="Change Now"
+        titleText="现在交易"
         imgSrc="/images/buy-navcoin/buy-changenow.png"
-        text="Instant Exchange"
+        text="即时交易"
         linkUrl="https://changenow.io/"
     >}}
    {{< exchange
         titleText="Coindirect"
         imgSrc="/images/buy-navcoin/buy-coindirect.png"
-        text="Direct Purchase"
+        text="直接购买"
         linkUrl="https://www.coindirect.com/buy/navcoin"
     >}}
    {{< exchange
         titleText="Crex24"
         imgSrc="/images/buy-navcoin/buy-crex-24.png"
-        text="Multi Exchange Platform"
+        text="复合交易平台"
         linkUrl="https://crex24.com/exchange/NAV-BTC"
     >}}
    {{< exchange
@@ -130,8 +130,8 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< center_text_cta
-    titleText="Spend Your NavCoin"
-    buttonText="Check out the stores"
+    titleText="花费您的 NavCoin"
+    buttonText="去商店看看"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/merchants"
-    innerText="A number of businesses have already begun to integrate NavCoin as a payment option, and with them you can easily purchase a range of products and&nbsp;services.">}}
+    buttonLink="/商人"
+    innerText="许多企业已经开始将NavCoin集成作为一种支付选项，使用它，您可以轻松地购买一系列产品and&nbsp;services.">}}
