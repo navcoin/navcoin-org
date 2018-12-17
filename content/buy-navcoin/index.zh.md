@@ -1,7 +1,7 @@
 ---
-title: "Buy NavCoin"
+title: "购买 NavCoin"
 date: 2018-03-20T08:09:08+13:00
-draft: false
+draft: 错误的
 type: "default"
 author: ""
 description: "NavCoin is publicly mined and ran no token sale. The only way to buy NavCoin is to purchase it from a third party or exchange."
