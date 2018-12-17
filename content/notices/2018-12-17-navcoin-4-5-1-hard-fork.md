@@ -16,7 +16,7 @@ The issue has been successfully patched and the unit tests have been updated to 
 
 NavCoin Core 4.5.1 contains a hard fork which explicitly rejects blocks from obsolete versions (4.5.0 and below) signalled by version bit 20. Upgrading to 4.5.1 will avoid the potential fork issue and ensure you remain on the same blockchain as the rest of the network.
 
-#### Update to 4.5.1 before Friday 21 December at 00:00AM GMT.
+### Update to 4.5.1 before Friday 21 December at 00:00AM GMT.
 
 The hard fork is scheduled to occur at block 2722100 which is approximately Friday 21 December at 00:00AM GMT. All users and exchanges must upgrade to 4.5.1 before Friday 21 December 00:00AM GMT or they will risk forking from the network. All stakers must also upgrade or their blocks will be rejected by the rest of the network.
 
