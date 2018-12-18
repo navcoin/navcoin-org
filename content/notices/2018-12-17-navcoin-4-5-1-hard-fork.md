@@ -29,7 +29,7 @@ As an extra precaution we have recommended that exchanges disable deposits and w
 
 To read the full changelog please read the NavCoin Core GitHub release notes.
 
-<https://github.com/NAVCoin/navcoin-core/blob/4.5.0/doc/release-notes/release-notes-4.5.1.md>
+<https://github.com/NAVCoin/navcoin-core/blob/master/doc/release-notes/release-notes-4.5.1.md>
 
 You can download version 4.5.1 from the downloads section of navcoin.org or directly from the NavCoin Core GitHub release.
 
