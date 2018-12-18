@@ -75,7 +75,7 @@ NPIP004建议将静态块奖励设置为每个区块2NAV。
 
 用外行人的话来说，它会根据你的大小计算出你应该在什么时候得到奖励，而不是根据网络的其他部分，网络从20M NAV开始，每30秒增加2个NAV。输出如下:
 
-| Staker   | Balance Start | Balance End | Percent Gain |
+| 加注者    | 初始余额      | 最后余额     | 获取比例     |
 | -------- | ------------- | ----------- | ------------ |
 | balance1 | 1,000,000     | 1,105,120   | 10.51%       |
 | balance2 | 100,000       | 110,512     | 10.51%       |
@@ -114,25 +114,26 @@ https://docs.google.com/spreadsheets/d/1-weHt0PiIZWyXs1Uzp7QIUKk9TX7aa15RtFc8JJp
 
 ### 现阶段我们的这种低通胀不是更好吗?
 
-With 4% per year and only 25% of coins staking, NavCoin currently only inflates at around 1.4% per year (including the community fund). We've seen the staking network weight roughly halve over the last 6 months, something which could be attributed the reduction of rewards when the community fund was introduced. It's possible people are switching to other, more profitable PoS coins because 4% reward is too low. At this network weight and market rate, it would only take around USD $2M worth of coins to perform a 51% attack. In reality, buying enough coins to 51% attack the network would drive the price of NAV up and therefore make it much more expensive than this to attack the network, but it's still worth noting the importance for network security to attract more people to stake.NavCoin每年的通货膨胀率为4%，只有25%的硬币下注，目前的通货膨胀率仅为1.4%左右(包括社区基金)。我们看到，在过去6个月里，押注网络的权重大约减半，这可以归因于引入社区基金后奖励的减少。由于4%的回报太低，人们可能会转向其他利润更高的PoS币。按照这个网络的重量和市场汇率，只需要大约200万美元的硬币就可以完成51%的攻击。在现实中，购买足够多的硬币来攻击网络51%会推高资产净值的价格，因此攻击网络要比这贵得多，但仍然值得注意的是，网络安全吸引更多的人来下注的重要性。
+NavCoin每年的通货膨胀率为4%，只有25%的硬币下注，目前的通货膨胀率仅为1.4%左右(包括社区基金)。我们看到，在过去6个月里，押注网络的权重大约减半，这可以归因于引入社区基金后奖励的减少。由于4%的回报太低，人们可能会转向其他利润更高的PoS币。按照这个网络的重量和市场汇率，只需要大约200万美元的硬币就可以完成51%的攻击。在现实中，购买足够多的硬币来攻击网络51%会推高资产净值的价格，因此攻击网络要比这贵得多，但仍然值得注意的是，网络安全吸引更多的人来下注的重要性。
 
-### Summary
 
-Changing to a static block reward of 2 NAV per block increases network security in multiple ways, the first being that it forces people to be online securing the network with their weight constantly. Secondly, it would increase potential earnings for stakers which would attract more people to stake NavCoin and increase the network weight further. Both of these factors make the network harder to 51% attack and would improve network security.
+### 总结
 
-### Additional suggested changes
+更改为每个区块2 NAV的静态区块奖励可以通过多种方式提高网络安全性，第一种方式是它迫使人们不断地用自己的大小在线保护网络。其次，它将增加潜在的收益，吸引更多的人来加注NavCoin，进一步增加网络权重。这两个因素都使网络更难受到51%的攻击，并将改善网络安全。
 
-When we originally proposed 0.25 NAV per block for the Community Fund we calculated that as 20% of the current inflation rate. So reducing from 5% to 4% and adding 0.25 NAV was roughly equal. However this calculation was based on 40% of coins staking at 5% reward. I would suggest that if we move to a static block reward, we increase the community fund amount to 0.5 NAV per block, so it retains the 20% ratio to staking rewards as was originally intended.
+### 额外的建议更改
 
-This would mean that there are 2,102,400 NAV created per year for staking and 525,600 NAV per year created for the community fund totalling 2,628,000 new NAV created per year. This equals an initial inflation rate of 4.17% which is exponentially decreasing as a percentage as explained previously.
+当我们最初提出每个区块贡献0.25NAV给社区资金时，我们将其计算为当前通胀率的20%。所以从5%减到4%和增加0.25 NAV结果大致相等。然而，这个计算是基于40%的硬币加注在5%的奖励。我建议，如果我们转向静态区块奖励，我们可以将每个区块贡献0.5 NAV给社区资金，这样它就保留了最初计划中20%的比例。
 
-### Alternative approaches
+这意味着，每年因加注而产生 2,102,400 NAV，而为社区资金贡献525,600 NAV，合计为2,628,000 NAV。这等于初始通货膨胀率为4.17%，按照前面解释的百分比呈指数下降。
 
-##### Maximum Coin Age
+### 可选的方法
 
-We could introduce a maximum coin age of 1 month. If they came online after 6 months to claim reward, they would only receive 1 months of reward. This would incentivise people to remain online because otherwise they would miss out on rewards. However, for a big staker, they can cycle thorugh all their coins quite quickly, but a small staker would potentially miss out on rewards even if they stayed online the whole time. I would argue this solution is worse for small stakers than a static reward. It also doesn't address the fact that other coins have higher rewards and attracts no new users.
+##### Coin年限最大值
 
-##### Block Validator Reward
+我们可以引入coin的最大使用年限为1个月。如果他们在6个月后上网申请奖励，他们只会得到1个月的奖励。这将激励人们继续保持在线，否则他们将错过奖励。然而，对于一个大加注者来说，他们可以很快地循环所有的coin，但是一个小加注者可能会错过奖励，即使他们一直在线。我认为这种解决方案比静态奖励更不利于小加注者。它也没有说明其他硬币有更高的奖励，这并不可以吸引新用户。
+
+##### 区块验证人奖励
 
 我们可以为区块铸造者保留基于硬币的加注奖励，并创建一个额外的静态奖励，该奖励由铸造者发放给在线的人，并以他们的大小保护网络，即使他们不是区块铸造者。它本质上仍然是一种基于网络权重的彩票，但通过这种方式，我们有一个混合系统，每个人都可以得到他们的百分比，但是一直在线加注的人可以得到额外的百分比。这个替代方案需要合理数量的调查、研究和测试来完成，在afaik之前还没有进行过试验。为了简单起见，我认为使用静态奖励是更好的选择。
 
@@ -145,6 +146,7 @@ We could introduce a maximum coin age of 1 month. If they came online after 6 mo
 我个人赞成将区块奖励更改为2 NAV，并提高社区资金到每个区块0.5 NAV。
 
 我建议将这些更改与NPIP002和NPIP003绑定到NavCoin Core v4.5.0中(4.3.0是开放别名，4.4.0是社区资金声明)，这样我们就可以减少发布版本的数量。每个协议更改都有自己的版本位，因此如果人们只想要部分更新，而不是全部更新，则可以分别对每个协议进行投票。
+
 
 如果您有任何意见或建议，请在reddit上发表或直接在NPIP GitHub上发表。
 https://www.reddit.com/r/NavCoin/comments/980eql/npip004_static_block_reward
