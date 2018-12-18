@@ -1,27 +1,27 @@
 ---
-layout: notices
-title: 4.2.1 Soft Fork Now Locked In
+layout: 通知
+title: 4.2.1 版本软分叉现在被锁定
 author: Craig MacGregor
 date: '2018-06-28T22:10:52+12:00'
 feature_image: /images/uploads/2018-06-28.jpg
 notice_categories:
-  - Mandatory Update
+  - 强制更新
 ---
-The soft forks in version 4.2.1 have now achieved lock in with an 82% approval, and will soon activate two changes to NavCoin's consensus mechanism. All users are required to update to 4.2.1 by block 2237760 to remain connected to the network.
+4.2.1版本中的软叉现在以82%的支持率锁定，并将很快激活对NavCoin共识机制的两个更改。所有用户需要通过block 2237760更新到4.2.1，才能保持与网络的连接。
 <!--more-->
 
-## Community Fund Accumulation
+## 社区基金积累
 
-Staking rewards will be reduced to 4% per annum and 0.25 NAV will be burned every block to the Community Fund. This fund will accrue approximately 250,000 NAV per year to be used as the NavCoin Network sees appropriate. This accumulation will begin at block 2237760.
+加注奖励将减少到每年4%和0.25资产净值将会贡献给每个街区的社区基金。该基金每年将积累约25万资产净值，用于NavCoin网络认为合适的花费。积累将从2237760块开始。
 
-The Community Fund isn't a regular wallet address, it has no private key and no one is able to directly control the funds. The funds can only be accessed by a two step network vote which will be implemented in a subsequent soft fork once the testing is completed. For more information on the NavCoin Community Fund see the NavHub.
+社区基金不是一个普通的钱包地址，它没有私钥，没有人能够直接控制资金。只有通过两步网络投票才能访问这些资金，一旦测试完成，将在随后的软分叉中实现这一投票。有关NavCoin社区基金的更多信息，请参见NavHub。
 
 <https://navhub.org/projects/community-fund>
 
 ## NTP Sync
 
-To prevent network instability caused by inaccurate system clocks each network node will be required to sync their clock using global NTP servers. If the system clock is unable to sync with an NTP server the NavCoin daemon will not connect to the network. The threshold for minting blocks with incorrect timestamps has also been reduced to a two minute window. The network will reject blocks with a greater variance than this threshold.
+为了防止不准确的系统时钟导致网络不稳定，每个网络节点都需要使用全局NTP服务器同步它们的时钟。如果系统时钟无法与NTP服务器同步，NavCoin守护进程将无法连接到网络。使用不正确的时间戳生成块的阈值也被减少到两分钟窗口。网络将拒绝比这个阈值差异更大的区块。
 
 ### TL;DR 
 
-It is now mandatory to update to 4.2.1 before block 2237760
+现在必须在区块2237760之前更新到版本4.2.1
