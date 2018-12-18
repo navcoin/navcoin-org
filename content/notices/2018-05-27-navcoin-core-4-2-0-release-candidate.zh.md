@@ -1,40 +1,39 @@
 ---
-layout: notices
-title: NavCoin Core 4.2.0 Release Candidate
+layout: 通知
+title: NavCoin Core 4.2.0 候选发布版
 author: Craig MacGregor
 date: '2018-05-27T12:46:15+12:00'
 feature_image: /images/uploads/4.2.0-rc-hero.png
 notice_categories:
-  - Release Candidates
+  - 候选发布版
 ---
-The NavCoin Core developers have enacted a policy to create a release candidate and publicly notify all interested parties of any important updates prior to merging the changes into the master branch. This release schedule will be formalised into a process document to be published on the NavCoin.org website in the near future as reference.
+NavCoin核心开发人员制定了一项策略，在将更改合并到主分支之前，创建一个候选版本，并将任何重要更新公开通知所有相关方。本发布时间表将正式形成过程文件，不久将在NavCoin.org网站上发布，作为参考。
 <!--more-->
-There are two reasons for this update:
+这次更新有两个原因:
+## 1.开始积累NavCoin社区基金的资产净值。
 
-## 1. To begin accumulating NAV in the NavCoin Community Fund.
+该社区基金于2018年初得到NavCoin网络的支持。NavCoin Core 4.2.0是启用社区基金的第一步。它包含一个软分叉，可以将加注奖励从5%减少到4%，每个区块的资产净值累计为0.25。社区基金提案系统是在testnet上运行的，但是在提案系统本身在mainnet上启动之前还有更多的单元测试和网络测试要做。当该基金启动时，您将能够对其进行投票，并向该网络提交申请项目资金的提案。更多关于提案过程的信息将在NavCoin.org上发布。
 
-The Community Fund was endorsed by the NavCoin network early in 2018. NavCoin Core 4.2.0 is the first step in enabling the Community Fund. It contains a soft fork to reduce the staking rewards from 5% to 4%, with 0.25 NAV per block being accumulated to the Community Fund. The Community Fund proposal system is live on the testnet, but there is still more unit tests and network testing to do before the proposal system itself is launched on the mainnet. When the fund is live you’ll be able to vote on and submit proposals to the network to apply for project funding. More information on the proposal process will be available on NavCoin.org as its release approaches.
+## 2. 修复时钟同步错误。
 
-## 2. To fix the Clock Sync bug.
-
-The NavCoin blockchain has been seeing some intermittent difficulty and block spacing issues. NavCoin Core 4.2.0 contains a soft fork to fix this problem by disallowing blocks too far in the future or past and dropping connections to users with out of sync system clocks. The users system clock is now checked against global NTP servers to confirm it’s correct. If your clock is wrong you’ll get a message to adjust it, otherwise you’ll be bumped off the network until it’s properly synced.
-
-Reviewing the NavCoin Core 4.2.0 release candidate The pull request (PR) into the master branch can be viewed here:
+NavCoin区块链遇到了一些间歇性难度和块间距问题。NavCoin Core 4.2.0包含一个软分叉，在不久的将来或过去时间里，通过禁止区块太长来解决这个问题，并断开与不同步系统时钟的用户的连接。现在根据全局NTP服务器检查用户系统时钟，以确认它是正确的。如果你的时钟是错误的，你将得到一条消息来调整它，否则你将被挤出网络，直到它被正确同步。
+回顾NavCoin Core 4.2.0候选版本，拉入主分支的请求(PR)可以在这里查看:
 
 <https://github.com/NAVCoin/navcoin-core/pull/209>
 
-There is a release candidate available for testing here:
+
+这里有一个可供测试的候选版本:
 
 <https://build.nav.community/v4.2.0-rc>
 
-Any comments or suggestions should be made directly on the PR on GitHub so we are able to track and respond to any queries.
+任何意见或建议都应该直接在GitHub上的PR上提出，这样我们就可以跟踪和响应任何查询。
 
-## What happens next?
+## 接下来回发生什么?
 
-We are hoping to release version 4.2.0 within the next week if there are no well founded objections to the update. When the new version is released, the way to signal your support for the consensus change is to simply update to version 4.2.0.
+如果不存在反对更新理由的情况下，我们希望在下周发布4.2.0版本。当新版本发布时，表示您支持协商一致变更的方法是简单地更新到版本4.2.0。
 
-The consensus changes are released in a dormant state inside version 4.2.0. When 75% of the blocks in a 20160 block period are signalling support for the consensus changes, the change will be locked in for activation at the end of the next block period.
+协商一致的更改在版本4.2.0中以休眠状态发布。当20160个区块中有75%的区块表示支持协商一致变更时，变更将锁定在下一个区块结束时激活。
 
-At the time of activation, you may lose connectivity to the network if you have not updated. So please keep an eye out for the soft fork lock in and update during the grace period if you haven’t already.
+在激活时，如果没有更新，您可能会失去与网络的连接。所以请留意软分叉锁的使用，如果你还没有在宽限期内更新。
 
-More information on how to monitor the soft fork signalling process and keep up to date with the Community Fund proposal system release will be published as it is available.
+有关如何监察软分叉信号传送过程及与社区基金建议系统最新版本保持同步的更多资料，将于稍后公布。
