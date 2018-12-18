@@ -134,18 +134,17 @@ We could introduce a maximum coin age of 1 month. If they came online after 6 mo
 
 ##### Block Validator Reward
 
-We could keep the coinage based staking rewards for the block minter and create an additional static reward which the minter issues to people who are online and securing the network with their weight even if they aren't the block minter. It would still essentially be a lottery based on network weight, but this way we have a hybrid system where everyone gets their percentage, but people who are online staking all the time get extra. This alternative would take a reasonable amount of investigation, research and testing to accomplish and it's not been trialled before afaik. For simplicities sake, i would argue that just using a static reward is a better option.
+我们可以为区块铸造者保留基于硬币的加注奖励，并创建一个额外的静态奖励，该奖励由铸造者发放给在线的人，并以他们的大小保护网络，即使他们不是区块铸造者。它本质上仍然是一种基于网络权重的彩票，但通过这种方式，我们有一个混合系统，每个人都可以得到他们的百分比，但是一直在线加注的人可以得到额外的百分比。这个替代方案需要合理数量的调查、研究和测试来完成，在afaik之前还没有进行过试验。为了简单起见，我认为使用静态奖励是更好的选择。
 
-##### Other approaches
+##### 其他方法
 
-Not sure what else, i haven't thought of any other ways to solve this problem yet. If you have any ideas, don't be afraid to post them in the thread.
+不知道还有其他我还没有想到解决这个问题的方法。如果你有任何想法，欢迎把它们提交在帖子里。
 
-### Conclusion
+### 总结
 
-I'm personally in favour of changing the block reward to 2 NAV and increasing the Community Fund to 0.5 NAV per block.
+我个人赞成将区块奖励更改为2 NAV，并提高社区资金到每个区块0.5 NAV。
 
-I would suggest bundling these changes with NPIP002 and NPIP003 into NavCoin Core v4.5.0 (4.3.0 is Open Alias, 4.4.0 is Community Fund Claims) so we can reduce the number of versions released. Each individual protocol change will have its own version bit, so people can vote on each individually if they only want some of the updates rather than all of them.
+我建议将这些更改与NPIP002和NPIP003绑定到NavCoin Core v4.5.0中(4.3.0是开放别名，4.4.0是社区资金声明)，这样我们就可以减少发布版本的数量。每个协议更改都有自己的版本位，因此如果人们只想要部分更新，而不是全部更新，则可以分别对每个协议进行投票。
 
-If you have any comments or suggestions, please either post to the reddit thread or directly on the NPIP GitHub.
-
+如果您有任何意见或建议，请在reddit上发表或直接在NPIP GitHub上发表。
 https://www.reddit.com/r/NavCoin/comments/980eql/npip004_static_block_reward
