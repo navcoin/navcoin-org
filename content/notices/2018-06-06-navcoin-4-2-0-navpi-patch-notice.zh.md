@@ -1,45 +1,48 @@
 ---
-layout: notices
-title: NavCoin 4.2.0 NavPi Patch Notice
+layout: 通知
+title: NavCoin 4.2.0 NavPi补丁通知
 author: Craig MacGregor
 date: '2018-06-06T17:07:30+12:00'
 feature_image: /images/uploads/navpi-patch.jpg
 notice_categories:
   - NavPi
 ---
-NavCoin Core 4.2.0 was released today which includes the NTP server check to make sure every device has their system clock synced correctly when minting blocks. An unforeseen issue has been found when updating the NavPi using the updater script.
+今天发布了NavCoin Core 4.2.0，其中包括NTP服务器检查，以确保每个设备在生成块时系统时钟同步正确。使用更新脚本更新NavPi时发现了一个未预料到的问题。
+
 <!--more-->
 
-## The Bug
+## 这个错误
 
-The NavPi uses a cron job to start the NavCoin daemon on reboot. When the device first boots the network port for the NTP server check is unavailable. This causes the NavCoin daemon to exit and the NavPi interface will report that it can not connect to the NavCoin daemon.
+NavPi在重启时使用cron作业启动NavCoin守护进程。当设备首次启动用于NTP服务器检查的网络端口时不可用。这将导致NavCoin守护进程退出，NavPi接口将报告它不能连接到NavCoin守护进程。
 
-## Intermediate Solution
+## 折中的解决方案
 
-We have removed the specific daemon for the NavPi from the GitHub release. This will mean that when the autoupdater runs it will not be able to find the download and it will not update.
+我们已经从GitHub版本中删除了NavPi的特定守护进程。这将意味着，当autoupdater运行时，它将无法找到下载，也不会更新。
 
-If you're running the NavPi and the updater has triggered, you will see the notice saying there is a new version available. It will prompt you to reboot your device to install the new version.
 
-**You can ignore this notice and your NavPi device should continue to stake.**
+如果您正在运行NavPi，并且已经触发更新程序，您将看到有一个新版本可用的通知。它会提示您重新启动设备以安装新版本。
 
-Alternatively, you can reboot your device at this point to dismiss the notice. When you reboot you will get a error message saying that the update was not applied.
 
-Please note that you do reboot you will need to unlock your device for staking again to continue minting blocks until the patch is available to fix this issue.
+**您可以忽略这个通知，您的NavPi设备可以继续下注。**
 
-In either case, please make sure your wallet remains **unlocked for staking** to support the network until the 4.2.1 patch is available.
+或者，您也可以在此时重新启动设备以撤销通知。当您重新启动时，您将收到一条错误消息，说更新没有应用。
 
-## NavCoin Core Patch 4.2.1
+请注意，你确实重新启动了，你将需要解锁你的设备，以便再次下注继续铸造区块，直到补丁可用来修复这个问题。
 
-We are already working on a patch to fix this issue. Instead of addressing it only for the NavPi, we are adding some checks into the NavCoin daemon so that this issue is averted for any system that is setup to auto start the NavCoin daemon on boot. We will be pushing this patch out as soon as possible.
+在这两种情况下，请确保您的钱包保持**无锁，以便标记**以支持网络，直到4.2.1补丁可用。
 
-## Unaffected Users
+## NavCoin Core 补丁 4.2.1
 
-This issue only effects users who are automatically starting their NavCoin daemon before the network adapter is ready which is predominately NavPi users. Everyone else should continue with the update and upgrade to NavCoin 4.2.0 as planned.
+我们已经在做一个补丁来修复这个问题。我们将在NavCoin守护进程中添加一些检查，以避免任何在引导时自动启动NavCoin守护进程的系统出现这个问题，而不是仅针对NavPi来解决这个问题。我们会尽快推出这个补丁。
 
-If you're unsure what to do, please join the community on Discord for further assistance.
+## 不受影响的用户
+
+这个问题只影响那些在网络适配器准备好之前自动启动NavCoin守护进程的用户，这些用户主要是NavPi用户。其他人应该按照计划继续更新和升级到NavCoin 4.2.0。
+
+如果你不知道该做些什么，请加入Discord 社区，寻求更多的帮助。
 
 <https://discord.gg/y4Vu9jw>
 
 ## TL:DR
-+ There is a minor bug that only affects NavPi users.
-+ Please ignore the notification saying to update, and wait for the 4.2.1 patch which should be available in the next few days.
++ 有一个只影响NavPi用户的小错误。
++ 请忽略更新通知，等待4.2.1补丁，该补丁将在未来几天内可用。
