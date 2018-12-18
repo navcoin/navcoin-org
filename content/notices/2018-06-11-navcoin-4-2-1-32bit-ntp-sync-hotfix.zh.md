@@ -23,4 +23,5 @@ https://github.com/NAVCoin/navcoin-core/releases/tag/4.2.1
 https://info.navcoin.org/knowledge-base/how-to-update-the-navpi
 
 如果你有任何关于更新的问题，请加入我们的discord社区，寻求更多的帮助。
+
 https://discord.gg/y4Vu9jw
