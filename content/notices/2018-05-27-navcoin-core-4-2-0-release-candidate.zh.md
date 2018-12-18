@@ -22,6 +22,7 @@ NavCoin区块链遇到了一些间歇性难度和块间距问题。NavCoin Core 
 <https://github.com/NAVCoin/navcoin-core/pull/209>
 
 
+
 这里有一个可供测试的候选版本:
 
 <https://build.nav.community/v4.2.0-rc>
