@@ -1,11 +1,11 @@
 ---
-layout: roadmap
-title:  Community Fund Accumulation
+layout: 路线图
+title:  社区资金累积
 author: Alex Vazquez
 date: '2018-06-06'
 feature_image: /images/uploads/navpi-patch.jpg
-status: completed
+status: 已完成
 externalUrl: https://github.com/NAVCoin/navcoin-core/releases/tag/4.2.0/
 ---
 
-The NavCoin network voted to reduce the staking reward to 4% and include 0.25 NAV per block for the Community Fund. This consensus change was  activated on the 3rd of July 2018 and the Community Fund has been steadily accumulating&nbsp;since.
+NavCoin网络投票决定将加注奖励降低到4%，并将社区基金的每个区块0.25 NAV贡献给社区资金。这一共识变化于2018年7月3日启动，此后，社区基金稳步&nbsp;累积。
