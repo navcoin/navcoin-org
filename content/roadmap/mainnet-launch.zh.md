@@ -1,11 +1,11 @@
 ---
-layout: roadmap
-title:  Mainnet Launch
+layout: 路线图
+title:  主网上线
 author: Soopy452000
 date: '2014-07-07'
 feature_image: /images/uploads/navpi-patch.jpg
-status: completed
+status: 已完成
 externalUrl: https://bitcointalk.org/index.php?topic=679791.0
 ---
 
-The NavCoin mainnet was launched in July 2014. NavCoin launched as a community driven project with no ICO or pre-mine. The community's focus was on creating a privacy centric, proof of stake cryptocurrency which was fast, cheap and secure.
+NavCoin 主网于2014年7月上线。NavCoin是一个社区驱动的项目，没有ICO和pre-mine。社区的重点是创建一个以隐私为中心的、快速、廉价和安全的加密股权证明。
