@@ -1,42 +1,42 @@
 ---
-title: "Privacy Policy"
+title: "隐私政策"
 date: 2018-03-12T17:47:48+13:00
-draft: false
-description: "By using the site, you agree to the collection and use of information in accordance with this policy."
+draft: 错误的
+description: "通过使用本网站，您同意按照本政策收集和使用信息。"
 ---
 {{< text_section
-    title="Privacy Policy"
+    title="隐私政策"
     bgColor="#fff"
     titleColor="#333">}}
-<p>This page informs you of our policies regarding the collection, use and disclosure of personal information we receive from users of our site (https://navcoin.org). We use your personal information to better understand your usage of the site, and to collect traffic statistics.</p>
+<p>本网页告知您，我们的政策是收集、使用及披露从本网站使用者所收到的个人资料 (https://navcoin.org)。我们使用您的个人信息，以便更好地了解您对本网站的使用情况，并收集流量统计数据。</p>
 
-<p>By using the site, you agree to the collection and use of information in accordance with this policy.</p>
+<p>通过使用本网站，您同意按照本政策收集和使用信息。</p>
 
-<h3>Log Data</h3>
-<p>Like many site operators, we collect information that your browser sends whenever you visit our site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address (with replaced last byte), browser type, browser version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages and other statistics.</p>
+<h3>日志数据</h3>
+<p>与许多网站运营商一样，我们收集您的浏览器在您访问我们网站时发送的信息(“日志数据”)。这些日志数据可能包括计算机的Internet协议，地址，浏览器类型，您访问的网页，访问的日期和时间，网页上停留的时间和其他的数据等信息 (“IP”)。</p>
 
 <h3>Cookies</h3>
-<p>Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our site.</p>
+<p>Cookie是包含少量数据的文件，其中可能包含一个匿名惟一标识符。Cookies从网站发送到浏览器，并存储在计算机硬盘上。您可以指示浏览器拒绝所有cookie或指示何时发送cookie。然而，如果您不接受cookies，您可能无法使用我们网站的某些部分。</p>
 
-<p>We use cookies for the following purposes:</p>
+<p>我们使用cookies的目的如下:</p>
 
 <ul> 
-  <li>To keep track of whether you have pressed the “OK” button on the cookie disclaimer, so we don’t bother you with the notification if you have.</li>
-  <li>Our Analytics software (Google Analytics) uses cookies to measure and better understand user-interactions on our Site. You can read more about how Google Analytics uses cookies here.</li>
+  <li>记录您是否按下了cookie免责声明上的“OK”按钮，如果您有，我们不会在通知中打扰您。</li>
+  <li>我们的分析软件(谷歌Analytics)使用cookie来测量和更好地理解站点上的用户交互。您可以在这里阅读更多关于谷歌分析如何使用cookie的信息。</li>
 </ul>
 
-<h3>Google Analytics</h3>
-<p>We use a third-party JavaScript plug-in provided by Google called “Google Analytics” to provide us with useful traffic statistics and to better understand how you use our site. We do not have direct access to the information obtained from Google Analytics, but Google provides us with a summary through their dashboard.</p>
+<h3>谷歌分析</h3>
+<p>我们使用谷歌提供的第三方JavaScript插件“谷歌Analytics”为我们提供有用的流量统计数据，并更好地理解您如何使用我们的站点。我们无法直接访问从谷歌Analytics获得的信息，但是谷歌通过仪表板向我们提供了一个摘要。</p>
 
-We may share the information obtained from Google Analytics with business partners who are interested in advertising on our website. The information shared with these business partners will not contain any personally identifying information (Google does not provide us with direct access to the data and therefore we cannot see this information).</p>
+我们可能会与对我们网站广告感兴趣的商业伙伴分享从谷歌Analytics获得的信息。与这些业务伙伴共享的信息将不包含任何个人身份信息(谷歌不提供对数据的直接访问，因此我们无法看到该信息)。</p>
 
-You can opt-out of having your information collected by Google Analytics by downloading the Google Analytics opt-out browser add-on provided by Google. This will prevent your information being used by Google Analytics. Doing this will not affect your ability to use our Site in any way. You can download the opt-out browser add-on here. We also honor the Do Not Track header and will not track visitors who have Do Not Track switched on.</p>
+通过下载谷歌Analytics提供的谷歌Analytics opt-out浏览器插件，您可以选择不让谷歌Analytics收集您的信息。这可以防止您的信息被谷歌Analytics使用。这样做也对您使用我们网站的没有任何影响。您可以在这里下载“选择退出”浏览器插件。我们也尊重首选Do Not Track和那些选择Do Not Track选择的人。</p>
 
-<h3>Changes to this Privacy Policy</h3>
-<p>We may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on the Site. You are advised to review this privacy policy periodically for any changes.</p>
+<h3>本隐私政策的变更</h3>
+<p>我们可能会不定期的更新本私隐政策。如有任何更改，我们会在网站上公布新私隐政策。如有任何更改，请定期查看本私隐政策。</p>
 
-This Privacy Policy was last updated: 26th March, 2018.</p>
+本隐私政策最后更新日期:2018年3月26日。</p>
 
-<h3>Contact Us</h3>
-<p>If you have any questions about our privacy policy, or how your data is being collected and processed, please join the <a href="https://discord.gg/y4Vu9jw" target="e">community discord channel</a>.</p>
+<h3>联系我们</h3>
+<p>如果您对我们的隐私政策，或者对您的数据是如何被收集和处理的过程有任何疑问，请加入社区discord频道 <a href="https://discord.gg/y4Vu9jw" target="e"></a>.</p>
 {{< /text_section >}}
