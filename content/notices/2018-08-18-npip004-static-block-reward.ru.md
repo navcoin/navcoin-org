@@ -67,26 +67,26 @@ NPIP004 предлагает установить статическое воз�
 
 Как вы можете заметить, единственная вещь, которая происходит - это смещение запятой назад. Однако в процентах все получают пропорционально тому, какой у них вклад.
 
-This is a slightly over simplified view, but it is largely accurate. Whether you have 10% or 0.001% of the total staking weight, you will mint blocks proportionally to your weight, so everyone's balances increase at the same percentages.
+Это слегка упрощенный, но достаточно точный пример. Независимо от того, сколько у вас есть NAV - 10% или 0,001% от общего веса стекинга, вы будете чеканить блоки пропорционально вашему весу, поэтому баланс каждого пользователя увеличивается с одинаковой процентной ставкой.
 
-The only thing which could complicate the matter is compounding interest. A few people have been concerned that because the person with the larger balance stakes more frequently, they will effectively run away from the smaller stakers who would never get the opportunity to stake.
+Единственное, что может усложнить дело - это усугубляемый интерес. Несколько человек были обеспокоены тем, что, поскольку некоторые лица с большим балансом за стекинг получают вознаграждения чаще, они будут эффективно убегать от более мелких игроков, которые никогда не получат возможность осуществить стекинг.
 
-I wrote a small computer program to simulate the staking rewards over 1 year taking into account the network weight and the additional 2 NAV added every time someone finds a block. The assumption I've made is the worst case scenario e.g all coins staked are never spent, but compound back onto the staking weight.
+Я написал небольшую компьютерную программу для имитации вознаграждения за стекинг в течение 1-го года с учетом веса сети и дополнительных 2 NAV, добавляемых каждый раз, когда кто-то находит блок. Предположение, которое я сделал, является наихудшим вариантом сценария. Например, все монеты, находящиеся в стекинге, никогда не расходуются, а возвращаются обратно к весу стекинга.
 
-You can read the program here: https://github.com/craigmacgregor/static-reward-modeller/blob/master/model.js
+Вы можете посмотреть программу здесь: https://github.com/craigmacgregor/static-reward-modeller/blob/master/model.js
 
-In laymans terms, it calculates when you'd be due for a reward based on your weight vs the rest of the network where the network starts with 20M NAV and gets 2 NAV added per 30 seconds. The output is as follows:
+Проще говоря, она рассчитывает, когда вы должны получить вознаграждение, исходя из вашего веса по сравнению с остальной частью сети, где сеть начинается с 20 мил. NAV и получает 2 NAV, добавляемых каждые 30 секунд. Исход таков:
 
-| Staker   | Balance Start | Balance End | Percent Gain |
-| -------- | ------------- | ----------- | ------------ |
-| balance1 | 1,000,000     | 1,105,120   | 10.51%       |
-| balance2 | 100,000       | 110,512     | 10.51%       |
-| balance3 | 10,000        | 11,052      | 10.52%       |
-| balance4 | 1,000         | 1,106       | 10.6%        |
-| weight   | 20,000,000    | 22,102,400  | 10.51%       |
-| supply   | 63,000,000    | 65,102,400  | 3.33%        |
+| Стекер   | Стартовый баланс | Баланс в конце | Прибыль в процентнах |
+| -------- | ---------------- | -------------- | -------------------- |
+| баланс 1 | 1 000 000        | 1 105 120      | 10.51%               |
+| баланс 2 | 100 000          | 110 512        | 10.51%               |
+| баланс 3 | 10 000           | 11 052         | 10.52%               |
+| баланс 4 | 1 000            | 1 106          | 10.6%                |
+| вес      | 20 000 000       | 22 102 400     | 10.51%               |
+| предлож. | 63 000 000       | 65 102 400     | 3.33%                |
 
-So, as you can see the smaller stakers still get their rewards, even though the bigger stakers balance is going up 2NAV every 20 blocks. I even modelled this for someone staking 100 NAV and they will end up with 112 NAV after 1 year (12% gain). So if anything it seems like this model marginally favours smaller stakers over bigger ones which was a surprising result actually.
+Как вы можете видеть, более мелкие стекеры все еще получают свои награды, хотя баланс более крупных игроков увеличивается на 2 NAV каждые 20 блоков. Я даже смоделировал это для тех, у кого в наличии есть 100 NAV - и они получат 112 NAV через 1 год (увеличение на 12%). Так что получается эта модель отдает предпочтение более мелким стекерам, что на самом деле стало неожиданным результатом.
 
 The only thing this doesn't take into account is resolving orphans. I can't simulate orphans easily with a basic javascript program, it is something I will investigate when i run the NPIP on the testnet to make sure there is no problem in the real world. But i assume it will be of little consequence.
 
