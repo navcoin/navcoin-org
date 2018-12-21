@@ -1,11 +1,11 @@
 ---
-layout: roadmap
-title:  Blockchain Restart
+layout: 路线图
+title:  区块链重启
 author: Soopy452000
 date: '2016-05-12'
 feature_image: /images/uploads/navpi-patch.jpg
-status: completed
+status: 已完成
 externalUrl: https://www.navexplorer.com/block/1
 ---
 
-NavCoin's blockchain was reset in May 2016 as part of a rebase to an updated blockchain format. This is why although NavCoin has been around since 2014, the genisis block of our current blockchain was mined in&nbsp;2016.
+NavCoin的区块链在2016年5月被重置，作为更新区块链格式的基础的一部分。这就是为什么尽管NavCoin从2014年就已经存在，但是我们现在区块链的genisis区块是在2016年&nbsp;开采的。
