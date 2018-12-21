@@ -32,9 +32,9 @@ enableRobotsTXT = true
         weight = 3
         languageName = "По-русски"
     [Languages.zh]
-        title = "NavCoin - Una Criptomoneda descentralizada fácil de usar "
+        title = "NavCoin - 种便捷的去中心化加密货币 "
         weight = 4
-        languageName = "Chinese"
+        languageName = "中文"
 
 
 # Main Menu English
@@ -381,69 +381,69 @@ enableRobotsTXT = true
 # Main Menu Chinese
 
 [[Languages.zh.menu.main]]
-    name = "Empezar"
-    title = "Empezar"
+    name = "开始"
+    title = "开始"
     weight = 10
     identifier = "get-started"
     depth = 1
     [[Languages.zh.menu.main]]
-        name = "¿Por qué NavCoin?"
-        title = "¿Por qué NavCoin?"
+        name = "为什么选择NavCoin?"
+        title = "为什么选择NavCoin?"
         weight = 20
         url = "/why-navcoin/"
         identifier = "why-navcoin"
         parent = "get-started"
     [[Languages.zh.menu.main]]
-        name = "Gobernancia"
-        title = "Gobernancia"
+        name = "治理"
+        title = "治理"
         weight = 30
         url = "/governance/"
         identifier = "governance"
         parent = "get-started"
     [[Languages.zh.menu.main]]
-        name = "Para individuos"
-        title = "Para individuos"
+        name = "个人"
+        title = "个人"
         weight = 40
         url = "/for-individuals/"
         identifier = "for-individuals"
         parent = "get-started"
     [[Languages.zh.menu.main]]
-        name = "Para desarrolladores"
-        title = "Para desarrolladores"
+        name = "开发者"
+        title = "开发者"
         weight = 50
         identifier = "for-developers"
         url = "/for-developers/"
         parent="get-started"
     [[Languages.zh.menu.main]]
-        name = "Por negocios"
-        title = "Por negocios"
+        name = "商业"
+        title = "商业"
         weight = 60
         identifier = "for-business"
         url = "/for-business/"
         parent="get-started"
     [[Languages.zh.menu.main]]
-        name = "Comprar NavCoin"
-        title = "Comprar NavCoin"
+        name = "购买NavCoin"
+        title = "购买NavCoin"
         weight = 70
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"
         parent = "get-started"
 
 [[Languages.zh.menu.main]]
-    name = "Explorar"
-    title = "Explorar"
+    name = "浏览"
+    title = "浏览"
     weight = 20
     identifier = "explore"
     [[Languages.zh.menu.main]]
-        name = "Mapa vial"
-        title = "Mapa vial"
+        name = "路线图"
+        title = "路线图"
         weight = 20
         url = "/roadmap/"
         identifier = "roadmap"
         parent = "explore"
     [[Languages.zh.menu.main]]
-        name = "Explorador de bloques"
-        title = "Explorador de bloques"
+        name = "区块开发者"
+        title = "区块开发者"
         weight = 30
         url = "https://navexplorer.com"
         identifier = "block-explorer"
@@ -456,37 +456,37 @@ enableRobotsTXT = true
         identifier = "navhub"
         parent = "explore"
     [[Languages.zh.menu.main]]
-        name = "Mercantes"
-        title = "Mercantes"
+        name = "商人"
+        title = "商人"
         weight = 50
         url = "/merchants/"
         identifier = "merchants"
         parent = "explore"
     [[Languages.zh.menu.main]]
-        name = "Involucrarse"
-        title = "Involucrarse"
+        name = "参与进来"
+        title = "参与进来"
         weight = 60
         url = "/get-involved/"
         identifier = "get-involved"
         parent = "explore"
 
 [[Languages.zh.menu.main]]
-    name = "Noticias"
-    title = "Noticias"
+    name = "新闻"
+    title = "新闻"
     url="/notices/"
     weight = 30
     identifier = "news"
 
 [[Languages.zh.menu.main]]
-    name = "Fondo comunitario"
-    title = "Fondo comunitario"
+    name = "社区资金"
+    title = "社区资金"
     weight = 40
     identifier = "community-fund"
     url = "/community-fund/"
 
 [[Languages.zh.menu.main]]
-    name = "Carteras"
-    title = "Carteras"
+    name = "钱包"
+    title = "钱包"
     weight = 50
     identifier = "wallets"
     url = "/wallets/"
