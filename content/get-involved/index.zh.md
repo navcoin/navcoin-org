@@ -1,8 +1,8 @@
 ---
 title: "为协议做贡献"
 date: 2018-03-20T07:41:22+13:00
-draft:错误的
-type: "默认值"
+draft:false
+type: "default"
 description: "有几种方法可以为NavCoin协议做出贡献——所以如果你想支持这个项目，这里有一些最好的方法"
 ---
 {{< hero_section
