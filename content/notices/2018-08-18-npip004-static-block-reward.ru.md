@@ -124,30 +124,30 @@ https://docs.google.com/spreadsheets/d/1-weHt0PiIZWyXs1Uzp7QIUKk9TX7aa15RtFc8JJp
 
 ### Дополнительные предлагаемые изменения
 
-When we originally proposed 0.25 NAV per block for the Community Fund we calculated that as 20% of the current inflation rate. So reducing from 5% to 4% and adding 0.25 NAV was roughly equal. However this calculation was based on 40% of coins staking at 5% reward. I would suggest that if we move to a static block reward, we increase the community fund amount to 0.5 NAV per block, so it retains the 20% ratio to staking rewards as was originally intended.
+Когда мы первоначально предложили 0,25 NAV за блок для Фонда Сообщества, мы рассчитали эту цифру, как 20% от текущего уровня инфляции. Таким образом, снижение с 5% до 4% и добавление 0,25 NAV было приблизительно одинакого. Однако этот расчет основывался на стекинге 40% монет с 5%-ым вознаграждением. Я же хотел бы предложить такой вариант, где мы переходим к статическому вознаграждению за блок и увеличиваем вознаграждение для фонда сообщества до 0,5 NAV за блок. При таком варианте будет сохранено 20%-ое соотношение к вознаграждениям за стекинг, как изначально было запланировано.
 
-This would mean that there are 2,102,400 NAV created per year for staking and 525,600 NAV per year created for the community fund totalling 2,628,000 new NAV created per year. This equals an initial inflation rate of 4.17% which is exponentially decreasing as a percentage as explained previously.
+Это будет означать, что при стекинге будет создано 2 102 400 NAV в год и 525 600 NAV в год для фонда сообщества, что в сумме составляет 2 628 000 новых NAV в год. Эта цифра соответствует начальному уровню инфляции в 4,17%, которая уменьшается в геометрической прогрессии (в процентах), как и было ранее объяснено.
 
-### Alternative approaches
+### Альтернативные подходы
 
-##### Maximum Coin Age
+##### Максимальный возраст монет
 
-We could introduce a maximum coin age of 1 month. If they came online after 6 months to claim reward, they would only receive 1 months of reward. This would incentivise people to remain online because otherwise they would miss out on rewards. However, for a big staker, they can cycle thorugh all their coins quite quickly, but a small staker would potentially miss out on rewards even if they stayed online the whole time. I would argue this solution is worse for small stakers than a static reward. It also doesn't address the fact that other coins have higher rewards and attracts no new users.
+Мы могли бы ввести максимальный возраст монет, который бы равнялся 1-му месяцу. Если они выйдут онлайн через 6 месяцев с целью получения вознаграждения, они получат вознаграждение только за 1 месяц. Это будет стимулировать людей оставаться в сети, потому что в противном случае они упустят свое вознаграждение. Тем не менее, крупный стекер может довольно быстро наверстать упущенное, однако маленький стекер потенциально может упустить вознаграждение, даже если он все время остается в сети. Я бы сказал, что для небольших стекеров это решение хуже, чем статическое вознаграждение. При этом решении также не учитывается тот факт, что другие монеты имеют более высокие вознаграждения и не привлекают новых пользователей.
 
-##### Block Validator Reward
+##### Вознаграждение валидатора блоков
 
-We could keep the coinage based staking rewards for the block minter and create an additional static reward which the minter issues to people who are online and securing the network with their weight even if they aren't the block minter. It would still essentially be a lottery based on network weight, but this way we have a hybrid system where everyone gets their percentage, but people who are online staking all the time get extra. This alternative would take a reasonable amount of investigation, research and testing to accomplish and it's not been trialled before afaik. For simplicities sake, i would argue that just using a static reward is a better option.
+Мы могли бы оставить вознаграждение за стекинг на основе возраста монет для минтера блока и создать дополнительное статическое вознаграждение, при котором минтер вознаграждает тех людей, которые находятся в сети и защищают сеть своим весом, даже если они не являются минтерами блока. Однако, даже в этом случае это была бы лотерея, основанная на весе сети, но в этом случае у нас есть гибридная система, в которой каждый получает свой процент, а люди, у которых постоянно запущен стекинг онлайн, получают дополнительную прибыль. Эта альтернатива потребует разумного количества исследований и испытаний, и она, если я не ошибаюсь, еще не была опробована. Проще говоря, я бы поспорил, что использование статического вознаграждения является лучшим вариантом.
 
-##### Other approaches
+##### Другие подходы
 
-Not sure what else, i haven't thought of any other ways to solve this problem yet. If you have any ideas, don't be afraid to post them in the thread.
+О других способах решения этой проблемы я еще не думал. Если у вас есть какие-либо идеи, не бойтесь публиковать их в этой ветке.
 
-### Conclusion
+### Заключение
 
-I'm personally in favour of changing the block reward to 2 NAV and increasing the Community Fund to 0.5 NAV per block.
+Лично я - за изменение награды за блок до 2 NAV и за увеличение фонда сообщества до 0.5 NAV за блок.
 
-I would suggest bundling these changes with NPIP002 and NPIP003 into NavCoin Core v4.5.0 (4.3.0 is Open Alias, 4.4.0 is Community Fund Claims) so we can reduce the number of versions released. Each individual protocol change will have its own version bit, so people can vote on each individually if they only want some of the updates rather than all of them.
+Я бы хотел предложить объединить эти изменения вместе с NPIP002 и NPIP003 в NavCoin Core v4.5.0 (4.3.0 - это Open Alias, 4.4.0 - это утверждение фонда сообщества), чтобы мы могли сократить количество выпущенных версий. Каждое отдельное изменение протокола будет иметь свой собственный бит версии, поэтому люди, заинтересованные только в некоторых обновлениях, смогут голосовать за каждое изменение по отдельности.
 
-If you have any comments or suggestions, please either post to the reddit thread or directly on the NPIP GitHub.
+Если у вас есть какие-либо комментарии или предложения, пожалуйста, опубликуйте их в ветке reddit или непосредственно на GitHub (NPIP).
 
 https://www.reddit.com/r/NavCoin/comments/980eql/npip004_static_block_reward
