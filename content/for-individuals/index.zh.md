@@ -1,8 +1,8 @@
 ---
 title: "个体"
 date: 2018-03-20T08:09:08+13:00
-draft: 错误的
-type: "默认值"
+draft: false
+type: "default"
 author: ""
 description: ""
 ---
