@@ -21,7 +21,7 @@ imgSrc="/images/for-developers/dev-get-involved.svg"
 buttonText="了解更多"
 buttonUrl="/社区资金"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
-reversed="正确的"
+reversed="true"
 >}}
 NavCoin的社区基金使任何开发者都可以通过网络获得他们对NavCoin生态系统的贡献。项目由没有中央权力的分散网络资助和核准。这确保了NavCoin的方向始终坚定地保持在网络的最佳利益，并由社区自主&nbsp;决定。
 {{< /zig_section>}}
@@ -64,7 +64,7 @@ NavCoin的社区基金使任何开发者都可以通过网络获得他们对NavC
 {{< item_container_section 
     titleText="现在开始做贡献"
     subtitleText="不管你的技术水平如何，都有很多方法可以为NavCoin做出&nbsp;贡献。"
-    bgPurple="正确的"
+    bgPurple="true"
 >}}
     {{< long_text 
         titleText="NavCoin 协议"
