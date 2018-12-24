@@ -12,7 +12,7 @@ imgSrc="/images/merchants/mer-hero.svg"
 buttonText="添加你的商店"
 buttonLink="https://github.com/NAVCoin/navcoin-org/issues/new"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
-newTab="正确的"
+newTab="true"
 >}}
 
 
@@ -86,7 +86,7 @@ newTab="正确的"
 {{< item_container_section
     titleText="接受NavCoin很容易!"
     subtitleText="NavCoin为您的企业提供了正确的支付解决&nbsp;方案。"
-    bgPurple=""正确的
+    bgPurple=""true
     buttonUrl="/for-business/"
     buttonText="更多信息"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
