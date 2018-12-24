@@ -1,8 +1,8 @@
 ---
 title: "购买 NavCoin"
 date: 2018-03-20T08:09:08+13:00
-draft: 错误的
-type: "默认值"
+draft: false
+type: "default"
 author: ""
 description: "是公开开采的，没有代币销售。购买NavCoin的唯一方法是从第三方或交易所购买。"
 ---
