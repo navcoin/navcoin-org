@@ -1,11 +1,11 @@
 ---
-layout: notices
+layout: уведомления
 title: NavCoin 4.2.1 - 32Bit NTP Sync Hotfix
 author: Craig MacGregor
 date: '2018-06-11T12:15:16+12:00'
 feature_image: /images/uploads/2018-06-06.jpg
 notice_categories:
-  - Patch NavPi
+  - Патч NavPi
 ---
 Проблема, мешающая пользователям NavPi успешно обновлять версию до 4.2.0 исправлена в версии 4.2.1. Если вы используете NavPi и хотите поддержать софтфорк наколения в Фонд Сообщества, убедитесь, что вы обновляете NavPi до последней версии и продолжаете осуществлять стекинг с помощью новой версии.
 <!--more-->
