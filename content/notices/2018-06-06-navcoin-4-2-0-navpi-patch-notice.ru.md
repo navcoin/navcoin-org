@@ -1,5 +1,5 @@
 ---
-layout: notices
+layout: уведомления
 title: Уведомление о патче NavPi NavCoin 4.2.0
 author: Craig MacGregor
 date: '2018-06-06T17:07:30+12:00'
