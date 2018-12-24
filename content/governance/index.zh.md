@@ -19,7 +19,7 @@ buttonLink="#read-manifestos"
 {{< zig_section
 titleText="为什么去中心化是一次新革命"
 imgSrc="/images/governance/gov-decentralise.svg"
-reversed="正确的"
+reversed="true"
 >}}
 作为NavCoin社区的贡献者，我们是世界上最早运作的无政府主义辛迪加社会之一的成员。这种革命制度是建立在这样一种信念之上的:当人们能够自由地为自己的最大利益而行动时，他们自然也会为社会的最大利益而工作。另一种描述无政府辛迪加主义的方式是&nbsp;去中心化。
 {{< /zig_section>}}
@@ -28,7 +28,7 @@ reversed="正确的"
 {{< zig_section
   titleText="让世界变得更好"
   imgSrc="/images/governance/gov-world.svg"
-  bgPurple="正确的"
+  bgPurple="true"
 >}}
 像NavCoin这样的去中心化数字货币从政府和企业精英手中夺走了对货币体系的控制权，将自由、隐私和金融权力还给了个人。这就是为什么NavCoin不仅仅是一个支付协议，它实际上是全球经济系统运作方式发生深刻变化的一个载体。去中心啊乎的治理是其核心。由于NavCoin没有中央权威，作为这个社区的成员，我们的一个关键角色是倡导中立和基于共识的&nbsp;决策。
 {{< /zig_section
@@ -37,7 +37,7 @@ reversed="正确的"
 {{< zig_section
 titleText="去中心化的好处"
 imgSrc="/images/governance/gov-benifits.svg"
-reversed="正确的"
+reversed="true"
 >}}
 去中心化还可以防止腐败。历史无数次告诉我们，过多的权力掌握在过少的人手中，不可避免地会导致权力的滥用。更重要的是，它给了个人一个机会来做出真正的不同。协议的改进是自下而上的，任何人都可以提交。NavCoin蓬勃发展的社区生动地证明，当人们被信任做好事时，他们会为所有人的利益做出&nbsp;贡献。
 {{< /zig_section>}}
@@ -46,7 +46,7 @@ reversed="正确的"
 {{< zig_section
   titleText="全部取决于您个人"
   imgSrc="/images/governance/gov-you.svg"
-  bgPurple="正确的"
+  bgPurple="true"
 >}}
 当NavCoin社区的每个人都有责任为协议的发展做出贡献，并积极地将协议的信息传播给世界时，不仅社区受益，整个社会也受益。相反，没有你作为一个被授权的独立个体的参与，就不可能有分权，因此也就没有NavCoin。NavCoin的成功真正取决于你，你可以自由地实现&nbsp;它。
 {{< /zig_section>}}
@@ -55,7 +55,7 @@ reversed="正确的"
 {{< zig_section
 titleText="参与其中"
 imgSrc="/images/governance/gov-get-involved.svg"
-reversed="正确的"
+reversed="true"
 >}}
 NavCoin是一个社区倡议，允许任何人以多种不同的方式贡献。NavCoin生态系统不仅仅是开源开发。内容创造、推广和采用与去中心化的数字货币同等重要——这就是为什么成功的关键是来自不同技能人群的&nbsp;贡献。
 {{< /zig_section>}}
@@ -64,7 +64,7 @@ NavCoin是一个社区倡议，允许任何人以多种不同的方式贡献。N
 {{< item_container_section
     titleText="阅读我们的宣言"
     subtitleText="NavCoin的核心价值和贡献准则"
-    bgPurple="正确的"
+    bgPurple="true"
     anchor="read-manifestos"
 >}}
     {{< action
