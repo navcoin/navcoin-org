@@ -1,15 +1,15 @@
 ---
-title: "Community Fund"
+title: "社区资金"
 date: 2018-03-20T07:41:22+13:01
-draft: false
-type: "default"
-description: "The NavCoin community fund is a pool of NAV that's set aside to help kickstart community projects and  incentivise the ongoing development of NavCoin."
+draft: 错误的
+type: "默认值"
+description: "NavCoin社区基金是一个NAV池，用来帮助kickstart社区项目和激励NavCoin的持续发展."
 ---
 <section class="cf-hero">
     <div class="grid-container">
         <div class="text-container">
-            <h1 style="font-weight: 600; margin-bottom:35px;">Community Fund</h1>
-            <p>NavCoin is built by the community, for the community. Being an open-source project that ran no premine or ICO - NavCoin’s Community Fund enables anyone to get paid by the network for their contribution to the ecosystem. </p>
+            <h1 style="字体粗细: 600; 页边距-页尾:35px;">社区资金</h1>
+            <p>NavCoin是社区为社区打造而成的。作为一个开源项目，没有premine或ICO - NavCoin的社区资金，任何人都可以通过网络从他们对生态系统的贡献中获得奖励。 </p>
         </div>
         <img src="/images/community-fund/cfu-hero.png" alt="Hero image">
     </div>
@@ -18,79 +18,79 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
 
 
 {{< item_container_section
-    titleText="The Worlds Most Advanced Community&nbsp;Fund"
-    subtitleText="Projects are funded and approved by the decentralized network with no central authority. This ensures NavCoin’s direction remains firmly in the best interest of the entire network. This fund pays you to take your idea, nurture it, and build a team to bring it to&nbsp;life."
+    titleText="世界上最先进的社区&nbsp;资金"
+    subtitleText="项目由没有中央权力的去中心化网络资助和核准。这确保了NavCoin的方向始终坚定地符合整个网络的最佳利益。如果您你的想法被采纳，这个资金资助培养它，并建立一个团队来实现&nbsp;它。"
     >}}
     {{< feature
-        titleText="Dual-vote consensus"
+        titleText="两票制的共识"
         imgSrc="/images/community-fund/cfu-dual-vote.svg"
-        text="The first community fund to implement a dual vote, to ensure that if work is never completed the funds are&nbsp;returned."
+        text="他首先对社区基金实行双重表决，以确保资金将被返还时，工作才算是&nbsp;完成。"
     >}}
     {{< feature
-        titleText="Open to anyone"
+        titleText="向任何人开放"
         imgSrc="/images/community-fund/cfu-anyone.svg"
-        text="Anyone and everyone can get involved by submitting a proposal - leaving it to the network to decide what's most&nbsp;valuable."
+        text="任何人和每个人都可以通过提交提案参与进来——让网络来决定什么是&nbsp;最有价值的。"
     >}}
     {{< feature                 
-        titleText="No centralised fund"
+        titleText="去中心化资金"
         imgSrc="/images/community-fund/cfu-decentralised-fund.svg"
-        text="No one owns the NAV in the Community Fund, the only way they can ever be spent is by the dual network consensus&nbsp;vote."
+        text="没有人拥有社区基金的NAV，唯一可以使用的方式就是通过双网络共识投票来&nbsp;实现。"
     >}}
     {{< feature                 
-        titleText="500,000 NAV per year"
+        titleText="每年500,000 NAV"
         imgSrc="/images/community-fund/cfu-fund-per-year.svg"
-        text="Every block that gets minted generates 0.5 NAV into the community fund which accumulates over&nbsp;time."
+        text="随着时间累计，每一个被铸造的块产生0.5NAV到社区&nbsp;资金。"
     >}}
     {{< feature                 
-        titleText="Different ways to get paid"
+        titleText="获取奖励的不同方式"
         imgSrc="/images/community-fund/cfu-get-paid.svg"
-        text="Funds get released through a second vote - which can be paid out in stages or once the work is&nbsp;completed."
+        text="资金通过第二轮投票发放，可以分阶段发放，也可以在工作完成后&nbsp;发放。"
     >}}
     {{< feature                 
-        titleText="The network decides"
+        titleText="网络决定"
         imgSrc="/images/community-fund/cfu-network.svg"
-        text="The community fund gives more power to the community - by funding people to get involved, and giving the network more of a voice about the direction of&nbsp;NavCoin."
+        text="社区基金给了社区更多的权力——通过资助人们参与进来，并向网络对NavCoin的发展方向提出更多的&nbsp;意见。"
     >}}
 {{< /item_container_section >}}
 
 <section class="item-container-section  bg-purple " id="">
-    <div class="ninety-vw-container" style="max-width: 1400px;">
+    <div class="ninety-vw-container" style="最大宽度: 1400px;">
         <h1 class="container-title">How The Fund Works In 4&nbsp;Steps</h1>
         <h3 class="container-subtitle"></h3>
         <div class="grid-container" style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));">
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="/images/community-fund/cfu-submit.svg" alt="" class="item-icon">
-                    <h3>Step 1: Submit Proposal</h3>
-                    <p style="margin-bottom: 10%">Dream up the improvements you would like to see in the NavCoin ecosystem, and submit your proposal to the&nbsp;network.</p>
-                    <a href="https://communityfund.nav.community/create-proposal" target="_blank" class="round-btn small gradient-btn">Create proposal        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <h3>第1步: 提交提案</h3>
+                    <p style="边距－页尾: 10%">构想出您希望在NavCoin生态系统中看到的改进内容，并向网络提交您的&nbsp;建议。</p>
+                    <a href="https://communityfund.nav.community/create-proposal" target="_blank" class="round-btn small gradient-btn">创建提案        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
-                    <h3>Step 2: Vote for Proposal</h3>
-                    <p style="margin-bottom: 10%">Anyone who is staking the NavCoin network can vote ‘yes’ or ‘no’ for every&nbsp;proposal with their network&nbsp;weight.</p>
-                    <a href="https://communityfund.nav.community/?PENDING=on" target="_blank" class="round-btn small gradient-btn">View all proposals        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <h3>第2步: 提案投票</h3>
+                    <p style="边距－页尾: 10%">任何在NavCoin网络加注的人都可以用他们的网络实力对每一个提案投“是”或“否”&nbsp;票。</p>
+                    <a href="https://communityfund.nav.community/?PENDING=on" target="_blank" class="round-btn small gradient-btn">查看所有提案       <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="https://d33wubrfki0l68.cloudfront.net/6be625e8bf582732c2b66ffa1705dd083fdd6c51/f8c8a/images/community-fund/cfu-payment.svg" alt="" class="item-icon">
-                    <h3>Step 3: Payment Request</h3>
-                    <p style="margin-bottom: 10%">Payments are only released after a second round of voting validating ‘proof&nbsp;of&nbsp;effort’ by the proposal owner.</p>
-                    <a href="https://communityfund.nav.community/create-payment-request" target="_blank" class="round-btn small gradient-btn">Create payment request        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <h3>第3步: 支付请求</h3>
+                    <p style="边距－页尾: 10%">只有在提案所有者通过第二轮投票确认“努力证明”后，才会发放奖金</p>
+                    <a href="https://communityfund.nav.community/create-payment-request" target="_blank" class="round-btn small gradient-btn">创建你对投票请求  <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="https://d33wubrfki0l68.cloudfront.net/a6136e0554b83cc742e44f715978ee9fbd3c7791/88e3e/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
-                    <h3>Step 4: Vote for Payment</h3>
-                    <p style="margin-bottom: 10%">Once a milestone is reached, the network votes to ensure that the project is on track, which releases the&nbsp;funds.</p>
-                    <a href="https://communityfund.nav.community/?ACCEPTED=on&PENDING_PR=on" target="_blank" class="round-btn small gradient-btn">View payment requests        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <h3>第4步: 支付投票</h3>
+                    <p style="边距－页尾: 10%">一旦达到一个里程碑，网络投票以确保项目在正轨上，从而释放&nbsp;资金。</p>
+                    <a href="https://communityfund.nav.community/?ACCEPTED=on&PENDING_PR=on" target="_blank" class="round-btn small gradient-btn">查看支付请求        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -100,24 +100,24 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
 
 <section class="item-container-section " id="">
   <div class="ninety-vw-container">
-    <h1 class="container-title">Featured Proposals</h1>
+    <h1 class="container-title">特征提案</h1>
     <!-- <h3 class="container-subtitle"></h3> -->
     <div class="grid-container">
       <div class="wallet-column">
         <div class="item-card">
           <div class="item-main">
             <div class="item-icon-container">
-              <h2 class="cf-proposal-title"> NavCoin Sticker&nbsp;Creation </h2>
+              <h2 class="cf-proposal-title"> NavCoin标签创建</h2>
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">Public awareness is one of the most important things to achieve for any cryptocurrency, and one way to achieve this is by creating stickers which you can post to different places like your car, the window of your store, etc.<br><br>
-                This proposal is to get the things needed to print and cut NAV stickers and send them out to the people interested in the community. You can <a href="https://collab.navcoin.org/s/navcoin-sticker-creation/custom_pages/container/view?id=12" target="_blank" style="color:white; text-decoration: underline">read more about it here.</a></p>
+                <p style="最大边距:0; 边距－页尾: 15px;">对于任何加密货币来说，提高公众意识是最重要的事情之一，实现这一点的一种方法是创建贴纸，你可以将其贴在不同的地方，比如你的汽车、商店的窗户等等。<br><br>
+                这个提案目的在于打印出需要的东西和排除NAV标签，把提案发给真正对社区感兴趣的人。你可以<a href="https://collab.navcoin.org/s/navcoin-sticker-creation/custom_pages/container/view?id=12" target="_blank" style="颜色:白色; 文字修饰: 下划线">点击这里查看更多内容。</a></p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
                     <h4>Pending</h4>
                 </div>
-                <hr style="margin: 5px 0; opacity: 0.4;">
+                <hr style="边距: 5px 0; 不透明度: 0.4;">
                 <div class="cf-proposal-stat">
                     <h4>Request</h4>
                     <h4>2,000 NAV</h4>
@@ -139,20 +139,20 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">This Community Fund project is designed to offset the carbon footprint of the NavCoin network, making NAV the world's first carbon neutral cryptocurrency. <br><br>This proposal calculates the amount of electricity used by the network and the ecosystem around it - and proposes to purchase native forest carbon credits to offset this. You can <a href="https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6" target="_blank" style="color:white; text-decoration: underline">read more about it here.</a></p>
+                <p style="最大边距:0; 边距－页尾: 15px;">这个社区基金项目旨在抹掉NavCoin网络的carbon足迹，使NAV成为世界上第一种carbon中性加密货币。 <br><br>这个提议计算了网络和它周围的生态系统所使用的电量 - 并建议购买当地森林carbon信用来抵消这一影响。你可以<a href="https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6" target="_blank"  style="颜色:白色; 文字修饰: 下划线">点击这里查看更多内容</a></p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
                     <h4>Pending</h4>
                 </div>
-                <hr style="margin: 5px 0; opacity: 0.4;">
+                <hr style="边距: 5px 0;不透明度: 0.4;">
                 <div class="cf-proposal-stat">
                     <h4>Request</h4>
                     <h4>5,000 NAV</h4>
                 </div>
-                <hr style="margin: 5px 0; opacity: 0.4;">
-                <div style="margin-buttom: 40px"></div>
+                <hr style="边距: 5px 0;不透明度: 0.4;">
+                <div style="边距－页尾: 40px"></div>
                 <br>
-                <a href="https://communityfund.nav.community/discussion/0a4c915850491675e264fafacd20d14b8d9f0b165d4065ff2f53a21bbf0f72a2" target="_blank" class="round-btn small gradient-btn">View proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://communityfund.nav.community/discussion/0a4c915850491675e264fafacd20d14b8d9f0b165d4065ff2f53a21bbf0f72a2" target="_blank" class="round-btn small gradient-btn">参看提案<img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
@@ -165,79 +165,79 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">NEXT is an alternative wallet for NavCoin. It's an open source, cross-platform full node NavCoin wallet. It can be run on Windows, Mac and Linux. NEXT provides all the basic wallet features like sending/receiving coins, and much&nbsp;more. 
-                <br><br>This proposal is to fund the ongoing research & development of the NEXT wallet. You can <a href="https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10" target="_blank" style="color:white; text-decoration: underline">read more about it here.</a><br></p>
+                <p style="最大边距:0; 边距－页尾: 15px;">NEXT 是NavCoin的另一个钱包。它是一个开源、跨平台的完整节点NavCoin钱包。它可以在Windows、Mac和Linux上运行。 NEXT提供所有基本的钱包功能，如发送/接收硬币，还有其他更多功能。
+                <br><br>这个提案是为了资助NEXT钱包的研发。你可以 <a href="https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10" target="_blank" style="颜色:白色; 文字修饰: 下划线">点击这里查看更多内容</a><br></p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
                     <h4>Pending</h4>
                 </div>
-                <hr style="margin: 5px 0; opacity: 0.4;">
+                <hr style="边距: 5px 0; 不透明度: 0.4;">
                 <div class="cf-proposal-stat">
                     <h4>Request</h4>
                     <h4>46,800 NAV</h4>
                 </div>
-                <hr style="margin: 5px 0; opacity: 0.4;">
-                <div style="margin-buttom: 40px"></div>
+                <hr style="边距: 5px 0;不透明度: 0.4;">
+                <div style="边距－页尾: 40px"></div>
                 <br>
-                <a href="https://communityfund.nav.community/discussion/97229d571fdade1c48fda8c1b1060820f87c1dc1c99d3a8cd498a3809537d723" target="_blank" class="round-btn small gradient-btn">View proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://communityfund.nav.community/discussion/97229d571fdade1c48fda8c1b1060820f87c1dc1c99d3a8cd498a3809537d723" target="_blank" class="round-btn small gradient-btn">查看提案<img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
         </div>
       </div></div>
-    <div style="display: block; max-width: 200px; margin: 0 auto; margin-top: 7%;">
-      <a href="https://communityfund.nav.community/" target="_blank" class="round-btn gradient-btn">View all proposals        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+    <div style="显示y: 区块; 最大宽度: 200px; 边距: 0 auto; 利润最大值: 7%;">
+      <a href="https://communityfund.nav.community/" target="_blank" class="round-btn gradient-btn">参看所有提案       <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
     </div>
   </div>
 </section>
 
 {{< zig_section
-  titleText="Where should I start?"
+  titleText="我应该从哪里开始?"
   imgSrc="/images/community-fund/cfu-get-involved.svg"
-  buttonText="Join the Collab"
+  buttonText="加入 Collab"
   buttonUrl="https://collab.navcoin.org/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="true"
-  newTab="true"
+  bgPurple="正确的"
+  newTab="正确的"
 >}}
-Once you've joined the community channels, the NavCoin Collab website is one of the places to find the range of projects that the community is working on. It's a forum that acts as the ‘town square’, and makes it easier for the community to share their project ideas with each&nbsp;other.
+一旦您加入了社区频道，NavCoin Collab网站是找到社区正在进行的项目范围的地方之一。这是一个充当“town square”的论坛，使社区更容易互相分享他们的项目想法。
 {{< /zig_section>}}
 
 {{< accordion
-  titleText="How To Create A&nbsp;Proposal"
-  subtitleText="We’ve got a process to help you ensure your proposal has the best chance of&nbsp;passing."
+  titleText="如果创建一个提案"
+  subtitleText="我们有一个程序可以帮助您确保您的提案获得&nbsp;通过。"
   anchor="download-core"
 
-  itemOneTitle="Step 1 - Understand the system and develop your ideas."
-  itemOneText="Think of project that could inspire the NavCoin network. You can go it alone or discuss it with the community in <a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> or on the <a href=\"https://collab.navcoin.org\">NavCollab website</a>.  <br><img src=\"/images/community-fund/cfu-voting.png\" alt=\"voting image\">"    
+  itemOneTitle="第1步 - 理解系统并实现你的想法。"
+  itemOneText="想想能激发NavCoin网络灵感的项目。你可以选择自己做，也可以和社区的人一起讨论进行 <a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> or on the <a href=\"https://collab.navcoin.org\">NavCollab website</a>.  <br><img src=\"/images/community-fund/cfu-voting.png\" alt=\"voting image\">"    
 
-  itemTwoTitle="Step 2 - Create a project page."
-  itemTwoText="It can be anywhere, but to give your project maximum visibility in the community consider using the <a href=\"\">NavCollab website</a>.<br><br>Work out the details of the project. You need to communicate why the NavCoin community should fund it, if you need to tap into other people’s skills, and how long it will take from start to finish. <br><br>Your proposal might suit being funded in stages, especially if it’ll take some time to complete."
+  itemTwoTitle="第2步 - 创建一个项目主页"
+  itemTwoText="它可以在任何地方，但是要使您的项目在社区中具有最大的可见性，请考虑使用 <a href=\"\">NavCollab website</a>.<br><br>定项目的细节。你需要交流为什么NavCoin社区应该资助它，如果你需要利用其他人的技能，以及从开始到结束需要多长时间。<br><br>你的建议可能适合分阶段资助，特别是如果它需要一些时间来完成。"
 
-  itemThreeTitle="Step 3 - Create your team."
-  itemThreeText="Do you need other skills to bring your project to life? Use NavCoin’s social channels and the NavCollab website to find community members who can help you complete your project."
+  itemThreeTitle="第3步 - 创建你的团队"
+  itemThreeText="你还需要其他技能来实现你的项目吗?使用NavCoin的社交渠道和NavCollab网站，找到可以帮助你完成项目的社区成员。"
 
-  itemFourTitle="Step 4 - Submit your proposal."
-  itemFourText="Complete the proposal form below, including a link to your project page.<br><br>To complete the process, you will need to pay a proposal fee. If the fund has only a small amount of NAV left, then the projects that pay the highest fees to the network will be accepted first. A fee of 50 Nav is necessary to stop people submitting poorly thought out proposals.<br><br><br><iframe src=\"https://nav-proposal-creator.netlify.com/proposal/create\" style=\"width:100%; height:600px;border:none;\"></iframe>"
+  itemFourTitle="第4步 - 提交你的提案"
+  itemFourText="完成下面的提案表格，包括到项目页面的链接。<br><br>为了完成这个过程，你需要支付提议费用。如果基金只剩下少量NAV，那么向网络支付最高费用的项目将优先被接纳。 为防止人们提交考虑不周的提案，50NAV是有必要的。<br><br><br><iframe src=\"https://nav-proposal-creator.netlify.com/proposal/create\" style=\"宽度:100%; 高度:600px;单元格:none;\"></iframe>"
 
-  itemFiveTitle="Step 5 - Promote your project to stakers."
-  itemFiveText="Once you’ve submitted your proposal, promote your project using the community channels. Communicate why you think it’s worth funding - what benefits will it bring? Why should the community support&nbsp;it?"
+  itemFiveTitle="第5步- 向加注者推广您的项目。"
+  itemFiveText="一旦你提交了你的提案，利用社区渠道来推广你的项目。讨论为什么你认为它值得投资——它会带来什么好处?为什么社区应该支持&nbsp;它?"
 
-  itemSixTitle="Step 6 - Voting begins."
-  itemSixText="To be eligible to vote you must be staking NavCoin. Each voting period lasts 20,000 blocks (roughly 7 days).<br><br><ul><li>The minimum participation rate of stakers needs to be 50%.</li><br><li>Of that 50%, a proposal must receive 70% ‘yes’ votes to be accepted.</li><br><li>70% ‘no’ votes will result in it being rejected.</li><br><li>Proposals that don't met the 50% participation rate after 6 block periods will timeout and need to be resubmitted."
+  itemSixTitle="第6步 - 开始投票。"
+  itemSixText="要想有资格投票，你必须加注NavCoin。每个投票周期持续20,000个街区(大约7天)。<br><br><ul><li>加注者的最低参与率需要达到50%。</li><br><li>在这50%中，提案必须获得70%的赞成票才能被接受。</li><br><li>70%的“否”票会被拒绝。</li><br><li>如果提案在6个区块周期后没有达到50%的参与率，将会超时，需要重新提交。"
 
-  itemSevenTitle="Step 7 - Begin the work."
-  itemSevenText="Start work and do your best to stick to your&nbsp;timeline.<br><br>Keep the community updated with how things are progressing in your project. It’s ok to ask for help along the&nbsp;way."
+  itemSevenTitle="第7步 - 开始你的工作。"
+  itemSevenText="开始工作，尽你最大的努力完成你的任务表。<br><br>让社区了解项目进展情况。整个过程都可寻求帮助。"
 
-  itemEightTitle="Step 8 - Apply for payment."
-  itemEightText="Once your project is complete you can apply for payment from the Community Fund. If there are clear milestones in your proposal you can apply to receive payments at scheduled points in the&nbsp;timeline.<br><br>Payment is subject to a second consensus vote among NavCoin stakers. There must be a 50% minimum participation, with 70% ‘yes’ vote to be paid and 70% ‘no’ for payment to be&nbsp;rejected.<br><br>Note that you will need to submit your payment request before the project expiration date (which you set when you create your proposal - so make sure to include some&nbsp;buffer)."
+  itemEightTitle="第8步 - 申请支付。"
+  itemEightText="一旦你的项目完成，你可以从社区基金申请付款。如果你有明确的里程碑式提案，你可以申请在时间表上预定的时间点收到付款。<br><br>付款需经NavCoin摊主第二次协商一致投票通过。必须有50%的最低参与，70%的“赞成”票就会被支付，70%的“不”票将被拒绝。<br><br>请注意，您需要在项目截止日期(您在创建提案时设置的日期)之前提交您的付款请求，因此请确保包含一些缓冲时间)。"
 >}}
 
 {{< social_grid_section
-    titleText="Join Our Community"
-    subtitleText="Promote your proposal ideas to the NavCoin community to get feedback, find collaborators and get votes."
-    bgPurple="true"
+    titleText="J加入我们的社区"
+    subtitleText="向NavCoin社区推广您的提案想法，以获得反馈、找到合作者并获得投票。"
+    bgPurple="正确的"
 >}}
     {{< social                 
     titleText="Discord"
@@ -275,7 +275,7 @@ Once you've joined the community channels, the NavCoin Collab website is one of 
     linkUrl="https://www.youtube.com/NavCoinCore"
 >}}
 {{< social                 
-    titleText="Medium"
+    titleText="媒体"
     imgSrc="/images/for-beginners/beg-medium-new.svg"
     linkUrl="https://medium.com/nav-coin"
 >}}
