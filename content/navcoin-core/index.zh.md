@@ -1,8 +1,8 @@
 ---
 title: "NavCoin Core"
 date: 2018-03-20T08:09:08+13:00
-draft: 错误的
-type: "默认值"
+draft: false
+type: "default"
 author: "Mike Delucchi"
 description: "NavCoin Core钱包是一个完整的NavCoin客户端，允许用户参与网络加注。"
 ---
