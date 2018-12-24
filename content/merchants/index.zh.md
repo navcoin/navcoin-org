@@ -1,8 +1,8 @@
 ---
 title: "商人"
 date: 2018-03-20T07:41:22+13:00
-draft: 错误的
-type: "默认值"
+draft: false
+type: "default"
 description: "任何人都可以在自己的网站或店内接受NavCoin，以低费用获得即时的全球支付。"
 ---
 {{< hero_section
