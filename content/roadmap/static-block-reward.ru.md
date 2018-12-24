@@ -1,11 +1,11 @@
 ---
-layout: roadmap
-title: Static Block Reward
+layout: дорожная карта
+title: Вознаграждение за статический блок
 author: Craig MacGregor
 date: '2018-12-06'
 feature_image: /images/uploads/navpi-patch.jpg
-status: completed
+status: завершено
 externalUrl: https://github.com/NAVCoin/npips/blob/master/npip-0004.mediawiki
 ---
 
-Modifying the block reward from percentage based to static in an effort to increase network&nbsp;security and align NavCoin with the PoSv3&nbsp;specification.  
+Изменение вознаграждения за блок основанной на процентах на статическое в целях повышения безопасности&nbsp;сети и приведение NavCoin в соответствии со спецификацией&nbsp;PoSv3.  
