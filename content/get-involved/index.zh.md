@@ -16,8 +16,8 @@ imgSrc="/images/get-involved/con-translate.svg"
   buttonText="建立一个Transifex账户"
   buttonUrl="https://www.transifex.com/signup/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
-    reversed="正确的"
-    newTab="正确的"
+    reversed="true"
+    newTab="true"
 >}}
 NavCoin Core已经被翻译成二十多种语言，还有几十种语言是部分翻译的，但是总是需要更多的帮助。NavCoin使用Transifex进行翻译，所以你需要建立一个账户。<br><br>要投稿翻译，请到Transifex上的NavCoin项目&nbsp;:<br><a href="https://www.transifex.com/navcoin/navcoin-core" style="text-decoration:underline";
 {{< /zig_section>}}
@@ -28,8 +28,8 @@ NavCoin Core已经被翻译成二十多种语言，还有几十种语言是部�
   buttonText="贡献给开发人员文档"
   buttonUrl="https://github.com/NAVCoin/navcoin-dev-docs"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="正确的"
-  newTab="正确的"
+  bgPurple="true"
+  newTab="true"
 >}}
 我们目前正致力于为NavCoin Core提供一个开源的开发者文档资源。如果您想要帮助启动并运行这个程序，请前往GitHub，看看您如何提供帮助。只要确保您遵循本页概述的GitHub约定，并提交关于您正在编写哪些文档以减少重复工作的&nbsp;问题。
 {{< /zig_section>}}
@@ -40,8 +40,8 @@ imgSrc="/images/get-involved/con-issue.svg"
 buttonText="提交一个问题"
 buttonUrl="https://github.com/NAVCoin/navcoin-core/issues"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
-reversed="正确的"
-newTab="正确的"
+reversed="true"
+newTab="true"
 >}}
 对于NavCoin Core的所有非关键问题，请搜索类似的问题，如果没有发现，请提交一个新问题，提供以下&nbsp;信息。
 <br>
@@ -58,8 +58,8 @@ newTab="正确的"
   buttonText="查看自述文件"
   buttonUrl="https://github.com/navcoin/navcoin-core/blob/master/CONTRIBUTING.md"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="正确的"
-  newTab="正确的"
+  bgPurple="true"
+  newTab="true"
 >}}
 问题跟踪器是找到对navcoin&core有用的方法的最佳场所。在开始为您发现的问题编写补丁之前，您可能希望对这个问题进行评论，以确保没有其他人已经在处理它。请记住，即使您正在解决已经发现的问题，也需要首先在问题跟踪器中创建一个&nbsp;问题。
 <br><br>
@@ -78,8 +78,8 @@ newTab="正确的"
 {{< zig_section
 titleText="编写测试"
 imgSrc="/images/get-involved/con-test.svg"
-reversed="正确的"
-newTab="正确的"
+reversed="true"
+newTab="true"
 >}}
 NavCoin Core包含了许多测试，但是改进测试覆盖率的补丁总是备受欢迎，并且是熟悉代码库的好方法。
 <br><br>
@@ -94,8 +94,8 @@ NavCoin Core包含了许多测试，但是改进测试覆盖率的补丁总是�
     buttonText="审查的请求"
   buttonUrl="https://github.com/navcoin/navcoin-core/pulls"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="正确的"
-  newTab="正确的"
+  bgPurple="true"
+  newTab="true"
 >}}
 NavCoin Core是一款安全软件，它可以帮助保护价值数百万美元的资产，因此每一个代码更改都需要由经验丰富的开发人员进行&nbsp;评审。<br><br>其他开发人员可能需要很长时间来审查您的pull请求。记住，所有的评审人员都是从他们自己的项目中抽出时间来评审您的pull请求的，所以要耐心和尊重他们的&nbsp;时间。<br><br>也请考虑帮助审查其他人的pull请求。你不需要成为NavCoin，NavCoin的核心代码库， 或者C++的专家， (尽管所有这些都有帮助)。T几乎所有程序员都可以查看open pull&nbsp;请求。
 {{< /zig_section>}}
@@ -106,8 +106,8 @@ imgSrc="/images/get-involved/con-npips.svg"
 buttonText="查看NPIP's"
 buttonUrl="https://github.com/NAVCoin/npips"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
-reversed="正确的"
-newTab="正确的"
+reversed="true"
+newTab="true"
 >}}
 NavCoin Core致力于不断完善NavCoin的底层协议。我们的目标始终是提高安全性、隐私性和效率，同时鼓励去中心化、吸收和可用性。如果您希望帮助我们改进NavCoin协议，那么记录您的su问题的最佳位置是在NPIPs GitHub存储库&nbsp;上<br><br>希望提交NPIPs的人，首先应该通过Discord或IRC向NavCoin核心开发社区提出他们的想法或文档(irc.freenode.net #navcoin)。讨论之后，请向NPIPs存储库打开PR。经过编辑和验收，将在那里&nbsp;出版。<br><br>我们在批准核项目执行计划方面相当开明，尽量不代表社会过多地参与决策。只有在非常罕见的情况下，争议解决的决定是有争议的，不能达成一致意见。在这些情况下，保守的选择将永远是&nbsp;首选。<br><br>在这里有一个NPIP并不能使它成为正式接受的标准，直到它的状态变为Final或&nbsp;Active。<br><br>那些提议修改的人应该考虑到，最终的同意可能取决于NavCoin用户的一致&nbsp;意见。
 {{< /zig_section>}}
@@ -119,8 +119,8 @@ NavCoin Core致力于不断完善NavCoin的底层协议。我们的目标始终�
     buttonText="信息披露责任"
   buttonUrl="/responsible-disclosure/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="正确的"
-  newTab="正确的"
+  bgPurple="true"
+  newTab="true"
 >}}
 {{< /zig_section>}}
 
