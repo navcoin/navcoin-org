@@ -1,5 +1,5 @@
 ---
-layout: notices
+layout: уведомления
 title: Софтфорк 4.2.1 Soft уже зафиксирован
 author: Craig MacGregor
 date: '2018-06-28T22:10:52+12:00'
