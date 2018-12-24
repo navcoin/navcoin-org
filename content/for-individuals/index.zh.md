@@ -65,7 +65,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
 {{< social_grid_section 
     titleText="加入我们活跃的社区"
     subtitleText=""
-    bgPurple="正确的"
+    bgPurple="true"
 >}}
     {{< social                 
     titleText="Discord"
