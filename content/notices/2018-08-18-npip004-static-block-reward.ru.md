@@ -88,41 +88,41 @@ NPIP004 предлагает установить статическое воз�
 
 Как вы можете видеть, более мелкие стекеры все еще получают свои награды, хотя баланс более крупных игроков увеличивается на 2 NAV каждые 20 блоков. Я даже смоделировал это для тех, у кого в наличии есть 100 NAV - и они получат 112 NAV через 1 год (увеличение на 12%). Так что получается эта модель отдает предпочтение более мелким стекерам, что на самом деле стало неожиданным результатом.
 
-The only thing this doesn't take into account is resolving orphans. I can't simulate orphans easily with a basic javascript program, it is something I will investigate when i run the NPIP on the testnet to make sure there is no problem in the real world. But i assume it will be of little consequence.
+Единственное, что не учитывается - это решение орфанов. Я не могу смоделировать орфаны с помощью простой программы javascript. Я исследую этот момент при запуске NPIP в тестовой сети, чтобы убедиться, что в реальном мире проблем нет. Однако, я предполагаю, что будут лишь незначительные последствия.
 
-Why is it over 10% gain?
+Почему прибыль составляет более 10%?
 
-You have to remember that because the total amount generated is fixed but split proportionally. With a network weight of 20M the annual rewards per coin is 10.5%, but if 40M coins were staking the annual reward per coin would be 5.25%. if more people bring coins online to stake, the rewards decrease. Currently there are only around 25% of NAV online for staking, but typically we see around 40% NAV online for staking which would mean the annual reward is around 8.4% per coin. If 100% coins were used for staking the annual reward would be equal to 3.33% per coin.
+Вы должны это помнить, так как общая сгенерированная сумма является фиксированной, но делится пропорционально. При весе сети в 20 млн., годовое вознаграждение за монету составит 10,5%, но если бы в процессе стекинга находилось 40 млн. монет, то ежегодное вознаграждение за монету составляло бы 5,25%. Чем больше людей запускают стекинг монет онлайн, тем меньше вознаграждение. В настоящее время, в стекинге находятся только около 25% NAV онлайн, но как правило, в стекинге мы видим около 40% NAV онлайн, что означает, что годовой доход составляет около 8,4% за монету. Если бы для размещения стекинга использовались 100% монет, годовой % вознаграждения за монету составил бы 3,33%.
 
-### How does this compare to other coins?
+### Как это отличается от других монет?
 
-| Coin | Reward |
-| ---- | ------ |
-| PIVX | 5-10%  |
-| ARK  | 10-12% |
-| LSK  | 10%    |
-| NEBL | 10%    |
-| NAV  | 5-10%  |
+| Монета | Вознаграждение |
+| ----   | ------         |
+| PIVX   | 5-10%          |
+| ARK    | 10-12%         |
+| LSK    | 10%            |
+| NEBL   | 10%            |
+| NAV    | 5-10%          |
 
-Source: https://www.investinblockchain.com/best-proof-of-stake-coins
+Источник: https://www.investinblockchain.com/best-proof-of-stake-coins
 
-So this move would put us in step with other PoS coins and actually still remain on the low end of the reward scale, especially if more people start staking.
+Таким образом, это действие поставило бы нас в один ряд с другими монетами PoS и при этом мы по-прежнему оставались бы в нижней части шкалы вознаграждений, особенно если больше людей запустят стекинг.
 
-I found this spreadsheet which has pretty detailed information about a bunch of coins and their inflation rates:
+Я нашел данную таблицу, в которой можно найти довольно подробную информацию о большом количестве монет и их уровне инфляции:
 
 https://docs.google.com/spreadsheets/d/1-weHt0PiIZWyXs1Uzp7QIUKk9TX7aa15RtFc8JJpn7g/edit#gid=237137882
 
-From this, you can see that NavCoin would still have one of the lowest inflation rates in crypto when you include PoW coins as well. Bitcoin currently inflates at around 3.68% as example.
+Как вы можете увидеть, NavCoin по-прежнему будет иметь один из самых низких уровней инфляции на всем крипторынке даже добавив монеты PoW. Например, у биткойна, в настоящее время, уровень инфляции равен 3,68%.
 
-### Isn't low inflation like we have now better?
+### Разве такая низкая инфляция, как у нас, не лучший вариант?
 
-With 4% per year and only 25% of coins staking, NavCoin currently only inflates at around 1.4% per year (including the community fund). We've seen the staking network weight roughly halve over the last 6 months, something which could be attributed the reduction of rewards when the community fund was introduced. It's possible people are switching to other, more profitable PoS coins because 4% reward is too low. At this network weight and market rate, it would only take around USD $2M worth of coins to perform a 51% attack. In reality, buying enough coins to 51% attack the network would drive the price of NAV up and therefore make it much more expensive than this to attack the network, but it's still worth noting the importance for network security to attract more people to stake.
+При 4% в год и при 25% монет, находящихся в стекинге, инфляция NavCoin составляет только около 1,4% в год (включая фонд сообщества). Мы наблюдали, что вес сети стекинга за последние 6 месяцев сократился примерно вдвое, что можно объяснить сокращением вознаграждений, когда был создан фонд сообщества. Возможно, люди переходят на другие, более выгодные монеты PoS, потому что годовое вознаграждение в виде 4% слишком низкое. При таком весе сети и рыночном курсе, для выполнения 51%-ой атаки потребуется всего около 2 миллионов долларов США. В действительности, покупка монет, достаточной для 51%-ой атаки на сеть может привести к повышению цены на монету NAV и, следовательно, значительно удорожит атаку сети. Но все же стоит отметить важность обеспечения безопасности сети для привлечения большего количества людей осуществлять стекинг монет.
 
-### Summary
+### Резюме
 
-Changing to a static block reward of 2 NAV per block increases network security in multiple ways, the first being that it forces people to be online securing the network with their weight constantly. Secondly, it would increase potential earnings for stakers which would attract more people to stake NavCoin and increase the network weight further. Both of these factors make the network harder to 51% attack and would improve network security.
+Изменение статического вознаграждения за блок в 2 NAV повышает безопасность сети несколькими способами. Во-первых, это заставляет людей постоянно находиться в сети для обеспечения постоянной защиты своего веса. Во-вторых, это увеличивает потенциальные доходы для стекеров, что привлечет больше людей запускать стекинг NavCoin и увеличит вес сети. Оба этих фактора усложняют 51%-ую атаку сети и повышают ее безопасность.
 
-### Additional suggested changes
+### Дополнительные предлагаемые изменения
 
 When we originally proposed 0.25 NAV per block for the Community Fund we calculated that as 20% of the current inflation rate. So reducing from 5% to 4% and adding 0.25 NAV was roughly equal. However this calculation was based on 40% of coins staking at 5% reward. I would suggest that if we move to a static block reward, we increase the community fund amount to 0.5 NAV per block, so it retains the 20% ratio to staking rewards as was originally intended.
 
