@@ -1,8 +1,8 @@
 ---
 title: "开发者"
 date: 2018-03-20T07:41:22+13:00
-draft: 错误的
-type: "默认值"
+draft: false
+type: "default"
 description: "NavCoin是一个任何人都可以参与的免费开源项目。它的设计是来自世界各地的开发人员共同努力的结果。"
 ---
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
