@@ -1,5 +1,5 @@
 ---
-layout: notices
+layout: уведомления
 title: 'NPIP004: Вознаграждение за статический блок'
 author: Craig MacGregor
 date: '2018-08-18T12:13:05+12:00'
