@@ -1,42 +1,42 @@
 ---
-title: "Privacy Policy"
+title: "Политика Конфиденциальности"
 date: 2018-03-12T17:47:48+13:00
 draft: false
-description: "By using the site, you agree to the collection and use of information in accordance with this policy."
+description: "Используя сайт, вы соглашаетесь на сбор и использование информации в соответствии с этой политикой."
 ---
 {{< text_section
-    title="Privacy Policy"
+    title="Политика Конфиденциальности"
     bgColor="#fff"
     titleColor="#333">}}
-<p>This page informs you of our policies regarding the collection, use and disclosure of personal information we receive from users of our site (https://navcoin.org). We use your personal information to better understand your usage of the site, and to collect traffic statistics.</p>
+<p>Эта страница информирует вас о нашей политике в отношении сбора, использования и раскрытия личной информации, которую мы получаем от пользователей нашего сайта (https://navcoin.org). Мы используем вашу личную информацию, чтобы лучше понять ваше использование сайта, а также для сбора статистики трафика.</p>
 
-<p>By using the site, you agree to the collection and use of information in accordance with this policy.</p>
+<p>Используя сайт, вы соглашаетесь на сбор и использование информации в соответствии с этой политикой.</p>
 
-<h3>Log Data</h3>
-<p>Like many site operators, we collect information that your browser sends whenever you visit our site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address (with replaced last byte), browser type, browser version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages and other statistics.</p>
+<h3>Данные журнала</h3>
+<p>Как и многие операторы сайта, мы собираем информацию, которую ваш браузер отправляет каждый раз, когда вы посещаете наш сайт («Данные журнала»). Эти данные журнала могут включать в себя такую информацию, как IP-адрес вашего компьютера (с замененным последним байтом), тип браузера, версия браузера, страницы нашего сайта, которые вы посещаете, время и дата вашего посещения, время потраченное на посещение этих страниц и другую статистику.</p>
 
-<h3>Cookies</h3>
-<p>Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our site.</p>
+<h3>Файлы Cookies</h3>
+<p>Cookies - это файлы с небольшим объемом данных, которые могут содержать анонимный уникальный идентификатор. Файлы Cookies отправляются в ваш браузер с веб-сайта и хранятся на жестком диске вашего компьютера. Вы можете указать браузеру не принимать все файлы Cookies или указать, когда именно они отправляются. Однако, если вы не принимаете Cookies, вы не сможете использовать некоторые разделы нашего сайта.</p>
 
-<p>We use cookies for the following purposes:</p>
+<p>Мы используем файлы cookies для следующих целей:</p>
 
 <ul> 
-  <li>To keep track of whether you have pressed the “OK” button on the cookie disclaimer, so we don’t bother you with the notification if you have.</li>
-  <li>Our Analytics software (Google Analytics) uses cookies to measure and better understand user-interactions on our Site. You can read more about how Google Analytics uses cookies here.</li>
+  <li>для отслеживания - нажали ли вы кнопку «ОК» в заявлении об отказе от файлов cookies, чтобы не беспокоить вас уведомлением об этом</li>
+  <li>Наше программное обеспечение Google Analytics использует файлы cookies для оценивания и лучшего понимания взаимодействия с пользователем на нашем сайте. Вы можете подробнее узнать о том, как Google Analytics использует cookies здесь.</li>
 </ul>
 
 <h3>Google Analytics</h3>
-<p>We use a third-party JavaScript plug-in provided by Google called “Google Analytics” to provide us with useful traffic statistics and to better understand how you use our site. We do not have direct access to the information obtained from Google Analytics, but Google provides us with a summary through their dashboard.</p>
+<p>Мы используем сторонний плагин JavaScript, предоставляемый Google, который называется «Google Analytics». Он предоставляет нам полезную статистику трафика и мы можем лучше понять, как вы используете наш сайт. У нас нет прямого доступа к информации, полученной из Google Analytics, но Google предоставляет нам сводку через свою панель инструментов.</p>
 
-We may share the information obtained from Google Analytics with business partners who are interested in advertising on our website. The information shared with these business partners will not contain any personally identifying information (Google does not provide us with direct access to the data and therefore we cannot see this information).</p>
+Мы можем делиться информацией, полученной из Google Analytics, с деловыми партнерами, которые заинтересованы в рекламе на нашем сайте. Информация, передаваемая этим деловым партнерам, не будет содержать никакой личной информации (Google не предоставляет нам прямой доступ к данным, и поэтому мы не можем видеть эту информацию).</p>
 
-You can opt-out of having your information collected by Google Analytics by downloading the Google Analytics opt-out browser add-on provided by Google. This will prevent your information being used by Google Analytics. Doing this will not affect your ability to use our Site in any way. You can download the opt-out browser add-on here. We also honor the Do Not Track header and will not track visitors who have Do Not Track switched on.</p>
+Вы можете отказаться от сбора вашей информации в Google Analytics, загрузив настройку отказа для браузера Google Analytics. Это предотвратит использование вашей информации в Google Analytics. Это никак не повлияет на вашу способность пользоваться нашим сайтом. Вы можете скачать настройку отказа для браузера здесь. Мы также соблюдаем правило не отслеживания, и не будем отслеживать посетителей, у которых включена функция «Do Not Track».</p>
 
-<h3>Changes to this Privacy Policy</h3>
-<p>We may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on the Site. You are advised to review this privacy policy periodically for any changes.</p>
+<h3>Изменения в настоящей Политике конфиденциальности</h3>
+<p>Время от времени, мы можем обновлять эту политику конфиденциальности. Мы сообщим вам о любых изменениях, разместив новую политику конфиденциальности на нашем сайте. Рекомендуется периодически просматривать данную политику конфиденциальности на предмет любых изменений.</p>
 
-This Privacy Policy was last updated: 26th March, 2018.</p>
+Эта Политика Конфиденциальности в последний раз была обновлена 26-го марта 2018-го года.</p>
 
-<h3>Contact Us</h3>
-<p>If you have any questions about our privacy policy, or how your data is being collected and processed, please join the <a href="https://discord.gg/y4Vu9jw" target="e">community discord channel</a>.</p>
+<h3>Связаться с нами</h3>
+<p>Если у вас есть какие-либо вопросы о нашей политике конфиденциальности или о том, как собираются и обрабатываются ваши данные, присоединяйтесь к <a href="https://discord.gg/y4Vu9jw" target="e">нашему сообществу на канале discord</a>.</p>
 {{< /text_section >}}
