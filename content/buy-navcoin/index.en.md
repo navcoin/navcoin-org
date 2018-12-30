@@ -73,12 +73,6 @@ newTab="true"
          text="NZD Direct Buy/Sell"
          linkUrl="https://www.bitprime.co.nz/product/navcoin-nav"
      >}}
-    {{< exchange
-        titleText="Cfinex"
-        imgSrc="/images/buy-navcoin/buy-cfinex.png"
-        text="Multi Exchange Platform"
-        linkUrl="https://cfinex.com/#NAV-BTC"
-    >}}
    {{< exchange
         titleText="Bisq"
         imgSrc="/images/buy-navcoin/buy-bisq.png"

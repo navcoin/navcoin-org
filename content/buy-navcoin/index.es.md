@@ -44,12 +44,6 @@ newTab="true"
         linkUrl="https://www.cryptopia.co.nz/Exchange/?market=NAV_BTC"
     >}}
     {{< exchange
-        titleText="Cfinex"
-        imgSrc="/images/buy-navcoin/buy-cfinex.png"
-        text="Multi Exchange Platform"
-        linkUrl="https://cfinex.com/#NAV-BTC"
-    >}}
-    {{< exchange
         titleText="Litebit"
         imgSrc="/images/buy-navcoin/buy-litebit.png"
         text="Euro Direct Purchase"
