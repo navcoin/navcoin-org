@@ -47,7 +47,7 @@ description: "El fondo comunitario de NavCoin es un sistema de incentivación de
         text="NavCoin es el primer fondo comunitario en implementer un doble voto, para asegurar que si el trabajo nunca es finalizado, los fondos estén a&nbsp;salvo."
     >}}
     {{< feature
-        titleText="Open to anyone"
+        titleText="Disponible para todos"
         imgSrc="/images/community-fund/cfu-anyone.svg"
         text="Anyone and everyone can get involved by submitting a proposal - leaving it to the network to decide what's most&nbsp;valuable."
     >}}
