@@ -130,7 +130,7 @@ newTab="true"
      {{< exchange
           titleText="Bitqist"
           imgSrc="/images/buy-navcoin/bitqist.png"
-          text="EUR / NAV"
+          text="BTC + ETH / NAV"
           linkUrl="https://bitqist.com/exchange/nav-coin"
       >}}
 {{< /item_container_section >}}
