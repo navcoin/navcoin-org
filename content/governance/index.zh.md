@@ -16,7 +16,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
 buttonLink="#read-manifestos"
 >}}
 
-{{< zig_section }}
+{{< zig_section
 titleText="为什么去中心化是一次新革命"
 imgSrc="/images/governance/gov-decentralise.svg"
 reversed="true"
@@ -31,7 +31,7 @@ reversed="true"
   bgPurple="true"
 >}}
 像NavCoin这样的去中心化数字货币从政府和企业精英手中夺走了对货币体系的控制权，将自由、隐私和金融权力还给了个人。这就是为什么NavCoin不仅仅是一个支付协议，它实际上是全球经济系统运作方式发生深刻变化的一个载体。去中心啊乎的治理是其核心。由于NavCoin没有中央权威，作为这个社区的成员，我们的一个关键角色是倡导中立和基于共识的&nbsp;决策。
-{{< /zig_section
+{{< /zig_section }}
 
 
 {{< zig_section
