@@ -86,7 +86,7 @@ newTab="true"
 {{< item_container_section
     titleText="接受NavCoin很容易!"
     subtitleText="NavCoin为您的企业提供了正确的支付解决&nbsp;方案。"
-    bgPurple=""true
+    bgPurple="true"
     buttonUrl="/for-business/"
     buttonText="更多信息"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
