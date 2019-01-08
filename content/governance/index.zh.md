@@ -16,7 +16,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
 buttonLink="#read-manifestos"
 >}}
 
-{{< zig_section
+{{< zig_section }}
 titleText="为什么去中心化是一次新革命"
 imgSrc="/images/governance/gov-decentralise.svg"
 reversed="true"
