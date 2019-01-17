@@ -1,11 +1,11 @@
 ---
-layout: roadmap
-title:  NTP Synchronisation
+layout: дорожная карта
+title:  Синхронизация NTP
 author: Alex Vazquez
 date: '2018-06-06'
 feature_image: /images/uploads/navpi-patch.jpg
-status: completed
+status: завершено
 externalUrl: https://github.com/NAVCoin/navcoin-core/releases/tag/4.2.0/
 ---
 
-NavCoin Core now makes it mandatory to clock sync against an NTP server on launch. This was introduced to prevent stakers creating blocks with incorrect timestamps which was causing block spacing issues for the network.
+Теперь NavCoin Core при запуске делает синхронизацию часов с NTP-сервером обязательной. Это было введено, чтобы предотвратить создание блоков стекерами с неправильными временными метками, что вызывало проблемы с расстоянием между блоками для сети.

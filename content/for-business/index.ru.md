@@ -1,5 +1,5 @@
 ---
-title: "For Business"
+title: "Для бизнеса"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
@@ -7,87 +7,87 @@ author: ""
 description: ""
 ---
 {{< hero_section
-titleText="NavCoin For Business"
-paragraphText="Is your business ‘future ready?’ More and more people are looking for ways to pay using their digital currency. If you want to stay ahead of the trend, now’s the time to start accepting it at your store and online. NavCoin has the right payment solution for your&nbsp;business."
+titleText="NavCoin для бизнеса"
+paragraphText="Готов ли ваш бизнес к будущему? Все больше и больше людей ищут способы оплачивать своей цифровой валютой. Если вы хотите идти в ногу со временем, сейчас самое время начать принимать криптовалюту в своем магазине и онлайн. У NavCoin есть подходящее платежное решение для вашего&nbsp;бизнеса."
 imgSrc="/images/for-business/bus-hero.svg"
 >}}
 
 {{< item_container_section 
-    titleText="Why NavCoin Is Good For&nbsp;Business"
+    titleText="Почему NavCoin хорош для&nbsp;бизнеса"
     subtitleText=""
 >}}
     {{< feature 
-        titleText="Fast payments"
+        titleText="Быстрые платежи"
         imgSrc="/images/for-business/bus-fast-payment.svg"
-        text="Transactions show up in as little as five seconds, and confirmed in thirty&nbsp;seconds."
+        text="Транзакции отображаются всего за пять секунд и подтверждаются в течение тридцати&nbsp;секунд."
     >}}
     {{< feature 
-        titleText="Secure"
+        titleText="Безопасно"
         imgSrc="/images/for-business/bus-secure.svg"
-        text="Payment records permanently stored on a decentralized network, with 24/7&nbsp;access."
+        text="Платежные записи постоянно хранятся в децентрализованной сети с круглосуточным&nbsp;доступом."
     >}}
     {{< feature                 
-        titleText="Simple"
+        titleText="Просто"
         imgSrc="/images/for-business/bus-simple.svg"
-        text="Payment is easy as scanning a QR code. Funds automatically transfer to your NavCoin&nbsp;wallet."
+        text="Процесс оплаты прост, как сканирование QR-кода. Средства автоматически переводятся на ваш кошелек&nbsp;NavCoin."
     >}}
     {{< feature                 
-        titleText="Low fees"
+        titleText="Низкая комиссия"
         imgSrc="/images/for-business/bus-low-fee.svg"
-        text="NavCoin is one of world's cheapest payment networks in the world, with fees typically under one&nbsp;percent."
+        text="NavCoin является одной из самых дешевых платежных сетей в мире. Комиссия обычно составляет менее одного&nbsp;процента."
     >}}
     {{< feature                 
-        titleText="Eco-friendly"
+        titleText="Экологично"
         imgSrc="/images/for-business/bus-eco.svg"
-        text="Join a payment network that consumes only a fraction of the energy of other&nbsp;networks."
+        text="Присоединяйтесь к платежной сети, которая потребляет лишь часть энергии других&nbsp;сетей."
     >}}
     {{< feature                 
-        titleText="Flexibility"
+        titleText="Гибкость"
         imgSrc="/images/for-business/bus-flex.svg"
-        text="A range of payment options to suit your business requirements, with even more in&nbsp;development."
+        text="Диапазон вариантов оплаты для соответствия вашим бизнес-требованиям. Еще больше в&nbsp;разработке."
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
-  titleText="Accept Payments In Person"
+  titleText="Принимайте платежи лично"
   imgSrc="/images/for-business/bus-for-store.svg"
-  buttonText="Visit NavPay"
+  buttonText="Посетите NavPay"
   buttonUrl="https://navhub.org/projects/nav-pay/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. With no blockchain to download, it's an easy way to get&nbsp;started.
+NavPay - это простая версия кошелька, которая совместима с вашим смартфоном или настольным компьютером. Клиенты просто сканируют ваш QR-код, и их средства практически мгновенно переводятся на ваш кошелек. Без необходимости загружать блокчейн это является простым способом начать&nbsp;работу.
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="Accept Online Payments"
+titleText="Принимайте онлайн-платежи"
 imgSrc="/images/for-business/bus-for-bus.svg"
-buttonText="Visit CoinPayments"
+buttonText="Посетите CoinPayments"
 buttonUrl="https://www.coinpayments.net/"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 newTab="true"
 >}}
-CoinPayments is a little like PayPal, but for digital currencies. Plug-ins include a shopping cart, payment button, invoicing, and point-of-sale interface. If your business is in the EuroZone or USA, you can withdraw funds in EURO or&nbsp;USD.
+CoinPayments чем-то похож на PayPal, но для цифровых валют. Плагины включают корзину покупок, кнопку оплаты, выставление счетов и интерфейс торговой точки. Если ваш бизнес находится в Еврозоне или в США, вы можете выводить средства в евро или в долларах&nbsp;США.
 {{< /zig_section>}}
 
 {{< zig_section
-  titleText="Accept Personal Payments"
+  titleText="Принимайте личные платежи"
   imgSrc="/images/for-business/bus-for-blog.svg"
-  buttonText="View buttons here"
+  buttonText="Просмотреть кнопки здесь"
   buttonUrl="https://brianium.github.io/nav-button/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-Integrating NavButtons for quick payments is an easy to implement option that suits individuals or side businesses. It’s as easy as copy-pasting some code onto your website. There is a choice of embeddable buttons, or QR codes for even easier&nbsp;sharing.
+Интеграция кнопок NavButton для быстрых платежей является простым вариантом реализации, который подходит для частных лиц или сторонних предприятий. Это так же просто, как скопировать и вставить код на ваш сайт. Есть выбор встраиваемых кнопок или QR-кодов для еще более удобного процесса&nbsp;обмена.
 {{< /zig_section>}}
 
 {{< center_text_cta
     lightStyle="true"
-    titleText="Who's Accepting NAV?"
-    buttonText="Find merchants here"
+    titleText="Кто принимает NAV?"
+    buttonText="Найти торговцев здесь"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants/"
-    innerText="A number of businesses have already begun to integrate NavCoin as a payment option, and with them you can easily purchase a range of products and&nbsp;services.">}}
+    innerText="Ряд компаний уже начали интегрировать NavCoin в качестве способа оплаты. Посетив их, вы сможете легко приобрести ряд продуктов и&nbsp;услуг.">}}

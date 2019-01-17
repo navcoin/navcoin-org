@@ -1,153 +1,153 @@
 ---
-layout: notices
-title: 'NPIP004: Static Block Reward'
+layout: уведомления
+title: 'NPIP004: Вознаграждение за статический блок'
 author: Craig MacGregor
 date: '2018-08-18T12:13:05+12:00'
 feature_image: /images/uploads/npip004.png
 notice_categories:
   - NPIP
 ---
-After the ClockSync fix was soft forked into the network a couple of months ago, NavCoin is now compliant with the Proof of Stake v2 protocol as published by Blackcoin.
-<!--more-->
+После того, как пару месяцев назад был осуществлен софтфорк для фиксации синхронизации часов в сети, теперь NavCoin совместим с протоколом Proof of Stake v2, опубликованным Blackcoin.
+<!--подробнее-->
 
 https://blackcoin.org/blackcoin-pos-protocol-v2-whitepaper.pdf
 
-The next logical step is to become compliant with PoS v3. The spec can be read here:
+Следующий логический шаг - совместимость с PoS v3 (3-тья версия). Спецификацию можно прочитать здесь:
 
 https://bravenewcoin.com/assets/Whitepapers/Blackcoin-POS-3.pdf
 
-The short version is that PoS v3 includes cold staking capability and a fixed block reward.
+Если коротко, то PoS v3 включает в себя возможность холодного стекинга и фиксированное вознаграждение за блок.
 
-We have already presented cold staking in NPIP002 and it has received unanimous support from the community. This is scheduled to be deployed after the Community Fund claims mechanism goes live and brings NavCoin half way to being compliant with PoS v3.
+Мы уже презентовали холодный стекинг в NPIP002, и он получил единогласную поддержку сообщества. Он планируется развертываться сразу после того, как вступит в силу механизм требований Фонда Сообщества и как только NavCoin будет на полпути к совместимости с PoS v3.
 
-This brings us to the second part of the PoS v3 spec, a fixed block reward.
+Это подводит нас ко второй части спецификации PoS v3 - фиксированному вознаграждению за блок.
 
-Why would we want a fixed block reward instead of a percentage based reward? The main consideration is that while earning stake rewards is nice for your NAV balance, the primary purpose of staking is being rewarded for validating and securing the network. With the current percentage based rewards, coins can be offline for an indefinite period, not securing the network, then appear online to claim their reward even though they have done very little work to secure the network beyond minting a few blocks.
+Почему мы хотели сделать фиксированное вознаграждение за блок вместо вознаграждения на основе процентов? Несмотря на то, что получение вознаграждений за стекинг хорошо для вашего баланса NAV, однако основная цель стекинга - вознаграждение за проверку и защиту сети. При текущем вознаграждении на основе процентов, монеты могут находиться в автономном режиме в течение неопределенного периода времени, не защищая сеть, а затем появляясь в сети, чтобы получить свое вознаграждение, даже если они проделали совсем небольшую работу по обеспечению безопасности сети, за исключением нескольких блоков.
 
-Coins which are online are using their weight to validate blocks minted by other stakers and play an important part in securing the network, even if they're not the one minting the current block. They are what protects the network against a 51% attack and it is therefore important for network security to have as much coin weight online as possible.
+Монеты, которые находятся в сети, используют свой вес для проверки блоков, отчеканенных другими стекерами, и они играют важную роль в защите сети, даже если они не единственные, кто чеканит текущий блок. Именно они защищают сеть от 51%-ных атак, и поэтому для безопасности сети важно иметь, как можно больший вес монет в сети.
 
-To read the full rationale, please refer to NPIP004 here: https://github.com/NAVCoin/npips/blob/npip-0004/npip-0004.mediawiki
+Для ознакомления с полным обоснованием, пожалуйста, обратитесь к NPIP004 здесь: https://github.com/NAVCoin/npips/blob/npip-0004/npip-0004.mediawiki
 
-Please remember that this is a draft at this stage and is open for discussion. Ultimately no-one can alter the consensus mechanism without support from the network, so the choice will be up to the community and network to decide the best course forward. I want to put a few additional thoughts on paper here which I would love some feedback on.
+Помните, что на данном этапе это черновик, и он открыт для обсуждения. В конечном счете, никто не может изменить механизм консенсуса без поддержки со стороны сети, поэтому лучший выбор будет делаться сообществом и сетью. Далее, я хочу высказать несколько дополнительных соображений, и хотел бы получить на них отзывы.
 
-### Overview
+### Обзор
 
-NPIP004 suggests to set the static block reward at 2NAV per block.
+NPIP004 предлагает установить статическое вознаграждение за блок в 2 NAV за блок.
 
-There are approximately 1,051,200 (2\*60\*24*365) blocks mined per year which means there would be 2,102,400 NAV generated per year by proof of stake rewards.
+В год добывается примерно 1 051 200 (2 \ * 60 \ * 24 * 365) блоков, что означает, что в качестве вознаграждений proof of stake в год будет генерироваться 2 102 400 NAV.
 
-There are currently ~63M NAV in circulation, so this would set the inflation rate to 3.3% annually by way of stake rewards. The other thing to take into consideration with a static reward is that as a percentage, it will exponentially decrease over time.
+В настоящее время в обращении находится примерно 63 млн. NAV, поэтому уровень инфляции за счет вознаграждения за стекинг остановится на уровне 3,3% в год. Другая вещь, которую следует учитывать при статическом вознаграждении, заключается в том, что со времененм в процентном отношении оно будет экспоненциально уменьшаться.
 
-eg. When the circulating amount is 100M NAV, the inflation generated by stake rewards would be the same amount of NAV which equates to 2.1% of total supply instead of 3.3%.
+Например, если в обращении находится 100 млн. NAV, то инфляция, генерируемая вознаграждением за стекинг, будет такой же (по сумме NAV) и будет равна 2,1% от общего предложения вместо 3,3%.
 
-### Deflationary supply
+### Дефляционное предложение
 
-There is some debate whether an exponentially deflationary supply is a good or a bad thing. In regards to supply demand economics, it has proven to be a massive boon for Bitcoin with the value exponentially increasing after every mining reward halving. The counter argument is that it is bad for distribution since it rewards early adopters more than the new entrants to the ecosystem.
+Существуют некоторые споры касаемо того, является ли экспоненциальное дефляционное предложение хорошей или плохой вещью. Что касается экономики спроса-предложения, то она оказалась огромным благом для Биткойна, значение которого экспоненциально увеличивается по мере того, как каждое вознаграждение за майнинг уменьшается вдвое. Контраргумент заключается в том, что это плохо для распределения, так как в этом случае больше вознаграждаются ранние пользователей, а не новых участники экосистемы.
 
-Personally, i'm the for the deflationary model. I think the difference in mining rewards from now until we have 100M in circulation (10+ years from now) is negligible compared to adoption when we're talking about things which effect the supply demand economics. It is reducing by 1/3 over roughly 10 years, not halving every 4 years as with bitcoin.
+Лично я за дефляционную модель. Я думаю, что разница в вознаграждениях за майнинг сейчас и пока у нас не будет 100 миллионов в обращении (через 10 с лишним лет), ничтожна по сравнению с принятием, когда мы говорим о вещах, которые влияют на экономику спроса-предложения. За 10 лет она будет уменьшаться на 1/3 часть, а не каждые 4 года, как в случае с биткойном.
 
-### Inequality
+### Неравенство
 
-There has been some discussion as to how this could drive a further divide between stakers with more and less NAV. The thing to keep in mind is that although the rewards are fixed, the number of blocks you stake is still proportional to your staking weight on the network. This means that stakers still increase in wealth proportionally to each other as a percentage. Let's run a few scenarios.
+Также проходило обсуждение относительно того, как бы это сподвигло к дальнейшему разделению между стекерами с большим и меньшим количеством NAV. Следует помнить, что, хотя вознаграждение является фиксированным, количество блоков, которое вы добываете, все равно пропорционально зависит от вашего веса в сети. Это означает, что стекеры все еще увеличивают богатство в процентах относительно друг друга. Давайте запустим несколько сценариев.
 
-The simple equation is:
+Простое уравнение:
 
-`Total Rewards / Network Weight * Balance`
+`Всего вознаграждений / Вес сети * Баланс`
 
-Assuming there are 20M NAV contributing to staking, just like there is today. Here's what the stake rewards would look like for some different balances over a 1 year period.
+Предположим, что 20 миллионов NAV находятся в процессе стекинга (как на данный момент). Так будут выглядеть вознаграждения за стекинг для некоторых разных балансов в течение 1-го года.
 
-`2,102,400 / 20,000,000 * Balance`
+`2 102 400 / 20 000 000 * Баланс`
 
-| Balance       | After 1 Year     | Percentage |
+| Баланс        | После 1 года     | Процент, % |
 | ------------- | ---------------- | ---------- |
-| 1,000,000 NAV	| 1,105,120.00 NAV | 10.512%    |
-| 100,000 NAV   | 110,512.00 NAV   | 10.512%    |
-| 10,000 NAV    | 11,051.20 NAV    | 10.512%    |
-| 1,000 NAV     | 110.512 NAV      | 10.512%    |
+| 1 000 000 NAV	| 1 105 120.00 NAV | 10.512%    |
+| 100 000 NAV   | 110 512.00 NAV   | 10.512%    |
+| 10 000 NAV    | 11 051.20 NAV    | 10.512%    |
+| 1 000 NAV     | 110.512 NAV      | 10.512%    |
 
-As you can see, the only real thing that happens is we shift the decimal place around if we have different input values, but as a percentage everyone is increasing proportionally to what they input.
+Как вы можете заметить, единственная вещь, которая происходит - это смещение запятой назад. Однако в процентах все получают пропорционально тому, какой у них вклад.
 
-This is a slightly over simplified view, but it is largely accurate. Whether you have 10% or 0.001% of the total staking weight, you will mint blocks proportionally to your weight, so everyone's balances increase at the same percentages.
+Это слегка упрощенный, но достаточно точный пример. Независимо от того, сколько у вас есть NAV - 10% или 0,001% от общего веса стекинга, вы будете чеканить блоки пропорционально вашему весу, поэтому баланс каждого пользователя увеличивается с одинаковой процентной ставкой.
 
-The only thing which could complicate the matter is compounding interest. A few people have been concerned that because the person with the larger balance stakes more frequently, they will effectively run away from the smaller stakers who would never get the opportunity to stake.
+Единственное, что может усложнить дело - это усугубляемый интерес. Несколько человек были обеспокоены тем, что, поскольку некоторые лица с большим балансом за стекинг получают вознаграждения чаще, они будут эффективно убегать от более мелких игроков, которые никогда не получат возможность осуществить стекинг.
 
-I wrote a small computer program to simulate the staking rewards over 1 year taking into account the network weight and the additional 2 NAV added every time someone finds a block. The assumption I've made is the worst case scenario e.g all coins staked are never spent, but compound back onto the staking weight.
+Я написал небольшую компьютерную программу для имитации вознаграждения за стекинг в течение 1-го года с учетом веса сети и дополнительных 2 NAV, добавляемых каждый раз, когда кто-то находит блок. Предположение, которое я сделал, является наихудшим вариантом сценария. Например, все монеты, находящиеся в стекинге, никогда не расходуются, а возвращаются обратно к весу стекинга.
 
-You can read the program here: https://github.com/craigmacgregor/static-reward-modeller/blob/master/model.js
+Вы можете посмотреть программу здесь: https://github.com/craigmacgregor/static-reward-modeller/blob/master/model.js
 
-In laymans terms, it calculates when you'd be due for a reward based on your weight vs the rest of the network where the network starts with 20M NAV and gets 2 NAV added per 30 seconds. The output is as follows:
+Проще говоря, она рассчитывает, когда вы должны получить вознаграждение, исходя из вашего веса по сравнению с остальной частью сети, где сеть начинается с 20 мил. NAV и получает 2 NAV, добавляемых каждые 30 секунд. Исход таков:
 
-| Staker   | Balance Start | Balance End | Percent Gain |
-| -------- | ------------- | ----------- | ------------ |
-| balance1 | 1,000,000     | 1,105,120   | 10.51%       |
-| balance2 | 100,000       | 110,512     | 10.51%       |
-| balance3 | 10,000        | 11,052      | 10.52%       |
-| balance4 | 1,000         | 1,106       | 10.6%        |
-| weight   | 20,000,000    | 22,102,400  | 10.51%       |
-| supply   | 63,000,000    | 65,102,400  | 3.33%        |
+| Стекер   | Стартовый баланс | Баланс в конце | Прибыль в процентнах |
+| -------- | ---------------- | -------------- | -------------------- |
+| баланс 1 | 1 000 000        | 1 105 120      | 10.51%               |
+| баланс 2 | 100 000          | 110 512        | 10.51%               |
+| баланс 3 | 10 000           | 11 052         | 10.52%               |
+| баланс 4 | 1 000            | 1 106          | 10.6%                |
+| вес      | 20 000 000       | 22 102 400     | 10.51%               |
+| предлож. | 63 000 000       | 65 102 400     | 3.33%                |
 
-So, as you can see the smaller stakers still get their rewards, even though the bigger stakers balance is going up 2NAV every 20 blocks. I even modelled this for someone staking 100 NAV and they will end up with 112 NAV after 1 year (12% gain). So if anything it seems like this model marginally favours smaller stakers over bigger ones which was a surprising result actually.
+Как вы можете видеть, более мелкие стекеры все еще получают свои награды, хотя баланс более крупных игроков увеличивается на 2 NAV каждые 20 блоков. Я даже смоделировал это для тех, у кого в наличии есть 100 NAV - и они получат 112 NAV через 1 год (увеличение на 12%). Так что получается эта модель отдает предпочтение более мелким стекерам, что на самом деле стало неожиданным результатом.
 
-The only thing this doesn't take into account is resolving orphans. I can't simulate orphans easily with a basic javascript program, it is something I will investigate when i run the NPIP on the testnet to make sure there is no problem in the real world. But i assume it will be of little consequence.
+Единственное, что не учитывается - это решение орфанов. Я не могу смоделировать орфаны с помощью простой программы javascript. Я исследую этот момент при запуске NPIP в тестовой сети, чтобы убедиться, что в реальном мире проблем нет. Однако, я предполагаю, что будут лишь незначительные последствия.
 
-Why is it over 10% gain?
+Почему прибыль составляет более 10%?
 
-You have to remember that because the total amount generated is fixed but split proportionally. With a network weight of 20M the annual rewards per coin is 10.5%, but if 40M coins were staking the annual reward per coin would be 5.25%. if more people bring coins online to stake, the rewards decrease. Currently there are only around 25% of NAV online for staking, but typically we see around 40% NAV online for staking which would mean the annual reward is around 8.4% per coin. If 100% coins were used for staking the annual reward would be equal to 3.33% per coin.
+Вы должны это помнить, так как общая сгенерированная сумма является фиксированной, но делится пропорционально. При весе сети в 20 млн., годовое вознаграждение за монету составит 10,5%, но если бы в процессе стекинга находилось 40 млн. монет, то ежегодное вознаграждение за монету составляло бы 5,25%. Чем больше людей запускают стекинг монет онлайн, тем меньше вознаграждение. В настоящее время, в стекинге находятся только около 25% NAV онлайн, но как правило, в стекинге мы видим около 40% NAV онлайн, что означает, что годовой доход составляет около 8,4% за монету. Если бы для размещения стекинга использовались 100% монет, годовой % вознаграждения за монету составил бы 3,33%.
 
-### How does this compare to other coins?
+### Как это отличается от других монет?
 
-| Coin | Reward |
-| ---- | ------ |
-| PIVX | 5-10%  |
-| ARK  | 10-12% |
-| LSK  | 10%    |
-| NEBL | 10%    |
-| NAV  | 5-10%  |
+| Монета | Вознаграждение |
+| ----   | ------         |
+| PIVX   | 5-10%          |
+| ARK    | 10-12%         |
+| LSK    | 10%            |
+| NEBL   | 10%            |
+| NAV    | 5-10%          |
 
-Source: https://www.investinblockchain.com/best-proof-of-stake-coins
+Источник: https://www.investinblockchain.com/best-proof-of-stake-coins
 
-So this move would put us in step with other PoS coins and actually still remain on the low end of the reward scale, especially if more people start staking.
+Таким образом, это действие поставило бы нас в один ряд с другими монетами PoS и при этом мы по-прежнему оставались бы в нижней части шкалы вознаграждений, особенно если больше людей запустят стекинг.
 
-I found this spreadsheet which has pretty detailed information about a bunch of coins and their inflation rates:
+Я нашел данную таблицу, в которой можно найти довольно подробную информацию о большом количестве монет и их уровне инфляции:
 
 https://docs.google.com/spreadsheets/d/1-weHt0PiIZWyXs1Uzp7QIUKk9TX7aa15RtFc8JJpn7g/edit#gid=237137882
 
-From this, you can see that NavCoin would still have one of the lowest inflation rates in crypto when you include PoW coins as well. Bitcoin currently inflates at around 3.68% as example.
+Как вы можете увидеть, NavCoin по-прежнему будет иметь один из самых низких уровней инфляции на всем крипторынке даже добавив монеты PoW. Например, у биткойна, в настоящее время, уровень инфляции равен 3,68%.
 
-### Isn't low inflation like we have now better?
+### Разве такая низкая инфляция, как у нас, не лучший вариант?
 
-With 4% per year and only 25% of coins staking, NavCoin currently only inflates at around 1.4% per year (including the community fund). We've seen the staking network weight roughly halve over the last 6 months, something which could be attributed the reduction of rewards when the community fund was introduced. It's possible people are switching to other, more profitable PoS coins because 4% reward is too low. At this network weight and market rate, it would only take around USD $2M worth of coins to perform a 51% attack. In reality, buying enough coins to 51% attack the network would drive the price of NAV up and therefore make it much more expensive than this to attack the network, but it's still worth noting the importance for network security to attract more people to stake.
+При 4% в год и при 25% монет, находящихся в стекинге, инфляция NavCoin составляет только около 1,4% в год (включая фонд сообщества). Мы наблюдали, что вес сети стекинга за последние 6 месяцев сократился примерно вдвое, что можно объяснить сокращением вознаграждений, когда был создан фонд сообщества. Возможно, люди переходят на другие, более выгодные монеты PoS, потому что годовое вознаграждение в виде 4% слишком низкое. При таком весе сети и рыночном курсе, для выполнения 51%-ой атаки потребуется всего около 2 миллионов долларов США. В действительности, покупка монет, достаточной для 51%-ой атаки на сеть может привести к повышению цены на монету NAV и, следовательно, значительно удорожит атаку сети. Но все же стоит отметить важность обеспечения безопасности сети для привлечения большего количества людей осуществлять стекинг монет.
 
-### Summary
+### Резюме
 
-Changing to a static block reward of 2 NAV per block increases network security in multiple ways, the first being that it forces people to be online securing the network with their weight constantly. Secondly, it would increase potential earnings for stakers which would attract more people to stake NavCoin and increase the network weight further. Both of these factors make the network harder to 51% attack and would improve network security.
+Изменение статического вознаграждения за блок в 2 NAV повышает безопасность сети несколькими способами. Во-первых, это заставляет людей постоянно находиться в сети для обеспечения постоянной защиты своего веса. Во-вторых, это увеличивает потенциальные доходы для стекеров, что привлечет больше людей запускать стекинг NavCoin и увеличит вес сети. Оба этих фактора усложняют 51%-ую атаку сети и повышают ее безопасность.
 
-### Additional suggested changes
+### Дополнительные предлагаемые изменения
 
-When we originally proposed 0.25 NAV per block for the Community Fund we calculated that as 20% of the current inflation rate. So reducing from 5% to 4% and adding 0.25 NAV was roughly equal. However this calculation was based on 40% of coins staking at 5% reward. I would suggest that if we move to a static block reward, we increase the community fund amount to 0.5 NAV per block, so it retains the 20% ratio to staking rewards as was originally intended.
+Когда мы первоначально предложили 0,25 NAV за блок для Фонда Сообщества, мы рассчитали эту цифру, как 20% от текущего уровня инфляции. Таким образом, снижение с 5% до 4% и добавление 0,25 NAV было приблизительно одинакого. Однако этот расчет основывался на стекинге 40% монет с 5%-ым вознаграждением. Я же хотел бы предложить такой вариант, где мы переходим к статическому вознаграждению за блок и увеличиваем вознаграждение для фонда сообщества до 0,5 NAV за блок. При таком варианте будет сохранено 20%-ое соотношение к вознаграждениям за стекинг, как изначально было запланировано.
 
-This would mean that there are 2,102,400 NAV created per year for staking and 525,600 NAV per year created for the community fund totalling 2,628,000 new NAV created per year. This equals an initial inflation rate of 4.17% which is exponentially decreasing as a percentage as explained previously.
+Это будет означать, что при стекинге будет создано 2 102 400 NAV в год и 525 600 NAV в год для фонда сообщества, что в сумме составляет 2 628 000 новых NAV в год. Эта цифра соответствует начальному уровню инфляции в 4,17%, которая уменьшается в геометрической прогрессии (в процентах), как и было ранее объяснено.
 
-### Alternative approaches
+### Альтернативные подходы
 
-##### Maximum Coin Age
+##### Максимальный возраст монет
 
-We could introduce a maximum coin age of 1 month. If they came online after 6 months to claim reward, they would only receive 1 months of reward. This would incentivise people to remain online because otherwise they would miss out on rewards. However, for a big staker, they can cycle thorugh all their coins quite quickly, but a small staker would potentially miss out on rewards even if they stayed online the whole time. I would argue this solution is worse for small stakers than a static reward. It also doesn't address the fact that other coins have higher rewards and attracts no new users.
+Мы могли бы ввести максимальный возраст монет, который бы равнялся 1-му месяцу. Если они выйдут онлайн через 6 месяцев с целью получения вознаграждения, они получат вознаграждение только за 1 месяц. Это будет стимулировать людей оставаться в сети, потому что в противном случае они упустят свое вознаграждение. Тем не менее, крупный стекер может довольно быстро наверстать упущенное, однако маленький стекер потенциально может упустить вознаграждение, даже если он все время остается в сети. Я бы сказал, что для небольших стекеров это решение хуже, чем статическое вознаграждение. При этом решении также не учитывается тот факт, что другие монеты имеют более высокие вознаграждения и не привлекают новых пользователей.
 
-##### Block Validator Reward
+##### Вознаграждение валидатора блоков
 
-We could keep the coinage based staking rewards for the block minter and create an additional static reward which the minter issues to people who are online and securing the network with their weight even if they aren't the block minter. It would still essentially be a lottery based on network weight, but this way we have a hybrid system where everyone gets their percentage, but people who are online staking all the time get extra. This alternative would take a reasonable amount of investigation, research and testing to accomplish and it's not been trialled before afaik. For simplicities sake, i would argue that just using a static reward is a better option.
+Мы могли бы оставить вознаграждение за стекинг на основе возраста монет для минтера блока и создать дополнительное статическое вознаграждение, при котором минтер вознаграждает тех людей, которые находятся в сети и защищают сеть своим весом, даже если они не являются минтерами блока. Однако, даже в этом случае это была бы лотерея, основанная на весе сети, но в этом случае у нас есть гибридная система, в которой каждый получает свой процент, а люди, у которых постоянно запущен стекинг онлайн, получают дополнительную прибыль. Эта альтернатива потребует разумного количества исследований и испытаний, и она, если я не ошибаюсь, еще не была опробована. Проще говоря, я бы поспорил, что использование статического вознаграждения является лучшим вариантом.
 
-##### Other approaches
+##### Другие подходы
 
-Not sure what else, i haven't thought of any other ways to solve this problem yet. If you have any ideas, don't be afraid to post them in the thread.
+О других способах решения этой проблемы я еще не думал. Если у вас есть какие-либо идеи, не бойтесь публиковать их в этой ветке.
 
-### Conclusion
+### Заключение
 
-I'm personally in favour of changing the block reward to 2 NAV and increasing the Community Fund to 0.5 NAV per block.
+Лично я - за изменение награды за блок до 2 NAV и за увеличение фонда сообщества до 0.5 NAV за блок.
 
-I would suggest bundling these changes with NPIP002 and NPIP003 into NavCoin Core v4.5.0 (4.3.0 is Open Alias, 4.4.0 is Community Fund Claims) so we can reduce the number of versions released. Each individual protocol change will have its own version bit, so people can vote on each individually if they only want some of the updates rather than all of them.
+Я бы хотел предложить объединить эти изменения вместе с NPIP002 и NPIP003 в NavCoin Core v4.5.0 (4.3.0 - это Open Alias, 4.4.0 - это утверждение фонда сообщества), чтобы мы могли сократить количество выпущенных версий. Каждое отдельное изменение протокола будет иметь свой собственный бит версии, поэтому люди, заинтересованные только в некоторых обновлениях, смогут голосовать за каждое изменение по отдельности.
 
-If you have any comments or suggestions, please either post to the reddit thread or directly on the NPIP GitHub.
+Если у вас есть какие-либо комментарии или предложения, пожалуйста, опубликуйте их в ветке reddit или непосредственно на GitHub (NPIP).
 
 https://www.reddit.com/r/NavCoin/comments/980eql/npip004_static_block_reward

@@ -1,11 +1,11 @@
 ---
-layout: roadmap
-title:  Rebase from Bitcoin 0.13
+layout: дорожная карта
+title:  Ребейзинг из Биткойн 0.13
 author: Craig MacGregor
 date: '2017-08-21'
 feature_image: /images/uploads/navpi-patch.jpg
-status: completed
+status: завершено
 externalUrl: https://www.navexplorer.com/block/1
 ---
 
-NavCoin Core was upgraded to align with the Bitcoin 0.13 source code to increase NavCoin’s stability, functionality and the ability to integrate with other software including the Insight&nbsp;API.
+NavCoin Core был обновлен в соответствии с исходным кодом Биткойна 0.13 для повышения стабильности, функциональности и возможности интеграции NavCoin с другим программным обеспечением, включая Insight&nbsp;API.

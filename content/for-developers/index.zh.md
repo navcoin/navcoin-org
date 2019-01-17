@@ -1,91 +1,91 @@
 ---
-title: "For Developers"
+title: "开发者"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
-description: "NavCoin is a free and open-source project to which anyone can contribute. Its design is the collaborative effort of developers from all around the world."
+description: "NavCoin是一个任何人都可以参与的免费开源项目。它的设计是来自世界各地的开发人员共同努力的结果。"
 ---
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 {{< hero_section
-titleText="NavCoin For Developers"
+titleText="NavCoin开发者"
 imgSrc="/images/for-developers/dev-hero.svg"
-paragraphText="NavCoin is a free and open-source project to which anyone can contribute. Its design is the collaborative effort of developers from all around the world. Our common goal is to improve the NavCoin protocol and its surrounding software ecosystem. Everyone has the potential to make a positive impact, no matter what your skill&nbsp;level."
-buttonText="Read developer manifesto"
+paragraphText="NavCoin是一个任何人都可以参与的免费开源项目。它的设计是来自世界各地的开发人员共同努力的结果。我们的共同目标是改进NavCoin协议及其周围的软件生态系统。不管你的技能水平如何，每个人都有潜力产生积极的影响。"
+buttonText="阅读开发者宣言"
 buttonLink="/en/governance/#read-manifestos"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
 
 {{< zig_section
-titleText="Get Funded By The NavCoin&nbsp;Network"
+titleText="得到NavCoin网络的&nbsp;资助"
 imgSrc="/images/for-developers/dev-get-involved.svg"
-buttonText="Learn more"
-buttonUrl="/community-fund"
+buttonText="了解更多"
+buttonUrl="/社区资金"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 >}}
-NavCoin’s Community Fund enables any developer to get paid by the network for their contributions to the NavCoin ecosystem. Projects are funded and approved by the decentralized network with no central authority. This ensures NavCoin’s direction remains firmly in the best interest of the network and is autonomously determined by the&nbsp;community.
+NavCoin的社区基金使任何开发者都可以通过网络获得他们对NavCoin生态系统的贡献。项目由没有中央权力的分散网络资助和核准。这确保了NavCoin的方向始终坚定地保持在网络的最佳利益，并由社区自主&nbsp;决定。
 {{< /zig_section>}}
 {{< item_container_section 
-    titleText="Why You Should Get Involved"
-    subtitleText="NavCoin is built for the community, by the community."
+    titleText="你为什么需要参与其中"
+    subtitleText="NavCoin是为了社区而建的，也是由社区所创建的。"
 >}}
     {{< feature 
-        titleText="Inclusive community"
+        titleText="包容的社区"
         imgSrc="/images/for-developers/dev-community.svg"
-        text="Our developer community is collaborative, inclusive, and ready to help you get&nbsp;started."
+        text="您的开发人员社区是合作的，包容的，并随时帮助您&nbsp;开始。"
     >}}
     {{< feature 
-        titleText="Active research"
+        titleText="积极的研究"
         imgSrc="/images/for-developers/dev-cutting-edge.svg"
-        text="Improvements to the NavCoin protocol are constantly being worked&nbsp;on."
+        text="对NavCoin协议的改进一直在进行&nbsp;当中。"
     >}}
     {{< feature                 
-        titleText="Proof of Stake Alliance"
+        titleText="股权证明联盟"
         imgSrc="/images/for-developers/dev-pos-alliance.svg"
-        text="We’re part of the PoS Alliance, a consortium which aims to collaboratively research the PoS&nbsp;protocol."
+        text="我们是PoS联盟的一部分，这个联盟旨在合作研究PoS&nbsp;协议。"
     >}}
     {{< feature                 
-        titleText="Easy to get started"
+        titleText="容易上手"
         imgSrc="/images/for-developers/dev-easy.svg"
-        text="All the resources to get involved are at your fingertips and there are lots of ways to get&nbsp;involved."
+        text="所有参与的资源都在你的手里，有很多方法可以&nbsp;参与。"
     >}}
     {{< feature                 
-        titleText="Programmable money"
+        titleText="可编程的钱"
         imgSrc="/images/for-developers/dev-digital-money.svg"
-        text="With a publicly verifiable transaction ledger, you can easily use NavCoin in your apps and&nbsp;websites."
+        text="有了一个可公开验证的交易账本，你可以很容易地在你的应用和网站上使用&nbsp;NavCoin。"
     >}}
     {{< feature                 
-        titleText="Always open-source"
+        titleText="长久开源"
         imgSrc="/images/for-developers/dev-trust.svg"
-        text="NavCoin software will always be free and in alignment with open-source&nbsp;principles."
+        text="NavCoin软件将永远是免费的，并且符合开源&nbsp;原则。"
     >}}
 {{< /item_container_section >}}
 
 {{< item_container_section 
-    titleText="Contribute Now"
-    subtitleText="There are many ways you can contribute to NavCoin, no matter what your skill&nbsp;level."
+    titleText="现在开始做贡献"
+    subtitleText="不管你的技术水平如何，都有很多方法可以为NavCoin做出&nbsp;贡献。"
     bgPurple="true"
 >}}
     {{< long_text 
-        titleText="NavCoin Protocol"
+        titleText="NavCoin 协议"
         imgSrc="/images/for-developers/dev-protocol.svg"
-        text="NavCoin is open-source and everyone can participate in making it better. Here’s where you can find the procedures to report an issue, fix a issue or suggest an improvement to the consensus&nbsp;protocol."
+        text="NavCoin是开源的，每个人都可以参与，让它变得更好。在这里，您可以找到报告问题、修复问题或改进协商一致协议的&nbsp;流程。"
         buttonUrl="/get-involved/"
-        buttonText="Learn more"
+        buttonText="了解更多"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
     >}}
     {{< long_text 
-        titleText="Community Projects"
+        titleText="社区项目"
         imgSrc="/images/for-developers/dev-projects.svg"
-        text="NavCoin is more than just a protocol, it’s an ecosystem of websites, applications and devices which connect to the NavCoin protocol. Here’s where you can find out about contributing to community&nbsp;projects."
+        text="NavCoin不仅仅是一个协议，它是一个连接到NavCoin协议的网站、应用程序和设备的生态系统。在这里你可以找到如何为社区项目做&nbsp;贡献。"
         buttonUrl="https://navhub.org"
-        buttonText="Learn more"
+        buttonText="了解更多"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
     >}}
     {{< long_text 
-        titleText="Responsible Disclosure"
+        titleText="信息披露责任"
         imgSrc="/images/for-developers/dev-disclosure.svg"
-        text="NavCoin is experimental technology and sometimes critical bugs are found. If you’re a researcher and you’ve found a critical vulnerability here’s how you can talk securely with the NavCoin Core&nbsp;developers."
+        text="NavCoin是一种实验性技术，有时会发现关键的bug。如果您是一名研究人员，并且发现了一个关键的漏洞，那么以下是如何与NavCoin核心开发人员安全对话的&nbsp;方法。"
         buttonUrl="/responsible-disclosure/"
         buttonText="Learn more"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -93,8 +93,8 @@ NavCoin’s Community Fund enables any developer to get paid by the network for 
 {{< /item_container_section >}}
 
 {{< contrib_list
-    titleText="NavCoin Protocol Contributors"
-    subtitleText="We would like to thank our contributors who have made this protocol&nbsp;awesome!"
+    titleText="NavCoin协议贡献者"
+    subtitleText="我们要感谢我们的贡献者，他们让这个协议变得非常&nbsp;棒!"
     buttonUrl="https://github.com/NAVCoin/navcoin-core/graphs/contributors"
     buttonTxt="View NavCoin on GitHub"
     buttonImgSrc="/images/icons/rightward-arrow.svg"

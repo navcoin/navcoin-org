@@ -1,151 +1,151 @@
 ---
-title: "Why NavCoin"
+title: "为什么是NavCoin"
 date: 2018-03-20T08:09:08+13:00
-draft: false
-type: "default"
+draft: 错误的
+type: "默认值"
 author: ""
-description: "NavCoin is an open-source, blockchain based Proof of Stake cryptocurrency. It’s a platform that’s run by its users, for its users."
+description: "NavCoin是一个开源的，基于股权证明的区块链加密货币。它是一个由它的用户为它的用户运行的平台。"
 ---
 {{< hero_section
-titleText="What Is NavCoin"
-paragraphText="NavCoin is an open-source, blockchain based Proof of Stake cryptocurrency. Its design is public, nobody owns or controls NavCoin, and everyone can take part. It’s a platform that’s run by its users, for its users - with an incentivised network of nodes verifying payments all around&nbsp;the&nbsp;world."
+titleText="NavCoin是什么"
+paragraphText="NavCoin是一个开源的，基于股权证明的区块链加密货币。它的设计是公开的，没有人拥有或控制NavCoin，每个人都可以参与。这是一个由其用户运营的平台，为其用户服务——拥有一个激励网络节点，在世界各地&nbsp;验证&nbsp;支付。"
 imgSrc="/images/why-navcoin/why-hero.svg"
 >}}
 
 {{< item_container_section
-    titleText="Why Are People Using&nbsp;NavCoin?"
-    subtitleText="It's cheap, fast, eco-friendly and privacy focused."
+    titleText="为什么人们使用&nbsp;NavCoin?"
+    subtitleText="它便宜、快捷、环保、注重隐私。"
 >}}
     {{< long_text
-        titleText="Be your own bank"
+        titleText="做你自己的银行"
         imgSrc="/images/why-navcoin/why-own-bank.svg"
-        text="There are no banks or intermediaries that run NavCoin, and no one you need to deposit your money with. All payments are peer to peer, and managed by your wallet. Unlike the current system, you have total control of your money, and a say in how the network&nbsp;is&nbsp;run."
+        text="不存在运营NavCoin的银行或中介机构，你也不需要向任何人存钱。所有的支付都是对等的，由您的钱包管理。不像现在的系统，你可以完全控制你的钱，并且对网络的运行&nbsp;具有&nbsp;发言权。"
 
     >}}
     {{< long_text
-        titleText="Privacy"
+        titleText="隐私"
         imgSrc="/images/why-navcoin/why-privacy.svg"
-        text="Blockchains by their nature are public ledgers that allows anyone to view every transaction ever sent, which makes privacy a challenge. NavCoin is dedicated to providing privacy for users, so that your information can only be given with your consent,&nbsp;not&nbsp;taken."
+        text="区块链本质上是公共账本，任何人都可以查看每一笔交易，这给隐私带来了挑战。NavCoin致力于为用户提供隐私，您的信息只能在您同意的情况下提供，不能&nbsp;被&nbsp;窃取。"
 
     >}}
     {{< long_text
-        titleText="Cold staking"
+        titleText="冷加注"
         imgSrc="/images/why-navcoin/why-peer.svg"
-        text="Security is the number one priority for NavCoin, which makes cold staking an important upcoming feature to be implemented. Instead of having all your coins connected to the internet - this allows you to participate in staking the network, while also keeping your coins offline for&nbsp;added&nbsp;protection."
+        text="安全是NavCoin的首要任务，这使得冷加注成为即将实现的一个重要特性。而不是让你所有的硬币连接到互联网上-这让你参与加注的网络，同时也保持你的硬币离线，这样可以&nbsp;增加&nbsp;保护性。"
 
     >}}
     {{< long_text
-        titleText="A network that never sleeps"
+        titleText="永不停息的网络"
         imgSrc="/images/why-navcoin/why-247.svg"
-        text="With nodes all around the world, the NavCoin network is running 24/7. As long as you’re connected to the internet, you can send & receive payments anywhere in the world, at any time of the day, with no downtime - making it ideal for&nbsp;digital&nbsp;commerce."
+        text="有了遍布世界各地的节点，NavCoin网络全天候运行。只要你连接上互联网，你就可以在世界任何地方、任何时间发送和接收支付，没有停机时间——这使它成为数字商务的&nbsp;理想&nbsp;选择。"
 
     >}}
     {{< long_text
-        titleText="A human readable address"
+        titleText="可读地址"
         imgSrc="/images/why-navcoin/why-fair.svg"
-        text="You can personalise your wallet using OpenAlias, which allows you to create an email-style address for your NAV. The service is built on top of the worldwide DNS service to convert a domain name into a cryptocurrency address, making sending a payment easier&nbsp;than&nbsp;ever."
+        text="您可以个性化您的钱包使用OpenAlias，这允许您创建一个email-style 的地址为您的导航。该服务建立在全球DNS服务之上，将域名转换为加密货币地址，使发送支付比以往任何时候都&nbsp;更&nbsp;便捷。"
 
     >}}
     {{< long_text
-        titleText="Frictionless payments"
+        titleText="无冲突支付"
         imgSrc="/images/why-navcoin/why-low-fee.svg"
-        text="In the digital economy, sending payments around the world should be fast, cheap, and easy to do. NavCoin can be sent for a fraction of a cent, will show up within seconds (confirmed in 30 seconds), and there are a range of wallets designed to make sending&nbsp;NAV&nbsp;effortless."
+        text="在数字经济中，向世界各地发送支付应该是快速、便宜和便捷的。NavCoin可以以不到一美分的价格发送，会在几秒钟内显示(30秒内确认)，还有一系列钱包可以让发送导航&nbsp;变得&nbsp;轻松。"
 
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
-  titleText="History Of NavCoin"
+  titleText="NavCoin历史"
   imgSrc="/images/why-navcoin/why-history.svg"
   buttonUrl="/governance/"
-  buttonText="Read more about governance"
+  buttonText="了解更多关于治理的内容"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="true"
+  bgPurple="正确的"
 >}}
-NavCoin is a community-run network that was started in 2014. It initially used Proof of Work, but quickly made the shift to Proof of Stake. With no ICO or premine, NavCoin has always been self-funded to ensure a fair distribution and that everyone has a chance to&nbsp;get&nbsp;involved.
+NavCoin是一个社区运营的网络，成立于2014年。它最初使用的是工作量证明，但很快就转向了股权证明。在没有ICO或premine的情况下，NavCoin一直是自筹资金，以确保公平分发，确保每个人都有机会&nbsp;参与&nbsp;进来。
 {{< /zig_section>}}
 
 {{< item_container_section
-    titleText="How To Use&nbsp;NavCoin"
-    subtitleText="A programmable currency for the web3 era, with a range of&nbsp;use&nbsp;cases."
+    titleText="如何使用&nbsp;NavCoin"
+    subtitleText="一个web3时代的拥有一系列的用例的&nbsp;可编程的&nbsp;货币。"
 >}}
     {{< feature
-        titleText="Buying goods & services"
+        titleText="购买商品和服务"
         imgSrc="/images/why-navcoin/why-buy.svg"
-        text="A cheaper way to pay for goods & services - with no&nbsp;expensive&nbsp;chargebacks."
+        text="A更便宜的方式支付商品和服务-没有&nbsp;昂贵的&nbsp;退款。"
     >}}
     {{< feature
-        titleText="Digital tip jar"
+        titleText="数字提示瓶"
         imgSrc="/images/why-navcoin/why-digital-tips.svg"
-        text="If you’ve got space to add a QR code, you’re able to accept NAV - it’s&nbsp;that&nbsp;easy."
+        text="如果你有空间添加二维码，你可以接受NAV，这&nbsp;很&nbsp;简单."
     >}}
     {{< feature                 
-        titleText="Transparent funding"
+        titleText="公开的资金"
         imgSrc="/images/why-navcoin/why-conditional-payment.svg"
-        text="Projects can be held accountable to stakeholders through transparency of&nbsp;spending."
+        text="项目可以通过支出的透明度对利益相关者&nbsp;负责。"
     >}}
     {{< feature                 
-        titleText="Borderless payments"
+        titleText="无界限支付"
         imgSrc="/images/why-navcoin/why-international.svg"
-        text="Low-cost money transfers makes doing international business&nbsp;even&nbsp;easier."
+        text="低成本的转帐使得国际贸易&nbsp;更加&nbsp;容易。"
     >}}
     {{< feature                 
-        titleText="Multi-person wallets "
+        titleText="多人钱包 "
         imgSrc="/images/why-navcoin/why-crowdfunding.svg"
-        text="Create a shared account with family or friends, with a range of&nbsp;security&nbsp;options."
+        text="可以与家人或朋友共享一个账户，并提供一系列&nbsp;安全&nbsp;选项。"
     >}}
     {{< feature                 
-        titleText="Store of wealth"
+        titleText="储存财富"
         imgSrc="/images/why-navcoin/why-wealth.svg"
-        text="NavCoin doesn’t require any central authority to run - meaning your money is in&nbsp;your&nbsp;control."
+        text="NavCoin不需要任何中央权威机构来运行——这意味着你的钱在你的&nbsp;掌控&nbsp;之中。"
     >}}
 {{< /item_container_section >}}
 
 
 {{< item_container_section
-    titleText="A Developer-Centric Community"
-    subtitleText="Making it easy for developers to get involved."
-    bgPurple="true"
+    titleText="一个开发者集中的社区"
+    subtitleText="让开发人员更容易参与其中."
+    bgPurple="正确的"
 >}}
     {{< feature
-        titleText="Lots of ways to get involved"
+        titleText="很多可以参与进来的方式"
         imgSrc="/images/why-navcoin/why-decentralised-dev.svg"
-        text="NavCoin is an ecosystem of different teams and projects - allowing for a number of ways to&nbsp;get&nbsp;involved."
+        text="NavCoin是一个由不同团队和项目组成的生态系统，允许多种方式&nbsp;参与&nbsp;其中。"
     >}}
     {{< feature
-        titleText="Community fund"
+        titleText="社区资金"
         imgSrc="/images/why-navcoin/why-cfund.svg"
-        text="NavCoin’s Community Fund allows contributors to get paid by the network for&nbsp;their&nbsp;efforts."
+        text="社区资金允许做贡献者通过网络&nbsp;获得&nbsp;报酬"
     >}}
     {{< feature                 
-        titleText="Proof of Stake Alliance member"
+        titleText="股权证明联盟成员"
         imgSrc="/images/why-navcoin/why-pos-alliance.svg"
-        text="Which aims to collaboratively research the PoS protocol - alongside PivX, Blackcoin, Particl, Komodo,&nbsp;and&nbsp;more."
+        text="与PivX、Blackcoin、particle、Komodo等一起合作研究PoS协议的目标&nbsp;是&nbsp;什么."
     >}}
     {{< feature                 
-        titleText="Active research & development"
+        titleText="积极研发"
         imgSrc="/images/why-navcoin/why-research.svg"
-        text="NavCoin Protocol Improvement Proposals (NPIPs) are the research playground where cryptographers, economists, and developers&nbsp;collaborate."
+        text="NavCoin协议改进建议是(NPIPs)属于密码学家、经济学家和开发人员合作的&nbsp;研究&nbsp;领域。"
     >}}
     {{< feature                 
-        titleText="Programmable money"
+        titleText="可编程的钱"
         imgSrc="/images/why-navcoin/why-digital-money.svg"
-        text="Digitizing money allows it to be programmable, automatable, and interactable in new and&nbsp;interesting&nbsp;ways."
+        text="数字化货币使其可编程，自动化，并以新的和有趣的&nbsp;方式&nbsp;互动。"
     >}}
     {{< feature                 
-        titleText="An easy payment solution"
+        titleText="一个简易的支付方案"
         imgSrc="/images/why-navcoin/why-easy-pay.svg"
-        text="You don't need to sign up with anything in order to accept payments. It's as easy as showing your address or&nbsp;QR&nbsp;code!"
+        text="你不需要签署任何东西来接受付款。这就像出示你的地址或二维码&nbsp;一样&nbsp;简单!"
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
-titleText="Protocol Roadmap"
+titleText="协议路线图"
 imgSrc="/images/why-navcoin/why-roadmap.svg"
 buttonUrl="/roadmap/"
-buttonText="Check out where we're going"
+buttonText="看看我们以后如何发展"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
-reversed="true"
+reversed="正确的"
 >}}
-With an active community working on the NavCoin protocol, check out the roadmap to see what's&nbsp;coming&nbsp;next.
+有一个活跃的社区致力于NavCoin协议，请查看路线图，看看接下来会&nbsp;发生&nbsp;什么。
 {{< /zig_section>}}

@@ -1,5 +1,5 @@
 ---
-title: "For Business"
+title: "商业"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
@@ -7,87 +7,87 @@ author: ""
 description: ""
 ---
 {{< hero_section
-titleText="NavCoin For Business"
-paragraphText="Is your business ‘future ready?’ More and more people are looking for ways to pay using their digital currency. If you want to stay ahead of the trend, now’s the time to start accepting it at your store and online. NavCoin has the right payment solution for your&nbsp;business."
+titleText="NavCoin 商业"
+paragraphText="你的企业的未来准备好了吗?越来越多的人在寻找使用数字货币支付的方式。如果你想走在潮流的前面，现在是时候开始在你的商店和网上接受它了。NavCoin为您的企业提供了正确的支付&nbsp;解决方案。"
 imgSrc="/images/for-business/bus-hero.svg"
 >}}
 
 {{< item_container_section 
-    titleText="Why NavCoin Is Good For&nbsp;Business"
+    titleText="NavCoin为什么是一个好的&nbsp;商业"
     subtitleText=""
 >}}
     {{< feature 
-        titleText="Fast payments"
+        titleText="快速支付"
         imgSrc="/images/for-business/bus-fast-payment.svg"
-        text="Transactions show up in as little as five seconds, and confirmed in thirty&nbsp;seconds."
+        text="交易在短短5秒内出现，并在30秒内&nbsp;确认。"
     >}}
     {{< feature 
-        titleText="Secure"
+        titleText="安全"
         imgSrc="/images/for-business/bus-secure.svg"
-        text="Payment records permanently stored on a decentralized network, with 24/7&nbsp;access."
+        text="支付记录永久存储在一个分散的网络上，24/7制&nbsp;访问."
     >}}
     {{< feature                 
         titleText="Simple"
         imgSrc="/images/for-business/bus-simple.svg"
-        text="Payment is easy as scanning a QR code. Funds automatically transfer to your NavCoin&nbsp;wallet."
+        text="付款就像扫描二维码一样简单。资金自动转移到您的NavCoin&nbsp;钱包。"
     >}}
     {{< feature                 
-        titleText="Low fees"
+        titleText="低费用"
         imgSrc="/images/for-business/bus-low-fee.svg"
-        text="NavCoin is one of world's cheapest payment networks in the world, with fees typically under one&nbsp;percent."
+        text="NavCoin是世界上最便宜的支付网络之一，收费通常低于&nbsp;1%。"
     >}}
     {{< feature                 
-        titleText="Eco-friendly"
+        titleText="环保"
         imgSrc="/images/for-business/bus-eco.svg"
-        text="Join a payment network that consumes only a fraction of the energy of other&nbsp;networks."
+        text="只消耗其他网络一小部分能量的&nbsp;支付网络。"
     >}}
     {{< feature                 
         titleText="Flexibility"
         imgSrc="/images/for-business/bus-flex.svg"
-        text="A range of payment options to suit your business requirements, with even more in&nbsp;development."
+        text="一系列支付选项，以满足您的业务需求，甚至更多的功能还在&nbsp;开发中。"
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
-  titleText="Accept Payments In Person"
+  titleText="接受当面付款"
   imgSrc="/images/for-business/bus-for-store.svg"
-  buttonText="Visit NavPay"
+  buttonText="访问NavPay"
   buttonUrl="https://navhub.org/projects/nav-pay/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. With no blockchain to download, it's an easy way to get&nbsp;started.
+NavPay是一款与智能手机或台式电脑兼容的轻型钱包。顾客只需扫描你的二维码，他们的钱几乎立刻就会转到你的钱包里。没有区块链需要下载，这是一种简单的入门&nbsp;方法。
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="Accept Online Payments"
+titleText="接受在线支付"
 imgSrc="/images/for-business/bus-for-bus.svg"
-buttonText="Visit CoinPayments"
+buttonText="访问硬币支付"
 buttonUrl="https://www.coinpayments.net/"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 newTab="true"
 >}}
-CoinPayments is a little like PayPal, but for digital currencies. Plug-ins include a shopping cart, payment button, invoicing, and point-of-sale interface. If your business is in the EuroZone or USA, you can withdraw funds in EURO or&nbsp;USD.
+硬币支付有点像PayPal，不过是数字货币。插件包括购物车、付款按钮、结账和销售点界面。如果您的业务在欧元区或美国，您可以提取欧元或美元的&nbsp;资金。
 {{< /zig_section>}}
 
 {{< zig_section
-  titleText="Accept Personal Payments"
+  titleText="接受个人支付"
   imgSrc="/images/for-business/bus-for-blog.svg"
-  buttonText="View buttons here"
+  buttonText="访问视图按钮"
   buttonUrl="https://brianium.github.io/nav-button/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-Integrating NavButtons for quick payments is an easy to implement option that suits individuals or side businesses. It’s as easy as copy-pasting some code onto your website. There is a choice of embeddable buttons, or QR codes for even easier&nbsp;sharing.
+集成导航按钮进行快速支付是一个很容易实现的选项，适合个人或副业。这就像复制粘贴一些代码到你的网站上一样简单。你可以选择嵌入按钮，或者二维码，这样更容易&nbsp;分享。
 {{< /zig_section>}}
 
 {{< center_text_cta
-    lightStyle="true"
-    titleText="Who's Accepting NAV?"
-    buttonText="Find merchants here"
+    lightStyle="正确的"
+    titleText="哪些人在接受 NAV?"
+    buttonText="可以在这里参看商人"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/merchants/"
-    innerText="A number of businesses have already begun to integrate NavCoin as a payment option, and with them you can easily purchase a range of products and&nbsp;services.">}}
+    buttonLink="/商人/"
+    innerText="许多企业已经开始将NavCoin集成为一种支付选项，使用它，您可以轻松地购买一系列产品和&nbsp;服务。">}}
