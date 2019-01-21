@@ -28,7 +28,7 @@ description: "El fondo comunitario de NavCoin es un sistema de incentivación de
     {{< feature
         titleText="2: Voto"
         imgSrc="/images/community-fund/cfu-vote.svg"
-        text="Todas los nodos que participan en la prueba de participacion pueden votar por Si o No con el peso de sus&nbsp;monedas."
+        text="Todos los nodos que participan en la prueba de participacion pueden votar por Si o No con el peso de sus&nbsp;monedas."
     >}}
     {{< feature                 
         titleText="3: Pago"
@@ -49,25 +49,25 @@ description: "El fondo comunitario de NavCoin es un sistema de incentivación de
     {{< feature
         titleText="Disponible para todos"
         imgSrc="/images/community-fund/cfu-anyone.svg"
-        text="Anyone and everyone can get involved by submitting a proposal - leaving it to the network to decide what's most&nbsp;valuable."
+        text="Todos pueden participar enviando una propuesta, dejándole a la comunidad elejir cúal es la de mayor&nbsp;valor."
     >}}
     {{< feature                 
-        titleText="No centralised fund"
+        titleText="El fondo no es centralizado"
         imgSrc="/images/community-fund/cfu-decentralised-fund.svg"
-        text="No one owns the NAV in the Community Fund, the only way they can ever be spent is by the dual network consensus&nbsp;vote."
+        text="Nadie es el dueño de las monedas de NAV en el Fondo Comunitarios, la única manera de recibir fondos es bajo el concenso de doble&nbsp;voto."
     >}}
     {{< feature                 
-        titleText="500,000 NAV per year"
+        titleText="500,000 NAVs cada año"
         imgSrc="/images/community-fund/cfu-fund-per-year.svg"
-        text="Every block that gets minted generates 0.25 NAV into the community fund which accumulates over&nbsp;time."
+        text="Cada bloque genera 0.25 Navs acumulándose directamente en el Fondo&nbsp;Comunitarios."
     >}}
     {{< feature                 
-        titleText="Different ways to get paid"
+        titleText="Distintas maneras de pagos"
         imgSrc="/images/community-fund/cfu-get-paid.svg"
-        text="Funds get released through a second vote - which can be paid out in stages or once the work is&nbsp;completed."
+        text="Los fondos son liberados a través de una segunda ronda de votación, la cúal puede ser pagada en cuotas o cuando el proyecto sea&nbsp;finalizado."
     >}}
     {{< feature                 
-        titleText="The network decides"
+        titleText="La red es la que decide"
         imgSrc="/images/community-fund/cfu-network.svg"
         text="The community fund gives more power to the community - by funding people to get involved, and giving the network more of a voice about the direction of&nbsp;NavCoin."
     >}}
