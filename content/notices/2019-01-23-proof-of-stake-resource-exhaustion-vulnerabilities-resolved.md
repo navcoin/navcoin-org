@@ -7,11 +7,14 @@ feature_image: /images/uploads/pos-resource-ex-vulnerabilities.png
 notice_categories:
   - General Notices
 ---
+NavCoin Core have successfully resolved the "Fake Stake" resource exhaustion attack as described by Andrew Miller and his team of students based out of the University of Illinois.
+<!-- more -->
+
 On the 22nd of September 2018 NavCoin Core were notified of a resource exhaustion vulnerability which was present in NavCoin and several other Proof of Stake cryptocurrencies. The vulnerability was discovered by [Andrew Miller](https://ece.illinois.edu/directory/profile/soc1024), Researcher and Assistant Professor of Electrical & Computer Engineering at the University of Illinois.
 
 Professor Miller provided NavCoin Core with detailed information about the vulnerability and a test suite demonstrating the vulnerability.
 
-In Professor Millers words, the resource exhaustion vulnerability can be described as: 
+In Professor Millers words, the resource exhaustion vulnerability can be described as:
 
 “An attacker that connects to a victim node as a peer can send invalid blocks and/or headers, which are stored in RAM or on disk without being validated. The consequence is that an attacker can connect to a victim node and fill its disk or RAM, until the node crashes or slows.”
 
@@ -23,7 +26,7 @@ While this type of attack doesn’t target user funds directly, it makes it poss
 
 Professor Miller advised NavCoin Core of the timeline for public disclosure of what he had discovered, giving NavCoin Core and the other affected cryptocurrency engineers the opportunity to implement fixes prior to the publishing of his findings.
 
-NavCoin Core experimented with various mitigation strategies since there was no definitive fix immediately found by Professor Miller or any of the other affected dev teams. After trialling a few different approaches we decided to go with the mitigation which was designed by the [Qtum](https://qtum.org) team. 
+NavCoin Core experimented with various mitigation strategies since there was no definitive fix immediately found by Professor Miller or any of the other affected dev teams. After trialling a few different approaches we decided to go with the mitigation which was designed by the [Qtum](https://qtum.org) team.
 
 This mitigation involves detecting when a node is spamming headers and then refusing to accept more headers from the misbehaving node. The mitigation was proven as successful by running the tests originally provided by Professor Miller against the updated NavCoin Core daemon and confirming the amount of headers received from the spamming node were significantly reduced.
 
@@ -37,7 +40,7 @@ You can see in the chart at the end of the article that NavCoin is one of only a
 
 We would like to thank Professor Miller for his research and for responsibly disclosing this vulnerability to all affected parties, the affected parties for working together to find a solution and everyone involved for not attempting to use the information maliciously in any way.
 
-We would also like to acknowledge NavCoin Core’s adherence to the [NavCoin Core Developer Manifesto](https://navcoin.org/en/governance/#read-manifestos) by not using this information to participate in hostile actions (1.1.5) and to handle critical live bugs with discretion until a patch is available (1.4.5). 
+We would also like to acknowledge NavCoin Core’s adherence to the [NavCoin Core Developer Manifesto](https://navcoin.org/en/governance/#read-manifestos) by not using this information to participate in hostile actions (1.1.5) and to handle critical live bugs with discretion until a patch is available (1.4.5).
 
 We hope that you can understand the need to handle this vulnerability with discretion even after it was patched on the NavCoin network to provide all projects with ample opportunity to resolve the issue without experiencing network disruptions.
 
