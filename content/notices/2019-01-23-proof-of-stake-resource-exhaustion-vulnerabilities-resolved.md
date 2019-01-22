@@ -8,7 +8,7 @@ notice_categories:
   - General Notices
 ---
 NavCoin Core have successfully resolved the "Fake Stake" resource exhaustion attack as described by Andrew Miller and his team of students based out of the University of Illinois.
-<!-- more -->
+<!--more-->
 
 On the 22nd of September 2018 NavCoin Core were notified of a resource exhaustion vulnerability which was present in NavCoin and several other Proof of Stake cryptocurrencies. The vulnerability was discovered by [Andrew Miller](https://ece.illinois.edu/directory/profile/soc1024), Researcher and Assistant Professor of Electrical & Computer Engineering at the University of Illinois.
 
