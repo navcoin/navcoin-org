@@ -1,9 +1,9 @@
 ---
 layout: notices
-title: Proof of Stake Resource Exhaustion Vulnerabilities Resolved
+title: "Fake Stake" Vulnerabilities Resolved
 author: Craig MacGregor
 date: '2019-01-23T12:28:15+13:00'
-feature_image: /images/uploads/pos-resource-ex-vulnerabilities.png
+feature_image: /images/uploads/fake-stake-resolved.png
 notice_categories:
   - General Notices
 ---
