@@ -8,7 +8,6 @@ notice_categories:
   - Mandatory Update
 ---
 NavCoin is hard forking at block **2722100** to mitigate an issue with the Community Fund expired proposal states. It is mandatory to update to NavCoin Core 4.5.1 before **Friday 21 December at 00:00AM GMT** to avoid network disruption. 
-
 <!--more-->
 
 Currently if a node reindexes their chainstate db, the node will recalculate the deadline of expired proposals and rewrite such proposals as accepted. A node which reindexes will end up with a different state and potentially reject blocks containing payment requests causing some users to end up on their own fork of the blockchain.
