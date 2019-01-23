@@ -1,6 +1,6 @@
 ---
 layout: notices
-title: "Fake Stake" Vulnerabilities Resolved
+title: “Fake Stake” Vulnerabilities Resolved
 author: Craig MacGregor
 date: '2019-01-23T12:28:15+13:00'
 feature_image: /images/uploads/fake-stake-resolved.png
