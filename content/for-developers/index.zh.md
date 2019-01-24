@@ -96,7 +96,7 @@ NavCoin的社区基金使任何开发者都可以通过网络获得他们对NavC
     titleText="NavCoin协议贡献者"
     subtitleText="我们要感谢我们的贡献者，他们让这个协议变得非常&nbsp;棒!"
     buttonUrl="https://github.com/NAVCoin/navcoin-core/graphs/contributors"
-    buttonTxt="View NavCoin on GitHub"
+    buttonTxt="在GitHub上查阅NavCoin"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
 <script>
