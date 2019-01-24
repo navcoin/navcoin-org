@@ -42,7 +42,7 @@ imgSrc="/images/for-business/bus-hero.svg"
         text="只消耗其他网络一小部分能量的&nbsp;支付网络。"
     >}}
     {{< feature                 
-        titleText="Flexibility"
+        titleText="灵活性"
         imgSrc="/images/for-business/bus-flex.svg"
         text="一系列支付选项，以满足您的业务需求，甚至更多的功能还在&nbsp;开发中。"
     >}}
