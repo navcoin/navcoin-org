@@ -85,7 +85,7 @@ newTab="true"
 {{< /zig_section>}}
 
 {{< center_text_cta
-    lightStyle="正确的"
+    lightStyle="true"
     titleText="哪些人在接受 NAV?"
     buttonText="可以在这里参看商人"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
