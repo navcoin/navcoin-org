@@ -89,5 +89,5 @@ newTab="true"
     titleText="哪些人在接受 NAV?"
     buttonText="可以在这里参看商人"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/商人/"
+    buttonLink="/merchants/"
     innerText="许多企业已经开始将NavCoin集成为一种支付选项，使用它，您可以轻松地购买一系列产品和&nbsp;服务。">}}
