@@ -116,7 +116,7 @@ newTab="正确的"
     newTab="正确的"
 >}}
     {{< action
-        titleText="窗口"
+        titleText="Windows"
         imgSrc="/images/wallets/wal-windows.svg"
         subtext=""
         linkText="下载"
