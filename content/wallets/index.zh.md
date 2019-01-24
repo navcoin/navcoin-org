@@ -111,7 +111,7 @@ newTab="正确的"
     bgPurple="正确的"
     anchor="download-core"
     buttonUrl="https://github.com/NAVCoin/navcoin-core/releases/latest"
-    buttonText="先进的下载"
+    buttonText="高级下载"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     newTab="正确的"
 >}}
