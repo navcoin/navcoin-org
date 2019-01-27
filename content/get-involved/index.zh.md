@@ -49,7 +49,7 @@ newTab="true"
   <li>对问题的清晰描述以及重现问题的&nbsp;步骤。</li>
   <li>您使用的是什么版本的NavCoin Core，或者您使用什么提交构建的.</li><li>从您的debug.log 文件中来的任何相关条目。请确保在发布您的debug.log之前已经删除任何敏感 &nbsp;信息。</li>
 </ul>
-<p class="paragraph-text">The best strategy to get your issue fixed quickly is to make it as easy as possible for the development team to 跟踪问题并编写修复程序。提供更多的信息并组织好这些信息将大有&nbsp;帮助。</p>
+<p class="paragraph-text">解决您所关心的问题的最佳和最快策略是让开发团队尽可能轻松地跟踪到问题并编写修复程序。如果您可以提供尽可能详实的信息并清晰的呈现问题，这将能最大程度的帮助我们的开发&nbsp;团队。</p>
 {{< /zig_section>}}
 
 {{< zig_section
