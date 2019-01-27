@@ -9,7 +9,7 @@ description: "是公开开采的，没有代币销售。购买NavCoin的唯一�
 {{< hero_section
 titleText="购买NavCoin"
 imgSrc="/images/buy-navcoin/buy-hero.svg"
-paragraphText="NavCoin是公开开采的，没有代币销售。获得资产净值的唯一方法是从第三方或交易所购买。交换提供了高度不同程度的安全性、安全性、隐私以及对您的资金和信息的控制。执行您自己的尽职调查，并选择一个钱包，您将保留您的NavCoin在选择一个交易所。请按此连结查阅兑换金额，以获取更多资讯。"
+paragraphText="Nav币是公开挖掘的，没有任何代币销售。 获得NAV的唯一方法是从第三方或交易所购买。 交易所提供不同程度的安全性，隐私的保障以及个性化的资金和信息的管理。 执行您可以选择一个私人钱包，在交换之前存储您的Nav币。 请点击链接查看交易量并获取更多信息。"
 buttonText="查看市场数据"
 buttonLink="https://coinmarketcap.com/currencies/nav-coin/#markets"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
