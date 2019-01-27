@@ -47,7 +47,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
   {{< step
       titleText="第5步：花费 NavCoin"
       imgSrc="/images/for-beginners/beg-spend.svg"
-      text="你可以用你的NavCoin在网上和商店里买各种各样的东西。看看这些接受导航和显示你的支持的&nbsp;商家。"
+      text="您可以使用您的Nav币在线和商店购买各种商品。 查看这些接受NAV币的商家并展示您的&nbsp;支持。"
       buttonText="商人"
       buttonUrl="/merchants"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
