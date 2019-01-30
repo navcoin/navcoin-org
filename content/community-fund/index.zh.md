@@ -18,51 +18,51 @@ description: "NavCoin社区基金是一个NAV池，用来帮助kickstart社区�
 
 
 {{< item_container_section
-    titleText="世界上最先进的社区&nbsp;资金"
-    subtitleText="项目由没有中央权力的去中心化网络资助和核准。这确保了NavCoin的方向始终坚定地符合整个网络的最佳利益。如果您你的想法被采纳，这个资金资助培养它，并建立一个团队来实现&nbsp;它。"
+    titleText="世界上最先进的社区资金"
+    subtitleText="项目由没有中央权力的去中心化网络资助和核准。这确保了NavCoin的方向始终坚定地符合整个网络的最佳利益。如果您你的想法被采纳，这个资金资助培养它，并建立一个团队来实现它。"
     >}}
     {{< feature
         titleText="两票制的共识"
         imgSrc="/images/community-fund/cfu-dual-vote.svg"
-        text="他首先对社区基金实行双重表决，以确保资金将被返还时，工作才算是&nbsp;完成。"
+        text="他首先对社区基金实行双重表决，以确保资金将被返还时，工作才算是完成。"
     >}}
     {{< feature
         titleText="向任何人开放"
         imgSrc="/images/community-fund/cfu-anyone.svg"
-        text="任何人和每个人都可以通过提交提案参与进来——让网络来决定什么是&nbsp;最有价值的。"
+        text="任何人和每个人都可以通过提交提案参与进来——让网络来决定什么是最有价值的。"
     >}}
     {{< feature                 
         titleText="去中心化资金"
         imgSrc="/images/community-fund/cfu-decentralised-fund.svg"
-        text="没有人拥有社区基金的NAV，唯一可以使用的方式就是通过双网络共识投票来&nbsp;实现。"
+        text="没有人拥有社区基金的NAV，唯一可以使用的方式就是通过双网络共识投票来实现。"
     >}}
     {{< feature                 
         titleText="每年500,000 NAV"
         imgSrc="/images/community-fund/cfu-fund-per-year.svg"
-        text="随着时间累计，每一个被铸造的块产生0.5NAV到社区&nbsp;资金。"
+        text="随着时间累计，每一个被铸造的块产生0.5NAV到社区资金。"
     >}}
     {{< feature                 
         titleText="获取奖励的不同方式"
         imgSrc="/images/community-fund/cfu-get-paid.svg"
-        text="资金通过第二轮投票发放，可以分阶段发放，也可以在工作完成后&nbsp;发放。"
+        text="资金通过第二轮投票发放，可以分阶段发放，也可以在工作完成后发放。"
     >}}
     {{< feature                 
         titleText="网络决定"
         imgSrc="/images/community-fund/cfu-network.svg"
-        text="社区基金给了社区更多的权力——通过资助人们参与进来，并向网络对NavCoin的发展方向提出更多的&nbsp;意见。"
+        text="社区基金给了社区更多的权力——通过资助人们参与进来，并向网络对NavCoin的发展方向提出更多的意见。"
     >}}
 {{< /item_container_section >}}
 
 <section class="item-container-section  bg-purple " id="">
     <div class="ninety-vw-container" style="最大宽度: 1400px;">
-        <h1 class="container-title">How The Fund Works In 4&nbsp;Steps</h1>
+        <h1 class="container-title">How The Fund Works In 4 Steps</h1>
         <h3 class="container-subtitle"></h3>
         <div class="grid-container" style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));">
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="/images/community-fund/cfu-submit.svg" alt="" class="item-icon">
                     <h3>第1步: 提交提案</h3>
-                    <p style="边距－页尾: 10%">构想出您希望在NavCoin生态系统中看到的改进内容，并向网络提交您的&nbsp;建议。</p>
+                    <p style="边距－页尾: 10%">构想出您希望在NavCoin生态系统中看到的改进内容，并向网络提交您的建议。</p>
                     <a href="https://communityfund.nav.community/create-proposal" target="_blank" class="round-btn small gradient-btn">创建提案        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
@@ -71,7 +71,7 @@ description: "NavCoin社区基金是一个NAV池，用来帮助kickstart社区�
                 <div class="feature-card">
                     <img src="/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
                     <h3>第2步: 提案投票</h3>
-                    <p style="边距－页尾: 10%">任何在NavCoin网络加注的人都可以用他们的网络实力对每一个提案投“是”或“否”&nbsp;票。</p>
+                    <p style="边距－页尾: 10%">任何在NavCoin网络加注的人都可以用他们的网络实力对每一个提案投“是”或“否”票。</p>
                     <a href="https://communityfund.nav.community/?PENDING=on" target="_blank" class="round-btn small gradient-btn">查看所有提案       <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
@@ -89,7 +89,7 @@ description: "NavCoin社区基金是一个NAV池，用来帮助kickstart社区�
                 <div class="feature-card">
                     <img src="https://d33wubrfki0l68.cloudfront.net/a6136e0554b83cc742e44f715978ee9fbd3c7791/88e3e/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
                     <h3>第4步: 支付投票</h3>
-                    <p style="边距－页尾: 10%">一旦达到一个里程碑，网络投票以确保项目在正轨上，从而释放&nbsp;资金。</p>
+                    <p style="边距－页尾: 10%">一旦达到一个里程碑，网络投票以确保项目在正轨上，从而释放资金。</p>
                     <a href="https://communityfund.nav.community/?ACCEPTED=on&PENDING_PR=on" target="_blank" class="round-btn small gradient-btn">查看支付请求        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
