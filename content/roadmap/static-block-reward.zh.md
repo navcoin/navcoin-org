@@ -8,4 +8,4 @@ status: 已完成
 externalUrl: https://github.com/NAVCoin/npips/blob/master/npip-0004.mediawiki
 ---
 
-将区块奖励从基于百分比修改为静态，用以提高网络&nbsp;安全性，并使NavCoin与posv3规范保持&nbsp;一致。
+将区块奖励从基于百分比修改为静态，用以提高网络安全性，并使NavCoin与posv3规范保持一致。
