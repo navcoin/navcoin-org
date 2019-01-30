@@ -9,7 +9,7 @@ description: "El fondo comunitario de NavCoin es un sistema de incentivación de
     <div class="grid-container">
       <div class="text-container">
         <h1>Fondo comunitario</h1>
-        <p>NavCoin se construye gracias a su comunidad. Es un proyecto de código abierto que no ha sido ni preminado ni pertenece al formato ""ICO". El fondo comunitario de NavCoin permite a los contribuyentes del ecosistema ser remunerados por la red. Los proteyectos son aprobados y los fondos son liberados de una manera descentralizada sin autoridad central. De esta manera nos aseguramos que la dirección de NAV es un fiel reflejo del interés de la comunidad autonoma.</p>
+        <p>NavCoin se construye gracias a su comunidad. Es un proyecto de código abierto que no ha sido ni preminado ni pertenece al formato "ICO". El fondo comunitario de NavCoin permite a los contribuyentes del ecosistema ser remunerados por la red. Los proteyectos son aprobados y los fondos son liberados de una manera descentralizada sin autoridad central. De esta manera nos aseguramos que la dirección de NAV es un fiel reflejo del interés de la comunidad autonoma.</p>
       </div>
       <img src="/images/community-fund/cfu-hero.png" alt="Hero image">
     </div>
@@ -69,12 +69,12 @@ description: "El fondo comunitario de NavCoin es un sistema de incentivación de
     {{< feature                 
         titleText="La red es la que decide"
         imgSrc="/images/community-fund/cfu-network.svg"
-        text="The community fund gives more power to the community - by funding people to get involved, and giving the network more of a voice about the direction of&nbsp;NavCoin."
+        text"El fondo comunitario le devuelve el poder del proyecto a la comunidad al financiar a los usuarios para que se involucren y darle a la red voz y voto para elegir la hacia donde debe ir el&nbsp;proyecto."
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
-  titleText="How Do I Get Involved?"
+  titleText="Como involucrarse"
   imgSrc="/images/community-fund/cfu-get-involved.svg"
   buttonText="Join the Collab"
   buttonUrl="https://collab.navcoin.org/"
