@@ -17,7 +17,7 @@ newTab="正确的"
 >}}
 {{< item_container_section
     titleText="交易所"
-    subtitleText="NavCoin在以下的交易所中&nbsp;找到"
+    subtitleText="NavCoin在以下的交易所中找到"
 >}}
     {{< exchange
         titleText="P网"
