@@ -8,4 +8,4 @@ status: 快完成了
 externalUrl: https://www.reddit.com/r/NavCoin/comments/9eevo4/little_update_from_dev_team/
 ---
 
-作为第二代“NavTech”区块链的替代品，一种在协议级别里新的隐私解决方案正在&nbs;开发中。
+作为第二代“NavTech”区块链的替代品，一种在协议级别里新的隐私解决方案正在开发中。
