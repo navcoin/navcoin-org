@@ -8,4 +8,4 @@ status: 已完成
 externalUrl: https://navhub.org/projects/open-alias/
 ---
 
-OpenAlias是一个开放标准，它允许用户将一个冗长的字母数字钱包地址转换为更易于阅读、编写和记忆的&nbsp;表单。
+OpenAlias是一个开放标准，它允许用户将一个冗长的字母数字钱包地址转换为更易于阅读、编写和记忆的表单。
