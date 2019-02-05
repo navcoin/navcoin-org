@@ -9,7 +9,7 @@ description: "El fondo comunitario de NavCoin es un sistema de incentivación de
     <div class="grid-container">
       <div class="text-container">
         <h1>Fondo comunitario</h1>
-        <p>NavCoin se construye gracias a su comunidad. Es un proyecto de código abierto que no ha sido ni preminado ni pertenece al formato "ICO". El fondo comunitario de NavCoin permite a los contribuyentes del ecosistema ser remunerados por la red. Los proteyectos son aprobados y los fondos son liberados de una manera descentralizada sin autoridad central. De esta manera nos aseguramos que la dirección de NAV es un fiel reflejo del interés de la comunidad autonoma.</p>
+        <p>NavCoin se construye gracias a su comunidad. Es un proyecto de código abierto que no ha sido ni preminado ni pertenece al formato "ICO". El fondo comunitario de NavCoin permite a los contribuyentes del ecosistema ser remunerados por la red. Los protyectos son aprobados y los fondos son liberados de una manera descentralizada sin autoridad central. De esta manera nos aseguramos que la dirección de NAV es un fiel reflejo del interés de la comunidad autonoma.</p>
       </div>
       <img src="/images/community-fund/cfu-hero.png" alt="Hero image">
     </div>
@@ -104,17 +104,17 @@ El portal de "NavCoin Collab" es el espacio donde la comunidad puede encontrar e
   itemFiveText="Una vez entregado el proyecto, el siguien paso es usar los canales sociales de la comunidad para promocionarlo. Es necesario comunicar porqué son necesarios los fondos y los beneficios que el proyecto traerá a la comunidad de&nbsp;itNavCoin."
 
   itemSixTitle="Paso 6 - Comienzo de la votacion."
-  itemSixText="To be eligible to vote you must be staking NavCoin. Each voting period lasts 20,000 blocks (roughly 7 days).<br><br><ul><li>The minimum participation rate of stakers needs to be 50%</li><br><li>Of that 50%, a proposal must receive 75% ‘yes’ votes to be accepted</li><br><li>67.5% ‘no’ votes will result in it being rejected.</li><br><li>Proposals that don't met the 50% participation rate after 6 block periods will timeout and need to be resubmitted."
+  itemSixText="Para poder votar en el fondo comunitario es necesario hacer "stakes" de NAV. Cada generación de bloques, equivale a 1 voto. Cada ronda de votacioóón dura 20,000 blocks (Alrededor de 7 días).<br><br><ul><li>La participación mínima de "Stakers" debe exceder el 50%</li><br><li>De dichos 50%, una propuesta debe recibir el 75% de votos positivos para ser aceptada</li><br><li>Un porcentaje del 70% de votos negativos resultará en un rechazo de la propuesta.</li><br><li> Si no llegan al umbral del 50% de votación, habrán 6 rondas más hasta que el proyecto necesite ser re-enviado."
 
-  itemSevenTitle="Step 7 - Begin the work."
-  itemSevenText="Start work and do your best to stick to your&nbsp;timeline.<br><br>Keep the community updated with how things are progressing in your project. It’s ok to ask for help along the&nbsp;way."
+  itemSevenTitle="Paso 7 - Comienzo del proyecto."
+  itemSevenText="Comienza el proyecto y trata de respetar los tiempos pre establecidos.<br><br>Es importante mantener a la comunidad informada sobre su progreso."
 
-  itemEightTitle="Step 8 - Apply for payment."
-  itemEightText="Once your project is complete you can apply for payment from the Community Fund. If there are clear milestones in your proposal you can apply to receive payments at scheduled points in the&nbsp;timeline.<br><br>Payment is subject to a second consensus vote among NavCoin stakers. There must be a 50% minimum participation, with 50% ‘yes’ vote to be paid and 50% ‘no’ for payment to be&nbsp;rejected.<br><br>Note that you will need to submit your payment request before the project expiration date (which you set when you create your proposal - so make sure to include some&nbsp;buffer)."
+  itemEightTitle="Paso 8 - Pago final."
+  itemEightText="Una vez terminado, es momento de hacer el pedido de pago del Fondo Comunitario. Si el proyecto se hace en distintos pasos, se pueden ir pidiendo pagos al alcanzar las metas&nbsp;concensuadas.<br><br>La liberación del pago estará sujeta a una segunada votacion entre los usuarios que hagan "Stake" con sus monedas. Nuevamente deberá haber un 50% mínima de participación pero en este paso el umbral de liberación o rechazo será del&nbsp;50%.<br><br>Los dueños de los proyectos DEBERÁN requerir los pagos antes de la fecha de expiración del&nbsp;proyecto."
 >}}
 
 {{< social_grid_section
-    titleText="Join Our Community"
+    titleText="Únanse a nuestra comunidad"
     subtitleText="Promote your proposal ideas to the NavCoin community to get feedback, find collaborators and get votes."
     bgPurple="true"
 >}}
