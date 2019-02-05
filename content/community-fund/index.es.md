@@ -69,41 +69,41 @@ description: "El fondo comunitario de NavCoin es un sistema de incentivación de
     {{< feature                 
         titleText="La red es la que decide"
         imgSrc="/images/community-fund/cfu-network.svg"
-        text"El fondo comunitario le devuelve el poder del proyecto a la comunidad al financiar a los usuarios para que se involucren y darle a la red voz y voto para elegir la hacia donde debe ir el&nbsp;proyecto."
+        text"El fondo comunitario le devuelve el poder del proyecto a la comunidad al financiar a los usuarios para que se involucren y darle a la red voz y voto para elegir hacia donde debe ir el&nbsp;proyecto."
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
   titleText="Como involucrarse"
   imgSrc="/images/community-fund/cfu-get-involved.svg"
-  buttonText="Join the Collab"
+  buttonText="Unirse a Collab"
   buttonUrl="https://collab.navcoin.org/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-The NavCoin Collab website is the space to find the range of projects that the community is working on. It acts as the ‘town square’, and makes it easier for the community to collaborate on projects&nbsp;together.
+El portal de "NavCoin Collab" es el espacio donde la comunidad puede encontrar el espectro de proyectos en los que se está trabajando. Funciona como un "centro de operaciones" y es la manera más fácil y practica de colaborar y discutir proyectos en&nbsp;conjunto.
 {{< /zig_section>}}
 
 {{< accordion
-  titleText="How To Create A&nbsp;Proposal"
-  subtitleText="We’ve got a process to help you ensure your proposal has the best chance of&nbsp;passing."
-  itemOneTitle="Step 1 - Develop your ideas."
-  itemOneText="Think of things that could inspire the NavCoin network. You can go it alone or discuss it with the community in <a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> or on the <a href=\"https://collab.navcoin.org\">NavCollab website</a>."
+  titleText="Instrucciones para crear una&nbsp;propuesta"
+  subtitleText="Hemos diseñado un proceso para ayudar para ayudar a que las propuestas tengan mayores posibilidades de ser aceptadas por nuestra&nbsp;comunidad."
+  itemOneTitle="Paso 1 - Desarrollo de la idea principal del proyecto."
+  itemOneText="Traer la idea a la comunidad de NavCoin para discutirla en nuestros canales de comunicación<a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> or on the <a href=\"https://collab.navcoin.org\">NavCollab</a>."
 
-  itemTwoTitle="Step 2 - Create a project page."
-  itemTwoText="It can be anywhere, but to give your project maximum visibility in the community consider using the <a href=\"\">NavCollab website</a>.<br><br>Work out the details of the project. You need to communicate why the NavCoin community should fund it, if you need to tap into other people’s skills, and how long it will take from start to finish. <br><br>Your proposal might suiting being funded in stages, especially if it’s long term devising a roadmap will help."
+  itemTwoTitle="Paso 2 - Crear la página del proyecto."
+  itemTwoText="Puede ser en cualquier lado, para mayor visibilidad recomendamos usar la página de <a href=\"\">NavCollab</a>.<br><br>Es importante especificar en detalle el proyecto. Lo más importante es explicar a la comunidad las razones por las cuales deberian financiarlo. Si es necesaria la ayuda externa y el tiempo que tomará desde el principio hasta la entrega final. <br><br>La propuesta puede ser financiada en distintas etapas, especialmente si es un proyecto largo."
 
-  itemThreeTitle="Step 3 - Create your team."
-  itemThreeText="Do you need other skills to bring your project to life? Use NavCoin’s social channels and the NavCollab website to find community members who can help you complete your project."
+  itemThreeTitle="Paso 3 - Crear el equipo."
+  itemThreeText="Si es necesaria ayuda externa para llevar a cabo el proyecto. No dudar en buscar colaborados en nuestros canales sociales para afianzar las posibilidades de completarlo en tiempo y forma."
 
-  itemFourTitle="Step 4 - Submit your proposal."
-  itemFourText="Complete the proposal form, including a link to your project page.<br><br>To complete the process, you will need to pay a proposal fee. If the fund has only a small amount of NAV left, then the projects that pay the highest fees to the network will be accepted first. A fee is necessary to stop people submitting poorly thought out&nbsp;proposals."
+  itemFourTitle="Paso 4 - Entregar la propuesta para la votación."
+  itemFourText="Solo basta completar el formulario del proyecto incluyendo un enlace a la página del proyecto.<br><br>Luego para finalizarlo hará falta pagar la tasa de la propuesta unos 50 NAVs. Dicha tasa es necesaria para que usuarios no presentes proyectos innecesarios o malout&nbsp;ejecutados."
+  
+  itemFiveTitle="Paso 5 - Promover el proyecto a la comunidad."
+  itemFiveText="Una vez entregado el proyecto, el siguien paso es usar los canales sociales de la comunidad para promocionarlo. Es necesario comunicar porqué son necesarios los fondos y los beneficios que el proyecto traerá a la comunidad de&nbsp;itNavCoin."
 
-  itemFiveTitle="Step 5 - Promote your project to stakers."
-  itemFiveText="Once you’ve submitted your proposal, promote your project using the community channels. Communicate why you think it’s worth funding what benefits will it bring? Why should the community support&nbsp;it?"
-
-  itemSixTitle="Step 6 - Voting begins."
+  itemSixTitle="Paso 6 - Comienzo de la votacion."
   itemSixText="To be eligible to vote you must be staking NavCoin. Each voting period lasts 20,000 blocks (roughly 7 days).<br><br><ul><li>The minimum participation rate of stakers needs to be 50%</li><br><li>Of that 50%, a proposal must receive 75% ‘yes’ votes to be accepted</li><br><li>67.5% ‘no’ votes will result in it being rejected.</li><br><li>Proposals that don't met the 50% participation rate after 6 block periods will timeout and need to be resubmitted."
 
   itemSevenTitle="Step 7 - Begin the work."
