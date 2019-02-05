@@ -82,12 +82,12 @@ CoinPayments funciona de manera similar a PayPal, se incluyen "plug-ins" como un
   bgPurple="true"
   newTab="true"
 >}}
-La integración de los "NavButtons para pagos rápidos es una manera fácil de aceptar pagos individuales o de negocios secundarios. Es tan simple como "copiar-pegar" una linea de código a su página de&nbsp;internet.
+La integración de los "NavBottons" para pagos rápidos es una manera fácil de aceptar pagos individuales o de negocios secundarios. Es tan simple como "copiar-pegar" una linea de código a su página de&nbsp;internet.
 {{< /zig_section>}}
 
 {{< center_text_cta
     lightStyle="true"
-    titleText="Participantes aceptando NAV?"
+    titleText="Participantes aceptando NAV"
     buttonText="Encuentre los negocios e individuos aceptando NavCoin"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants/"
