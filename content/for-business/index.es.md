@@ -58,7 +58,7 @@ imgSrc="/images/for-business/bus-hero.svg"
   bgPurple="true"
   newTab="true"
 >}}
-NavPay un monedero que funciona con teléfonos y ordenadores. Solo hace falta escanear un código QR y los fondos son transferidos de manera instantanea. No hace falta bajar la cadena de bloques lo cual lo hace rápido y&nbsp;conveniente.
+NavPay es un monedero que funciona con teléfonos y ordenadores. Solo hace falta escanear un código QR y los fondos son transferidos de manera instantanea. No hace falta bajar la cadena de bloques lo cual lo hace rápido y&nbsp;conveniente.
 {{< /zig_section>}}
 
 {{< zig_section
