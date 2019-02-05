@@ -69,13 +69,13 @@ El fondo comunitario de NAV permite a cualquier desarrollador ser remunerado por
     {{< long_text 
         titleText="Protocolo de NavCoin"
         imgSrc="/images/for-developers/dev-protocol.svg"
-        text="NavCoin is open-source and everyone can participate in making it better. Here’s where you can find the procedures to report an issue, fix a issue or suggest an improvement to the consensus&nbsp;protocol."
+        text="NavCoin es un proyecto de fuente abierta donde todos están invitados a mejorarlo. Aquí podran sugerir cambios, reportar fallas e incluso arreglarlas siempre preservando el consenso dentro del&nbsp;protocolo."
         buttonUrl="/get-involved/"
-        buttonText="Learn more"
+        buttonText="Más información"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
     >}}
     {{< long_text 
-        titleText="Community Projects"
+        titleText="Proyectos comunitarios"
         imgSrc="/images/for-developers/dev-projects.svg"
         text="NavCoin is more than just a protocol, it’s an ecosystem of websites, applications and devices which connect to the NavCoin protocol. Here’s where you can find out about contributing to community&nbsp;projects."
         buttonUrl="https://navhub.org"
