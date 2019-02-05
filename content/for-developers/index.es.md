@@ -3,54 +3,54 @@ title: "For Developers"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
-description: "NavCoin is a free and open-source project to which anyone can contribute. Its design is the collaborative effort of developers from all around the world."
+description: "NavCoin un proyecto de fuente abierta en el cual todos pueden participar. Está diseñado como un proyecto colaborativo con usuarios de todo el mundo."
 ---
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 {{< hero_section
-titleText="NavCoin For Developers"
+titleText="NavCoin para desarrolladores"
 imgSrc="/images/for-developers/dev-hero.svg"
-paragraphText="NavCoin is a free and open-source project to which anyone can contribute. Its design is the collaborative effort of developers from all around the world. Our common goal is to improve the NavCoin protocol and its surrounding software ecosystem. Everyone has the potential to make a positive impact, no matter what your skill&nbsp;level."
-buttonText="Read developer manifesto"
+paragraphText="NavCoin es un proyecto de fuente abierta donde todos pueden participar. Su diseño es una colaboración entre desarrolladores de todas partes del mundo. Nuestro fin común es mejorar el protocolo de NavCoin y su ecosistema circundante. Todos tienen el potencial de impactar el proyecto de una manera&nbsp;positiva."
+buttonText="Enlace al manifesto de los desarrolladores"
 buttonLink="/es/governance/#read-manifestos"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
 
 {{< zig_section
-titleText="Get Funded By The NavCoin&nbsp;Network"
+titleText="Conseguir fondos para el desarrollo por parte de la&nbsp;comunidad"
 imgSrc="/images/for-developers/dev-get-involved.svg"
-buttonText="Learn more"
+buttonText="Más información
 buttonUrl="/community-fund"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 >}}
-NavCoin’s Community Fund enables any developer to get paid by the network for their contributions to the NavCoin ecosystem. Projects are funded and approved by the decentralized network with no central authority. This ensures NavCoin’s direction remains firmly in the best interest of the network and is autonomously determined by the&nbsp;community.
+El fondo comunitario de NAV permite a cualquier desarrollador ser remunerado por la red al contribuir al ecosistema de NavCoin. Los proyectos son aprobados y financiados por una red descentralizada sin autoridad central. Esto asegura que la red de NavCoin continue de manera firme y determinada por la visión de su&nbsp;comunidad.
 {{< /zig_section>}}
 {{< item_container_section 
-    titleText="Why You Should Get Involved"
-    subtitleText="NavCoin is built for the community, by the community."
+    titleText="Razones por las cuales desarrolladores se unen a NavCoin"
+    subtitleText="NavCoin es construida por su comunidad, para su comunidadi."
 >}}
     {{< feature 
-        titleText="Inclusive community"
+        titleText="Comunidad inclusivaInclusive community"
         imgSrc="/images/for-developers/dev-community.svg"
-        text="Our developer community is collaborative, inclusive, and ready to help you get&nbsp;started."
+        text="Nuestra comunidad de desarrolladores es colaborativa, inclusiva y lista para&nbsp;ayudar."
     >}}
     {{< feature 
-        titleText="Active research"
+        titleText="Investigación activa"
         imgSrc="/images/for-developers/dev-cutting-edge.svg"
-        text="Improvements to the NavCoin protocol are constantly being worked&nbsp;on."
+        text="Las mejoras al protocolo de NavCoin están siendo desarrollada&nbsp;constantemente."
     >}}
     {{< feature                 
-        titleText="Proof of Stake Alliance"
+        titleText="Alianza de "Proof of Stake"
         imgSrc="/images/for-developers/dev-pos-alliance.svg"
-        text="We’re part of the PoS Alliance, a consortium which aims to collaboratively research the PoS&nbsp;protocol."
+        text="Somos parte de la "PoS Alliance", un grupo de proyectos similares dispuestos a mejorar el protocolo PoS de manera&nbsp;colaborativa."
     >}}
     {{< feature                 
-        titleText="Easy to get started"
+        titleText="Fácil de unirse"
         imgSrc="/images/for-developers/dev-easy.svg"
-        text="All the resources to get involved are at your fingertips and there are lots of ways to get&nbsp;involved."
+        text="Todos nuestros recursos están bien documentados y hay muchas meneras de unirse al&nbsp;proyecto."
     >}}
     {{< feature                 
-        titleText="Programmable money"
+        titleText="Dinero programable"
         imgSrc="/images/for-developers/dev-digital-money.svg"
         text="With a publicly verifiable transaction ledger, you can easily use NavCoin in your apps and&nbsp;websites."
     >}}
