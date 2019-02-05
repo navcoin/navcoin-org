@@ -36,9 +36,9 @@ enableRobotsTXT = true
         weight = 4
         languageName = "中文"
     [Languages.kr]
-        title = "NavCoin - Una Criptomoneda descentralizada fácil de usar "
+        title = "나브코인 - 사용하기 쉬운 분산화된 암호화폐 "
         weight = 5
-        languageName = "Korean"
+        languageName = "한국어"
     [Languages.fr]
         title = "NavCoin - Una Criptomoneda descentralizada fácil de usar "
         weight = 6
@@ -503,112 +503,112 @@ enableRobotsTXT = true
 # Main Menu Korean
 
 [[Languages.kr.menu.main]]
-    name = "Get Started"
-    title = "Get Started"
+    name = "개요"
+    title = "개요"
     weight = 10
     identifier = "get-started"
     depth = 1
     [[Languages.kr.menu.main]]
-        name = "Why NavCoin"
-        title = "Why NavCoin"
+        name = "나브코인이란?"
+        title = "나브코인이란?"
         weight = 20
         url = "/why-navcoin/"
         identifier = "why-navcoin"
         parent = "get-started"
     [[Languages.kr.menu.main]]
-        name = "Governance"
-        title = "Governance"
+        name = "거버넌스"
+        title = "거버넌스"
         weight = 30
         url = "/governance/"
         identifier = "governance"
         parent = "get-started"
     [[Languages.kr.menu.main]]
-        name = "For Individuals"
-        title = "For Individuals"
+        name = "개인용"
+        title = "개인용"
         weight = 40
         url = "/for-individuals/"
         identifier = "for-individuals"
         parent = "get-started"
     [[Languages.kr.menu.main]]
-        name = "For Developers"
-        title = "For Developers"
+        name = "개발자용"
+        title = "개발자용"
         weight = 50
         identifier = "for-developers"
         url = "/for-developers/"
         parent="get-started"
     [[Languages.kr.menu.main]]
-        name = "For Businesses"
-        title = "For Businesses"
+        name = "기업용"
+        title = "기업용"
         weight = 60
         identifier = "for-business"
         url = "/for-business/"
         parent="get-started"
     [[Languages.kr.menu.main]]
-        name = "Buy NavCoin"
-        title = "Buy NavCoin"
+        name = "나브코인구입"
+        title = "나브코인구입"
         weight = 70
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"
         parent = "get-started"
 
 [[Languages.kr.menu.main]]
-    name = "Explore"
-    title = "Explore"
+    name = "탐색"
+    title = "탐색"
     weight = 20
     identifier = "explore"
     [[Languages.kr.menu.main]]
-        name = "Roadmap"
-        title = "Roadmap"
+        name = "로드맵"
+        title = "로드맵"
         weight = 20
         url = "/roadmap/"
         identifier = "roadmap"
         parent = "explore"
     [[Languages.kr.menu.main]]
-        name = "Block Explorer"
-        title = "Block Explorer"
+        name = "블록탐색기"
+        title = "블록탐색기"
         weight = 30
-        url = "https://navexplorer.com"
+        url = "https://navexplorer.com/"
         identifier = "block-explorer"
         parent = "explore"
     [[Languages.kr.menu.main]]
-        name = "NavHub"
-        title = "NavHub"
+        name = "나브허브"
+        title = "나브허브"
         weight = 40
-        url = "https://navhub.org"
+        url = "https://navhub.org/"
         identifier = "navhub"
         parent = "explore"
     [[Languages.kr.menu.main]]
-        name = "Merchants"
-        title = "Merchants"
+        name = "판매자"
+        title = "판매자"
         weight = 50
         url = "/merchants/"
         identifier = "merchants"
         parent = "explore"
     [[Languages.kr.menu.main]]
-        name = "Get Involved"
-        title = "Get Involved"
+        name = "참여방법"
+        title = "참여방법"
         weight = 60
         url = "/get-involved/"
         identifier = "get-involved"
         parent = "explore"
 
 [[Languages.kr.menu.main]]
-    name = "News"
-    title = "News"
+    name = "공지"
+    title = "공지"
     url="/notices/"
     weight = 30
     identifier = "news"
 
 [[Languages.kr.menu.main]]
-    name = "Community Fund"
-    title = "Community Fund"
+    name = "커뮤니티 기금"
+    title = "커뮤니티 기금"
     weight = 40
     identifier = "community-fund"
     url = "/community-fund/"
 
 [[Languages.kr.menu.main]]
-    name = "Wallets"
-    title = "Wallets"
+    name = "지갑"
+    title = "지갑"
     weight = 50
     identifier = "wallets"
     url = "/wallets/"
