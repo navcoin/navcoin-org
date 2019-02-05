@@ -8,7 +8,7 @@ description: ""
 ---
 {{< hero_section
 titleText="NavCoin Para Empresas"
-paragraphText="¿Está tu empresa lista para el "futuro"? Cada vez más usuarios están buscando maneras de usar sus criptomonedas para pagos de bienes y servicios en la vida cotidiana. Hoy en dia es necesario estar actualizado en las tendencias tecnologicas. Es el momento de aceptar NavCoin en su negocio físico y en linea. NavCoin provee las herramientas necesarias para ser una solución de pagos para&nbsp;empresas."
+paragraphText="¿Está tu empresa lista para el "futuro"? Cada vez más usuarios están buscando maneras de usar sus criptomonedas para pagos de bienes y servicios en la vida cotidiana. Hoy en dia es necesario estar actualizado dentro de las tendencias tecnologicas. Es el momento de aceptar NavCoin en su negocio físico o en linea. NavCoin provee las herramientas necesarias para ser una solución de pagos para&nbsp;empresas."
 
 imgSrc="/images/for-business/bus-hero.svg"
 >}}
