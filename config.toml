@@ -544,8 +544,8 @@ enableRobotsTXT = true
         url = "/for-business/"
         parent="get-started"
     [[Languages.kr.menu.main]]
-        name = "나브코인구입"
-        title = "나브코인구입"
+        name = "나브코인 구매"
+        title = "나브코인 구매"
         weight = 70
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"
@@ -564,8 +564,8 @@ enableRobotsTXT = true
         identifier = "roadmap"
         parent = "explore"
     [[Languages.kr.menu.main]]
-        name = "블록탐색기"
-        title = "블록탐색기"
+        name = "블록 탐색기"
+        title = "블록 탐색기"
         weight = 30
         url = "https://navexplorer.com/"
         identifier = "block-explorer"
