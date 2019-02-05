@@ -30,7 +30,7 @@ El fondo comunitario de NAV permite a cualquier desarrollador ser remunerado por
     subtitleText="NavCoin es construida por su comunidad, para su comunidadi."
 >}}
     {{< feature 
-        titleText="Comunidad inclusivaInclusive community"
+        titleText="Comunidad inclusiva"
         imgSrc="/images/for-developers/dev-community.svg"
         text="Nuestra comunidad de desarrolladores es colaborativa, inclusiva y lista para&nbsp;ayudar."
     >}}
@@ -52,22 +52,22 @@ El fondo comunitario de NAV permite a cualquier desarrollador ser remunerado por
     {{< feature                 
         titleText="Dinero programable"
         imgSrc="/images/for-developers/dev-digital-money.svg"
-        text="With a publicly verifiable transaction ledger, you can easily use NavCoin in your apps and&nbsp;websites."
+        text="Nav posee una cadena de bloques pública y auditable, haciendola fácil de integrar en aplicaciones y páginas de&nbsp;internet."
     >}}
     {{< feature                 
-        titleText="Always open-source"
+        titleText="Fuente abierta"
         imgSrc="/images/for-developers/dev-trust.svg"
-        text="NavCoin software will always be free and in alignment with open-source&nbsp;principles."
+        text="NavCoin siempre será gratis y de libre acceso, alineado con sus&nbsp;principios."
     >}}
 {{< /item_container_section >}}
 
 {{< item_container_section 
-    titleText="Contribute Now"
-    subtitleText="There are many ways you can contribute to NavCoin, no matter what your skill&nbsp;level."
+    titleText="Contribuis"
+    subtitleText="Hay varias maneras de contribuir al ecosistema de NavCoin, sin importar el grado de conocimientos que se&nbsp;tenga."
     bgPurple="true"
 >}}
     {{< long_text 
-        titleText="NavCoin Protocol"
+        titleText="Protocolo de NavCoin"
         imgSrc="/images/for-developers/dev-protocol.svg"
         text="NavCoin is open-source and everyone can participate in making it better. Here’s where you can find the procedures to report an issue, fix a issue or suggest an improvement to the consensus&nbsp;protocol."
         buttonUrl="/get-involved/"
