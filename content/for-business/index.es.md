@@ -14,81 +14,81 @@ imgSrc="/images/for-business/bus-hero.svg"
 >}}
 
 {{< item_container_section 
-    titleText="Why NavCoin Is Good For&nbsp;Business"
+    titleText="Razones por las cuales NavCoin es buena para los negocios"
     subtitleText=""
 >}}
     {{< feature 
-        titleText="Fast payments"
+        titleText="Pagos instantáneos"
         imgSrc="/images/for-business/bus-fast-payment.svg"
-        text="Transactions show up in as little as five seconds, and confirmed in thirty&nbsp;seconds."
+        text="Transacciones dentro de la cadena de bloques de Nav son registradas en menos de 5 segundos y confirmada dentro de los primeros&nbsp;30."
     >}}
     {{< feature 
-        titleText="Secure"
+        titleText="Seguras"
         imgSrc="/images/for-business/bus-secure.svg"
-        text="Payment records permanently stored on a decentralized network, with 24/7&nbsp;access."
+        text="Los pagos son guardados en nuestra cadena descentralizada con acceso las 24&nbsp;horas."
     >}}
     {{< feature                 
         titleText="Simple"
         imgSrc="/images/for-business/bus-simple.svg"
-        text="Payment is easy as scanning a QR code. Funds automatically transfer to your NavCoin&nbsp;wallet."
+        text="La simplicidad es una de las caracteristicas de NAV. Tán facil como escanear un código&nbsp; QT."
     >}}
     {{< feature                 
-        titleText="Low fees"
+        titleText="Tasas de transferencia bajas"
         imgSrc="/images/for-business/bus-low-fee.svg"
-        text="NavCoin is one of world's cheapest payment networks in the world, with fees typically under one&nbsp;percent."
+        text="NavCoin es una de las criptomonedas con menos tasas en el mercado, con costos menores al&nbsp;1%"
     >}}
     {{< feature                 
-        titleText="Eco-friendly"
+        titleText="Ecologica"
         imgSrc="/images/for-business/bus-eco.svg"
-        text="Join a payment network that consumes only a fraction of the energy of other&nbsp;networks."
+        text="Nav es una moneda PoS, el consumo eléctrico de nuestra red es casi nulo comparándola a otras&nbsp;redes."
     >}}
     {{< feature                 
-        titleText="Flexibility"
+        titleText="Flexible"
         imgSrc="/images/for-business/bus-flex.svg"
-        text="A range of payment options to suit your business requirements, with even more in&nbsp;development."
+        text="En Nav se pueden encontrar con un amplio rango de opciones de pagos para cumplir los requerimientos de su&nbsp;negocio."
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
-  titleText="Accept Payments In Person"
+  titleText="Aceptar pagos en persona"
   imgSrc="/images/for-business/bus-for-store.svg"
-  buttonText="Visit NavPay"
+  buttonText="NavPay"
   buttonUrl="https://navhub.org/projects/nav-pay/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. With no blockchain to download, it's an easy way to get&nbsp;started.
+NavPay un monedero que funciona con teléfonos y ordenadores. Solo hace falta escanear un código QR y los fondos son transferidos de manera instantanea. No hace falta bajar la cadena de bloques lo cual lo hace rápido y&nbsp;conveniente.
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="Accept Online Payments"
+titleText="Aceptar pagos en linea"
 imgSrc="/images/for-business/bus-for-bus.svg"
-buttonText="Visit CoinPayments"
+buttonText="Visitar CoinPayments"
 buttonUrl="https://www.coinpayments.net/"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 newTab="true"
 >}}
-CoinPayments is a little like PayPal, but for digital currencies. Plug-ins include a shopping cart, payment button, invoicing, and point-of-sale interface. If your business is in the EuroZone or USA, you can withdraw funds in EURO or&nbsp;USD.
+CoinPayments funciona de manera similar a PayPal, se incluyen "plug-ins" como un carrito de compras, un botón de pagos, facturas y puntos de venta. Si su negocio se encuentra en la Eurozona o en USA, pueden retirar EUR o USD directamente desde su&nbsp;plataforma.
 {{< /zig_section>}}
 
 {{< zig_section
-  titleText="Accept Personal Payments"
+  titleText="Acceptar pagos personales"
   imgSrc="/images/for-business/bus-for-blog.svg"
-  buttonText="View buttons here"
+  buttonText="Botones de pagos"
   buttonUrl="https://brianium.github.io/nav-button/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-Integrating NavButtons for quick payments is an easy to implement option that suits individuals or side businesses. It’s as easy as copy-pasting some code onto your website. There is a choice of embeddable buttons, or QR codes for even easier&nbsp;sharing.
+La integración de los "NavButtons para pagos rápidos es una manera fácil de aceptar pagos individuales o de negocios secundarios. Es tan simple como "copiar-pegar" una linea de código a su página de&nbsp;internet.
 {{< /zig_section>}}
 
 {{< center_text_cta
     lightStyle="true"
-    titleText="Who's Accepting NAV?"
-    buttonText="Find merchants here"
+    titleText="Participantes aceptando NAV?"
+    buttonText="Encuentre los negocios e individuos aceptando NavCoin"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants/"
-    innerText="A number of businesses have already begun to integrate NavCoin as a payment option, and with them you can easily purchase a range of products and&nbsp;services.">}}
+    innerText="Una cantidad de empresas han comenzado la integración de NavCoin como método de pago, donde comprar artículos y servivios resulta extremandamente&nbsp;fácil.">}}
