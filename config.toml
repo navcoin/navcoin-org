@@ -43,6 +43,10 @@ enableRobotsTXT = true
         title = "NavCoin - Una Criptomoneda descentralizada fácil de usar "
         weight = 6
         languageName = "French"
+    [Languages.it]
+        title = "NavCoin - Una criptovaluta facile da utilizzare "
+        weight = 6
+        languageName = "Italian"
 
 
 # Main Menu English
@@ -722,6 +726,119 @@ enableRobotsTXT = true
     url = "/community-fund/"
 
 [[Languages.fr.menu.main]]
+    name = "Wallets"
+    title = "Wallets"
+    weight = 50
+    identifier = "wallets"
+    url = "/wallets/"
+    
+    # Main Menu Italian
+
+[[Languages.it.menu.main]]
+    name = "Inizia"
+    title = "Inizia"
+    weight = 10
+    identifier = "get-started"
+    depth = 1
+    [[Languages.it.menu.main]]
+        name = "Perchè NavCoin"
+        title = "Perchè NavCoin"
+        weight = 20
+        url = "/why-navcoin/"
+        identifier = "why-navcoin"
+        parent = "get-started"
+    [[Languages.it.menu.main]]
+        name = "Governance"
+        title = "Governance"
+        weight = 30
+        url = "/governance/"
+        identifier = "governance"
+        parent = "get-started"
+    [[Languages.it.menu.main]]
+        name = "Per le Persone"
+        title = "Per le Persone"
+        weight = 40
+        url = "/for-individuals/"
+        identifier = "for-individuals"
+        parent = "get-started"
+    [[Languages.it.menu.main]]
+        name = "Per Sviluppatori"
+        title = "Per Sviluppatori"
+        weight = 50
+        identifier = "for-developers"
+        url = "/for-developers/"
+        parent="get-started"
+    [[Languages.it.menu.main]]
+        name = "Per le Imprese"
+        title = "Per le Imprese"
+        weight = 60
+        identifier = "for-business"
+        url = "/for-business/"
+        parent="get-started"
+    [[Languages.it.menu.main]]
+        name = "Compra NavCoin"
+        title = "Compra NavCoin"
+        weight = 70
+        url = "/buy-navcoin/"
+        identifier = "buy-navcoin"
+        parent = "get-started"
+
+[[Languages.it.menu.main]]
+    name = "Esplora"
+    title = "Esplora"
+    weight = 20
+    identifier = "explore"
+    [[Languages.it.menu.main]]
+        name = "Roadmap"
+        title = "Roadmap"
+        weight = 20
+        url = "/roadmap/"
+        identifier = "roadmap"
+        parent = "explore"
+    [[Languages.it.menu.main]]
+        name = "Block Explorer"
+        title = "Block Explorer"
+        weight = 30
+        url = "https://navexplorer.com"
+        identifier = "block-explorer"
+        parent = "explore"
+    [[Languages.it.menu.main]]
+        name = "NavHub"
+        title = "NavHub"
+        weight = 40
+        url = "https://navhub.org"
+        identifier = "navhub"
+        parent = "explore"
+    [[Languages.it.menu.main]]
+        name = "Commercianti"
+        title = "Commercianti"
+        weight = 50
+        url = "/merchants/"
+        identifier = "merchants"
+        parent = "explore"
+    [[Languages.it.menu.main]]
+        name = "Partecipa"
+        title = "Partecipa"
+        weight = 60
+        url = "/get-involved/"
+        identifier = "get-involved"
+        parent = "explore"
+
+[[Languages.it.menu.main]]
+    name = "News"
+    title = "News"
+    url="/notices/"
+    weight = 30
+    identifier = "news"
+
+[[Languages.it.menu.main]]
+    name = "Community Fund"
+    title = "Community Fund"
+    weight = 40
+    identifier = "community-fund"
+    url = "/community-fund/"
+
+[[Languages.it.menu.main]]
     name = "Wallets"
     title = "Wallets"
     weight = 50
