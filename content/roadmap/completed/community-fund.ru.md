@@ -4,7 +4,7 @@ title: Фонд Сообщества
 author: Alex Vazquez
 date: '2018-06-06T17:07:30+12:00'
 feature_image: /images/uploads/navpi-patch.jpg
-status: завершено
+status: completed
 externalUrl: https://navcoin.org/community-fund/
 
 ---

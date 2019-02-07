@@ -4,7 +4,7 @@ title:  OpenAlias
 author: Alex Vazquez
 date: '2018-11-04'
 feature_image: /images/uploads/navpi-patch.jpg
-status: завершено
+status: completed
 externalUrl: https://navhub.org/projects/open-alias/
 ---
 
