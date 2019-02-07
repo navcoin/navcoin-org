@@ -4,7 +4,7 @@ title:  Ребейзинг из Биткойн 0.13
 author: Craig MacGregor
 date: '2017-08-21'
 feature_image: /images/uploads/navpi-patch.jpg
-status: завершено
+status: completed
 externalUrl: https://www.navexplorer.com/block/1
 ---
 

@@ -4,7 +4,7 @@ title: Увеличение фонда сообщества
 author: Craig MacGregor
 date: '2018-06-01'
 feature_image: /images/uploads/navpi-patch.jpg
-status: завершено
+status: completed
 externalUrl: https://medium.com/@craig.b.macgregor/next-steps-for-navcoin-core-e7fa9541dca9
 ---
 

@@ -4,7 +4,7 @@ title:  Перезапуск Блокчейна
 author: Soopy452000
 date: '2016-05-12'
 feature_image: /images/uploads/navpi-patch.jpg
-status: завершено
+status: completed
 externalUrl: https://www.navexplorer.com/block/1
 ---
 

@@ -4,7 +4,7 @@ title:  Иерархические детерминированные кошел
 author: Soopy452000
 date: '2016-05-13'
 feature_image: /images/uploads/navpi-patch.jpg
-status: завершено
+status: completed
 externalUrl: https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki
 ---
 

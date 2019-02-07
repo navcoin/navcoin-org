@@ -4,7 +4,7 @@ title: Вознаграждение за статический блок
 author: Craig MacGregor
 date: '2018-12-06'
 feature_image: /images/uploads/navpi-patch.jpg
-status: завершено
+status: completed
 externalUrl: https://github.com/NAVCoin/npips/blob/master/npip-0004.mediawiki
 ---
 

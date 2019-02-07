@@ -4,7 +4,7 @@ title:  Накопление Фонда Сообщества
 author: Alex Vazquez
 date: '2018-06-06'
 feature_image: /images/uploads/navpi-patch.jpg
-status: завершено
+status: completed
 externalUrl: https://github.com/NAVCoin/navcoin-core/releases/tag/4.2.0/
 ---
 

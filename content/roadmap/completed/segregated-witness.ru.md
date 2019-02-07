@@ -4,7 +4,7 @@ title:  Segregated Witness
 author: Alex Vazquez
 date: '2017-12-25'
 feature_image: /images/uploads/navpi-patch.jpg
-status: завершено
+status: completed
 externalUrl: https://en.bitcoin.it/wiki/Segregated_Witness
 ---
 
