@@ -1,5 +1,5 @@
 ---
-title: "Wallets"
+title: "지갑"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
@@ -9,36 +9,36 @@ description: "NavCoin is an open source protocol, which means that wallets are m
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 {{< hero_section
-titleText="Wallets"
+titleText="지갑"
 imgSrc="/images/wallets/wal-hero.svg"
-paragraphText="NavCoin is an open source protocol, which means that wallets are maintained by a range of organizations and individuals. There are different types of wallets - from ‘full’ wallets that give you complete control and allow you to participate in the NavCoin network, to 'light' wallets that are easier to use. Always remember that it is your responsibility to choose your wallet carefully and adopt good practices in order to protect your&nbsp;money."
-buttonText="Ask community for assistance"
+paragraphText="나브코인은 오픈 소스 프로토콜로, 다양한 조직과 개인이 지갑을 유지 관리합니다.&nbsp;&nbsp;다양한 종류의 지갑이 있습니다. - 완전한 제어권을 제공하며 나브코인 네트워크에 참여할 수 있는 Full 지갑에서부터 사용하기 쉬운 가벼운 지갑까지. &nbsp;&nbsp;당신의 돈을 보호하기 위해 지갑을 신중하고게 선택하고 올바른 습관을 기르는 것은 본인의 책임임을 항상 기억하십시오."
+buttonText="커뮤니티에 도움을 요청하십시오."
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 buttonLink="https://discord.gg/y4Vu9jw"
 newTab="true"
 >}}
 
 {{< item_container_section
-    titleText="NavCoin Wallets"
-    subtitleText="Make sure to do your own research or ask community for&nbsp;assistance."
+    titleText="나브코인 지갑"
+    subtitleText="스스로 연구하거나 커뮤니티에 도움을 요청하십시오."
     >}}
     {{< wallet
-        titleText="NavCoin Core"
+        titleText="나브코인 코어"
         walletImgSrc="/images/wallets/wal-core.png"
-        text="NavCoin Core wallet is a full NavCoin client that allows users to participate in network staking. This is the official reference implementation published by the NavCoin Core&nbsp;developers."
+        text="나브코인 코어 지갑은 사용자가 네트워크 스테이킹에 참여할 수 있게 하는 FULL 나브코인 클라이언트입니다.&nbsp;&nbsp;이것은 나브코인 코어 개발자가 발행한 공식 프로그램입니다."
         buttonUrl="#download-core"
-        buttonText="Download"
+        buttonText="다운로드"
         buttonImgSrc="/images/icons/downward-arrow.svg"
         platformImg1Src="/images/platforms/mac.png"
         platformImg2Src="/images/platforms/windows.png"
         platformImg3Src="/images/platforms/linux.png"
     >}}
     {{< wallet
-        titleText="NavPay"
+        titleText="나브페이"
         walletImgSrc="/images/wallets/wal-navpay.png"
-        text="NavPay is an easy to use light wallet, that allows you to securely store your NAV. It's available across desktop and mobile, and doesn't take up gigabytes of storage."
+        text="나브페이는 사용하기 쉽고 가벼운 지갑으로 NAV를 안전하게 보관할 수 있습니다.&nbsp;&nbsp; PC 및 스마트폰에서 사용할 수 있으며 블록체인을(GB) 다운받지 않고 사용합니다."
         buttonUrl="https://navhub.org/projects/nav-pay/"
-        buttonText="Download"
+        buttonText="다운로드"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         platformImg1Src="/images/platforms/android.png"
         platformImg2Src="/images/platforms/mac.png"
@@ -49,11 +49,11 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
-        titleText="NEXT"
+        titleText="넥스트"
         walletImgSrc="/images/wallets/wal-next.png"
-        text="A modern and stylish next generation wallet for NavCoin. As well as staking, NEXT offers a simple interface to create and vote on community fund proposals."
+        text="넥스트는 나브코인을 현대적이고 세련된 차세대 지갑으로 만든 것으로 계좌 개설 뿐만 아니라 커뮤니티 기금 제안을 작성하고 투표할 수 있는 쉬운 인터페이스를 제공합니다. "
         buttonUrl="http://next.navcommunity.net/"
-        buttonText="Download"
+        buttonText="다운로드"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         platformImg1Src="/images/platforms/mac.png"
         platformImg2Src="/images/platforms/windows.png"
@@ -61,42 +61,42 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
-        titleText="Coinomi"
+        titleText="코인오미"
         walletImgSrc="/images/wallets/wal-coinomi.png"
-        text="Coinomi is a Security-First Multi-Asset Wallet for Bitcoin, Altcoins and&nbsp;Tokens."
+        text="코인오미는 비트코인, 알트코인 및 토큰을 최우선의 보안을 제공하는 다중 자산 지갑입니다."
         buttonUrl="https://www.coinomi.com/"
-        buttonText="Download"
+        buttonText="다운로드"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         platformImg1Src="/images/platforms/mac.png"
         platformImg2Src="/images/platforms/android.png"
         newTab="true"
     >}}
     {{< wallet
-        titleText="NavPi StakeBox"
+        titleText="나브파이 스테이크박스"
         walletImgSrc="/images/wallets/wal-pi.png"
-        text="A low-energy NavCoin full wallet based on the Raspberry-Pi&nbsp;platform."
+        text="라즈베리파이 기반의 저에너지 나브코인 지갑."
         buttonUrl="https://navhub.org/projects/nav-pi/"
-        buttonText="Download"
+        buttonText="다운로드"
         platformImg1Src="/images/platforms/pi.png"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         newTab="true"
     >}}
     {{< wallet
-        titleText="NavCoin M8"
+        titleText="나브코인 M8"
         walletImgSrc="/images/wallets/wal-m8.png"
-        text="A high-powered NavCoin staking wallet including NEXT Wallet with DIY&nbsp;options."
+        text="NEXT 지갑을(옵션 DIY) 포함한 고성능 나브코인 스테킹 지갑."
         buttonUrl="https://navcoinm8.com/"
-        buttonText="Learn More"
+        buttonText="자세히 보기"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         platformImg1Src="/images/platforms/linux.png"
         newTab="true"
     >}}
     {{< wallet
-        titleText="NavPaper"
+        titleText="나브페이퍼"
         walletImgSrc="/images/wallets/wal-paper.png"
-        text="Generate keys to be printed and stored offline for additional&nbsp;security."
+        text="추가적인 보안을 위해 키를 생성한 후 프린트하여 오프라인으로 관리하세요."
         buttonUrl="https://paper.navcoin.org/"
-        buttonText="Download"
+        buttonText="다운로드"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         platformImg1Src="/images/platforms/mac.png"
         platformImg2Src="/images/platforms/windows.png"
@@ -106,37 +106,37 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="Download NavCoin Core 4.5.0"
-    subtitleText="The NavCoin Core wallet has been carefully refined to be intuitive and easy to use. It comes with a setup wizard and everything you need to load the blockchain and start sending transactions in a secure&nbsp;environment."
+    titleText="나브코인 코어 지갑 다운로드 4.5.1"
+    subtitleText="나브코인 지갑은 직관적이고 세련되었으며, 사용하기 쉽습니다. 설치 마법사와 함께 제공하며 블록 체인을 모두 로드해야 합니다. 이후 안전한 환경에서 거래를 시작하세요."
     bgPurple="true"
     anchor="download-core"
     buttonUrl="https://github.com/NAVCoin/navcoin-core/releases/latest"
-    buttonText="Advanced Downloads"
+    buttonText="다운로드 릴리즈"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     newTab="true"
 >}}
     {{< action
-        titleText="Windows"
+        titleText="윈도우"
         imgSrc="/images/wallets/wal-windows.svg"
         subtext=""
-        linkText="Download"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.5.0/navcoin-4.5.0-win64-setup.exe"
+        linkText="다운로드"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.5.1/navcoin-4.5.1-win64-setup.exe"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action
-        titleText="Mac"
+        titleText="맥"
         imgSrc="/images/wallets/wal-mac.svg"
         subtext=""
-        linkText="Download"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.5.0/navcoin-4.5.0-osx.dmg"
+        linkText="다운로드"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.5.1/navcoin-4.5.1-osx.dmg"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action                 
-        titleText="Linux"
+        titleText="리눅스"
         imgSrc="/images/wallets/wal-linux.svg"
         subtext=""
-        linkText="Download"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.5.0/navcoin-4.5.0-x86_64-linux-gnu.tar.gz"
+        linkText="다운로드"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.5.1/navcoin-4.5.1-x86_64-linux-gnu.tar.gz"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
 {{< /item_container_section >}}
