@@ -1,6 +1,6 @@
 ---
 layout: roadmap
-title: Improved Privacy Solution
+title: Defining Improved Privacy Solution
 author: Alex Vazquez
 date: '2018-06-06T17:07:30+12:00'
 feature_image: /images/uploads/navpi-patch.jpg
