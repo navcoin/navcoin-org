@@ -10,4 +10,4 @@ weight: 110
 externalUrl: https://github.com/NAVCoin/navcoin-core/pull/413
 ---
 
-The features to be included in NavCoin Core v4.5.2 are currently being merged and tested in preperation for release.
+The features to be included in NavCoin Core v4.5.2 are currently being merged and tested in preparation for release.
