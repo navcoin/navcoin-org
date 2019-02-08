@@ -1,5 +1,5 @@
 ---
-title: "For Individuals"
+title: "NavCoin para individuos"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
@@ -7,24 +7,26 @@ author: ""
 description: ""
 ---
 {{< hero_section
-titleText="Welcome To NavCoin"
-paragraphText="If you're new to this project, and not sure where to start, then here are some handy steps to&nbsp;follow."
+titleText="Bienvenidos a NavCoin"
+paragraphText="Si recién entras a este proyecto, y no sabes donde empezar, aquí encontrarás herramientas útiles para familiarizarte con el&nbsp;proyecto."
+
+
 imgSrc="/images/for-beginners/beg-hero.svg"
 >}}
 {{< step_container_section 
-    titleText="Getting Started"
+    titleText="Empezar"
     subtitleText=""
 >}}
   {{< step 
-      titleText="Step 1: Learn about NavCoin"
+      titleText="Paso 1: Aprender sobre NavCoin"
       imgSrc="/images/for-beginners/beg-learn.svg"
-      text=" NavCoin; an affordable, fast and eco-friendly cryptocurrency. Since 2014, an entire ecosystem has developed around NavCoin from easy to use mobile wallets to simplified private payment solutions - all built and maintained by an active international community without an central authority or&nbsp;governance."
-      buttonText="Read more"
-      buttonUrl="/why-navcoin"
+      text=" NavCoin; es una criptomoneda en circulación desde 2014, con un ecosistema construido alrededor de ella. Es de poco costo de mantención debido a su concenso de prueba de participacion, es considerada de las ecologicas y sustentables ya que el gasto de energia para mantener la red es despreciable. La privacidad de los usuarios y los pagos rápidos es lo que nos motiva. Nav posee monederos móbiles y seguros siendo mantenida y desarrollada por una comunidad internacional sin autoridad central de&nbsp;gobierno"
+      buttonText="Más información"
+      buttonUrl="/porqué-navcoin"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
   >}}
   {{< step 
-      titleText="Step 2: Choose your wallet"
+      titleText="Paso 2: Elegir el monedero"
       imgSrc="/images/for-beginners/beg-wallets.svg"
       text="Your wallet is the main way to interact with your digital coins, and is what you use to send & receive NAV. There are different types of wallets - from ‘full’ wallets that give you complete control and allow you to participate in the NavCoin network, to ‘thin’ wallets that are easier to&nbsp;use."
       buttonText="Wallets"
