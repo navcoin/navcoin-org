@@ -14,7 +14,7 @@ With such a major change to the consensus as the addition of the Community Fund,
 
 Another issue has since been discovered, this time with the payment request mechanism. The issue has caused a very small number of stakers to have a payment request dropped from their community fund database and attempt to generate the payment request again.
 
-These duplicate payments made in error by the staker have been accepted by the network as valid and paid out to the proposal creator. There have been in total X duplicate payments which have paid out and additional Y NAV from the Community Fund. The majority of the erroneously created NAV (Z NAV) have been donated back to the community fund by the proposal creators. If you've received a duplicate payment we encourage you to also donate it back to the Community Fund to be burned.
+These duplicate payments made in error by the staker have been accepted by the network as valid and paid out to the proposal creator. To date, there have been in total 6 duplicate payments since the Community Fund launched in November last year. These erroneous payments have paid out and additional 72,833 NAV, of which 63,333 NAV has been donated back to the community fund by the proposal creators. If you've received a duplicate payment we encourage you to also donate it back to the Community Fund to be burned.
 
 This issue has been successfully patched in version 4.5.2 and blocks containing duplicate payment request payouts will be rejected by the wider network.
 
