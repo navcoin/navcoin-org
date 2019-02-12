@@ -10,7 +10,7 @@ notice_categories:
 NavCoin is hard forking at block **2882875** to mitigate an issue with the Community Fund payment requests. Please update to NavCoin Core 4.5.2 before **Saturday 16 February at 18:30 GMT** to avoid network disruption.
 <!--more-->
 
-With such a major change to the consensus as the addition of the Community Fund, it was always expected that there would be some teething issues. In December NavCoin Core successfully released a hard fork to resolve an issue with the calculation of a proposal's expiration date.
+With such a major change to the consensus as the addition of the Community Fund, it was always expected that there could be some teething issues. In December NavCoin Core successfully released a hard fork to resolve an issue with the calculation of a proposal's expiration date.
 
 Another issue has since been discovered, this time with the payment request mechanism. The issue has caused a very small number of stakers to have a payment request dropped from their community fund database and attempt to generate the payment request again.
 
