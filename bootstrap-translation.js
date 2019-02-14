@@ -23,6 +23,8 @@ fs.readdir(path, function (err, items) {
     duplicateEnglishMarkdown(`${path}${dirs[i]}/`, languageCode);
   }
   duplicateEnglishMarkdown(path, languageCode);
+
+  console.warn(`\n\n Please ensure that you update the config.toml file so that it has the relevevant menu entries for your translation \n\n`);
 });
 
 
