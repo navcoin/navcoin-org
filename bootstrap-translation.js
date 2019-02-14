@@ -8,44 +8,49 @@ if (process.argv.length <= 2) {
 const languageCode = process.argv[2];
 const path = './content/';
 
-fs.readdir(path, function(err, items) {
+fs.readdir(path, function (err, items) {
 
   let dirs = items.filter((item) => {
 
     const stats = fs.statSync(`${path}/${item}`)
-    if (stats.isDirectory())
+    if (stats.isDirectory()) {
       return true
+    }
     return false
   })
 
   for (var i = 0; i < dirs.length; i++) {
     duplicateEnglishMarkdown(`${path}${dirs[i]}/`, languageCode);
   }
+  duplicateEnglishMarkdown(path, languageCode);
 });
 
 
 
-
-
 function duplicateEnglishMarkdown(dirPath, languageCode) {
-  fs.readdir(dirPath, function(err, items) {
+  fs.readdir(dirPath, function (err, items) {
 
     let englishFiles = items.filter((item) => {
-      if (item.includes('.en.md'))
+      if (item.includes('.en.md') || item.includes('.en.html'))
         return true
       return false
     })
-    
+
     for (var i = 0; i < englishFiles.length; i++) {
-      const translationFilename = englishFiles[i].substring(0,  englishFiles[i].length - 5) + languageCode + '.md'
+      const splitFile = englishFiles[i].split('.');
+      const fileName = splitFile[0];
+      const fileExt = splitFile[splitFile.length - 1];
+
+      const translationFilename = `${fileName}.${languageCode}.${fileExt}`;
       try {
+        // Look for the file, if it exists we log. If we can't find it, we will error, and then generate the file.
         fs.statSync(dirPath + translationFilename)
-        console.log(`**** \n${dirPath + translationFilename} exists \n****`)
+        console.error(`**** ${dirPath + translationFilename} exists ****`)
         return
       } catch (e) {
-        fs.copyFile(`${dirPath + englishFiles[i]}`, `${ dirPath + translationFilename}`, (err) => {
+        fs.copyFile(`${dirPath + englishFiles[i]}`, `${dirPath + translationFilename}`, (err) => {
           if (err) throw err;
-          console.log(`${dirPath + englishFiles[i]} was copied as ${translationFilename}`);
+          console.log(`${dirPath}${fileName}.en.${fileExt} was copied as ${translationFilename}`);
         })
       }
     }
