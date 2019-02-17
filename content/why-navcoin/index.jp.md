@@ -31,7 +31,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
     {{< long_text
         titleText="Cold staking"
         imgSrc="/images/why-navcoin/why-peer.svg"
-        text="Security is the number one priority for NavCoin, which makes cold staking an important upcoming feature to be implemented. Instead of having all your coins connected to the internet - this allows you to participate in staking the network, while also keeping your coins offline for&nbsp;added&nbsp;protection."
+        text="Security is the number one priority for NavCoin, which makes cold staking an important feature on the network. Instead of having all your coins connected to the internet - this allows you to participate in staking the network, while also keeping your coins offline for&nbsp;added&nbsp;protection."
 
     >}}
     {{< long_text

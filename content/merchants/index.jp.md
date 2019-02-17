@@ -81,6 +81,12 @@ newTab="true"
         text="More than 20 world class server centers in more than 15 different&nbsp;countries."
         linkUrl="https://1gbits.com/"
     >}}
+    {{< merchant
+        titleText="Domains-Index"
+        imgSrc="/images/merchants/mer-domains-index.png"
+        text="List of every registered domain"
+        linkUrl="https://domains-index.com/"
+    >}}
 {{< /item_container_section >}}
 
 {{< item_container_section

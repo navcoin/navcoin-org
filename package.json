@@ -13,7 +13,8 @@
   "devDependencies": {},
   "scripts": {
     "start": "hugo server",
-    "sass": "gulp sass:watch"
+    "sass": "gulp sass:watch",
+    "bootstrap-translation": "node bootstrap-translation.js"
   },
   "keywords": [
     "NAV",
