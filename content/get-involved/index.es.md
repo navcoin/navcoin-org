@@ -1,17 +1,17 @@
 ---
-title: "Contribute to the Protocol"
+title: "Contribuir al protocolo"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
-description: "There are several ways to contribute to the NavCoin protocol - so if you’d like to support the project, here’s some of the best ways to get involved"
+description: "Hay varias maneras de contribuir al protocolo de NavCoin. Si quieres ayudar al proyecto aquí encontrarás la ayuda necesaria"
 ---
 {{< hero_section
-titleText="Get Involved"
-paragraphText="There are several ways to contribute to the NavCoin protocol, not all of which require a high level of programming skills. If you’d like to support the NavCoin project, here’s some of the best ways to get&nbsp;involved."
+titleText="Involucrarse"
+paragraphText="Hay muchas maneras de contribuir a las mejoras del protocolo de NavCoin. No todas requieren conocimiento de programación. Si tienes interés en ayudar al proyecto encuentra donde hacerlo de la forma mas&nbsp;eficaz."
 imgSrc="/images/get-involved/con-hero.svg"
 >}}
 {{< zig_section
-titleText="Translations"
+titleText="Traducciones"
 imgSrc="/images/get-involved/con-translate.svg"
   buttonText="Set up a Transifex account"
   buttonUrl="https://www.transifex.com/signup/"
