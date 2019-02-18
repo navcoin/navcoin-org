@@ -19,11 +19,11 @@ imgSrc="/images/get-involved/con-translate.svg"
     reversed="true"
     newTab="true"
 >}}
-NavCoin Core has been translated into over two dozen languages, with dozens more languages partially translated — but more help is always needed. NavCoin uses Transifex for translation, so you’ll need to setup an&nbsp;account.<br><br>To contribute a translation, go to the NavCoin project on Transifex: <br><a href="https://www.transifex.com/navcoin/navcoin-core" style="text-decoration:underline;">https://www.transifex.com/navcoin/navcoin-core</a><br><br>Click on the 'Join Team' button, let us know which languages you’re able to translate, and start&nbsp;translating!
+NavCoin Core ha sido traducido a más de 20 idionas. La ayuda en esta empresa es siempre bienvenida. Para agilizar el proceso, usamos el servicio de Transifex: <br><a href="https://www.transifex.com/navcoin/navcoin-core" style="text-decoration:underline;">https://www.transifex.com/navcoin/navcoin-core</a><br><br>Clikea en el proyecto y comienza a&nbsp;traducir!
 {{< /zig_section>}}
 
 {{< zig_section
-  titleText="Documentation"
+  titleText="Documentación"
   imgSrc="/images/get-involved/con-doc.svg"
   buttonText="Contribute to developer docs"
   buttonUrl="https://github.com/NAVCoin/navcoin-dev-docs"
