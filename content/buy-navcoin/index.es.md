@@ -1,5 +1,5 @@
 ---
-title: "Comprar NavCoins"
+title: "Comprar Navs"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
@@ -7,7 +7,7 @@ author: ""
 description: "NavCoin es un criptoactivo generado públicamente y no ha sido pre-minado/vendido. La única manera de comprar NavCoin es a través de una casa de intercambio tercerizada."
 ---
 {{< hero_section
-titleText="Buy NavCoin"
+titleText="Comprar Navs"
 imgSrc="/images/buy-navcoin/buy-hero.svg"
 paragraphText="NavCoin es un criptoactivo generado públicamente y no ha sido pre-minado/vendido. La única manera de comprar NavCoin es a través de una casa de intercambio tercerizada. Dichas páginas de intercambio proveen distintos grados de seguridad, privacidad y control sobre sus fondos e informacion. Antes de iniciar cualquier transaccion se recomienda investigar bien donde van a hacer la transferencia. Para mayot informacion sobre páginas de intercambio ir al siguente&nbsp;enlace:"
 buttonText="Estadisticas del mercado"
