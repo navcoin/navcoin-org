@@ -1,5 +1,5 @@
 ---
-title: "For Developers"
+title: "Para desarrolladores"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
@@ -93,7 +93,7 @@ El fondo comunitario de NAV permite a cualquier desarrollador ser remunerado por
 {{< /item_container_section >}}
 
 {{< contrib_list
-    titleText="Contribuidores al protocolo de NavCoin"
+    titleText="Contribuir al protocolo de NavCoin"
     subtitleText="We would like to thank our contributors who have made this protocol&nbsp;awesome!"
     buttonUrl="https://github.com/NAVCoin/navcoin-core/graphs/contributors"
     buttonTxt="Ver NavCoin en GitHub"
