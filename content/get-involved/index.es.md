@@ -25,29 +25,29 @@ NavCoin Core ha sido traducido a más de 20 idionas. La ayuda en esta empresa es
 {{< zig_section
   titleText="Documentación"
   imgSrc="/images/get-involved/con-doc.svg"
-  buttonText="Contribute to developer docs"
+  buttonText="contribuir a la documentación de desarrollo"
   buttonUrl="https://github.com/NAVCoin/navcoin-dev-docs"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-We are currently working to bring online an open source developer documentation resource for NavCoin Core. If you want to help get this up and running please head over to GitHub and see how you can help out. Just make sure you follow the GitHub conventions outlined on this page and submit an issue about what documentation you’re writing to reduce duplication of&nbsp;effort.
+Estamos trabajando en subir de manera de abierta toda la documentación y los recursos que nuestro ecosistema posee. Si quieres ayudar en este proceso, toda la información se encuentra alojada en&nbsp;Github.
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="Submit an issue"
+titleText="Reportar un problema en el código"
 imgSrc="/images/get-involved/con-issue.svg"
-buttonText="Submit an issue"
+buttonText="Reporte de problemas"
 buttonUrl="https://github.com/NAVCoin/navcoin-core/issues"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 newTab="true"
 >}}
-For all non-critical problems with NavCoin Core please search for similar issues and if you don’t find any, submit a new issue providing the information&nbsp;below.
+Para inconvenientes no críticos dentro de NavCoin, por favor buscar casos similares en el buscador. Si no puedes encontrar problemas parecidos, reportar el problema con el formato&nbsp;siguiente:
 <br>
 <ul class="article-ul" style="color: rgba(0, 0, 0, 0.55);">
-  <li>A clear description of the problem and steps to reproduce the&nbsp;problem.</li>
-  <li>What version of NavCoin Core you use or what commit you built using.</li><li>Any relevant entries from your debug.log file. Please ensure to strip out any sensitive information before publishing your debug.log&nbsp;entries.</li>
+  <li>Describir de manera concisa el problema y los pasos para&nbsp;reproducirlo.</li>
+  <li>Version de NAVCoin Core usada al momento de encontrar el problema.</li><li>Detalles sobre la información del archivo "debug.log". Por favor asegurarse de no mostrar información confidencial dentro del&nbsp;"debug.log".</li>
 </ul>
 <p class="paragraph-text">The best strategy to get your issue fixed quickly is to make it as easy as possible for the development team to track down the problem and write a fix. Providing more information and organizing it well helps&nbsp;significantly.</p>
 {{< /zig_section>}}
