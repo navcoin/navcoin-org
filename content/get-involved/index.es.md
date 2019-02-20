@@ -13,7 +13,7 @@ imgSrc="/images/get-involved/con-hero.svg"
 {{< zig_section
 titleText="Traducciones"
 imgSrc="/images/get-involved/con-translate.svg"
-  buttonText="Set up a Transifex account"
+  buttonText="Crear cuenta en Transifex"
   buttonUrl="https://www.transifex.com/signup/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
     reversed="true"
@@ -31,7 +31,7 @@ NavCoin Core ha sido traducido a más de 20 idionas. La ayuda en esta empresa es
   bgPurple="true"
   newTab="true"
 >}}
-Estamos trabajando en subir de manera de abierta toda la documentación y los recursos que nuestro ecosistema posee. Si quieres ayudar en este proceso, toda la información se encuentra alojada en&nbsp;Github.
+Estamos trabajando en subir de manera abierta toda la documentación y los recursos que nuestro ecosistema posee. Si quieres ayudar en este proceso, toda la información se encuentra alojada en&nbsp;Github.
 {{< /zig_section>}}
 
 {{< zig_section
@@ -49,13 +49,13 @@ Para inconvenientes no críticos dentro de NavCoin, por favor buscar casos simil
   <li>Describir de manera concisa el problema y los pasos para&nbsp;reproducirlo.</li>
   <li>Version de NAVCoin Core usada al momento de encontrar el problema.</li><li>Detalles sobre la información del archivo "debug.log". Por favor asegurarse de no mostrar información confidencial dentro del&nbsp;"debug.log".</li>
 </ul>
-<p class="paragraph-text">The best strategy to get your issue fixed quickly is to make it as easy as possible for the development team to track down the problem and write a fix. Providing more information and organizing it well helps&nbsp;significantly.</p>
+<p class="paragraph-text">La mejor estrategia para resolver el problema lo más rápido posible, es hacer que el equipo desarrollador pueda re crear el problema de la manera más eficiente posible. Cuanta mayor sea la información y mejor esté organizada, más fácil será arreglar el&nbsp;problema.</p>
 {{< /zig_section>}}
 
 {{< zig_section
-  titleText="Resolve an issue"
+  titleText="Resolver un problema"
   imgSrc="/images/get-involved/con-resolve.svg"
-  buttonText="See the readme"
+  buttonText="Leer las instrucciones"
   buttonUrl="https://github.com/navcoin/navcoin-core/blob/master/CONTRIBUTING.md"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
