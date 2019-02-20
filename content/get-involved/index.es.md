@@ -19,7 +19,7 @@ imgSrc="/images/get-involved/con-translate.svg"
     reversed="true"
     newTab="true"
 >}}
-NavCoin Core ha sido traducido a más de 20 idionas. La ayuda en esta empresa es siempre bienvenida. Para agilizar el proceso, usamos el servicio de Transifex: <br><a href="https://www.transifex.com/navcoin/navcoin-core" style="text-decoration:underline;">https://www.transifex.com/navcoin/navcoin-core</a><br><br>Clikea en el proyecto y comienza a&nbsp;traducir!
+NavCoin Core ha sido traducido a más de 20 idionas. La ayuda en este emprendimiento será siempre bienvenida. Para agilizar el proceso, usamos el servicio de Transifex: <br><a href="https://www.transifex.com/navcoin/navcoin-core" style="text-decoration:underline;">https://www.transifex.com/navcoin/navcoin-core</a><br><br>Clikea en el proyecto y comienza a&nbsp;traducir!
 {{< /zig_section>}}
 
 {{< zig_section
@@ -61,27 +61,27 @@ Para inconvenientes no críticos dentro de NavCoin, por favor buscar casos simil
   bgPurple="true"
   newTab="true"
 >}}
-The issue tracker is the best place to find a useful way to contribute to NavCoin&nbsp;Core. Before starting to write any patches for issues you find, you may want to comment on the issue to make sure nobody else is already working on it. Remember that even if you’re resolving an issue you’ve found you will need to first create an issue in the issue&nbsp;tracker.
+El rastreador de problemas es el lugar más útil para contribuir al Core de NavCoin. Antes de sugirir arreglos al encontrar problemas es necesario comentarlo asi nos aseguramos que nadie esté ya trabajando en una&nbsp;solución.
 <br><br>
-To resolve an issue follow this process:
+Pasos a seguir para la resolución de problemas:
 <br>
 <ul class="article-ul" style="color: rgba(255,255,255,0.55);">
-  <li>Fork NavCoin/navcoin-core to your own GitHub&nbsp;account.</li>
-  <li>Create a branch to work in to resolve the issue then get to&nbsp;work.</li>
-  <li>Write or update unit and integration tests to cover any changes you’ve&nbsp;made.</li>
-  <li>Make a pull request from your branch back into the main NavCoin Core repository with the issue type and number in the title (eg. Trivial: fixes spelling mistake #145).</li>
-  <li>Talk with other NavCoin Core contributors on Discord or through GitHub to alert them to the pending Pull Request and they will review it as soon as&nbsp;possible.</li>
+  <li>Hacer una copia (Fork) de NavCoin/navcoin-core a tu cuenta persona; de&nbsp;Github.</li>
+  <li>Crear una ramificación para trabajar y resolver el&nbsp;problema.</li>
+  <li>Actualizar, probar la integracion sobre los cambios&nbsp;hechos.</li>
+  <li>Realizar un "Pull Request" desde tu ramificación hacia el repositorio principal de NavCoin Core con el problema y el número en el título ej: ("Arreglo de problemas de traducción #145").</li>
+  <li>Comunicarse con otros contribuidores al NavCoin Core en Discord o mismo en GIthub aletando sobre el "Pull Request" pendiente así lo pueden evaluar lo más pronto&nbsp;posible.</li>
 </ul>
-<p class="paragraph-text">For the full contribution workflow details, please see the readme on&nbsp;GitHub.</p>
+<p class="paragraph-text">Para mayor información sobre como funciona este sistema referirse a la sección de información de&nbsp;Github.</p>
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="Write tests"
+titleText="Escribir las pruebas"
 imgSrc="/images/get-involved/con-test.svg"
 reversed="true"
 newTab="true"
 >}}
-NavCoin Core is covered by many tests, but patches that improve test coverage are always welcome and are a great way to build familiarity with the codebase.
+NavCoin Core se encuentra cubierto por un número importante de pruebas de estabilidad. "Parches" que mejoran la cobertura de estas, siempren serán bienvenidad y son una fuente de información para lograr "familiaridad" con el código base.
 <br><br>
 Developers are strongly encouraged to write <a href="https://github.com/NAVCoin/navcoin-core/blob/master/doc/unit-tests.md" target="e" style="text-decoration:underline;">unit tests</a> for new code, and to submit new unit tests for old code. Unit tests can be compiled and run (assuming they weren't disabled in configure) with: make&nbsp;check.
 <br><br>
