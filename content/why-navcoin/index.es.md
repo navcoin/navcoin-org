@@ -4,7 +4,7 @@ date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
-description: "NavCoin es una criptomoneda de fuente abierta, su cadena de bloques está basada en el concenso de la "Prueba de Participación" (PoS). Es una plataforma descentralizada apoyada por sus usuarios."
+description: "NavCoin es una criptomoneda de código abierto, su cadena de bloques está basada en el concenso de la "Prueba de Participación" (PoS). Es una plataforma descentralizada apoyada por sus usuarios."
 ---
 {{< hero_section
 titleText="¿Qué es NavCoin?"
@@ -49,7 +49,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
     {{< long_text
         titleText="Pagos sin fricción"
         imgSrc="/images/why-navcoin/why-low-fee.svg"
-        text="En la economía digital, el envío de pagos a todo el mundo deberia ser rápido, barato y fácil de realizar. NavCoin puede enviarse por una fracciones de centavos, apareceran en segundos (confirmado en 30 segundos) y contamos con una variedad de monederos diseñados para que el envío sea extremadamente&nbsp;fácil."
+        text="En una economía digital, el envío de pagos a todo el mundo deberia ser rápido, barato y fácil de realizar. NavCoin puede enviarse por una fracciones de centavos, apareceran en segundos (confirmado en 30 segundos) y contamos con una variedad de monederos diseñados para que el envío sea extremadamente&nbsp;fácil."
 
     >}}
 {{< /item_container_section >}}
@@ -62,7 +62,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
 >}}
-NavCoin es una red administrada por la comunidad que se inició en 2014. Inicialmente usó la Prueba de trabajo (PoW), pero rápidamente hizo el cambio a la Prueba de Participación (PoS). Sin ICO o premine, NavCoin siempre se ha autofinanciado para garantizar una distribución justa y para que todos tengan la oportunidad de involucrarse al&nbsp;proyecto."
+NavCoin es una red administrada por su comunidad que se inició en 2014. Al principio usó la Prueba de trabajo (PoW), pero rápidamente hizo el cambio a la Prueba de Participación (PoS). Sin ICO o premine, NavCoin siempre se ha autofinanciado para garantizar una distribución justa y para que todos tengan la oportunidad de involucrarse al&nbsp;proyecto."
 {{< /zig_section>}}
 
 {{< item_container_section
@@ -82,70 +82,70 @@ NavCoin es una red administrada por la comunidad que se inició en 2014. Inicial
     {{< feature                 
         titleText="Financiacion transparente"
         imgSrc="/images/why-navcoin/why-conditional-payment.svg"
-        text="Projects can be held accountable to stakeholders through transparency of&nbsp;spending."
+        text="Los proyectos pueden rendir cuentas a las partes interesadas a través de la transparencia que dá el registro de movimientos dentro de la cadena de&nbsp;bloques."
     >}}
     {{< feature                 
-        titleText="Borderless payments"
+        titleText="Pagos sin fronteras"
         imgSrc="/images/why-navcoin/why-international.svg"
-        text="Low-cost money transfers makes doing international business&nbsp;even&nbsp;easier."
+        text="Las transferencias de dinero a bajo costo hacen que hacer negocios internacionales sea cada vez más&nbsp;fácil."
     >}}
     {{< feature                 
-        titleText="Multi-person wallets "
+        titleText="Monederos multi firma"
         imgSrc="/images/why-navcoin/why-crowdfunding.svg"
-        text="Create a shared account with family or friends, with a range of&nbsp;security&nbsp;options."
+        text="Con Nav es posible crear monederos compartidos entre colegas con un amplio rango de opciones de&nbsp;seguridad."
     >}}
     {{< feature                 
-        titleText="Store of wealth"
+        titleText="Almacenamiendo de riqueza"
         imgSrc="/images/why-navcoin/why-wealth.svg"
-        text="NavCoin doesn’t require any central authority to run - meaning your money is in&nbsp;your&nbsp;control."
+        text="NavCoin no requiere ninguna autoridad central para funcionar, lo que significa que el dinero está bajo el control del&nbsp;usuario."
     >}}
 {{< /item_container_section >}}
 
 
 {{< item_container_section
-    titleText="A Developer-Centric Community"
-    subtitleText="Making it easy for developers to get involved."
+    titleText="Una comunidad basada en el desarrollo"
+    subtitleText="Facilitando la participación de los desarrolladores."
     bgPurple="true"
 >}}
     {{< feature
-        titleText="Lots of ways to get involved"
+        titleText="Muchas maneras de involucrarse"
         imgSrc="/images/why-navcoin/why-decentralised-dev.svg"
-        text="NavCoin is an ecosystem of different teams and projects - allowing for a number of ways to&nbsp;get&nbsp;involved."
+        text="NavCoin es un ecosistema de diferentes equipos y proyectos, que permite distintas maneras de&nbsp;participación."
     >}}
     {{< feature
-        titleText="Community fund"
+        titleText="Fondo comunitario"
         imgSrc="/images/why-navcoin/why-cfund.svg"
-        text="NavCoin’s Community Fund allows contributors to get paid by the network for&nbsp;their&nbsp;efforts."
+        text="El Fondo Comunitario de NavCoin permite a los contribuyentes recibir un pago de la red por sus&nbsp;esfuerzos."
     >}}
     {{< feature                 
-        titleText="Proof of Stake Alliance member"
+        titleText="Miembro de la "Alianza de la Prueba de Participacion"
         imgSrc="/images/why-navcoin/why-pos-alliance.svg"
-        text="Which aims to collaboratively research the PoS protocol - alongside PivX, Blackcoin, Particl, Komodo,&nbsp;and&nbsp;more."
+        text="Este grupo tiene como objetivo mejorar en forma colaborativa el protocolo de la Prueba de Participación (PoS). Incluye proyectos como PivX, Blakcoin, Paticl y&nbsp;otrosW."
     >}}
     {{< feature                 
-        titleText="Active research & development"
+        titleText="Desarrollo e investigación activos"
         imgSrc="/images/why-navcoin/why-research.svg"
-        text="NavCoin Protocol Improvement Proposals (NPIPs) are the research playground where cryptographers, economists, and developers&nbsp;collaborate."
+        text="Las propuestas de mejora del protocolo NavCoin (NPIP) son el campo de investigación donde criptógrafos, economistas y desarrolladores&nbsp;colaboran."
     >}}
     {{< feature                 
-        titleText="Programmable money"
+        titleText="Dinero programable"
         imgSrc="/images/why-navcoin/why-digital-money.svg"
-        text="Digitizing money allows it to be programmable, automatable, and interactable in new and&nbsp;interesting&nbsp;ways."
+        text="La digitalización del dinero permite que sea programable, automatizable e interactuable en formas nuevas e&nbsp;interesantes."
     >}}
     {{< feature                 
-        titleText="An easy payment solution"
+        titleText="Una solución de pago fácil"
         imgSrc="/images/why-navcoin/why-easy-pay.svg"
-        text="You don't need to sign up with anything in order to accept payments. It's as easy as showing your address or&nbsp;QR&nbsp;code!"
+        text="No es necesario registrarse para aceptar pagos. Es tan fácil como mostrar una dirección o código&nbsp;QR."
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
-titleText="Protocol Roadmap"
+titleText="Hoja de ruta del protocolo"
 imgSrc="/images/why-navcoin/why-roadmap.svg"
 buttonUrl="/roadmap/"
-buttonText="Check out where we're going"
+buttonText="Echar un vistazo hacia donde vamos"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 >}}
-With an active community working on the NavCoin protocol, check out the roadmap to see what's&nbsp;coming&nbsp;next.
+Con una comunidad activa trabajando en el protocolo NavCoin, consulten la hoja de ruta para ver hacia donde&nbsp;vamos.
 {{< /zig_section>}}
