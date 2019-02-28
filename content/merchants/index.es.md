@@ -7,8 +7,7 @@ description: "Cualquiera puede aceptar NavCoin en su sitio web o en la tienda pa
 ---
 {{< hero_section
 titleText="Comercios"
-paragraphText="paragraphText="Cualquiera puede aceptar NavCoin en su sitio web o tiendas para recibir pagos instantáneos con bajo&nbsp;costo. Esta página no es una lista exhaustiva, no es necesario registrarse para aceptar NavCoin. Si aceptan NavCoin y quieren que sus comercios aparezcan nuestra página, solo hay que crear una solicitud de extracción o abrir un problema en GitHub."
-
+paragraphText="Cualquiera puede aceptar NavCoin en su sitio web o tiendas para recibir pagos instantáneos con bajo&nbsp;costo. Esta página no es una lista exhaustiva, no es necesario registrarse para aceptar NavCoin. Si aceptan NavCoin y quieren que sus comercios aparezcan nuestra página, solo hay que crear una solicitud de extracción o abrir un problema en GitHub."
 
 
 imgSrc="/images/merchants/mer-hero.svg"
