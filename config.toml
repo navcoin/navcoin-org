@@ -199,8 +199,8 @@ enableRobotsTXT = true
     weight = 20
     identifier = "explore"
     [[Languages.es.menu.main]]
-        name = "Mapa de ruta"
-        title = "Mapa ruta"
+        name = "Hoja de ruta"
+        title = "Hoja ruta"
         weight = 20
         url = "/roadmap/"
         identifier = "roadmap"
