@@ -1,86 +1,86 @@
 ---
-title: "Why NavCoin"
+title: "¿Por qué NavCoin?"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
-description: "NavCoin is an open-source, blockchain based Proof of Stake cryptocurrency. It’s a platform that’s run by its users, for its users."
+description: "NavCoin es una criptomoneda de fuente abierta, su cadena de bloques está basada en el concenso de la "Prueba de Participación" (PoS). Es una plataforma descentralizada apoyada por sus usuarios."
 ---
 {{< hero_section
-titleText="What Is NavCoin"
-paragraphText="NavCoin is an open-source, blockchain based Proof of Stake cryptocurrency. Its design is public, nobody owns or controls NavCoin, and everyone can take part. It’s a platform that’s run by its users, for its users - with an incentivised network of nodes verifying payments all around&nbsp;the&nbsp;world."
+titleText="¿Qué es NavCoin?"
+paragraphText="NavCoin es una criptomoneda de código abierto, basada una cadena de bloques con "Prueba de Participación" (PoS). Su diseño es público, nadie posee ni controla NavCoin, y todos pueden participar. Es una plataforma operada por sus usuarios, para sus usuarios, con una red de nodos que verifican las transacciones dispersos por todo el&nbsp;mundo."
 imgSrc="/images/why-navcoin/why-hero.svg"
 >}}
 
 {{< item_container_section
-    titleText="Why Are People Using&nbsp;NavCoin?"
-    subtitleText="It's cheap, fast, eco-friendly and privacy focused."
+    titleText="¿Por qué la gente usa&nbsp;NavCoin?"
+    subtitleText="Es una moneda con bajo costo de transferencia, es muy rápida, es ecológica ya que su emisión no necesita grandes cantidades de electricidad y su foco es el de las transferencias privadas."
 >}}
     {{< long_text
-        titleText="Be your own bank"
+        titleText="NavCoin es tu banco"
         imgSrc="/images/why-navcoin/why-own-bank.svg"
-        text="There are no banks or intermediaries that run NavCoin, and no one you need to deposit your money with. All payments are peer to peer, and managed by your wallet. Unlike the current system, you have total control of your money, and a say in how the network&nbsp;is&nbsp;run."
+        text="No hay bancos ni intermediarios que ejecuten NavCoin, y no es necesario que deposites tu dinero. Todos los pagos son de igual a igual, y son administrados por su monedero. A diferencia del sistema actual, con NAV tienen el control total de sus monedas y tienen también la posibilidad de elegir como la red debe&nbsp;correr."
 
     >}}
     {{< long_text
-        titleText="Privacy"
+        titleText="Privacidad"
         imgSrc="/images/why-navcoin/why-privacy.svg"
-        text="Blockchains by their nature are public ledgers that allows anyone to view every transaction ever sent, which makes privacy a challenge. NavCoin is dedicated to providing privacy for users, so that your information can only be given with your consent,&nbsp;not&nbsp;taken."
+        text="Las cadenas de bloques por naturaleza son libros de contabilidad públicos que permiten a cualquier persona ver cada transacción enviada, lo que hace que la privacidad sea un desafío. NavCoin se dedica a proporcionar la mayor privacidad posible a sus usuarios, de modo que su información solo se pueda proporcionar bajo su&nbsp;consentimiento."
 
     >}}
     {{< long_text
-        titleText="Cold staking"
+        titleText="Prueba de Participación segura (Cold staking)"
         imgSrc="/images/why-navcoin/why-peer.svg"
-        text="Security is the number one priority for NavCoin, which makes cold staking an important upcoming feature to be implemented. Instead of having all your coins connected to the internet - this allows you to participate in staking the network, while also keeping your coins offline for&nbsp;added&nbsp;protection."
+        text="La seguridad es la prioridad número uno para NavCoin, lo que hace que la prueba de participación en frío sea una importante función dentro de nuestro ecosistema. En lugar de tener todas sus monedas conectadas a la red, esto permite participar en el PoS, al mismo tiempo que mantienen sus monedas fuera de línea para la mayor proteccion&nbsp;posible."
 
     >}}
     {{< long_text
-        titleText="A network that never sleeps"
+        titleText="Una red que nunca duerme."
         imgSrc="/images/why-navcoin/why-247.svg"
-        text="With nodes all around the world, the NavCoin network is running 24/7. As long as you’re connected to the internet, you can send & receive payments anywhere in the world, at any time of the day, with no downtime - making it ideal for&nbsp;digital&nbsp;commerce."
+        text="Con nodos en todo el mundo, la red NavCoin funciona 24/7. Mientras esten conectado a Internet, pueden enviar y recibir pagos en cualquier lugar del mundo, en cualquier momento del día, sin tiempo de inactividad, lo que lo hace ideal para&nbsp;comercios."
 
     >}}
     {{< long_text
-        titleText="A human readable address"
+        titleText="Direcciones fáciles de leer"
         imgSrc="/images/why-navcoin/why-fair.svg"
-        text="You can personalise your wallet using OpenAlias, which allows you to create an email-style address for your NAV. The service is built on top of the worldwide DNS service to convert a domain name into a cryptocurrency address, making sending a payment easier&nbsp;than&nbsp;ever."
+        text="Pueden personalizar su monedero de NavCoin con OpenAlias, al permitir crear una dirección con formato de correo electrónico para sus NAVs. El servicio se basa en el servicio DNS mundial para convertir un nombre de dominio en una dirección de criptomoneda, haciendolo uno de los sistemas más fáciles de&nbsp;usar ."
 
     >}}
     {{< long_text
-        titleText="Frictionless payments"
+        titleText="Pagos sin fricción"
         imgSrc="/images/why-navcoin/why-low-fee.svg"
-        text="In the digital economy, sending payments around the world should be fast, cheap, and easy to do. NavCoin can be sent for a fraction of a cent, will show up within seconds (confirmed in 30 seconds), and there are a range of wallets designed to make sending&nbsp;NAV&nbsp;effortless."
+        text="En la economía digital, el envío de pagos a todo el mundo deberia ser rápido, barato y fácil de realizar. NavCoin puede enviarse por una fracciones de centavos, apareceran en segundos (confirmado en 30 segundos) y contamos con una variedad de monederos diseñados para que el envío sea extremadamente&nbsp;fácil."
 
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
-  titleText="History Of NavCoin"
+  titleText="Historia de NavCoin"
   imgSrc="/images/why-navcoin/why-history.svg"
   buttonUrl="/governance/"
-  buttonText="Read more about governance"
+  buttonText="Leer más sobre la gobernancia de NAV"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
 >}}
-NavCoin is a community-run network that was started in 2014. It initially used Proof of Work, but quickly made the shift to Proof of Stake. With no ICO or premine, NavCoin has always been self-funded to ensure a fair distribution and that everyone has a chance to&nbsp;get&nbsp;involved.
+NavCoin es una red administrada por la comunidad que se inició en 2014. Inicialmente usó la Prueba de trabajo (PoW), pero rápidamente hizo el cambio a la Prueba de Participación (PoS). Sin ICO o premine, NavCoin siempre se ha autofinanciado para garantizar una distribución justa y para que todos tengan la oportunidad de involucrarse al&nbsp;proyecto."
 {{< /zig_section>}}
 
 {{< item_container_section
-    titleText="How To Use&nbsp;NavCoin"
-    subtitleText="A programmable currency for the web3 era, with a range of&nbsp;use&nbsp;cases."
+    titleText="Como usar&nbsp;NavCoin"
+    subtitleText="Nav es una criptomoneda para la nueva era de Web3 con un rango amplio de&nbsp;usos."
 >}}
     {{< feature
-        titleText="Buying goods & services"
+        titleText="Compra de bienes y servicios"
         imgSrc="/images/why-navcoin/why-buy.svg"
-        text="A cheaper way to pay for goods & services - with no&nbsp;expensive&nbsp;chargebacks."
+        text="Una manera asequible de pago por servicios y bienes casi sin cargos por&nbsp;transferencias."
     >}}
     {{< feature
-        titleText="Digital tip jar"
+        titleText="Propinas digitales"
         imgSrc="/images/why-navcoin/why-digital-tips.svg"
-        text="If you’ve got space to add a QR code, you’re able to accept NAV - it’s&nbsp;that&nbsp;easy."
+        text="Si hay espacio en una página de internet para agregar un código QR, pueden aceptar NAV. Así de&nbsp;simple."
     >}}
     {{< feature                 
-        titleText="Transparent funding"
+        titleText="Financiacion transparente"
         imgSrc="/images/why-navcoin/why-conditional-payment.svg"
         text="Projects can be held accountable to stakeholders through transparency of&nbsp;spending."
     >}}
