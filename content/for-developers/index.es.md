@@ -18,7 +18,7 @@ buttonImgSrc="/images/icons/rightward-arrow.svg"
 {{< zig_section
 titleText="Conseguir fondos para el desarrollo por parte de la&nbsp;comunidad"
 imgSrc="/images/for-developers/dev-get-involved.svg"
-buttonText="Más información
+buttonText="Más información"
 buttonUrl="/community-fund"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
