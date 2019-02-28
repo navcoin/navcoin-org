@@ -57,7 +57,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
   {{< step
       titleText="Paso 6: Involucrarse en proyectos relacionados con NavCoin"
       imgSrc="/images/for-beginners/beg-get-involved.svg"
-      text="NavCoin no es sólo una criptomoneda: Es una comunidad con una visión para el la forma en que se debe distribuir-usar el dinero. Una comunidad es tan fuerte como los miembros individuales que contribuyen en ella. Con el "Fondo Comunitario", usuarios pueden presentar proyectos y ser remunerados en Nav. Únanse a nuestros canales e&nbsp;involucrense."
+      text="NavCoin no es sólo una criptomoneda: Es una comunidad con una visión para el la forma en que se debe distribuir-usar el dinero. Una comunidad es tan fuerte como los miembros individuales que contribuyen en ella. Con el &#34;Fondo Comunitario&#34;, usuarios pueden presentar proyectos y ser remunerados en Nav. Únanse a nuestros canales e&nbsp;involucrense."
       buttonText="Fondo Comunitario"
       buttonUrl="/fondo-comunitario"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
