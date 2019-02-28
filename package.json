@@ -7,12 +7,14 @@
   },
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-sass": "^3.2.1"
+    "gulp-sass": "^3.2.1",
+    "sass": "^1.15.2"
   },
   "devDependencies": {},
   "scripts": {
     "start": "hugo server",
-    "sass": "gulp sass:watch"
+    "sass": "gulp sass:watch",
+    "bootstrap-translation": "node bootstrap-translation.js"
   },
   "keywords": [
     "NAV",
