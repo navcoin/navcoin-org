@@ -12,7 +12,7 @@ description: 'NavCoin es un protocolo de código abierto, lo que significa que l
 {{< hero_section
 titleText="Monederos"
 imgSrc="/images/wallets/wal-hero.svg"
-paragraphText="NavCoin es un protocolo de código abierto, lo que significa que los monederos son mantenidos por una variedad de organizaciones e individuos. Hay diferentes tipos de monederos: desde monederos "completos" que dan un control completo y permiten participar en la red NavCoin, hasta monederos "ligeros" que son más fáciles de usar pero no dan recompensas por la prueba de participacion (PoS). Recuerden siempre que es su responsabilidad elegir su moendero con cuidado y adoptar buenas prácticas para proteger sus&nbsp;Navs."
+paragraphText="NavCoin es un protocolo de código abierto, lo que significa que los monederos son mantenidos por una variedad de organizaciones e individuos. Hay diferentes tipos de monederos: desde monederos &#34;completos&#34; que dan un control completo y permiten participar en la red NavCoin, hasta monederos &#34;ligeros&#34; que son más fáciles de usar pero no dan recompensas por la prueba de participacion (PoS). Recuerden siempre que es su responsabilidad elegir su moendero con cuidado y adoptar buenas prácticas para proteger sus&nbsp;Navs."
 buttonText="Asistencia de la comunidad"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 buttonLink="https://discord.gg/y4Vu9jw"
