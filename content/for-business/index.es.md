@@ -8,7 +8,7 @@ description: ""
 ---
 {{< hero_section
 titleText="NavCoin Para Empresas"
-paragraphText="¿Está tu empresa lista para el "futuro"? Cada vez más usuarios están buscando maneras de usar sus criptomonedas para pagos de bienes y servicios en la vida cotidiana. Hoy en dia es necesario estar actualizado dentro de las tendencias tecnologicas. Es el momento de aceptar NavCoin en su negocio físico o en linea. NavCoin provee las herramientas necesarias para ser una solución de pagos para&nbsp;empresas."
+paragraphText="¿Está tu empresa lista para el &#34;futuro&#34;? Cada vez más usuarios están buscando maneras de usar sus criptomonedas para pagos de bienes y servicios en la vida cotidiana. Hoy en dia es necesario estar actualizado dentro de las tendencias tecnologicas. Es el momento de aceptar NavCoin en su negocio físico o en linea. NavCoin provee las herramientas necesarias para ser una solución de pagos para&nbsp;empresas."
 
 imgSrc="/images/for-business/bus-hero.svg"
 >}}
@@ -70,7 +70,7 @@ buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 newTab="true"
 >}}
-CoinPayments funciona de manera similar a PayPal, se incluyen "plug-ins" como un carrito de compras, un botón de pagos, facturas y puntos de venta. Si su negocio se encuentra en la Eurozona o en USA, pueden retirar EUR o USD directamente desde su&nbsp;plataforma.
+CoinPayments funciona de manera similar a PayPal, se incluyen &#34;plug-ins&#34; como un carrito de compras, un botón de pagos, facturas y puntos de venta. Si su negocio se encuentra en la Eurozona o en USA, pueden retirar EUR o USD directamente desde su&nbsp;plataforma.
 {{< /zig_section>}}
 
 {{< zig_section
@@ -82,7 +82,7 @@ CoinPayments funciona de manera similar a PayPal, se incluyen "plug-ins" como un
   bgPurple="true"
   newTab="true"
 >}}
-La integración de los "NavBottons" para pagos rápidos es una manera fácil de aceptar pagos individuales o de negocios secundarios. Es tan simple como "copiar-pegar" una linea de código a su página de&nbsp;internet.
+La integración de los &#34;NavButtons&#34; para pagos rápidos es una manera fácil de aceptar pagos individuales o de negocios secundarios. Es tan simple como "copiar-pegar" una linea de código a su página de&nbsp;internet.
 {{< /zig_section>}}
 
 {{< center_text_cta
