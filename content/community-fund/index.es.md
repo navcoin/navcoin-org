@@ -69,7 +69,7 @@ description: "El fondo comunitario de NavCoin es un sistema de incentivación de
     {{< feature                 
         titleText="La red es la que decide"
         imgSrc="/images/community-fund/cfu-network.svg"
-        text"El fondo comunitario le devuelve el poder del proyecto a la comunidad al financiar a los usuarios para que se involucren y darle a la red voz y voto para elegir hacia donde debe ir el&nbsp;proyecto."
+        text="El fondo comunitario le devuelve el poder del proyecto a la comunidad al financiar a los usuarios para que se involucren y darle a la red voz y voto para elegir hacia donde debe ir el&nbsp;proyecto."
     >}}
 {{< /item_container_section >}}
 
