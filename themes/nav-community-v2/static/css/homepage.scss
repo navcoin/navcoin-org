@@ -208,7 +208,13 @@ $nav-purple-light: #9A54C4;
       grid-template-columns: 1fr 1fr;
       text-align: left;
       justify-content: flex-start;      
-      grid-gap: 40px 70px;
+      grid-gap: 40px 60px;
+    }
+
+    @media (min-width: 1300px) {
+      .grid-container{
+        max-width: 1400px;
+      }
     }
 
     .left-img {

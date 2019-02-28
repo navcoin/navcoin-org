@@ -25,7 +25,8 @@
 </div>
 
   <section>
-    <div class="roadmap-grid-container">
+    <div class="roadmap-grid-container" style="max-width: 1190px;">
+      {{ if len (where .Site.Pages "Params.status" "upcoming") }}
       <div class="roadmap-session up-coming">
         <img src="/images/roadmap/map-up-coming.svg"/>
         <h3>Upcoming</h3>
@@ -33,7 +34,8 @@
           {{ partial "roadmap_item.html" . }}
         {{ end }}
       </div>
-
+      {{ end }}
+      {{ if len (where .Site.Pages "Params.status" "in-progress") }}
       <div class="roadmap-session in-progress">
         <img src="/images/roadmap/map-in-progress.svg"/>
         <h3>In Progress</h3>
@@ -41,7 +43,8 @@
           {{ partial "roadmap_item.html" . }}
         {{ end }}
       </div>
-
+      {{ end }}
+      {{ if len (where .Site.Pages "Params.status" "testing") }}
       <div class="roadmap-session beta">
         <img src="/images/roadmap/map-beta.svg"/>
         <h3>Beta Testing</h3>
@@ -49,7 +52,8 @@
           {{ partial "roadmap_item.html" . }}
         {{ end }}
       </div>
-
+      {{ end }}
+      {{ if len (where .Site.Pages "Params.status" "completed") }}
       <div class="roadmap-session complete">
         <img src="/images/roadmap/map-completed.svg"/>
         <h3>Completed</h3>
@@ -57,6 +61,7 @@
           {{ partial "roadmap_item.html" . }}
         {{ end }}
       </div>
+      {{ end }}
     </div>
   </section>
 
