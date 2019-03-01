@@ -18,7 +18,7 @@ buttonImgSrc="/images/icons/rightward-arrow.svg"
 buttonLink="https://discord.gg/y4Vu9jw"
 newTab="true"
 
-> }}
+>}}
 
 {{< item_container_section
     titleText="Monederos de NavCoin"
