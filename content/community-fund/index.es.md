@@ -110,7 +110,7 @@ El portal de "NavCoin Collab" es el espacio donde la comunidad puede encontrar e
   itemSevenText="Comienza el proyecto y trata de respetar los tiempos pre establecidos.<br><br>Es importante mantener a la comunidad informada sobre su progreso."
 
   itemEightTitle="Paso 8 - Pago final."
-  itemEightText="Una vez terminado, es momento de hacer el pedido de pago del Fondo Comunitario. Si el proyecto se hace en distintos pasos, se pueden ir pidiendo pagos al alcanzar las metas&nbsp;concensuadas.<br><br>La liberación del pago estará sujeta a una segunada votacion entre los usuarios que hagan "Stake" con sus monedas. Nuevamente deberá haber un 50% mínima de participación pero en este paso el umbral de liberación o rechazo será del&nbsp;50%.<br><br>Los dueños de los proyectos DEBERÁN requerir los pagos antes de la fecha de expiración del&nbsp;proyecto."
+  itemEightText="Una vez terminado, es momento de hacer el pedido de pago del Fondo Comunitario. Si el proyecto se hace en distintos pasos, se pueden ir pidiendo pagos al alcanzar las metas&nbsp;concensuadas.<br><br>La liberación del pago estará sujeta a una segunada votacion entre los usuarios que hagan &quot;Stake&quot; con sus monedas. Nuevamente deberá haber un 50% mínima de participación pero en este paso el umbral de liberación o rechazo será del&nbsp;50%.<br><br>Los dueños de los proyectos DEBERÁN requerir los pagos antes de la fecha de expiración del&nbsp;proyecto."
 >}}
 
 {{< social_grid_section
