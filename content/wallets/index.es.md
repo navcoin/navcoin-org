@@ -116,7 +116,7 @@ buttonText="Descargas avanzadas"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 newTab="true"
 
-> }}
+>}}
 
     {{< action
         titleText="Windows"
