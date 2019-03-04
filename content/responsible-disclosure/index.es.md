@@ -1,13 +1,13 @@
 ---
-title: "Responsible Disclosure"
+title: "Divulgación Responsable"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
-description: "If you’re a researcher and you’ve found a critical vulnerability here’s how you can talk securely with the NavCoin Core developers."
+description: "Si eres un investigador y has encontrado una vulnerabilidad crítica, aquí es cómo puedes hablar de forma segura con los desarrolladores de NavCoin Core."
 ---
 {{< hero_section
-titleText="Responsible Disclosure"
-paragraphText="NavCoin is experimental technology and sometimes critical bugs are found. If you’re a researcher and you’ve found a critical vulnerability here’s how you can talk securely with the NavCoin Core developers."
+titleText="Divulgación Responsable"
+paragraphText="NavCoin es una tecnología experimental y, a veces, se encuentran errores críticos. Si eres un investigador y has encontrado una vulnerabilidad crítica aquí es cómo puedes hablar de forma segura con los desarrolladores de NavCoin Core."
 imgSrc="/images/responsible-disclosure/dis-hero.svg"
 >}}
 
@@ -15,24 +15,24 @@ imgSrc="/images/responsible-disclosure/dis-hero.svg"
 <div class="grey">
     <div class="article">
         <h2 class="article-title">
-            Disclosure Procedure
+            Procedimiento de Divulgación
         </h2>
-        <p>If you think you’ve found a critical vulnerability in NavCoin’s protocol, please don’t hesitate to contact the NavCoin Core developers. We are committed to coordinating with you and any other affected parties to ensure any disclosure is handled discreetly and in a timely manner.</p>
-        <p>The best place to report the vulnerability is to <a href="#">disclosure@navcoin.org</a>. You can encrypt your message with the GPG key found on the NavCoin GitHub.</p>
-        <h3 class="article-sml-title">Disclosure GPG Key</h3>
+        <p>Si cree que ha encontrado una vulnerabilidad crítica en el protocolo de NavCoin, no dude en ponerse en contacto con los desarrolladores de NavCoin Core. Nos comprometemos a coordinar con usted y con cualquier otra parte afectada para garantizar que cualquier divulgación se maneje de manera discreta y oportuna..</p>
+        <p>El mejor lugar para informar sobre la vulnerabilidad es <a href="#"> reveal@navcoin.org </a>. Puede cifrar su mensaje con la clave GPG que se encuentra en NavCoin GitHub.</p>
+        <h3 class="article-sml-title">Divulgacion clave GPG</h3>
         <p>
             <a href="https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub" target="_blank">
                 https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub
             </a>
         </p>
-        <h3>Ideally the disclosure would include:</h3>
+        <h3>Idealmente, la divulgación incluirá</h3>
         <ul>
-            <li>A docker image with python tests showing the vulnerability</li>
-            <li>Detailed notes about the vulnerability and affected parts of the code</li>
-            <li>Suggested mitigation strategies.</li>
-            <li>Your GPG public key so we can securely reply to you.</li>
+            <li>Una imagen acoplable con pruebas de python que muestra la vulnerabilidad.</li>
+            <li>Notas detalladas sobre la vulnerabilidad y las partes afectadas del código.</li>
+            <li>Estrategias de mitigación sugeridas.</li>
+            <li>Tu clave pública de GPG para que podamos responderte de forma segura.</li>
         </ul>
-        <p>If you’re unable to communicate with this way please reach out any of the admins on the NavCoin Discord channel and we will setup a secure private channel with you.</p>
+        <p>Si no puedes comunicarte de esta manera, comunícate con cualquiera de los administradores en el canal de discordia de NavCoin y configuraremos un canal privado seguro contigo.</p>
     </div>
 </div>
 

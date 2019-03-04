@@ -4,29 +4,29 @@ date: 2018-03-12T17:47:48+13:00
 draft: false
 ---
 {{< text_section
-    title="Terms of Use"
+    title="Términos de uso"
     bgColor="#fff"
     titleColor="#333">}}
 
-<p>© NavCoin 2014-2018 is released under the <a href="http://opensource.org/licenses/mit-license.php">MIT license</a>.</p>
+<p>© NavCoin 2014-2019 se adhiere a la <a href="http://opensource.org/licenses/mit-license.php">licencia MIT</a>.</p>
 
-<p>By using the NavCoin softwares or network, you also agree to the following terms of use.</p>
+<p>Al utilizar el software o la red de NavCoin, también aceptan las siguientes términos de uso.</p>
 
-<h3>No Investment advice</h3>
-<p>This website does not provide individual or customized legal, tax, financial, or investment services. Since each individual’s situation is unique, a qualified professional should be consulted before making financial decisions. Since NAV is meant to be used as a medium of exchange, nothing on this website constitutes investment advice or a solicitation to buy, hold, invest in, own, or use NAV.</p>
+<h3>No damos consejos de inversión</h3>
+<p>Este sitio web no proporciona servicios legales, fiscales, financieros o de inversión individuales o personalizados. Dado que la situación de cada individuo es única, se debe consultar a un profesional calificado antes de tomar decisiones financieras. Dado que el NAV está destinado a ser utilizado como un medio de intercambio, nada en este sitio web constituye un consejo de inversión o una solicitud para comprar, retener, invertir, poseer o utilizar el NAV..</p>
 
-<h3>No liability for NAV loss</h3>
-<p>NavCoin Core Developers will not be responsible for any damages, claims, or losses arising from the use of NAV, including the actions or inactions or events related to third parties, security problems during the use of any NAV-related software or service, technical failures during the use of any NAV-related software or service, software or data corruption problems during the use of any NAV-related software or service, or user errors during the use of any NAV-related software or service.</p>
+<h3>No hay responsabilidad por la pérdida de NAV</h3>
+<p>Los desarrolladores de NavCoin Core no serán responsables de ningún daño, reclamo o pérdida que surja del uso de NAV, incluidas las acciones o inacciones o eventos relacionados con terceros, problemas de seguridad durante el uso de cualquier software o servicio relacionado con NAV, fallas técnicas durante el uso de cualquier software o servicio relacionado con NAV, software o problemas de corrupción de datos durante el uso de cualquier software o servicio relacionado con NAV, o errores del usuario durante el uso de cualquier software o servicio relacionado con NAV.</p>
 
-<h3>Disclaimer of warranties</h3>
-<p>The NavCoin Core Developers disclaims all warranties, representations and conditions of any kind, whether express or implied, including, but not limited to the implied warranties and conditions of merchantability, fitness for a particular purpose and non-infringement, with respect to the use of this website and its services, or the accuracy, completeness, timeliness or currentness of its content, in any way and for any purpose.</p>
+<h3>Renuncia de garantías</h3>
+<p>NavCoin Core Developers niega todas las garantías, representaciones y condiciones de cualquier tipo, ya sean expresas o implícitas, incluidas, entre otras, las garantías y condiciones implícitas de comercialización, idoneidad para un propósito particular y no infracción, con respecto al uso de este sitio web y sus servicios, o la precisión, integridad, puntualidad o actualidad de su contenido, de cualquier manera y para cualquier propósito.</p>
 
-<h3>Exclusion of consequential damages</h3>
-<p>In no event will the NavCoin Core Developers be liable for any incidental, incidental, special, consequential, exemplary or indirect damages arising out of the use of or inability to use this website or any of its services or content, or loss of data, even if the NavCoin Core Developers have been advised of the possibility of such damages, and whether based on contract, tort, negligence, product liability, strict liability or otherwise.</p>
+<h3>Exclusión de daños consecuentes.</h3>
+<p>En ningún caso, NavCoin Core Developers será responsable por daños incidentales, incidentales, especiales, consecuentes, ejemplares o indirectos que surjan del uso o la imposibilidad de usar este sitio web o cualquiera de sus servicios o contenido, o la pérdida de datos, incluso si los desarrolladores de NavCoin Core han sido informados de la posibilidad de tales daños, y ya sea por contrato, agravio, negligencia, responsabilidad del producto, responsabilidad estricta o de otro tipo.</p>
 
-<h3>Exclusion of limitations and disclaimers</h3>
-<p>Because some jurisdictions do not allow the disclaimer of warranties, or the exclusion or limitation of liability for consequential or incidental damages, in such jurisdictions the NavCoin Core Developer's liability is limited to the greatest extent permitted by law.</p>
+<h3>Exclusión de limitaciones y exenciones de responsabilidad.</h3>
+<p>Debido a que algunas jurisdicciones no permiten la renuncia de garantías, o la exclusión o limitación de responsabilidad por daños indirectos o incidentales, en tales jurisdicciones, la responsabilidad del Desarrollador Principal de NavCoin está limitada en la mayor medida posible por la ley.</p>
 
-<h3>Viruses and malware</h3>
-<p>The NavCoin Core Developers takes many precautions to ensure the files available for downloading through this website are not tampered with, and where appropriate SHA hashes are provided for end users to confirm they have downloaded the correct file. Nonetheless, the NavCoin Core Developers do not guarantee that files available for downloading through this website will be free of infection or viruses or other code that may have contaminating or destructive properties. You are responsible for implementing sufficient procedures and checkpoints to satisfy your particular requirements for integrity, security and accuracy of data input and output, and for maintaining a means external to the site for the reconstruction of any lost data. It is almost always advisable to check the SHA hashes of the files you have downloaded, and if in any doubt consider compiling NavCoin from the source code.</p>
+<h3>Virus y malware</h3>
+<p>Los desarrolladores del núcleo de NavCoin toman muchas precauciones para garantizar que los archivos disponibles para descargar a través de este sitio web no se alteren y, donde corresponda, se proporcionan hashes SHA para que los usuarios finales confirmen que han descargado el archivo correcto. No obstante, los desarrolladores del núcleo de NavCoin no garantizan que los archivos disponibles para descargar a través de este sitio web estén libres de infecciones, virus u otros códigos que puedan tener propiedades contaminantes o destructivas. Usted es responsable de implementar procedimientos y puntos de control suficientes para satisfacer sus requisitos particulares de integridad, seguridad y precisión de la entrada y salida de datos, y de mantener un medio externo al sitio para la reconstrucción de los datos perdidos. Casi siempre es recomendable verificar los hashes SHA de los archivos que ha descargado, y si tiene alguna duda, considere la posibilidad de compilar NavCoin a partir del código fuente.</p>
 {{< /text_section >}}
