@@ -37,7 +37,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
     {{< long_text
         titleText="Carbon neutral network"
         imgSrc="/images/why-navcoin/why-low-energy.svg"
-        text="NavCoin uses Proof of Stake which is an energy efficient form of blockchain validation. With sponsorship from the Community Fund, NavCoin has offset the estimated annual carbon footprint of the network to become the worlds first carbon neutral&nbsp;cryptocurrency."
+        text="NavCoin uses Proof of Stake which is an energy efficient form of blockchain validation. With sponsorship from the Community Fund, NavCoin has offset the estimated annual carbon footprint of the network to become the world’s first carbon neutral&nbsp;cryptocurrency."
         buttonText="Read More"
         buttonUrl="https://navhub.org/news/2019-03-08-navcoin-is-now-carbon-neutral/"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
