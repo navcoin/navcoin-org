@@ -35,16 +35,17 @@ imgSrc="/images/why-navcoin/why-hero.svg"
 
     >}}
     {{< long_text
-        titleText="A network that never sleeps"
-        imgSrc="/images/why-navcoin/why-247.svg"
-        text="With nodes all around the world, the NavCoin network is running 24/7. As long as you’re connected to the internet, you can send & receive payments anywhere in the world, at any time of the day, with no downtime - making it ideal for&nbsp;digital&nbsp;commerce."
-
+        titleText="Carbon neutral network"
+        imgSrc="/images/why-navcoin/why-low-energy.svg"
+        text="NavCoin uses Proof of Stake which is an energy efficient form of blockchain validation. With sponsorship from the Community Fund, NavCoin has offset the estimated annual carbon footprint of the network to become the worlds first carbon neutral&nbsp;cryptocurrency."
+        buttonText="Read More"
+        buttonUrl="https://navhub.org/news/2019-03-08-navcoin-is-now-carbon-neutral/"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
     >}}
     {{< long_text
         titleText="A human readable address"
         imgSrc="/images/why-navcoin/why-fair.svg"
         text="You can personalise your wallet using OpenAlias, which allows you to create an email-style address for your NAV. The service is built on top of the worldwide DNS service to convert a domain name into a cryptocurrency address, making sending a payment easier&nbsp;than&nbsp;ever."
-
     >}}
     {{< long_text
         titleText="Frictionless payments"
