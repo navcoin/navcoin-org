@@ -1,10 +1,10 @@
 ---
-title: "Buy NavCoin"
+title: "Nav코인을 구매하세요"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
-description: "NavCoin is publicly mined and ran no token sale. The only way to buy NavCoin is to purchase it from a third party or exchange."
+description: "Nav코인은 공개적으로 채굴되며, 토큰 판매는 하고 있지 않습니다. Nav코인을 구입하는 유일한 방법은 제3자로 부터 구입하거나 거래소에서 거래가 가능합니다."
 ---
 {{< hero_section
 titleText="Buy NavCoin"
