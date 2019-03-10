@@ -35,10 +35,12 @@ imgSrc="/images/why-navcoin/why-hero.svg"
 
     >}}
     {{< long_text
-        titleText="Una red que nunca duerme."
-        imgSrc="/images/why-navcoin/why-247.svg"
-        text="Con nodos en todo el mundo, la red NavCoin funciona 24/7. Mientras esten conectado a Internet, pueden enviar y recibir pagos en cualquier lugar del mundo, en cualquier momento del día, sin tiempo de inactividad, lo que lo hace ideal para&nbsp;comercios."
-
+        titleText="Red sin emisiones de carbono."
+        imgSrc="/images/why-navcoin/why-low-energy.svg"
+        text="NavCoin usa Proof of Stake, el cuál es un método de alcanzar consenso para la validación en el blockchain con un uso eficiente de la energia. Gracias al patrocinio del Fondo Comunitario, NavCoin se ha convertido en la primera criptomoneda neutral en cuanto a emisiones de carbono tras compensar la huella de carbono anual&nbsp;estimada."
+        buttonText="Más información"
+        buttonUrl="https://navhub.org/news/2019-03-08-navcoin-is-now-carbon-neutral/"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
     >}}
     {{< long_text
         titleText="Direcciones fáciles de leer"
