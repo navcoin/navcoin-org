@@ -8,7 +8,7 @@ description: ""
 ---
 {{< hero_section
 titleText="Bienvenidos a NavCoin"
-paragraphText="Si recién entras a este proyecto, y no sabes donde empezar, aquí encontrarás herramientas útiles para familiarizarte con el&nbsp;proyecto."
+paragraphText="Si recién entras a este proyecto, y no sabes donde empezar, aquí encontrarás herramientas útiles para familiarizarte con &nbsp;NAV."
 
 
 imgSrc="/images/for-beginners/beg-hero.svg"
@@ -28,7 +28,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
   {{< step 
       titleText="Paso 2: Elegir el monedero"
       imgSrc="/images/for-beginners/beg-wallets.svg"
-      text="Your wallet is the main way to interact with your digital coins, and is what you use to send & receive NAV. There are different types of wallets - from ‘full’ wallets that give you complete control and allow you to participate in the NavCoin network, to ‘thin’ wallets that are easier to&nbsp;use."
+      text="El monedero es el principal actor para interactuar con sus monedas digitales, y es lo que usa para enviar y recibir NAV. Hay diferentes tipos de monederos: desde los "completos" que le dan un control total y le permiten participar en la red NavCoin, hasta carteras "delgadas" que son más fáciles de&nbsp;usar."
       buttonText="Wallets"
       buttonUrl="/wallets"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -36,7 +36,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
   {{< step
       titleText="Paso 3: Comprar Navs"
       imgSrc="/images/for-beginners/beg-get-nav.svg"
-      text="Una vez elegido el monedero, hay varias maneras de hacerse de Navs, la forma más rápida es mediante una casa de intercambio. Enviando Bitcoins y luego convirtiendolos a NAV. Puedes comprar NAV en las páginas más importantes del rubro."
+      text="Una vez elegido el monedero, hay varias maneras de hacerse de NAVs, la forma más rápida es mediante una casa de intercambio. Enviando Bitcoins y luego convirtiendolos a NAV. Pueden comprar NAVs en las páginas más importantes del rubro."
       buttonText="Comprar NavCoins"
       buttonUrl="/comprar-navcoin"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -57,7 +57,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
   {{< step
       titleText="Paso 6: Involucrarse en proyectos relacionados con NavCoin"
       imgSrc="/images/for-beginners/beg-get-involved.svg"
-      text="NavCoin no es sólo una criptomoneda: Es una comunidad con una visión para el la forma en que se debe distribuir-usar el dinero. Una comunidad es tan fuerte como los miembros individuales que contribuyen en ella. Con el &#34;Fondo Comunitario&#34;, usuarios pueden presentar proyectos y ser remunerados en Nav. Únanse a nuestros canales e&nbsp;involucrense."
+      text="NavCoin no es sólo una criptomoneda: Es una comunidad con una visión para la forma en que se debe distribuir-usar el dinero. Una comunidad es tan fuerte como los miembros individuales que contribuyen en ella. Con el &#34;Fondo Comunitario&#34;, usuarios pueden presentar proyectos y ser remunerados en Nav. Únanse a nuestros canales e&nbsp;involucrense."
       buttonText="Fondo Comunitario"
       buttonUrl="/fondo-comunitario"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
