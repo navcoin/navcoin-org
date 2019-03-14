@@ -9,7 +9,7 @@ description: "NavCoin un proyecto de fuente abierta en el cual todos pueden part
 {{< hero_section
 titleText="NavCoin para desarrolladores"
 imgSrc="/images/for-developers/dev-hero.svg"
-paragraphText="NavCoin es un proyecto de fuente abierta donde todos pueden participar. Su diseño es una colaboración entre desarrolladores de todas partes del mundo. Nuestro fin común es mejorar el protocolo de NavCoin y su ecosistema circundante. Todos tienen el potencial de impactar el proyecto de una manera&nbsp;positiva."
+paragraphText="NavCoin es un proyecto de código abierto donde todos pueden participar. Su diseño es una colaboración entre desarrolladores de todas partes del mundo. Nuestro fin común es mejorar el protocolo de NavCoin y su ecosistema circundante. Todos tienen el potencial de impactar el proyecto de una manera&nbsp;positiva."
 buttonText="Enlace al manifesto de los desarrolladores"
 buttonLink="/es/governance/#read-manifestos"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -23,11 +23,11 @@ buttonUrl="/community-fund"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 >}}
-El fondo comunitario de NAV permite a cualquier desarrollador ser remunerado por la red al contribuir al ecosistema de NavCoin. Los proyectos son aprobados y financiados por una red descentralizada sin autoridad central. Esto asegura que la red de NavCoin continue de manera firme y determinada por la visión de su&nbsp;comunidad.
+El fondo comunitario de NAV permite a cualquier desarrollador ser remunerado por la red al contribuir al ecosistema de NavCoin. Los proyectos son aprobados y financiados por una red descentralizada sin autoridad central. Esto asegura que la red de NavCoin continue de manera firme y determinada al seguir la visión de su&nbsp;comunidad.
 {{< /zig_section>}}
 {{< item_container_section 
-    titleText="Razones por las cuales desarrolladores se unen a NavCoin"
-    subtitleText="NavCoin es construida por su comunidad, para su comunidadi."
+    titleText="Razones por las cuáles desarrolladores se unen a NavCoin"
+    subtitleText="NavCoin es construida por y para su comunidadid."
 >}}
     {{< feature 
         titleText="Comunidad inclusiva"
@@ -40,7 +40,7 @@ El fondo comunitario de NAV permite a cualquier desarrollador ser remunerado por
         text="Las mejoras al protocolo de NavCoin están siendo desarrollada&nbsp;constantemente."
     >}}
     {{< feature                 
-        titleText="Alianza de &#34;Proof of Stake&#34"
+        titleText="Alianza de 'Proof of Stake'"
 
         imgSrc="/images/for-developers/dev-pos-alliance.svg"
         text="Somos parte de la &quot;PoS Alliance&quot;, un grupo de proyectos similares dispuestos a mejorar el protocolo PoS de manera&nbsp;colaborativa."
@@ -56,7 +56,7 @@ El fondo comunitario de NAV permite a cualquier desarrollador ser remunerado por
         text="Nav posee una cadena de bloques pública y auditable, haciendola fácil de integrar en aplicaciones y páginas de&nbsp;internet."
     >}}
     {{< feature                 
-        titleText="Fuente abierta"
+        titleText="Código abierto"
         imgSrc="/images/for-developers/dev-trust.svg"
         text="NavCoin siempre será gratis y de libre acceso, alineado con nuestros&nbsp;principios."
     >}}
@@ -70,7 +70,7 @@ El fondo comunitario de NAV permite a cualquier desarrollador ser remunerado por
     {{< long_text 
         titleText="Protocolo de NavCoin"
         imgSrc="/images/for-developers/dev-protocol.svg"
-        text="NavCoin es un proyecto de fuente abierta donde todos están invitados a mejorarlo. Aquí podran sugerir cambios, reportar fallas e incluso arreglarlas siempre preservando el consenso dentro del&nbsp;protocolo."
+        text="NavCoin es un proyecto de código abierto donde todos están invitados a mejorarlo. Aquí podran sugerir cambios, reportar fallas e incluso arreglarlas siempre preservando el consenso dentro del&nbsp;protocolo."
         buttonUrl="/get-involved/"
         buttonText="Más información"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -94,8 +94,8 @@ El fondo comunitario de NAV permite a cualquier desarrollador ser remunerado por
 {{< /item_container_section >}}
 
 {{< contrib_list
-    titleText="Contribuir al protocolo de NavCoin"
-    subtitleText="We would like to thank our contributors who have made this protocol&nbsp;awesome!"
+    titleText="Contribuyentes al protocolo de NavCoin"
+    subtitleText="Queremos agradecer a los contribuyentes que hacen de NAV un proyecto&nbsp;sustentable"
     buttonUrl="https://github.com/NAVCoin/navcoin-core/graphs/contributors"
     buttonTxt="Ver NavCoin en GitHub"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
