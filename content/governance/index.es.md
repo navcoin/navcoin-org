@@ -10,7 +10,7 @@ description: "Monedas digitales descentralizadas como NavCoin devuelven la liber
 {{< hero_section
 titleText="Gobernancia"
 imgSrc="/images/governance/gov-hero.svg"
-paragraphText="El objetivo de los Manifestos de NavCoin es establecer las razones por las cuales los contribuyentes a la comunidad de NavCoin contribuimos, cómo lo hacemos y por qué. Estos documentos cubren los principios, el propósito, el alcance del trabajo y los requisitos operativos para garantizar que compartamos los mismos valores y que siempre operemos en el mejor interés de la&nbsp;red."
+paragraphText="El objetivo de los Manifestos de NavCoin es establecer las razones por las cuáles los miembros de la comunidad de NavCoin contribuimos, cómo lo hacemos y por qué. Estos documentos cubren los principios, el propósito, el alcance del trabajo y los requisitos operativos para garantizar que compartamos los mismos valores y que siempre operemos en el mejor interés de la&nbsp;red."
 buttonText="Leer los manifiestos"
 buttonImgSrc="/images/icons/downward-arrow.svg"
 buttonLink="#read-manifestos"
@@ -39,7 +39,7 @@ titleText="Beneficios de la descentralizacion"
 imgSrc="/images/governance/gov-benifits.svg"
 reversed="true"
 >}}
-La descentralización también ofrece protección contra la corrupción. La historia nos ha mostrado innumerables veces que demasiado poder en muy pocas manos conduce inevitablemente a su abuso. Además, le da al individuo la oportunidad de hacer una diferencia real. Las mejoras al protocolo provienen de abajo hacia arriba y pueden ser enviadas por cualquier persona. La comunidad de NavCoin es una prueba viviente de que cuando se confía en que las personas hagan el bien, contribuirán por el bien&nbsp;común.
+La descentralización también ofrece protección contra la corrupción. La historia nos ha mostrado innumerables veces que demasiado poder en muy pocas manos conduce inevitablemente a su abuso. Además, le permite al individuo la oportunidad de hacer una diferencia real. Las mejoras al protocolo provienen de abajo hacia arriba y pueden ser sugeridas por cualquier persona. La comunidad de NavCoin es una prueba viviente de que cuando se confía en que las personas hagan el bien, contribuirán para ese fin&nbsp;común.
 
 {{< /zig_section>}}
 
