@@ -43,6 +43,12 @@ newTab="true"
          text="BTC / NAV"
          linkUrl="https://upbit.com/exchange?code=CRIX.UPBIT.BTC-NAV"
      >}}
+    {{< exchange
+          titleText="Equicex"
+          imgSrc="/images/buy-navcoin/equicex.png"
+          text="Exchange + Debit Card"
+          linkUrl="https://www.equicex.com/"
+      >}}
      {{< exchange
           titleText="Changelly"
           imgSrc="/images/buy-navcoin/buy-changelly.png"
@@ -126,6 +132,36 @@ newTab="true"
           imgSrc="/images/buy-navcoin/bitqist.png"
           text="BTC + ETH / NAV"
           linkUrl="https://bitqist.com/exchange/nav-coin"
+      >}}
+     {{< exchange
+          titleText="Vertbase"
+          imgSrc="/images/buy-navcoin/vertbase.jpg"
+          text="USD / NAV"
+          linkUrl="https://www.vertbase.com/"
+      >}}
+     {{< exchange
+          titleText="Altilly"
+          imgSrc="/images/buy-navcoin/altilly.jpg"
+          text="BTC / NAV"
+          linkUrl="https://www.altilly.com/asset/NAV"
+      >}}
+     {{< exchange
+          titleText="Nova Exchange"
+          imgSrc="/images/buy-navcoin/nova_exchange.jpg"
+          text="BTC + ETH / NAV"
+          linkUrl="https://bitqist.com/exchange/nav-coin"
+      >}}
+     {{< exchange
+          titleText="Coinmerce"
+          imgSrc="/images/buy-navcoin/coinmerce.jpg"
+          text="EUR / NAV"
+          linkUrl="https://coinmerce.io/uk/buy/nav/"
+      >}}
+     {{< exchange
+          titleText="CoinXtr"
+          imgSrc="/images/buy-navcoin/coinxtr.jpg"
+          text="Turkish Exchange"
+          linkUrl="https://www.coinxtr.com/"
       >}}
 {{< /item_container_section >}}
 
