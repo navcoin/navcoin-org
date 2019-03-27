@@ -149,7 +149,7 @@ newTab="正确的"
           titleText="Nova Exchange"
           imgSrc="/images/buy-navcoin/nova_exchange.jpg"
           text="BTC + ETH / NAV"
-          linkUrl="https://bitqist.com/exchange/nav-coin"
+          linkUrl="https://novaexchange.com/market/BTC_NAV/"
       >}}
      {{< exchange
           titleText="Coinmerce"
