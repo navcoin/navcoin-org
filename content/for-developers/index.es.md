@@ -40,7 +40,7 @@ El fondo comunitario de NAV permite a cualquier desarrollador ser remunerado por
         text="Las mejoras al protocolo de NavCoin están siendo desarrollada&nbsp;constantemente."
     >}}
     {{< feature                 
-        titleText="Alianza de 'Proof of Stake'"
+        titleText="Alianza de Prueba de Participación"
 
         imgSrc="/images/for-developers/dev-pos-alliance.svg"
         text="Somos parte de la &quot;PoS Alliance&quot;, un grupo de proyectos similares dispuestos a mejorar el protocolo PoS de manera&nbsp;colaborativa."
@@ -63,7 +63,7 @@ El fondo comunitario de NAV permite a cualquier desarrollador ser remunerado por
 {{< /item_container_section >}}
 
 {{< item_container_section 
-    titleText="Contribuis"
+    titleText="Contribuir"
     subtitleText="Hay varias maneras de contribuir al ecosistema de NavCoin, sin importar el grado de conocimientos que se&nbsp;tenga."
     bgPurple="true"
 >}}
