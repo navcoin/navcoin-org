@@ -31,7 +31,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
     {{< long_text
         titleText="Prueba de Participación segura (Cold staking)"
         imgSrc="/images/why-navcoin/why-peer.svg"
-        text="La seguridad es la prioridad número uno para NavCoin, lo que hace que la prueba de participación en frío sea una importante función dentro de nuestro ecosistema. En lugar de tener todas sus monedas conectadas a la red, 'Cold Staking' permite participar en el PoS, al mismo tiempo que mantienen sus monedas fuera de línea para la mayor proteccion&nbsp;posible."
+        text="La seguridad es la prioridad número uno para NavCoin, lo que hace que la prueba de participación en frío sea una importante función dentro de nuestro ecosistema. En lugar de tener todas sus monedas conectadas a la red, Cold Staking permite participar en el PoS, al mismo tiempo que mantienen sus monedas fuera de línea para la mayor proteccion&nbsp;posible."
 
     >}}
     {{< long_text
@@ -62,7 +62,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
 >}}
-NavCoin es una red administrada por su comunidad que se inició en 2014. Al principio usó la Prueba de trabajo (PoW), pero rápidamente hizo el cambio a la Prueba de Participación (PoS). Sin ICO o premine, NavCoin siempre se ha autofinanciado para garantizar una distribución justa y para que todos tengan la oportunidad de involucrarse al&nbsp;proyecto."
+NavCoin es una red administrada por su comunidad que se inició en 2014. Al principio usó la Prueba de trabajo (PoW), pero rápidamente hizo el cambio a la Prueba de Participación (PoS). Sin ICO o preminado, NavCoin siempre se ha autofinanciado para garantizar una distribución justa y para que todos tengan la oportunidad de involucrarse al&nbsp;proyecto."
 {{< /zig_section>}}
 
 {{< item_container_section
