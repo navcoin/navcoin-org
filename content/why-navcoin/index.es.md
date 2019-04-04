@@ -121,7 +121,7 @@ NavCoin es una red administrada por su comunidad que se inició en 2014. Al prin
         titleText="Miembro de la  'Alianza de la Prueba de Participacion'"
 
         imgSrc="/images/why-navcoin/why-pos-alliance.svg"
-        text="Este grupo tiene como objetivo mejorar en forma colaborativa el protocolo de la Prueba de Participación (PoS). Incluye proyectos como PivX, Blackcoin, Paticl y&nbsp;otrosW."
+        text="Este grupo tiene como objetivo mejorar en forma colaborativa el protocolo de la Prueba de Participación (PoS). Incluye proyectos como PivX, Blackcoin, Paticl y&nbsp;otros."
     >}}
     {{< feature                 
         titleText="Desarrollo e investigación activos"
