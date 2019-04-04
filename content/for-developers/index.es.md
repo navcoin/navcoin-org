@@ -27,7 +27,7 @@ El fondo comunitario de NAV permite a cualquier desarrollador ser remunerado por
 {{< /zig_section>}}
 {{< item_container_section 
     titleText="Razones por las cuáles desarrolladores se unen a NavCoin"
-    subtitleText="NavCoin es construida por y para su comunidadid."
+    subtitleText="NavCoin es construida por y para su comunidad."
 >}}
     {{< feature 
         titleText="Comunidad inclusiva"
