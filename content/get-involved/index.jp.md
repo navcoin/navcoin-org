@@ -1,41 +1,41 @@
 ---
-title: "Contribute to the Protocol"
+title: "プロトコルに貢献する"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
-description: "There are several ways to contribute to the NavCoin protocol - so if you’d like to support the project, here’s some of the best ways to get involved"
+description: "NavCoin プロトコルに貢献する方法はいくつかあります。もし貴方がプロジェクトをサポートしたいと考えているなら、以下に示す方法を見てみて下さい。"
 ---
 {{< hero_section
-titleText="Get Involved"
-paragraphText="There are several ways to contribute to the NavCoin protocol, not all of which require a high level of programming skills. If you’d like to support the NavCoin project, here’s some of the best ways to get&nbsp;involved."
+titleText="参加する"
+paragraphText="NavCoin プロトコルに貢献する方法はいくつかありますが、全てが高いプログラミングのスキルを必要とするわけではありません。もし貴方がNavCoinプロジェクトをサポートしたいと考えているなら、以下に示す方法を&nbsp;ご覧下さい。"
 imgSrc="/images/get-involved/con-hero.svg"
 >}}
 {{< zig_section
-titleText="Translations"
+titleText="翻訳"
 imgSrc="/images/get-involved/con-translate.svg"
-  buttonText="Set up a Transifex account"
+  buttonText="Transifexのアカウントを開設する"
   buttonUrl="https://www.transifex.com/signup/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
     reversed="true"
     newTab="true"
 >}}
-NavCoin Core has been translated into over two dozen languages, with dozens more languages partially translated — but more help is always needed. NavCoin uses Transifex for translation, so you’ll need to setup an&nbsp;account.<br><br>To contribute a translation, go to the NavCoin project on Transifex: <br><a href="https://www.transifex.com/navcoin/navcoin-core" style="text-decoration:underline;">https://www.transifex.com/navcoin/navcoin-core</a><br><br>Click on the 'Join Team' button, let us know which languages you’re able to translate, and start&nbsp;translating!
+NavCoin Core はすでに、24か国以上の言語に翻訳されています。さらに１２か国の言語に部分的に翻訳されています。 しかし、さらなる手助けはいつでも大歓迎です。 NavCoin は、Transifexを使って翻訳を行います。ですので、アカウントを開設する必要が &nbsp;あります。<br><br>翻訳の分野で貢献する為には、Transifex上で、NavCoin プロジェクトを開いてください。 <br><a href="https://www.transifex.com/navcoin/navcoin-core" style="text-decoration:underline;">https://www.transifex.com/navcoin/navcoin-core</a><br><br>「Join Team」ボタンをクリックして、貴方が翻訳可能な言語を私達に教えて下さい。そして実際に翻訳を&nbsp;始めましょう！
 {{< /zig_section>}}
 
 {{< zig_section
-  titleText="Documentation"
+  titleText="ドキュメンテーション"
   imgSrc="/images/get-involved/con-doc.svg"
-  buttonText="Contribute to developer docs"
+  buttonText="デベロッパーdocsに貢献する"
   buttonUrl="https://github.com/NAVCoin/navcoin-dev-docs"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-We are currently working to bring online an open source developer documentation resource for NavCoin Core. If you want to help get this up and running please head over to GitHub and see how you can help out. Just make sure you follow the GitHub conventions outlined on this page and submit an issue about what documentation you’re writing to reduce duplication of&nbsp;effort.
+現在私達は、NavCoin Coreの、オープンソースのデベロッパーのドキュメンテーションリソースをオンラインにできるように努力しています。 もし貴方が力になってくれるのなら、GitHub に参加して、どのような形で貴方が力になれるか見てみて下さい。このページ上に解説されている GitHubコンベンションに従って、今貴方がどのドキュメンテーションを作成しているのか分かるように必ず「issue」を提出して下さい。そうする事で、作業が誰か他の人と重複してしまう可能性を&nbsp;防ぎます。
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="Submit an issue"
+titleText="issueを提出する"
 imgSrc="/images/get-involved/con-issue.svg"
 buttonText="Submit an issue"
 buttonUrl="https://github.com/NAVCoin/navcoin-core/issues"
@@ -43,80 +43,81 @@ buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 newTab="true"
 >}}
-For all non-critical problems with NavCoin Core please search for similar issues and if you don’t find any, submit a new issue providing the information&nbsp;below.
+NavCoin Coreに関する、致命的ではない全ての問題については、まず類似した問題を検索してみて下さい。見つからなかった場合にのみ、新しい問題として、下記の情報を含めて&nbsp;提出して下さい。
+
 <br>
 <ul class="article-ul" style="color: rgba(0, 0, 0, 0.55);">
-  <li>A clear description of the problem and steps to reproduce the&nbsp;problem.</li>
-  <li>What version of NavCoin Core you use or what commit you built using.</li><li>Any relevant entries from your debug.log file. Please ensure to strip out any sensitive information before publishing your debug.log&nbsp;entries.</li>
+  <li>問題についての明確な説明と、問題を再現する為の&nbsp;手順。</li>
+  <li>貴方が使っている NavCoin Coreのバージョン、及びコミット。</li><li>貴方のデバッグログファイルからの全ての関連するエントリー。 デバッグログエントリーを公開する前に、必ず全ての細かい情報も記入するように&nbsp;して下さい。</li>
 </ul>
-<p class="paragraph-text">The best strategy to get your issue fixed quickly is to make it as easy as possible for the development team to track down the problem and write a fix. Providing more information and organizing it well helps&nbsp;significantly.</p>
+<p class="paragraph-text">貴方のissueを迅速に解決してもらう為にベストな作戦は、開発チームがその問題部分になるべく簡単に行きつけるようにする事、そうすれば修正が簡単になります。なるべく多くの情報を提供する事、そして、わかり易いように問題を整理する事、この２つで劇的に問題解決のスピードが&nbsp;速くなります。</p>
 {{< /zig_section>}}
 
 {{< zig_section
-  titleText="Resolve an issue"
+  titleText="問題を解決する"
   imgSrc="/images/get-involved/con-resolve.svg"
-  buttonText="See the readme"
+  buttonText="readmeを見る"
   buttonUrl="https://github.com/navcoin/navcoin-core/blob/master/CONTRIBUTING.md"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-The issue tracker is the best place to find a useful way to contribute to NavCoin&nbsp;Core. Before starting to write any patches for issues you find, you may want to comment on the issue to make sure nobody else is already working on it. Remember that even if you’re resolving an issue you’ve found you will need to first create an issue in the issue&nbsp;tracker.
+「issue tracker」は、NavCoin Coreに貢献する為に便利な方法を見つける為のベストな&nbsp;場所です。貴方が見つけた問題について報告書を書き始める前に、まず、問題にコメントして、他の誰も既にこの問題に取り組んでいる人がいない事を確かめるのが良いでしょう。 自分が見つけ出した問題について今取り組もうとしている場合にでも、まずは「issue tracker 」において「issue」を作成する&nbsp;必要があります。
 <br><br>
-To resolve an issue follow this process:
+問題を解決するには、以下の手順に従って下さい。
 <br>
 <ul class="article-ul" style="color: rgba(255,255,255,0.55);">
-  <li>Fork NavCoin/navcoin-core to your own GitHub&nbsp;account.</li>
-  <li>Create a branch to work in to resolve the issue then get to&nbsp;work.</li>
-  <li>Write or update unit and integration tests to cover any changes you’ve&nbsp;made.</li>
-  <li>Make a pull request from your branch back into the main NavCoin Core repository with the issue type and number in the title (eg. Trivial: fixes spelling mistake #145).</li>
-  <li>Talk with other NavCoin Core contributors on Discord or through GitHub to alert them to the pending Pull Request and they will review it as soon as&nbsp;possible.</li>
+  <li>NavCoin/navcoin-coreを、自分の GitHubアカウントに&nbsp;フォークする。</li>
+  <li>問題を解決する為のブランチを作成し、&nbsp;作業を始める。</li>
+  <li>ユニットとインテグレーションテストについてアップデートし、自分が行った変更点について&nbsp;書く。</li>
+  <li>あなたのブランチから、NavCoin Core のメインレポジトリーに戻す為のリクエストを作成する。問題の種類と、タイトル内の番号を記入する。 （例： Trivial: スペリングの間違いを修正する #145）。</li>
+  <li> DiscordまたはGitHubを通じて、NavCoin Coreの他の貢献者と話し、Pull のリクエストが待機中になっていないかどうか注意するようにして下さい。彼らは可能な限り早く、チェック as&nbsp;します。</li>
 </ul>
-<p class="paragraph-text">For the full contribution workflow details, please see the readme on&nbsp;GitHub.</p>
+<p class="paragraph-text">貢献するに当たってのワークフローの詳細を全て見るには、GitHub内のreadmeを &nbsp;お読み下さい。</p>
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="Write tests"
+titleText="テストを書く"
 imgSrc="/images/get-involved/con-test.svg"
 reversed="true"
 newTab="true"
 >}}
-NavCoin Core is covered by many tests, but patches that improve test coverage are always welcome and are a great way to build familiarity with the codebase.
+NavCoin Core は幾度ものテストを重ねられてきました。しかし、さらなるテストの為のパッチはいつでも歓迎ですし、コードベースをより良く知る為のとても良い方法です。
 <br><br>
-Developers are strongly encouraged to write <a href="https://github.com/NAVCoin/navcoin-core/blob/master/doc/unit-tests.md" target="e" style="text-decoration:underline;">unit tests</a> for new code, and to submit new unit tests for old code. Unit tests can be compiled and run (assuming they weren't disabled in configure) with: make&nbsp;check.
+デベロッパーには、新しいコードの為の <a href="https://github.com/NAVCoin/navcoin-core/blob/master/doc/unit-tests.md" target="e" style="text-decoration:underline;">ユニットテスト</a> を書く事が強く推奨されます。そして古いコードの為の新しいテストを提出する事も同様に強く推奨されます。ユニットテストは、（設定で無効にされていない状態で）makecheckを使ってコンパイルされ実行される事が&nbsp;できます。
 <br><br>
-There are also <a href="https://github.com/NAVCoin/navcoin-core/tree/master/qa" target="e" style="text-decoration:underline;">regression and integration tests</a>, written in Python, that are run automatically on the build&nbsp;server.
+また、パイソンによって書かれた <a href="https://github.com/NAVCoin/navcoin-core/tree/master/qa" target="e" style="text-decoration:underline;">回帰テストと統合テスト</a>, もあります。これらはサーバー上で自動的に&nbsp;実行されます。
 {{< /zig_section>}}
 
 {{< zig_section
-  titleText="Review the code"
+  titleText="コードのレビュー"
   imgSrc="/images/get-involved/con-bug.svg"
-    buttonText="Review pull requests"
+    buttonText="pullリクエストのレビュー"
   buttonUrl="https://github.com/navcoin/navcoin-core/pulls"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-NavCoin Core is security software that helps protect assets worth millions of dollars, so every code change needs to be reviewed by experienced&nbsp;developers.<br><br>It can take a long time for other developers to review your pull requests. Remember that all reviewers are taking time away from their own projects to review your pull requests, so be patient and respectful of their&nbsp;time.<br><br>Please also consider helping to review other people’s pull requests. You don’t need to be an expert in NavCoin, the NavCoin Core codebase, or C++ (although all these things help). There are almost always open pull requests that any programmer can&nbsp;review.
+NavCoin Core は、何億ドルもの資産を守る為のセキュリティソフトウェアです。従って、全てのコード変更は、熟練したデベロッパー達によって入念にチェックされる必要が&nbsp;あります。<br><br>他のデベロッパーが貴方のpull リクエストを見直すまでに長い時間がかかる可能性があります。 しかし全てのデベロッパーが、自らのプロジェクトに取り組む合間の時間を使って貴方のリクエストを見直ししているという事を念頭に置いて、辛抱強くお待ちくださいそして彼らの時間を尊重して&nbsp;下さい。<br><br>また、皆さんにもぜひ、他のデベロッパーのリクエストをレビューをして頂ければと思います。NavCoin、NavCoin Coreコードベース、 C++ についてのエキスパートでなくてもレビューは可能です。（もちろん知っていればいるほど良いですが）。大体いつでも、全てのプログラマーがレビュー可能なオープンのpull リクエストが&nbsp;出ています。
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="Suggest a protocol improvement"
+titleText="プロトコルの改善を提案する"
 imgSrc="/images/get-involved/con-npips.svg"
-buttonText="View NPIP's"
+buttonText="NPIPを見る"
 buttonUrl="https://github.com/NAVCoin/npips"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 newTab="true"
 >}}
-NavCoin Core strives to continually improve the underlying protocol of NavCoin. Our aim is always to improve security, privacy and efficiency while encouraging decentralisation, uptake and usability. If you want to help us improve the NavCoin protocol, the best place to document your suggestion is on the NPIPs (NavCoin Protocol Improvement Proposals) GitHub&nbsp;repository.<br><br>People wishing to submit NPIPs, first should propose their idea or document to the NavCoin Core development community through Discord or IRC (irc.freenode.net #navcoin). After discussion, please open a PR to the NPIPs repository. After copy-editing and acceptance, it will be published&nbsp;there.<br><br>We are fairly liberal with approving NPIPs, and try not to be too involved in decision making on behalf of the community. The exception is in very rare cases of dispute resolution when a decision is contentious and cannot be agreed upon. In those cases, the conservative option will always be&nbsp;preferred.<br><br>Having a NPIP here does not make it a formally accepted standard until its status becomes Final or Active.<br><br>Those proposing changes should consider that ultimately consent may rest with the consensus of the NavCoin&nbsp;users.
+NavCoin Core は、常にNavCoinのプロトコルを改良する努力を続けています。 私達の目標は常に、分散化を進めながら使いやすさを向上しつつ、セキュリティーとプライバシーを強化し、効率性を上げて行く事にあります。もし貴方が NavCoinプロトコルを改良する手伝いをして下さるのであれば、貴方の提案を記入するに当たって最適な場所はNPIPs (NavCoin Protocol Improvement Proposals)の GitHub&nbsp;レポジトリーです。<br><br>NPIPsを提出しようと考えている人々はまず、 NavCoin Core デベロップメントコミュニティに Discord またはIRC (irc.freenode.net #navcoin)を通じて、アイデアを提案します。ディスカッションの後、NPIPs のレポジトリーへのPRを開いて下さい。整理編集と受理の後、貴方の提案がそこで&nbsp;発表されます。<br><br>私達はNPIPsの承認にはかなり自由です。そしてコミュニティの意思決定にはあまり巻き込まれないように細心の注意が払われています。ただ、例外として、とても稀ではありますが、決定が論争の元になり、合意に達しない場合があります。そのような場合には、より保守的な選択肢が取られる事と&nbsp;なります。<br><br>NPIPを持っていても、そのステータスがFinal またはActiveになるまでは、正式に受理されたスタンダードとはみなされません。<br><br>こういった変化もふまえ、最終的な合意はNavCoinユーザーの合意によってなるものという事を&nbsp;意味します。
 {{< /zig_section>}}
 
 {{< zig_section
-  titleText="Disclose a security vulnerability"
+  titleText="セキュリティにおける脆弱性の開示"
   imgSrc="/images/get-involved/con-disclosure.svg"
-  paragraphText="NavCoin is experimental technology and sometimes critical bugs are found. If you’re a researcher and you’ve found a security vulnerability head over to the Responsible Disclosure page to see how you can report&nbsp;it."
-    buttonText="Responsible disclosure"
+  paragraphText="NavCoin は、実験的なテクノロジーであり、時に致命的なバグが見つかる事があります。もし貴方がリサーチを行っていてセキュリティの脆弱性を発見した際には「Responsible Disclosure」のページに行き、報告を&nbsp;行って下さい。"
+    buttonText="責任ある開示"
   buttonUrl="/responsible-disclosure/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
