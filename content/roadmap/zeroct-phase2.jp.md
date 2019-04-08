@@ -1,13 +1,13 @@
 ---
-layout: roadmap
+layout: ロードマップ
 title: ZeroCT Implementation Phase 2
 author: Skreener
 date: '2019-02-07T00:00:00+12:00'
 publishDate: '2019-02-07T00:00:00+12:00'
 feature_image: /images/uploads/navpi-patch.jpg
-status: upcoming
+status: 予定
 weight: 100
 
 ---
 
-Adding Confidential Transactions with Bulletproofs to conceal the transaction amounts on the blockhain. This implementation removes the requirement for denomination based accumulators.
+ブロックチェーン上における取引金額を隠す為に、Bulletproofsを使用する事で機密取引を追加する。この実装によって、デノミネーションに基づいたアキュミュレーターの必要性が排除されます。
