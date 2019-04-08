@@ -1,10 +1,10 @@
 ---
-layout: roadmap
-title: Defining Improved Privacy Solution
+layout: ロードマップ
+title: 改善されたプライバシーのソリューションを定義する
 author: Alex Vazquez
 date: '2019-01-01T17:07:30+12:00'
-status: completed
+status: 完成
 externalUrl: https://www.researchgate.net/publication/330366788_ZeroCT_Improving_Zerocoin_with_Confidential_Transactions_and_more
 ---
 
-As a replacement for the secondary 'NavTech' blockchain, a new privacy solution is being developed to work at the protocol&nbsp;level called ZeroCT.
+二次的な「NavTech」ブロックチェーンに代わるものとして、ZeroCTと呼ばれる、プロトコルレベルで機能する新しいプライバシーのソリューションが開発&nbsp;されています。
