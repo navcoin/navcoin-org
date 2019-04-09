@@ -1,9 +1,9 @@
 ---
-title: "Community Fund"
+title: "커뮤니티 펀드"
 date: 2018-03-20T07:41:22+13:01
 draft: false
 type: "default"
-description: "The NavCoin community fund is a pool of NAV that's set aside to help kickstart community projects and  incentivise the ongoing development of NavCoin."
+description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시작하고 Nav코인의 지속적인 개발을 장려하기 위해 별도로 마련된 풀입니다.."
 ---
 <section class="cf-hero">
     <div class="grid-container">
@@ -18,8 +18,9 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
 
 
 {{< item_container_section
-    titleText="The Worlds Most Advanced Community&nbsp;Fund"
-    subtitleText="Projects are funded and approved by the decentralized network with no central authority. This ensures NavCoin’s direction remains firmly in the best interest of the entire network. This fund pays you to take your idea, nurture it, and build a team to bring it to&nbsp;life."
+    titleText="세계에서 가장 발전된 커뮤니티&nbsp;펀드"
+    subtitleText="프로젝트는 중앙 권한 없이 분산된 네트워크에 의해 자금 지원 및 승인을 받습니다. 이렇게 하면 NavCoin의 방향이 전체 네트워크에 가장 큰 영향을 미칠 수 있습니다. 이 펀드는 아이디어를 가져가고, 육성하고, 팀을 만들어 &nbsp; 생명을 불어넣는 데 돈을 줍니다.."
+    
     >}}
     {{< feature
         titleText="Dual-vote consensus"
