@@ -8,8 +8,8 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
 <section class="cf-hero">
     <div class="grid-container">
         <div class="text-container">
-            <h1 style="font-weight: 600; margin-bottom:35px;">Community Fund</h1>
-            <p>NavCoin is built by the community, for the community. Being an open-source project that ran no premine or ICO - NavCoin’s Community Fund enables anyone to get paid by the network for their contribution to the ecosystem. </p>
+            <h1 style="font-weight: 600; margin-bottom:35px;">커뮤니티 펀드</h1>
+            <p>Nav코인은 커뮤니티를 위해, 커뮤니티에 의해 구축되었습니다.아무런 사전 계획이나 ICO가없는 오픈 소스 프로젝트이기 때문에 Nav코인 커뮤니티 펀드는 누구든지 네트워크가 생태계에 기여한 돈을받을 수 있습니다... </p>
         </div>
         <img src="/images/community-fund/cfu-hero.png" alt="Hero image">
     </div>
@@ -23,9 +23,9 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
     
     >}}
     {{< feature
-        titleText="Dual-vote consensus"
+        titleText="이중 투표 컨센서스"
         imgSrc="/images/community-fund/cfu-dual-vote.svg"
-        text="The first community fund to implement a dual vote, to ensure that if work is never completed the funds are&nbsp;returned."
+        text="첫 번째 커뮤니티 펀드는 이중 투표를 실시하여 작업이 완료되지 않으면 자금이 &nbsp;반환되도록합니다."
     >}}
     {{< feature
         titleText="Open to anyone"
