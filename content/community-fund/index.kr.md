@@ -126,7 +126,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://communityfund.nav.community/discussion/aabb434ae2a248cbf8ffa903f9e9610e4d51ac53e507f09450b3e7ebac66ee59" target="_blank" class="round-btn small gradient-btn">View proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://communityfund.nav.community/discussion/aabb434ae2a248cbf8ffa903f9e9610e4d51ac53e507f09450b3e7ebac66ee59" target="_blank" class="round-btn small gradient-btn">제안서 보기 <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
@@ -153,7 +153,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://communityfund.nav.community/discussion/0a4c915850491675e264fafacd20d14b8d9f0b165d4065ff2f53a21bbf0f72a2" target="_blank" class="round-btn small gradient-btn">View proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://communityfund.nav.community/discussion/0a4c915850491675e264fafacd20d14b8d9f0b165d4065ff2f53a21bbf0f72a2" target="_blank" class="round-btn small gradient-btn">제안서 보기 <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
