@@ -62,7 +62,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="/images/community-fund/cfu-submit.svg" alt="" class="item-icon">
-                    <h3>Step 1: Submit Proposal</h3>
+                    <h3>Step 1: 제안서를 제출하세요</h3>
                     <p style="margin-bottom: 10%">Nav코인 에코시스템에서 보고 싶은 개선 사항을 꿈꾸고, 제안서를 &nbsp; 네트워크에 제출합니다.</p>
                     <a href="https://communityfund.nav.community/create-proposal" target="_blank" class="round-btn small gradient-btn">Create proposal        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
@@ -71,7 +71,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
-                    <h3>Step 2: Vote for Proposal</h3>
+                    <h3>Step 2: 제안서에 투표하세요l</h3>
                     <p style="margin-bottom: 10%">Nav코인 네트워크를 구축하는 모든 사용자는 네트워크 &nbsp; 가중치를 적용하여 모든 &nbsp; 제안에 대해 '예' 또는 '아니요'로 투표할 수 있습니다.</p>
                     <a href="https://communityfund.nav.community/?PENDING=on" target="_blank" class="round-btn small gradient-btn">View all proposals        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
@@ -80,7 +80,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="https://d33wubrfki0l68.cloudfront.net/6be625e8bf582732c2b66ffa1705dd083fdd6c51/f8c8a/images/community-fund/cfu-payment.svg" alt="" class="item-icon">
-                    <h3>Step 3: Payment Request</h3>
+                    <h3>Step 3: 지불 요청</h3>
                     <p style="margin-bottom: 10%">지불은 제안서 소유자의 &nbsp;노력 가능성을 입증하는 2차 투표 후에만 공개됩니다</p>
                     <a href="https://communityfund.nav.community/create-payment-request" target="_blank" class="round-btn small gradient-btn">Create payment request        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
@@ -89,7 +89,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="https://d33wubrfki0l68.cloudfront.net/a6136e0554b83cc742e44f715978ee9fbd3c7791/88e3e/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
-                    <h3>Step 4: Vote for Payment</h3>
+                    <h3>Step 4: 지불에 대해 투표하세요</h3>
                     <p style="margin-bottom: 10%">이정표에 도달하면, 네트워크는 프로젝트가 정상 궤도에 오르게 되고, 그러면 &nbsp; 자금이 풀리게 됩니다.</p>
                     <a href="https://communityfund.nav.community/?ACCEPTED=on&PENDING_PR=on" target="_blank" class="round-btn small gradient-btn">View payment requests        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
