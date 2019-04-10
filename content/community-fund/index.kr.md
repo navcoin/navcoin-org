@@ -115,12 +115,12 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
                 <p style="margin-top:0; margin-bottom: 15px;">대중 인식은 모든 암호화폐가 달성해야 할 가장 중요한 미션 중 하나이며이를 달성하는 한 가지 방법은 자동차 또는 다른 장소, 상점 등에 붙일 수 있는 스티커를 만드는 것입니다..<br><br>
                 이 제안은 NAV 스티커를 인쇄하고 자르는 데 필요한 것들을 구해서 커뮤니티에 관심이 있는 사람들에게 보내는 것입니다. 당신도 할 수 있습니다 <a href="https://collab.navcoin.org/s/navcoin-sticker-creation/custom_pages/container/view?id=12" target="_blank" style="color:white; text-decoration: underline">자세한 사항은 여기를 보세요.</a></p>
                 <div class="cf-proposal-stat">
-                    <h4>Status</h4>
-                    <h4>Pending</h4>
+                    <h4>상태</h4>
+                    <h4>보류</h4>
                 </div>
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div class="cf-proposal-stat">
-                    <h4>Request</h4>
+                    <h4>요청</h4>
                     <h4>2,000 NAV</h4>
                 </div>
                 <hr style="margin: 5px 0; opacity: 0.4;">
@@ -142,12 +142,12 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
               <div class="item-text">
                 <p style="margin-top:0; margin-bottom: 15px;">이 커뮤니티 기금 프로젝트는 Nav코인 네트워크의 탄소 배출량을 상쇄하도록 설계되어 NAV를 세계 최초의 탄소 중립 암호화폐로 만듭니다. <br> <br>이 제안은 네트워크와 그 주변의 생태계에 사용되는 전기량을 계산하고 이것을 상쇄하기 위해 천연 산림 탄소 크레딧을 구매할 것을 제안합니다. 당신도 할 수 있습니다 <a href="https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6" target="_blank" style="color:white; text-decoration: underline">자세한 사항은 여기를 읽어보세요 here.</a></p>
                 <div class="cf-proposal-stat">
-                    <h4>Status</h4>
-                    <h4>Pending</h4>
+                    <h4>상태</h4>
+                    <h4>보류</h4>
                 </div>
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div class="cf-proposal-stat">
-                    <h4>Request</h4>
+                    <h4>요청</h4>
                     <h4>5,000 NAV</h4>
                 </div>
                 <hr style="margin: 5px 0; opacity: 0.4;">
