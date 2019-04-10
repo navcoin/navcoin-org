@@ -1,102 +1,101 @@
 ---
-title: "For Developers"
+title: "개발자를 위한"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
-description: "NavCoin is a free and open-source project to which anyone can contribute. Its design is the collaborative effort of developers from all around the world."
+description: "Nav코인은 누구나 기여할 수 있는 무료 오픈 소스 프로젝트 입니다. 그 디자인은 전 세계 개발자들의 공동 노력의 결과입니다."
 ---
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 {{< hero_section
-titleText="NavCoin For Developers"
+titleText="개발자를 위한 Nav코인"
 imgSrc="/images/for-developers/dev-hero.svg"
-paragraphText="NavCoin is a free and open-source project to which anyone can contribute. Its design is the collaborative effort of developers from all around the world. Our common goal is to improve the NavCoin protocol and its surrounding software ecosystem. Everyone has the potential to make a positive impact, no matter what your skill&nbsp;level."
-buttonText="Read developer manifesto"
+paragraphText="Nav코인은 누구나 기여할 수 있는 무료 오픈 소스 프로젝트 입니다. 그것의 디자인은 전 세계 개발자들의 공동 노력의 결과입니다. 우리의 공통 목표는 Nav코인 프로토콜과 주변 소프트웨어 생태계를 개선하는 것입니다. 당신의 기술 수준이 어떻든 누구나 긍정적인 영향을 줄 수 있는 잠재력을 가지고 있습니다."
 buttonLink="/en/governance/#read-manifestos"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
 
 {{< zig_section
-titleText="Get Funded By The NavCoin&nbsp;Network"
+titleText="NavCoin 네트워크에서 자금 지원 받으세요"
 imgSrc="/images/for-developers/dev-get-involved.svg"
-buttonText="Learn more"
+buttonText="더 알아보기"
 buttonUrl="/community-fund"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 >}}
-NavCoin’s Community Fund enables any developer to get paid by the network for their contributions to the NavCoin ecosystem. Projects are funded and approved by the decentralized network with no central authority. This ensures NavCoin’s direction remains firmly in the best interest of the network and is autonomously determined by the&nbsp;community.
+Nav코인의 커뮤니티 펀드는 모든 개발자들이 Nav코인 생태계에 기여한 대가로 네트워크로부터 돈을 받을 수 있게 합니다. 프로젝트는 중앙 권한 없이 분산된 네트워크에 의해 자금후원과 승인을 받습니다. 이로써 Nav코인의 방향은 네트워크의 최고 이익에 확고하게 유지되고, 통신에 의해 자율적으로 결정됩니다.
 {{< /zig_section>}}
 {{< item_container_section 
-    titleText="Why You Should Get Involved"
-    subtitleText="NavCoin is built for the community, by the community."
+    titleText="왜 참여해야 할까요"
+    subtitleText="Nav코인은 커뮤니티에 의한 커뮤니티를 위해 구축됩니다."
 >}}
     {{< feature 
-        titleText="Inclusive community"
+        titleText="배타적 커뮤니티 "
         imgSrc="/images/for-developers/dev-community.svg"
-        text="Our developer community is collaborative, inclusive, and ready to help you get&nbsp;started."
+        text="우리의 개발자 커뮤니티는 협력적이고 포괄적이며 귀사를 지원할 준비가 되어&nbsp;있습니다."
     >}}
     {{< feature 
-        titleText="Active research"
+        titleText="활발한 연구"
         imgSrc="/images/for-developers/dev-cutting-edge.svg"
-        text="Improvements to the NavCoin protocol are constantly being worked&nbsp;on."
+        text="Nav코인의 프로토콜의 개선 사항이 지속적으로 적용되고&nbsp;있습니다."
     >}}
     {{< feature                 
-        titleText="Proof of Stake Alliance"
+        titleText="프루프 오브 스테이크 동맹"
         imgSrc="/images/for-developers/dev-pos-alliance.svg"
-        text="We’re part of the PoS Alliance, a consortium which aims to collaboratively research the PoS&nbsp;protocol."
+        text="우리는 PoS프로토콜의 공동 연구를 목적으로 하는 컨소시엄인 PoS 동맹의&nbsp;일원입니다."
     >}}
     {{< feature                 
-        titleText="Easy to get started"
+        titleText="시작하기 매우 쉽습니다."
         imgSrc="/images/for-developers/dev-easy.svg"
-        text="All the resources to get involved are at your fingertips and there are lots of ways to get&nbsp;involved."
+        text="관여할 수 있는 모든 자원은 여러분의 손에 달려 있고, 관여할 수 있는 많은 방법들이&nbsp;있습니다."
     >}}
     {{< feature                 
-        titleText="Programmable money"
+        titleText="프로그램 가능한 돈"
         imgSrc="/images/for-developers/dev-digital-money.svg"
-        text="With a publicly verifiable transaction ledger, you can easily use NavCoin in your apps and&nbsp;websites."
+        text="공용적으로 검증 가능한 트랜잭션 리더를 통해 앱과 웹 사이트에서 Nav코인을 쉽게 사용할 수&nbsp;있습니다."
     >}}
     {{< feature                 
-        titleText="Always open-source"
+        titleText="항상 오픈소스 입니다."
         imgSrc="/images/for-developers/dev-trust.svg"
-        text="NavCoin software will always be free and in alignment with open-source&nbsp;principles."
+        text="Nav코인의 소프트웨어는 항상 자유롭고 오픈소스 원칙과&nbsp;일치합니다."
     >}}
 {{< /item_container_section >}}
 
 {{< item_container_section 
-    titleText="Contribute Now"
-    subtitleText="There are many ways you can contribute to NavCoin, no matter what your skill&nbsp;level."
+    titleText="지금 기여를 시작하세요"
+    subtitleText="당신의 기술 수준이 어떻든 간에 당신이 Nav코인에 기여할 수 있는 많은 방법들이&nbsp;있습니다."
     bgPurple="true"
 >}}
     {{< long_text 
-        titleText="NavCoin Protocol"
+        titleText="Nav코인 프로토콜"
         imgSrc="/images/for-developers/dev-protocol.svg"
-        text="NavCoin is open-source and everyone can participate in making it better. Here’s where you can find the procedures to report an issue, fix a issue or suggest an improvement to the consensus&nbsp;protocol."
+        text="Nav코인은 오픈소스여서 모든 사람들이 그것을 더 좋게 만드는데 참여할 수 있습니다. 여기에서 문제를 보고하거나, 문제를 해결하거나, 합의된 프로토콜의 개선을 제안할 수 있는 절차를 찾을 수&nbsp;있습니다."
         buttonUrl="/get-involved/"
         buttonText="Learn more"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
     >}}
     {{< long_text 
-        titleText="Community Projects"
+        titleText="커뮤니티 프로젝트"
         imgSrc="/images/for-developers/dev-projects.svg"
-        text="NavCoin is more than just a protocol, it’s an ecosystem of websites, applications and devices which connect to the NavCoin protocol. Here’s where you can find out about contributing to community&nbsp;projects."
+        text="Nav코인은 단순한 프로토콜 그 이상이며, Nav코인 프로토콜에 연결되는 웹 사이트, 응용 프로그램 및 장치의 생태계 입니다. 커뮤니티 프로젝트에 기여하는 방법에 대해 알아 볼 수 있는 곳이 여기에&nbsp;있습니다."
         buttonUrl="https://navhub.org"
-        buttonText="Learn more"
+        buttonText="더 알아보기"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
     >}}
     {{< long_text 
-        titleText="Responsible Disclosure"
+        titleText="책임 공시"
         imgSrc="/images/for-developers/dev-disclosure.svg"
-        text="NavCoin is experimental technology and sometimes critical bugs are found. If you’re a researcher and you’ve found a critical vulnerability here’s how you can talk securely with the NavCoin Core&nbsp;developers."
+        text="Nav코인은 실험적인 기술이고 때때로 중요한 버그가 발견됩니다. 연구원인데 Nav코인 코어 개발자와 안전하게 대화할 수 있는 방법은 다음과&nbsp;같습니다."
         buttonUrl="/responsible-disclosure/"
-        buttonText="Learn more"
+        buttonText="더 알아보기"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
     >}}
 {{< /item_container_section >}}
 
 {{< contrib_list
-    titleText="NavCoin Protocol Contributors"
-    subtitleText="We would like to thank our contributors who have made this protocol&nbsp;awesome!"
+    titleText="Nav코인 프로토콜 기여자"
+    subtitleText="우리는 이 프로토콜을 훌륭하게 만든 우리의 기부자들에게 감사하고&nbsp;싶습니다"
     buttonUrl="https://github.com/NAVCoin/navcoin-core/graphs/contributors"
-    buttonTxt="View NavCoin on GitHub"
+    buttonTxt="Nav코인 프로토콜 보기"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
 <script>
