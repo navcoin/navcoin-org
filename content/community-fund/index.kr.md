@@ -19,13 +19,13 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
 
 {{< item_container_section
     titleText="세계에서 가장 발전된 커뮤니티&nbsp;펀드"
-    subtitleText="프로젝트는 중앙 권한 없이 분산된 네트워크에 의해 자금 지원 및 승인을 받습니다. 이렇게 하면 NavCoin의 방향이 전체 네트워크에 가장 큰 영향을 미칠 수 있습니다. 이 펀드는 아이디어를 가져가고, 육성하고, 팀을 만들어 &nbsp; 생명을 불어넣는 데 돈을 줍니다.."
+    subtitleText="프로젝트는 중앙 권한 없이 분산된 네트워크에 의해 자금 지원 및 승인을 받습니다. 이렇게 하면 NavCoin의 방향이 전체 네트워크에 가장 큰 영향을 미칠 수 있습니다. 이 펀드는 아이디어를 가져가고, 육성하고, 팀을 만들어&nbsp;생명을 불어넣는 데 돈을 줍니다.."
     
     >}}
     {{< feature
         titleText="이중 투표 컨센서스"
         imgSrc="/images/community-fund/cfu-dual-vote.svg"
-        text="첫 번째 커뮤니티 펀드는 이중 투표를 실시하여 작업이 완료되지 않으면 자금이 &nbsp;반환되도록합니다."
+        text="첫 번째 커뮤니티 펀드는 이중 투표를 실시하여 작업이 완료되지 않으면 자금이&nbsp;반환되도록합니다."
     >}}
     {{< feature
         titleText="누구에게나 열려있는 곳"
@@ -35,7 +35,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
     {{< feature                 
         titleText="중앙 집중식 펀드가 아님"
         imgSrc="/images/community-fund/cfu-decentralised-fund.svg"
-        text="커뮤니티 기금에서 NAV를 소유하는 사람은 아무도 없으며, 이중 네트워크 &nbsp; 컨센서스 투표를 통해서만 사용할 수 있습니다."
+        text="커뮤니티 기금에서 NAV를 소유하는 사람은 아무도 없으며, 이중 네트워크&nbsp;컨센서스 투표를 통해서만 사용할 수 있습니다."
     >}}
     {{< feature                 
         titleText="연간 50만 NAV"
@@ -45,12 +45,12 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
     {{< feature                 
         titleText="다양하게 페이를 받는 방법"
         imgSrc="/images/community-fund/cfu-get-paid.svg"
-        text="기금은 두 번째 득표를 통해 공개됩니다 - 이것은 단계적으로 또는 일이 &nbsp; 완료되면 지급 될 수 있습니다"
+        text="기금은 두 번째 득표를 통해 공개됩니다 - 이것은 단계적으로 또는 일이&nbsp;완료되면 지급 될 수 있습니다"
     >}}
     {{< feature                 
         titleText="네트워트가 결정"
         imgSrc="/images/community-fund/cfu-network.svg"
-        text="커뮤니티 기금은 커뮤니티에 더 많은 권한을 부여합니다. 즉, 많은 사람들이 참여하도록 자금을 지원하고, 네트워크에 &nbsp; Nav코인의 방향에 대해 더 많은 목소리를 낼 수 있도록 권장되어 집니다."
+        text="커뮤니티 기금은 커뮤니티에 더 많은 권한을 부여합니다. 즉, 많은 사람들이 참여하도록 자금을 지원하고, 네트워크에&nbsp;Nav코인의 방향에 대해 더 많은 목소리를 낼 수 있도록 권장되어 집니다."
     >}}
 {{< /item_container_section >}}
 
@@ -72,7 +72,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
                 <div class="feature-card">
                     <img src="/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
                     <h3>Step 2: 제안서에 투표하세요l</h3>
-                    <p style="margin-bottom: 10%">Nav코인 네트워크를 구축하는 모든 사용자는 네트워크 &nbsp; 가중치를 적용하여 모든 &nbsp; 제안에 대해 '예' 또는 '아니요'로 투표할 수 있습니다.</p>
+                    <p style="margin-bottom: 10%">Nav코인 네트워크를 구축하는 모든 사용자는 네트워크 &nbsp; 가중치를 적용하여 모든&nbsp;제안에 대해 '예' 또는 '아니요'로 투표할 수 있습니다.</p>
                     <a href="https://communityfund.nav.community/?PENDING=on" target="_blank" class="round-btn small gradient-btn">제안서 보기        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
@@ -81,7 +81,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
                 <div class="feature-card">
                     <img src="https://d33wubrfki0l68.cloudfront.net/6be625e8bf582732c2b66ffa1705dd083fdd6c51/f8c8a/images/community-fund/cfu-payment.svg" alt="" class="item-icon">
                     <h3>Step 3: 지불(페이) 요청</h3>
-                    <p style="margin-bottom: 10%">지불은 제안서 소유자의 &nbsp;노력 가능성을 입증하는 2차 투표 후에만 공개됩니다</p>
+                    <p style="margin-bottom: 10%">지불은 제안서 소유자의&nbsp;노력 가능성을 입증하는 2차 투표 후에만 공개됩니다</p>
                     <a href="https://communityfund.nav.community/create-payment-request" target="_blank" class="round-btn small gradient-btn">지불(페이)요청 생성        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
@@ -90,7 +90,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
                 <div class="feature-card">
                     <img src="https://d33wubrfki0l68.cloudfront.net/a6136e0554b83cc742e44f715978ee9fbd3c7791/88e3e/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
                     <h3>Step 4: 지불(페이)에 대해 투표하세요</h3>
-                    <p style="margin-bottom: 10%">이정표에 도달하면, 네트워크는 프로젝트가 정상 궤도에 오르게 되고, 그러면 &nbsp; 자금이 풀리게 됩니다.</p>
+                    <p style="margin-bottom: 10%">이정표에 도달하면, 네트워크는 프로젝트가 정상 궤도에 오르게 되고, 그러면&nbsp;자금이 풀리게 됩니다.</p>
                     <a href="https://communityfund.nav.community/?ACCEPTED=on&PENDING_PR=on" target="_blank" class="round-btn small gradient-btn">지불(페이) 요청 보기        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
