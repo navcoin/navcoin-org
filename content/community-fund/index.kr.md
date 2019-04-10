@@ -169,18 +169,18 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
                 <p style="margin-top:0; margin-bottom: 15px;">NEXT는 Nav코인의 대체 지갑입니다. 오픈 소스 교차 플랫폼 전체 노드 Nav코인 지갑입니다. Windows, Mac 및 Linux에서 실행할 수 있습니다. NEXT는 동전 보내기/받기 등과 같은 모든 기본 지갑 기능을 제공합니다.
                 <br><br>이 제안은 NEXT 지갑의 지속적인 연구 개발 자금을 지원하기 위한 것입니다. 당신도 할 수 있습니다 <a href="https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10" target="_blank" style="color:white; text-decoration: underline">자세한 사항은 여기를 보세요.</a><br></p>
                 <div class="cf-proposal-stat">
-                    <h4>Status</h4>
-                    <h4>Pending</h4>
+                    <h4>상태</h4>
+                    <h4>보류</h4>
                 </div>
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div class="cf-proposal-stat">
-                    <h4>Request</h4>
+                    <h4>요청</h4>
                     <h4>46,800 NAV</h4>
                 </div>
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://communityfund.nav.community/discussion/97229d571fdade1c48fda8c1b1060820f87c1dc1c99d3a8cd498a3809537d723" target="_blank" class="round-btn small gradient-btn">View proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://communityfund.nav.community/discussion/97229d571fdade1c48fda8c1b1060820f87c1dc1c99d3a8cd498a3809537d723" target="_blank" class="round-btn small gradient-btn">제안서 보기 <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
@@ -207,7 +207,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
 
 {{< accordion
   titleText="&nbsp; 제안서를 작성하는 방법"
-  subtitleText="당신의 제안이 &nbsp; 통과될 가능성이 가장 높은지 확인할 수 있는 절차가 있습니다."
+  subtitleText="당신의 제안이&nbsp;통과될 가능성이 가장 높은지 확인할 수 있는 절차가 있습니다."
   anchor="download-core"
 
   itemOneTitle="Step 1 - "시스템을 이해하고 아이디어를 개발하세요."
