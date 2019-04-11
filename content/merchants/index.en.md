@@ -46,6 +46,15 @@ newTab="true"
         linkUrl="http://www.sigmasixdesign.com/bitcoingallery-store#!/The-Simplifier-NAV/p/102127036/category=28247023"
     >}}
     {{< merchant
+        titleText="Bidali Giftcards"
+        imgSrc="/images/merchants/mer-bitcoingallery.png"
+        text="Buy giftcards on Bidali"
+        linkUrl="https://giftcards.bidali.com/buy-giftcards-with-navcoin/"
+    >}}
+    
+    
+    
+    {{< merchant
         titleText="Mile High Ambulance"
         imgSrc="/images/merchants/mer-mile-high.png"
         text="Full service ambulance company which accepts NavCoin for bill&nbsp;payments."
