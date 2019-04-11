@@ -52,6 +52,13 @@ newTab="true"
         linkUrl="https://giftcards.bidali.com/buy-giftcards-with-navcoin/"
     >}}
     
+    {{< merchant
+        titleText="Sheldon Amazon Giftcards"
+        imgSrc="/images/merchants/mer-bitcoingallery.png"
+        text="Buy Amazon Giftcards with Sheldon.eu"
+        linkUrl="https://sheldoneu.store/"
+    >}}
+    
     
     
     {{< merchant
