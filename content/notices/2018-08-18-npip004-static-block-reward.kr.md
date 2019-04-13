@@ -102,50 +102,52 @@ NPIP004에서는 블록 보상을 블록당 2NAV로 설정할 것을 권장합�
 | NEBL | 10%    |
 | NAV  | 5-10%  |
 
-Source: https://www.investinblockchain.com/best-proof-of-stake-coins
+소스: https://www.investinblockchain.com/best-proof-of-stake-coins
 
-So this move would put us in step with other PoS coins and actually still remain on the low end of the reward scale, especially if more people start staking.
+따라서 이 움직임은 우리를 다른 PoS 코인들 보조를 도모할 것이며, 특히 사람들이 스테이킹을 시작할 경우 보상 수준은 낮을 것 입니다.
 
-I found this spreadsheet which has pretty detailed information about a bunch of coins and their inflation rates:
+저는 많은 동전과 그들의 인플레이션 율에 관해 꽤 상세한 정보를 가지고있는이 스프레드 시트를 발견했다 :
 
 https://docs.google.com/spreadsheets/d/1-weHt0PiIZWyXs1Uzp7QIUKk9TX7aa15RtFc8JJpn7g/edit#gid=237137882
 
-From this, you can see that NavCoin would still have one of the lowest inflation rates in crypto when you include PoW coins as well. Bitcoin currently inflates at around 3.68% as example.
+이를 통해 Nav코인은 PoW 동전을 포함해도 여전히 낮은 인플레율을 가지고 있음을 알 수 있습니다. 비트코인은 현재 3.68% 전후로 부풀려져 있습니다.
 
-### Isn't low inflation like we have now better?
+### 낮은 인플레이션이 지금 우리가 가지고 있는 것보다 낫지 않나요?
 
-With 4% per year and only 25% of coins staking, NavCoin currently only inflates at around 1.4% per year (including the community fund). We've seen the staking network weight roughly halve over the last 6 months, something which could be attributed the reduction of rewards when the community fund was introduced. It's possible people are switching to other, more profitable PoS coins because 4% reward is too low. At this network weight and market rate, it would only take around USD $2M worth of coins to perform a 51% attack. In reality, buying enough coins to 51% attack the network would drive the price of NAV up and therefore make it much more expensive than this to attack the network, but it's still worth noting the importance for network security to attract more people to stake.
+Nav코인은 매년 4%씩 그리고 25%의 코인만 보관하고 있으며, 현재 연간 약 1.4%만 부풀리고 있습니다(커뮤니티 펀드 포함). 우리는 지난 6개월 동안 네트워크 무게가 약 절반으로 감소하는 것을 보아왔습니다. 이는 커뮤니티 기금이 도입되었을 때 보상을 줄인 것으로 볼 수 있습니다. 4%의 포상금이 너무 낮기 때문에 사람들이 더 수익성이 높은 다른 포스 코인으로 바꿀 수도 있습니다. 이러한 네트워크 중량과 시장 속도에서는 51%의 공격을 수행하는 데 2백만 달러 상당의 코인만 필요합니다. 실제로, 51%의 네트워크 공격에 충분한 동전을 구입하면 NAV의 가격이 상승하고 따라서 네트워크를 공격하는 데 이보다 훨씬 더 많은 비용이 들지만, 네트워크 보안이 더 많은 사람들을 끌어들이는 것이 중요하다는 점은 주목할 가치가 있습니다.
 
-### Summary
+### 요약
 
-Changing to a static block reward of 2 NAV per block increases network security in multiple ways, the first being that it forces people to be online securing the network with their weight constantly. Secondly, it would increase potential earnings for stakers which would attract more people to stake NavCoin and increase the network weight further. Both of these factors make the network harder to 51% attack and would improve network security.
+블록당 2 NAV의 정적 블록 보상으로 변경하면 여러 가지 방법으로 네트워크 보안이 향상됩니다. 첫 번째는 사람들이 지속적으로 가중치를 적용하여 네트워크를 보호하도록 하는 것입니다. 둘째, NavCoin을 보유하도록 더 많은 사람들을 끌어들이고 네트워크 무게를 더 증가시킬 수 있는 스테이커의 잠재적 수익을 증가시킬 수 있습니다. 이러한 두 가지 요인은 네트워크를 51%로 더 어렵게 만들고 네트워크 보안을 향상시킵니다.
 
-### Additional suggested changes
+### 추가로 제안된 변경사항
 
-When we originally proposed 0.25 NAV per block for the Community Fund we calculated that as 20% of the current inflation rate. So reducing from 5% to 4% and adding 0.25 NAV was roughly equal. However this calculation was based on 40% of coins staking at 5% reward. I would suggest that if we move to a static block reward, we increase the community fund amount to 0.5 NAV per block, so it retains the 20% ratio to staking rewards as was originally intended.
+커뮤니티 펀드에 대해 블록당 0.25 NAV를 제안한 후에는 현재 인플레이션 율의 20 %로 계산했습니다. 따라서 5 %에서 4 %로 줄이고 0.25 NAV를 추가하는 것은 대략 같습니다. 그러나 이 계산은 5 %의 보상을받으며 40 %의 코인을 기준으로 계산되었습니다. 정적 블록 보상으로 전환하면 커뮤니티 펀드 금액을 블록 당 0.5 NAV로 늘리므로 원래 예정대로 보상을받는 것에 비해 20 %의 비율을 유지할 것을 제안합니다.
 
-This would mean that there are 2,102,400 NAV created per year for staking and 525,600 NAV per year created for the community fund totalling 2,628,000 new NAV created per year. This equals an initial inflation rate of 4.17% which is exponentially decreasing as a percentage as explained previously.
+이는 연말에 2,282,000 NAV의 연금을 창출하고 연간 525,600 NAV를 창출하여 연간 266,000,000 개의 새로운 NAV를 창출한다는 것을 의미합니다. 이것은 4.17 %의 초기 인플레이션 율과 같습니다. 이는 이전에 설명한 것처럼 지수로 지수 적으로 감소합니다.
 
-### Alternative approaches
+이것은 매년 2,102,400 NAV가 만들어지고 커뮤니티 기금을 위해 만들어진 연간 525,600 NAV가 총 2,628,000개의 새로운 NAV가 있다는 것을 의미합니다. 이는 4.17%의 초기 물가상승률과 동일하며, 앞서 설명한 것처럼 백분율로 기하급수적으로 감소하고 있습니다.
 
-##### Maximum Coin Age
+### 대체 접근법
 
-We could introduce a maximum coin age of 1 month. If they came online after 6 months to claim reward, they would only receive 1 months of reward. This would incentivise people to remain online because otherwise they would miss out on rewards. However, for a big staker, they can cycle thorugh all their coins quite quickly, but a small staker would potentially miss out on rewards even if they stayed online the whole time. I would argue this solution is worse for small stakers than a static reward. It also doesn't address the fact that other coins have higher rewards and attracts no new users.
+##### 최대 코인 사용기간
 
-##### Block Validator Reward
+최대 동전 연령은 1개월입니다. 만약 그들이 보상을 요구하기 위해 6개월 후에 온라인에 온다면, 그들은 겨우 1개월의 보상금을 받을 것입니다. 이렇게 하면 사람들이 계속 온라인에 머물게 됩니다. 그렇지 않으면 보상을 놓칠 수 있기 때문입니다. 하지만, 대형 스테이커의 경우, 그들은 모든 코인을 꽤 빨리 순환시킬 수 있지만, 작은 스테이커는 그들이 항상 온라인에 머물러 있어도 보상을 놓칠 가능성이 있습니다. 저는 이 해결책이 고정적인 보상보다 작은 스테이커들에게 더 나쁘다고 주장하고 싶습니다. 또한 다른 코인이 더 높은 보상을 받고 새로운 사용자를 끌어들이지 않는다는 사실도 다루지 않습니다.
 
-We could keep the coinage based staking rewards for the block minter and create an additional static reward which the minter issues to people who are online and securing the network with their weight even if they aren't the block minter. It would still essentially be a lottery based on network weight, but this way we have a hybrid system where everyone gets their percentage, but people who are online staking all the time get extra. This alternative would take a reasonable amount of investigation, research and testing to accomplish and it's not been trialled before afaik. For simplicities sake, i would argue that just using a static reward is a better option.
+##### 검증자 보상 차단
 
-##### Other approaches
+우리는 블록 마이너에 대한 동전 기반 보상을 유지하고, 비록 그들이 블록 마이너들이 아니더라도 그들의 무게로 네트워크를 보호하는 추가적인 정적 보상을 만들 수 있습니다. 네트워크 무게에 기반한 복권이기는 하지만, 이런 방식으로 우리는 모든 사람들이 그들의 비율을 얻는 하이브리드 시스템을 가지고 있습니다. 하지만 항상 온라인에 접속하는 사람들은 더 많은 것을 얻습니다. 이 대안은 적정한 양의 조사, 연구 및 테스트가 있어야 성취할 수 있습니다. 그리고 그것은 아직 실현되지 않았습니다. 단순화를 위해서, 저는 정적 보상을 사용하는 것이 더 나은 선택이라고 주장하고 싶습니다.
 
-Not sure what else, i haven't thought of any other ways to solve this problem yet. If you have any ideas, don't be afraid to post them in the thread.
+##### 다른 접근법
 
-### Conclusion
+다른 건 몰라도 이 문제를 해결하기 위한 다른 방법은 아직 생각지도 못했습니다. 만약 여러분이 어떤 아이디어가 있다면, 언제든지 말해주세요.
 
-I'm personally in favour of changing the block reward to 2 NAV and increasing the Community Fund to 0.5 NAV per block.
+### 결론
 
-I would suggest bundling these changes with NPIP002 and NPIP003 into NavCoin Core v4.5.0 (4.3.0 is Open Alias, 4.4.0 is Community Fund Claims) so we can reduce the number of versions released. Each individual protocol change will have its own version bit, so people can vote on each individually if they only want some of the updates rather than all of them.
+저는 개인적으로 블록 보상금을 2 NAV로 변경하고 커뮤니티 기금을 블록당 0.5 NAV로 늘리는 것에 찬성합니다.
 
-If you have any comments or suggestions, please either post to the reddit thread or directly on the NPIP GitHub.
+이러한 변경 사항을 NPIP002 및 NPIP003과 함께 Nav코인 코어 v4.5.0(4.3.0은 Open Alias, 4.4.0은 Community Fund Calls)에 결합하여 릴리스된 버전 수를 줄일 수 있도록 제안합니다. 각 프로토콜 변경에는 자체 버전 비트가 있으므로 모든 업데이트가 아닌 일부 업데이트만 원하는 경우 개별적으로 투표할 수 있습니다.
+
+의견이나 제안사항이 있으시면, 빨간색 나사산에 게시하거나 NPIP GitHub에 직접 게시해 주십시오.
 
 https://www.reddit.com/r/NavCoin/comments/980eql/npip004_static_block_reward
