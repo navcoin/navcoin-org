@@ -1,19 +1,19 @@
 ---
-title: "Privacy Policy"
+title: "프라이버시 정책"
 date: 2018-03-12T17:47:48+13:00
 draft: false
-description: "By using the site, you agree to the collection and use of information in accordance with this policy."
+description: "사이트를 사용하면 이 정책에 따라 정보 수집 및 사용에 동의합니다."
 ---
 {{< text_section
-    title="Privacy Policy"
+    title="프라이버시 정책"
     bgColor="#fff"
     titleColor="#333">}}
-<p>This page informs you of our policies regarding the collection, use and disclosure of personal information we receive from users of our site (https://navcoin.org). We use your personal information to better understand your usage of the site, and to collect traffic statistics.</p>
+<p>이 페이지는 당사 사이트 사용자로부터 받은 개인 정보의 수집, 사용 및 공개에 관한 당사의 정책을 알려줍니다.(https://navcoin.org).우리는 당신의 개인 정보를 사용하여 당신의 사이트 사용을 더 잘 이해하고 트레픽 통계를 수집합니다.</p>
 
-<p>By using the site, you agree to the collection and use of information in accordance with this policy.</p>
+<p>사이트를 사용하면 이 정책에 따라 정보 수집 및 사용에 동의합니다..</p>
 
-<h3>Log Data</h3>
-<p>Like many site operators, we collect information that your browser sends whenever you visit our site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address (with replaced last byte), browser type, browser version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages and other statistics.</p>
+<h3>데이터 로그</h3>
+<p>많은 사이트 운영자와 마찬가지로, 당사는 귀하가 당사 사이트를 방문할 때마다 브라우저가 보내는 정보("Log Data")를 수집합니다. 이 로그 데이터에는 컴퓨터의 인터넷 프로토콜("IP") 주소(마지막 바이트로 대체됨), 브라우저 유형, 브라우저 버전, 방문하는 당사 사이트의 페이지, 방문 시간과 날짜, 해당 페이지에 소요된 시간 및 기타 통계 등의 정보가 포함될 수 있습니다.</p>
 
 <h3>Cookies</h3>
 <p>Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our site.</p>
