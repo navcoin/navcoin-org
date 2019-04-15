@@ -15,11 +15,11 @@ imgSrc="/images/responsible-disclosure/dis-hero.svg"
 <div class="grey">
     <div class="article">
         <h2 class="article-title">
-            Disclosure Procedure
+            공개 절차
         </h2>
         <p>Nav코인 프로토콜에 심각한 취약성이 있다고 생각되면 주저하지 말고 Nav코인 코어 개발자에게 문의하시기 바랍니다. 당사는 어떠한 공개도 시기적절하고 신중하게 처리될 수 있도록 귀하 및 기타 관련 당사자들과 조율할 것을 약속드립니다.</p>
         <p>취약성을 보고하는 가장 좋은 장소는 <a href="#">disclosure@navcoin.org</a>. Nav코인 GitHub에 있는 GPG 키를 사용하여 메시지를 암호화할 수 있습니다.</p>
-        <h3 class="article-sml-title">Disclosure GPG Key</h3>
+        <h3 class="article-sml-title">GPG 키를 공개</h3>
         <p>
             <a href="https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub" target="_blank">
                 https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub
@@ -32,7 +32,7 @@ imgSrc="/images/responsible-disclosure/dis-hero.svg"
            <li>추천된 완화 전략을 제시합니다.</li>입니다.
            <li>GPG 공개 키를 사용하여 안전하게 회신할 수 있습니다.</li>입니다.
         </ul>
-        <p>이 방법으로 통신할 수 없는 경우 Nav코인 Discord 채널의 관리자에게 문의하면 안전한 개인 채널을 설정할 수 있습니다.</p>
+        <p>이 방법으로 통신할 수 없는 경우 Nav코인 디스코드 채널의 관리자에게 문의하면 안전한 개인 채널을 설정할 수 있습니다.</p>
     </div>
 </div>
 
