@@ -10,4 +10,4 @@ weight: 100
 
 ---
 
-Adding Confidential Transactions with Bulletproofs to conceal the transaction amounts on the blockhain. This implementation removes the requirement for denomination based accumulators.
+Aggiunta alla Confidential Transaction la componente Bulletproof per conciliare gli importi sulla blockchain. Questa implementazione permette di rimuovere gli accumulatori.
