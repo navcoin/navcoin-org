@@ -115,6 +115,15 @@ newTab="true"
         text="BTC / NAV"
         linkUrl="https://bitexlive.com/exchange/BTC-NAV"
     >}}
+    
+    {{< exchange
+          titleText="Zwaply"
+          imgSrc="/images/buy-navcoin/buy-zwaply.png"
+          text="Comprar NAVs desde plataformas de Social Media"
+          linkUrl="https://zwaply.com/"
+      >}}
+    
+    
 {{< /item_container_section >}}
 
 {{< center_text_cta
