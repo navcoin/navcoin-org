@@ -8,4 +8,4 @@ status: in-progress
 externalUrl: https://github.com/NAVCoin/navcoin-core/issues/383
 ---
 
-Improving the graphical interface to make it even easier to create, browse and vote on Community Fund proposals and payment requests.
+Migliorata l'interfaccia grafica per permettere in maniera ancora più semplice di creare, vedere e votare le proposte del Community Fund.
