@@ -127,6 +127,14 @@ newTab="true"
           text="BTC + ETH / NAV"
           linkUrl="https://bitqist.com/exchange/nav-coin"
       >}}
+      
+      {{< exchange
+          titleText="Zwaply"
+          imgSrc="/images/buy-navcoin/buy-zwaply.png"
+          text="Buy Nav from multiple social media platforms"
+          linkUrl="https://zwaply.com/"
+      >}}
+      
 {{< /item_container_section >}}
 
 {{< center_text_cta
