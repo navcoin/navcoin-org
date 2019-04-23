@@ -20,7 +20,6 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
 {{< item_container_section
     titleText="세계에서 가장 발전된 커뮤니티&nbsp;펀드"
     subtitleText="프로젝트는 중앙 권한 없이 분산된 네트워크에 의해 자금 지원 및 승인을 받습니다. 이렇게 하면 NavCoin의 방향이 전체 네트워크에 가장 큰 영향을 미칠 수 있습니다. 이 펀드는 아이디어를 가져가고, 육성하고, 팀을 만들어&nbsp;생명을 불어넣는 데 돈을 줍니다.."
-    
     >}}
     {{< feature
         titleText="이중 투표 컨센서스"
