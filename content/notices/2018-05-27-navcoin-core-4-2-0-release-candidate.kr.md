@@ -1,40 +1,40 @@
 ---
-layout: notices
-title: NavCoin Core 4.2.0 Release Candidate
+layout: 공지
+title: Nav코인 코어 4.2.0 릴리즈 후보
 author: Craig MacGregor
 date: '2018-05-27T12:46:15+12:00'
 feature_image: /images/uploads/4.2.0-rc-hero.png
 notice_categories:
-  - Release Candidates
+  - 릴리즈 후보
 ---
-The NavCoin Core developers have enacted a policy to create a release candidate and publicly notify all interested parties of any important updates prior to merging the changes into the master branch. This release schedule will be formalised into a process document to be published on the NavCoin.org website in the near future as reference.
+Nav코인 코어 개발자는 변경 사항을 마스터 지사에 병합하기 전에 릴리스 후보를 생성하고 모든 이해 관계자에게 중요한 업데이트를 공개적으로 통지하는 정책을 제정했습니다. 이 릴리스 일정은 조만간 참조로 NavCoin.org 웹사이트에 게시될 프로세스 문서로 공식화될 것입니다.
 <!--more-->
-There are two reasons for this update:
+이 업데이트에는 두 가지 이유가 있습니다:
 
-## 1. To begin accumulating NAV in the NavCoin Community Fund.
+## 1. Nav코인 커뮤니티 펀드에서 NAV 축적 시작.
 
-The Community Fund was endorsed by the NavCoin network early in 2018. NavCoin Core 4.2.0 is the first step in enabling the Community Fund. It contains a soft fork to reduce the staking rewards from 5% to 4%, with 0.25 NAV per block being accumulated to the Community Fund. The Community Fund proposal system is live on the testnet, but there is still more unit tests and network testing to do before the proposal system itself is launched on the mainnet. When the fund is live you’ll be able to vote on and submit proposals to the network to apply for project funding. More information on the proposal process will be available on NavCoin.org as its release approaches.
+커뮤니티 펀드는 2018년 초에 Nav코인 네트워크에 의해 승인되었습니다. Nav코인 코어 4.2.0은 커뮤니티 펀드를 활성화하는 첫 번째 단계입니다. 그것은 고정 보상을 5%에서 4%로 줄일 수 있는 소프트 포크를 포함하고 있으며, 블록당 0.25 NAV가 커뮤니티 기금으로 축적됩니다. 커뮤니티 기금 제안 시스템은 테스트넷에서 라이브로 실행되지만, 제안 시스템 자체가 메인넷에서 시작되기 전에 해야 할 더 많은 유닛 테스트와 네트워크 테스트가 있습니다. 기금이 생기면 프로젝트 기금을 신청하기 위해 네트워크에 투표하고 제안서를 제출할 수 있습니다. 제안서 프로세스에 대한 자세한 정보는 NavCoin.org에서 공개 될 예정입니다.
 
-## 2. To fix the Clock Sync bug.
+## 2.클럭 동기화 버그 수정.
 
-The NavCoin blockchain has been seeing some intermittent difficulty and block spacing issues. NavCoin Core 4.2.0 contains a soft fork to fix this problem by disallowing blocks too far in the future or past and dropping connections to users with out of sync system clocks. The users system clock is now checked against global NTP servers to confirm it’s correct. If your clock is wrong you’ll get a message to adjust it, otherwise you’ll be bumped off the network until it’s properly synced.
+Nav코인 블록체인에는 간헐적인 난이도 및 블록 간격 문제가 발생하고 있습니다. Nav코인 코어 4.2.0에는 향후 또는 과거에 블록을 너무 멀리 허용하지 않고 동기화 시스템 클럭이 없는 사용자에게 연결을 끊음으로써 이 문제를 해결하기 위한 소프트 포크가 포함되어 있습니다. 사용자 시스템 시계가 올바른지 확인하기 위해 글로벌 NTP 서버와 대조됩니다. 만약 당신의 클럭이 틀렸다면 당신은 그것을 조정하라는 메시지를 받게 될 것이고, 그렇지 않으면 당신은 그것이 제대로 동기화 될 때까지 네트워크에서 떨어져 나갈 것 입니다.
 
-Reviewing the NavCoin Core 4.2.0 release candidate The pull request (PR) into the master branch can be viewed here:
+Nav코인 코어 4.2.0 릴리즈 후보 검토 마스터 분기로의 풀 요청(PR)을 보려면 여기를 참조하십시오.:
 
 <https://github.com/NAVCoin/navcoin-core/pull/209>
 
-There is a release candidate available for testing here:
+테스트에 사용할 수 있는 릴리스 후보가 있습니다.:
 
 <https://build.nav.community/v4.2.0-rc>
 
-Any comments or suggestions should be made directly on the PR on GitHub so we are able to track and respond to any queries.
+GitHub에 대한 PR에 대한 모든 의견 또는 제안이 직접 이루어져야 하며, 이를 통해 모든 문의 사항을 추적하고 응답할 수 있습니다.
 
-## What happens next?
+## 다음 단계느 무엇일까요?
 
-We are hoping to release version 4.2.0 within the next week if there are no well founded objections to the update. When the new version is released, the way to signal your support for the consensus change is to simply update to version 4.2.0.
+업데이트에 대한 이의 제기가 제대로 이루어지지 않을 경우 다음 주 내에 버전 4.2.0을 출시할 수 있기를 희망합니다. 새 버전이 출시되면 컨센서스 변경에 대한 지원을 알리는 방법은 버전 4.2.0으로 업데이트하기만 하면 됩니다.
 
-The consensus changes are released in a dormant state inside version 4.2.0. When 75% of the blocks in a 20160 block period are signalling support for the consensus changes, the change will be locked in for activation at the end of the next block period.
+합의된 변경 사항은 버전 4.2.0 내에서 휴면 상태로 릴리스됩니다. 20160년 블록 기간의 75%가 합의된 변경에 대한 지원을 알리는 신호일 때, 변경 내용은 다음 블록 기간이 끝날 때 활성화되도록 잠겨 있습니다.
 
-At the time of activation, you may lose connectivity to the network if you have not updated. So please keep an eye out for the soft fork lock in and update during the grace period if you haven’t already.
+활성화 시 업데이트하지 않은 경우 네트워크에 대한 연결이 끊어질 수 있습니다. 따라서 소프트 포크가 잠기지 않도록 주의하고 아직 연결되지 않은 경우 유예 기간 동안 업데이트해 주십시오.
 
-More information on how to monitor the soft fork signalling process and keep up to date with the Community Fund proposal system release will be published as it is available.
+소프트 포크 신호 전달 프로세스를 모니터링하고 커뮤니티 기금 제안 시스템 릴리즈를 최신 상태로 유지하는 방법에 대한 자세한 정보가 제공되는 대로 게시됩니다.

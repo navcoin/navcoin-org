@@ -1,93 +1,93 @@
 ---
-title: "Governance"
+title: "ガバナンス"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
-description: "Decentralized digital currencies like NavCoin return freedom, privacy and financial power back to the individual."
+description: "NavCoinという分散化されたデジタル通貨によって、自由、プライバシー、そして経済的な力が個人に取り戻される。"
 ---
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 {{< hero_section
-titleText="Governance"
+titleText="ガバナンス"
 imgSrc="/images/governance/gov-hero.svg"
-paragraphText="The objective of the NavCoin Manifestos is to clearly set out the reasons contributors to the NavCoin community do what we do, how we do it and why. These documents cover guiding principles, purpose, scope of work and operational requirements to ensure we share the same values and always operate in the best interests of the&nbsp;network."
-buttonText="Read our manifestos"
+paragraphText="NavCoinのマニフェストの目的は、NavCoin コミュニティへに貢献する人々にとっての貢献すべき理由を明確に設定する事です。 これらのドキュメントは、原理、目的、仕事の範囲と業務の必要条件を含み、私達が同じ価値観を共有し、常にネットワークにとって最善の選択ができる事を&nbsp;保証するのです。"
+buttonText="マニフェストを読む"
 buttonImgSrc="/images/icons/downward-arrow.svg"
 buttonLink="#read-manifestos"
 >}}
 
 {{< zig_section
-titleText="Why Decentralization Is Revolutionary"
+titleText="なぜ、分散化が革命的なのか"
 imgSrc="/images/governance/gov-decentralise.svg"
 reversed="true"
 >}}
-As contributors to the NavCoin community we are members of one of the world’s first functioning anarcho-syndicalist societies. This revolutionary system is based on the belief that when people are free to act in their own best interests, they naturally work in the best interests of society as well. Another way to describe anarcho-syndicalism is&nbsp;decentralization.
+NavCoinコミュニティの貢献者 である私達は、同時に世界で初めての、機能している無政府組合主義のメンバーであると言えます。この革命的なシステムは、人々が自らの利益を最優先にして行動する事で、結果として社会にとっての最善の利益に繋がる、という信念の元に成り立っています。無政府組合主義を表すもう１つの言葉は、&nbsp;分散化です。
 {{< /zig_section>}}
 
 
 {{< zig_section
-  titleText="Make The World A Better Place"
+  titleText="世界をよりよい場所にする"
   imgSrc="/images/governance/gov-world.svg"
   bgPurple="true"
 >}}
-Decentralized digital currencies like NavCoin take control of the monetary system away from government and corporate elites, and returns freedom, privacy and financial power to the individual. That’s why NavCoin is not just a payments protocol, it’s actually a vector for a profound change in the way the global economic system operates. Decentralized governance is at its heart. Because there is no central authority for NavCoin, a crucial part of our role as members of this community is to be champions of neutrality and consensus based decision&nbsp;making.
+NavCoinのように分散化されたデジタル通貨は、貨幣システムを政府や企業のエリートによる操作から個人に戻す事によって、自由とプライバシー、資金力も同時に個人に返還します。 ここにNavCoinが単なる支払いのプロトコルでは無く、実際に、世界的な経済システムの運営の在り方における、深遠な変化へのベクトルであるという理由があるのです。分散化ガバナンスは、核心を突いたシステムです。なぜならNavCoinには中心となる権力が存在せず、コミュニティのメンバーとしての私達の最も重要な役割は、中立でコンセンサスに基づいた意思決定のチャンピオンに&nbsp;なる事だからです。
 {{< /zig_section>}}
 
 
 {{< zig_section
-titleText="Benefits Of Decentralization"
+titleText="分散化がもたらす利便性"
 imgSrc="/images/governance/gov-benifits.svg"
 reversed="true"
 >}}
-Decentralization also offers protection from corruption. History has shown us countless times that too much power in too few hands inevitably leads to its abuse. What’s more it gives the individual a chance to make a real difference. Improvements to the protocol come from the bottom up, and can be submitted by anyone. NavCoin’s thriving community is living proof that when people are trusted to do good, they will contribute for the good of&nbsp;all.
+分散化によって、賄賂や腐敗を防ぐ事ができます。歴史は常に、少人数に権力が集まる事で権力の乱用、そして腐敗が避けられなかった事実を語っています。さらに素晴らしい事に、分散化は個人に本当の意味での変化を起こすチャンスを与えてくれるという事です。 プロトコルへの改善は下部から起こされ、誰にでも提出する権利があります。NavCoinのコミュニティがこうして繁栄している事は、人間というものは、良い行いをすると信じてもらっていると、全ての人にとって良い行いをするのだという事の生きた証と&nbsp;なっています。
 {{< /zig_section>}}
 
 
 {{< zig_section
-  titleText="It All Depends On You"
+  titleText="全ては貴方にかかっています"
   imgSrc="/images/governance/gov-you.svg"
   bgPurple="true"
 >}}
-When everyone in the NavCoin community takes responsibility for contributing to the development of the protocol and is actively pushing it’s message out to the world, not only does the community benefit, the benefits spread to society as a whole. Conversely, without your participation as an empowered autonomous individual there can be no decentralization, and hence no NavCoin. NavCoin’s success truly is up to you, and you are free to make it&nbsp;happen.
+NavCoin コミュニティの皆がそれぞれプロトコルの発展の為に貢献する責任を持ち、このメッセージを積極的に世界に伝えていこうとしている時、コミュニティにとっての利益になるだけでなく、その利益は社会全体に広がります。逆に、自主的な権限を持つ貴方の参加無しには、分散化システムは存在する事ができず、故に、NavCoinは存在する事ができないのです。 NavCoinの成功は、正に貴方にかかっているのです。そして貴方は自分の自由意志で、この成功に関わる事が&nbsp;できるのです。
 {{< /zig_section>}}
 
 
 {{< zig_section
-titleText="Get Involved"
+titleText="参加する"
 imgSrc="/images/governance/gov-get-involved.svg"
 reversed="true"
 >}}
-NavCoin is a community initiative that allows anyone to contribute in a number of different ways. The NavCoin ecosystem is more than just open-source development. Content creation, promotion and adoption are equally important as a decentralized digital currency -  that’s why the key to success is contributions from people of different&nbsp;skillsets.
+NavCoinは、どんな人でも、様々な方法で貢献する事ができる、コミュニティ主導のプロジェクトです。NavCoinのエコシステムは、単なるオープンソースのデベロップメントではありません。コンテンツの作成、プロモーション、アダプション、全てが、分散化デジタル通貨として平等な重要性を持つのです。だからこそ、様々なスキルを持つ人々の参加こそが、成功への重要な&nbsp;鍵となるのです。
 {{< /zig_section>}}
 
 
 {{< item_container_section
-    titleText="Read Our Manifestos"
-    subtitleText="The NavCoin core values and contribution&nbsp;guidelines"
+    titleText="マニフェストを読む"
+    subtitleText="NavCoin core の価値観と、貢献の為の&nbsp;ガイドライン"
     bgPurple="true"
     anchor="read-manifestos"
 >}}
     {{< action
-        titleText="Developer Manifesto"
+        titleText="デベロッパーマニフェスト"
         imgSrc="/images/governance/gov-dev-manifesto.svg"
-        subtext="Essential reading for anyone who wants to contribute to NavCoin's open-source&nbsp;code."
-        linkText="Get the Manifesto"
+        subtext="NavCoinのオープンソースコードに貢献したいと考える人は必ず読んで&nbsp;下さい"
+        linkText="マニフェストを入手する"
         linkUrl="/assets/NavCoinDeveloperManifesto.pdf"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action
-        titleText="Content Manifesto"
+        titleText="マニフェストのコンテンツ"
         imgSrc="/images/governance/gov-content-manifesto.svg"
-        subtext="A guide to the shared values and objectives of NavCoin community content&nbsp;contributors."
-        linkText="Get the Manifesto"
+        subtext="NavCoin コミュニティコンテンツの貢献者が持つ、共有の価値観と目的についての&nbsp;ガイド"
+        linkText="マニフェストを入手する"
         linkUrl="/assets/NavCoinContentManifesto.pdf"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action
-        titleText="Brand Guidelines"
+        titleText="ブランドのガイドライン"
         imgSrc="/images/governance/gov-brand.svg"
-        subtext="A handbook to help you match the content you create to the NavCoin brand look and&nbsp;feel. "
-        linkText="Get the Guide"
+        subtext="NavCoin のブランドと、貴方が作ったコンテンツの感覚を合致させる為の&nbsp;ハンドブック"
+        linkText="ガイドを入手する"
         linkUrl="/assets/NavCoinBrandGuidelines.pdf"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}

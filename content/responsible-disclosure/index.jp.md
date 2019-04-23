@@ -1,13 +1,13 @@
 ---
-title: "Responsible Disclosure"
+title: "責任ある開示"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
-description: "If you’re a researcher and you’ve found a critical vulnerability here’s how you can talk securely with the NavCoin Core developers."
+description: "貴方がリサーチを行っていて、致命的な脆弱性を発見した場合には、こちらから、NavCoin Core デベロッパーに安全な形で連絡する事ができます。"
 ---
 {{< hero_section
-titleText="Responsible Disclosure"
-paragraphText="NavCoin is experimental technology and sometimes critical bugs are found. If you’re a researcher and you’ve found a critical vulnerability here’s how you can talk securely with the NavCoin Core developers."
+titleText="責任ある開示"
+paragraphText="NavCoinは、実験的なテクノロジーである為、時に致命的なバグが見つかる場合があります。貴方がリサーチを行っていて、致命的な脆弱性を発見した場合には、こちらから、NavCoin Core デベロッパーに安全な形で連絡する事ができます。"
 imgSrc="/images/responsible-disclosure/dis-hero.svg"
 >}}
 
@@ -15,24 +15,24 @@ imgSrc="/images/responsible-disclosure/dis-hero.svg"
 <div class="grey">
     <div class="article">
         <h2 class="article-title">
-            Disclosure Procedure
+            開示の手順
         </h2>
-        <p>If you think you’ve found a critical vulnerability in NavCoin’s protocol, please don’t hesitate to contact the NavCoin Core developers. We are committed to coordinating with you and any other affected parties to ensure any disclosure is handled discreetly and in a timely manner.</p>
-        <p>The best place to report the vulnerability is to <a href="#">disclosure@navcoin.org</a>. You can encrypt your message with the GPG key found on the NavCoin GitHub.</p>
+        <p>もし貴方がNavCoin プロトコル内に致命的な脆弱性を発見したと思われる場合には、すぐにNavCoin Core デベロッパーにコンタクトを取って下さい。私達は責任を持って、貴方とその他影響がある団体に手配し、全ての開示が機密的に、そして迅速に処理されるようにいたします。</p>
+        <p>脆弱性についての報告を行うにあたり最適な場所は<a href="#">disclosure@navcoin.org</a>. です。あなたはメッセージをNavCoin GitHub 上にあるGPG キーを使って暗号化する事ができます。</p>
         <h3 class="article-sml-title">Disclosure GPG Key</h3>
         <p>
             <a href="https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub" target="_blank">
                 https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub
             </a>
         </p>
-        <h3>Ideally the disclosure would include:</h3>
+        <h3>開示の内容は、できる限り以下の項目を含む事が望まれます。</h3>
         <ul>
-            <li>A docker image with python tests showing the vulnerability</li>
-            <li>Detailed notes about the vulnerability and affected parts of the code</li>
-            <li>Suggested mitigation strategies.</li>
-            <li>Your GPG public key so we can securely reply to you.</li>
+            <li>Docker イメージにpythonテストが載ったもので、脆弱性を表している事</li>
+            <li>脆弱性の詳細についての記述と、コードのどの部分が影響を受けているかについての記述</li>
+            <li>問題緩和の為のストラテジー提案</li>
+            <li>貴方の GPG パブリックキー。これにより私達から安全な形で返信が可能になる。</li>
         </ul>
-        <p>If you’re unable to communicate with this way please reach out any of the admins on the NavCoin Discord channel and we will setup a secure private channel with you.</p>
+        <p>この方法で私達にコンタクトを取る事が不可能な場合には、NavCoin Discord チャンネルの管理者にコンタクトを取って下さい。安全なプライベートチャンネルを設定いたします。</p>
     </div>
 </div>
 

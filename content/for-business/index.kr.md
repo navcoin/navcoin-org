@@ -7,87 +7,90 @@ author: ""
 description: ""
 ---
 {{< hero_section
-titleText="NavCoin For Business"
-paragraphText="Is your business ‘future ready?’ More and more people are looking for ways to pay using their digital currency. If you want to stay ahead of the trend, now’s the time to start accepting it at your store and online. NavCoin has the right payment solution for your&nbsp;business."
+titleText="Nav코인 비즈니스"
+paragraphText="비즈니스가 '미래 준비'되었는가? 점점 더 많은 사람들이 그들의 디지털 통화를 사용하여 지불하는 방법을 찾고 있다. 만약 당신이 트렌드를 앞서고 싶다면, 지금이 당신의 상점과 온라인에서 그것을 받아들이기 시작할 시간이다. NavCoin은 귀사의 비즈니스에 적합한 결제 솔루션&nbsp;제공합니다."
+
 imgSrc="/images/for-business/bus-hero.svg"
 >}}
 
 {{< item_container_section 
-    titleText="Why NavCoin Is Good For&nbsp;Business"
+    titleText="왜 Nav코인이 비즈니스에 &nbsp;적합할까요?"
     subtitleText=""
 >}}
     {{< feature 
-        titleText="Fast payments"
+        titleText="빠른 결제&nbsp;"
         imgSrc="/images/for-business/bus-fast-payment.svg"
-        text="Transactions show up in as little as five seconds, and confirmed in thirty&nbsp;seconds."
+        text="거래는 5초 안에 나타나고 30초 안에&nbsp;확인됩니다,"
     >}}
     {{< feature 
-        titleText="Secure"
+        titleText="보안"
         imgSrc="/images/for-business/bus-secure.svg"
-        text="Payment records permanently stored on a decentralized network, with 24/7&nbsp;access."
+        text="분산형 네트워크에 영구적으로 저장된 지불 기록 및 24시간 액세스가&nbsp;가능합니다."
     >}}
     {{< feature                 
-        titleText="Simple"
+        titleText="심플"
         imgSrc="/images/for-business/bus-simple.svg"
-        text="Payment is easy as scanning a QR code. Funds automatically transfer to your NavCoin&nbsp;wallet."
+        text="QR코드를 스캔하는 것만큼 지불방법이 쉽습니다. 펀드는 자동으로 Nav코인 지갑으로&nbsp;전송됩니다."
     >}}
     {{< feature                 
-        titleText="Low fees"
+        titleText="저렴한 가격"
         imgSrc="/images/for-business/bus-low-fee.svg"
-        text="NavCoin is one of world's cheapest payment networks in the world, with fees typically under one&nbsp;percent."
+        text="NavCoin은 일반적으로 수수료가 1% 미만인 세계에서 가장 저렴한 결제 네트워크 중&nbsp;하나입니다"
     >}}
     {{< feature                 
-        titleText="Eco-friendly"
+        titleText="에코친화적"
         imgSrc="/images/for-business/bus-eco.svg"
-        text="Join a payment network that consumes only a fraction of the energy of other&nbsp;networks."
+        text="다른 네트워크의 에너지 중 극히 일부만 사용하는 결제 네트워크에&nbsp;가입하십시오."
     >}}
     {{< feature                 
-        titleText="Flexibility"
+        titleText="유연성"
         imgSrc="/images/for-business/bus-flex.svg"
-        text="A range of payment options to suit your business requirements, with even more in&nbsp;development."
+        text="비즈니스 요구 사항에 맞는 다양한 지불 옵션, 훨씬 더 많은 재개발이&nbsp;이루어집니다."
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
-  titleText="Accept Payments In Person"
+  titleText="직접 지불 수락"
   imgSrc="/images/for-business/bus-for-store.svg"
-  buttonText="Visit NavPay"
+  buttonText="Nav페이에 방문하세요"
   buttonUrl="https://navhub.org/projects/nav-pay/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. With no blockchain to download, it's an easy way to get&nbsp;started.
+Nav페이는 스마트폰이나 데스크탑 컴퓨터에서 작동하는 가벼운 지갑입니다. 고객들은 당신의 QR 코드를 스캔하기만 하면 그들의 자금이 거의 즉시 당신의 지갑으로 옮길 수 있습니다. 다운로드 할 블록체인이 없기 때문에 이것은 가장 쉬운 시작 방법 중&nbsp;하나입니다.
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="Accept Online Payments"
+titleText="온라인 페이 시스템을 수락합니다"
 imgSrc="/images/for-business/bus-for-bus.svg"
-buttonText="Visit CoinPayments"
+buttonText="코인페이먼트에 접속하세요"
 buttonUrl="https://www.coinpayments.net/"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 newTab="true"
 >}}
-CoinPayments is a little like PayPal, but for digital currencies. Plug-ins include a shopping cart, payment button, invoicing, and point-of-sale interface. If your business is in the EuroZone or USA, you can withdraw funds in EURO or&nbsp;USD.
+CoinPayments는 PayPal과 약간 비슷하지만, 디지털 통화에 대해서는 약간 비슷하다. 플러그인은 쇼핑 카트, 결제 버튼, 송장 처리 및 판매 시점 인터페이스를 포함한다. 만약 당신의 사업이 유로존이나 미국에 있다면, 당신은 유로나 미국 달러로 자금을 인출할 수&nbsp;있습니다.
 {{< /zig_section>}}
 
 {{< zig_section
-  titleText="Accept Personal Payments"
+  titleText="개인 페이 시스템을 수락합니다"
   imgSrc="/images/for-business/bus-for-blog.svg"
-  buttonText="View buttons here"
+  buttonText="여기 버튼을 확인하세요"
   buttonUrl="https://brianium.github.io/nav-button/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-Integrating NavButtons for quick payments is an easy to implement option that suits individuals or side businesses. It’s as easy as copy-pasting some code onto your website. There is a choice of embeddable buttons, or QR codes for even easier&nbsp;sharing.
+신속한 결제를 위해 Nav버튼을 통합하면 개인 또는 사이드 비즈니스에 적합한 구현하기 쉬운 옵션이 됩니다. 웹 사이트에 코드를 복사하여 붙여 넣기 만하면됩니다. 더 쉬운 공유를 위해 삽입 가능한 단추 또는 QR 코드를 선택할 수&nbsp;있습니다.
 {{< /zig_section>}}
 
 {{< center_text_cta
     lightStyle="true"
-    titleText="Who's Accepting NAV?"
-    buttonText="Find merchants here"
+    titleText="누가 Nav를 받을까요?"
+    buttonText="여기서 상인을 찾으세요"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants/"
-    innerText="A number of businesses have already begun to integrate NavCoin as a payment option, and with them you can easily purchase a range of products and&nbsp;services.">}}
+    innerText="이미 많은 사업체가 Nav코인을 결제 옵션으로 통합하기 시작했으며, 그것들과 함께 당신은 다양한 제품과 서비스를 쉽게 구입할 수&nbsp;있습니다.">}}
+    buttonText="여기서 상인을 찾으세요."
+    buttonText="Find merchants here"

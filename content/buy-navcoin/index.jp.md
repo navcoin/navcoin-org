@@ -1,23 +1,23 @@
 ---
-title: "Buy NavCoin"
+title: "NavCoinの購入"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
-description: "NavCoin is publicly mined and ran no token sale. The only way to buy NavCoin is to purchase it from a third party or exchange."
+description: "NavCoin は、一般公開でマイニングされ、トークン販売を行わなかったコインです。NavCoinを購入する事ができる唯一の方法は、サードパーティー又は取引所を通じての方法になります。"
 ---
 {{< hero_section
-titleText="Buy NavCoin"
+titleText="NavCoinの購入"
 imgSrc="/images/buy-navcoin/buy-hero.svg"
-paragraphText="NavCoin is publicly mined and ran no token sale. The only way to get NAV is to purchase it from a third party or exchange. Exchanges provide highly varying degrees of safety, security, privacy, and control over your funds and information. Perform your own due diligence and choose a wallet where you will keep your NavCoin before selecting an exchange. Please follow the link to check exchange volumes for more&nbsp;information."
-buttonText="See market statistics"
+paragraphText="NavCoin は、一般公開でマイニングされ、トークン販売を行わなかったコインです。NAVを購入する事ができる唯一の方法は、サードパーティー又は取引所を通じての方法になります。取引所はそれぞれ、安全性、プライバシー、貴方の資産や情報に対するコントロール性などについて異なる条件を持っています。利用する取引所を選ぶ前に、まずはご自身で調査を行い、ご自身のNavCoin を保有する為のウォレットを選ぶようにして下さい。 以下のリンクで、取引ボリュームや、さらなる情報を調べる事が&nbsp;できます。"
+buttonText="マーケットの統計を見る"
 buttonLink="https://coinmarketcap.com/currencies/nav-coin/#markets"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 newTab="true"
 >}}
 {{< item_container_section
-    titleText="Exchanges"
-    subtitleText="NavCoin is available at the following&nbsp;exchanges"
+    titleText="取引所"
+    subtitleText="NavCoin は、以下の取引所で取引&nbsp;可能です"
 >}}
     {{< exchange
         titleText="Poloniex"
@@ -52,13 +52,13 @@ newTab="true"
      {{< exchange
           titleText="Changelly"
           imgSrc="/images/buy-navcoin/buy-changelly.png"
-          text="Instant Exchange"
+          text="インスタントエクスチェンジ"
           linkUrl="https://changelly.com/"
       >}}
       {{< exchange
            titleText="Litebit"
            imgSrc="/images/buy-navcoin/buy-litebit.png"
-           text="Euro Direct Purchase"
+           text="ユーロによる直接購入"
            linkUrl="https://www.litebit.eu/en/buy/navcoin"
        >}}
     {{< exchange
@@ -70,49 +70,49 @@ newTab="true"
     {{< exchange
          titleText="Easy Crypto"
          imgSrc="/images/buy-navcoin/buy-easy-crypto.png"
-         text="NZD Direct Purchase"
+         text="NZDによる直接購入"
          linkUrl="https://www.easycrypto.nz/"
      >}}
     {{< exchange
          titleText="BitPrime"
          imgSrc="/images/buy-navcoin/buy-bitprime.png"
-         text="NZD Direct Buy/Sell"
+         text="NZD による直接購買"
          linkUrl="https://www.bitprime.co.nz/product/navcoin-nav"
      >}}
    {{< exchange
         titleText="Bisq"
         imgSrc="/images/buy-navcoin/buy-bisq.png"
-        text="Decentralised Exchange"
+        text="分散化取引所"
         linkUrl="https://bitsquare.io/"
     >}}
    {{< exchange
         titleText="Best Rate"
         imgSrc="/images/buy-navcoin/buy-bestrate.png"
-        text="Instant Exchange"
+        text="インスタントエクスチェンジ"
         linkUrl="https://bestrate.org/"
     >}}
    {{< exchange
         titleText="Godex"
         imgSrc="/images/buy-navcoin/buy-godex.png"
-        text="Decentralised Exchange"
+        text="分散化取引所"
         linkUrl="https://godex.io/"
     >}}
    {{< exchange
         titleText="Change Now"
         imgSrc="/images/buy-navcoin/buy-changenow.png"
-        text="Instant Exchange"
+        text="インスタントエクスチェンジ"
         linkUrl="https://changenow.io/"
     >}}
    {{< exchange
         titleText="Coindirect"
         imgSrc="/images/buy-navcoin/buy-coindirect.png"
-        text="Direct Purchase"
+        text="直接購入"
         linkUrl="https://www.coindirect.com/buy/navcoin"
     >}}
    {{< exchange
         titleText="Crex24"
         imgSrc="/images/buy-navcoin/buy-crex-24.png"
-        text="Multi Exchange Platform"
+        text="複数取引所プラットフォーム"
         linkUrl="https://crex24.com/exchange/NAV-BTC"
     >}}
    {{< exchange
@@ -167,8 +167,8 @@ newTab="true"
 
 
 {{< center_text_cta
-    titleText="Spend Your NavCoin"
-    buttonText="Check out the stores"
+    titleText="NavCoinを使う"
+    buttonText="店舗を見る"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants"
-    innerText="A number of businesses have already begun to integrate NavCoin as a payment option, and with them you can easily purchase a range of products and&nbsp;services.">}}
+    innerText="多くのビジネスが、支払いのオプションとしてすでにNavCoinを取り入れ始めています。それらを利用して様々な商品やサービスを購入する事が&nbsp;できます。">}}
