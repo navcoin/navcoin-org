@@ -9,7 +9,7 @@ description: "Nav코인은 공개적으로 채굴되며, 토큰 판매는 하고
 {{< hero_section
 titleText="Nav코인을 구매하세요"
 imgSrc="/images/buy-navcoin/buy-hero.svg"
-paragraphText="Nav코인은 공개적으로 채굴되며, 토큰 판매는 하고 있지 않습니다. Nav코인을 구입하는 유일한 방법은 제3자로 부터 구입하거나 거래소에서 거래가 가능합니다. 거래소는 매우 다양한 수준의 안전, 보안, 개인 정보 보호, 자금 및 정보에 대한 제어 기능을 제공합니다. 직접 실사를 한 후 교환을 선택하기 전에 Nav코인을 보관할 지갑을 선택하십시오. 자세한 내용은 &nbsp; 링크를 따라 교환 볼륨을 확인하십시오.
+paragraphText="Nav코인은 공개적으로 채굴되며, 토큰 판매는 하고 있지 않습니다. Nav코인을 구입하는 유일한 방법은 제3자로 부터 구입하거나 거래소에서 거래가 가능합니다. 거래소는 매우 다양한 수준의 안전, 보안, 개인 정보 보호, 자금 및 정보에 대한 제어 기능을 제공합니다. 직접 실사를 한 후 교환을 선택하기 전에 Nav코인을 보관할 지갑을 선택하십시오. 자세한 내용은 &nbsp; 링크를 따라 교환 볼륨을 확인하십시오."
 buttonText="시장통계참조"
 buttonLink="https://coinmarketcap.com/currencies/nav-coin/#markets"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
