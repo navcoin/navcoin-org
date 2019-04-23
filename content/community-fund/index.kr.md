@@ -210,7 +210,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
   subtitleText="당신의 제안이&nbsp;통과될 가능성이 가장 높은지 확인할 수 있는 절차가 있습니다."
   anchor="download-core"
 
-  itemOneTitle="Step 1 - "시스템을 이해하고 아이디어를 개발하세요."
+  itemOneTitle="Step 1 - 시스템을 이해하고 아이디어를 개발하세요."
   itemOneText="Nav코인 네트워크에 영감을 줄 수 있는 프로젝트를 생각해 보세요. 혼자 참여할 수 있고, 커뮤니티와 토론할 수도 있습니다.<a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> or on the <a href=\"https://collab.navcoin.org\">NavCollab website</a>.  <br><img src=\"/images/community-fund/cfu-voting.png\" alt=\"voting image\">"    
 
   itemTwoTitle="Step 2 - 프로젝트 페이지를 만들어보세요."
