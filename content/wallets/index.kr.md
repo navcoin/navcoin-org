@@ -22,7 +22,7 @@ newTab="true"
     titleText="Nav코인 지갑"
     subtitleText="스스로 조사하거나 지역사회에 도움을 요청해야&nbsp;합니다."
     >}}
-    {{< 지갑
+    {{< wallet
         titleText="Nav코인 코어"
         walletImgSrc="/images/wallets/wal-core.png"
         text="Nav코인 코어 지갑은 사용자가 네트워크 고정 작업에 참여할 수 있는 완전한 Nav코인 클라이언트입니다. Nav코인 코어 개발자가 발행한 공식 참조&nbsp;구현입니다."
