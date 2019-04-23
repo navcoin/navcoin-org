@@ -15,7 +15,6 @@ buttonImgSrc="/images/icons/rightward-arrow.svg"
 newTab="true"
 >}}
 
-
 {{< item_container_section
     titleText="스토어"
     subtitleText="Nav코인을 사용할 수 있는 상점 및 서비스&nbsp;선택"
@@ -29,7 +28,7 @@ newTab="true"
     {{< merchant
         titleText="NavPi 스토어"
         imgSrc="/images/merchants/mer-navpi.png"
-        text="Nav코인을 사용할 수 있는 상점 및 서비스&nbsp;선택"."
+        text="Nav코인을 사용할 수 있는 상점 및 서비스&nbsp;선택."
         linkUrl="https://navpi.navcoinstore.com/product/navpi-stakebox/"
     >}}
      {{< merchant
