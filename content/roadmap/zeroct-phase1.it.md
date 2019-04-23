@@ -8,4 +8,4 @@ status: testing
 externalUrl: https://github.com/NAVCoin/navcoin-core/pull/412
 ---
 
-This is the first Phase of implementing ZeroCT and contains the Zerocoin accumulator implementation. It uses denominated accumulators and Confidential Transactions are not yet implemented.
+Questa è la prima fase di implementazione del protocollo ZeroCT e contiene l'implementazione della Zerocoin accumulator. Questa fase utilizza accumulatori ma la Confidential Transaction non è ancora implementata.
