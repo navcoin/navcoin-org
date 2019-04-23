@@ -5,7 +5,7 @@ draft: false
 type: "default"
 description: "If you’re a researcher and you’ve found a critical vulnerability here’s how you can talk securely with the NavCoin Core developers."
 ---
-{{< 히로 색션
+{{< hero_section
 titleText="책임있는 공개"
 paragraphText="Nav코인은 실험용 기술이며 때로는 중요한 버그가 발견되기도 합니다. 연구원이라면 Nav코인 코어 개발자와 안전하게 대화할 수 있는 방법은 다음과 같습니다."
 imgSrc="/images/responsible-disclosure/dis-hero.svg"
