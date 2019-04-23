@@ -1,8 +1,8 @@
 ---
 title: "지갑"
 date: 2018-03-20T08:09:08+13:00
-draft: 거짓
-type: "디폴트"
+draft: false
+type: "default"
 author: ""
 description: "Nav코인은 오픈 소스 프로토콜로, 다양한 조직과 개인에 의해 지갑이 유지된다는 것을 의미합니다."
 ---
