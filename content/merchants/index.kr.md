@@ -26,7 +26,6 @@ newTab="true"
         text="70명 이상의 상점들이 CoinPayments 상인 게이트웨이를 사용하여 NAV를&nbsp;받아들입니다."
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}}
-
     {{< merchant
         titleText="NavPi 스토어"
         imgSrc="/images/merchants/mer-navpi.png"
@@ -98,7 +97,6 @@ newTab="true"
         linkText="Nav페이에 방문하세요"
         linkUrl="https://navhub.org/projects/nav-pay/"
         linkImgSrc="/images/icons/rightward-arrow.svg"
-
     >}}
     {{< action
         titleText="온라인 비즈니스"
