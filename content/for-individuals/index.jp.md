@@ -1,5 +1,5 @@
 ---
-title: "For Individuals"
+title: "個人向け"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
@@ -7,63 +7,63 @@ author: ""
 description: ""
 ---
 {{< hero_section
-titleText="Welcome To NavCoin"
-paragraphText="If you're new to this project, and not sure where to start, then here are some handy steps to&nbsp;follow."
+titleText="NavCoinへようこそ"
+paragraphText="もし貴方がこのプロジェクトに参加したばかりで、何から始めたら良いのか分からない状態なら、こちらの手順を&nbsp;ご覧ください。"
 imgSrc="/images/for-beginners/beg-hero.svg"
 >}}
 {{< step_container_section 
-    titleText="Getting Started"
+    titleText="はじめに"
     subtitleText=""
 >}}
   {{< step 
-      titleText="Step 1: Learn about NavCoin"
+      titleText="Step 1:  NavCoinについて"
       imgSrc="/images/for-beginners/beg-learn.svg"
-      text=" NavCoin; an affordable, fast and eco-friendly cryptocurrency. Since 2014, an entire ecosystem has developed around NavCoin from easy to use mobile wallets to simplified private payment solutions - all built and maintained by an active international community without an central authority or&nbsp;governance."
-      buttonText="Read more"
+      text=" NavCoinは、安くて、迅速で、エコフレンドリーな仮想通貨です。2014年以来、NavCoin周辺の全てのエコシステムが開発され、簡単に使えるモバイルウォレットから、シンプルでプライベートな支払いのソリューションとして展開しました。全てが、アクティブでインターナショナルなコミュニ亭によって開発・維持されていて、中心となるガバナンスの権力は&nbsp;存在しません。"
+      buttonText="もっと詳しく知る"
       buttonUrl="/why-navcoin"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
   >}}
   {{< step 
-      titleText="Step 2: Choose your wallet"
+      titleText="Step 2: ウォレットを選ぶ"
       imgSrc="/images/for-beginners/beg-wallets.svg"
-      text="Your wallet is the main way to interact with your digital coins, and is what you use to send & receive NAV. There are different types of wallets - from ‘full’ wallets that give you complete control and allow you to participate in the NavCoin network, to ‘thin’ wallets that are easier to&nbsp;use."
-      buttonText="Wallets"
+      text="貴方が持つウォレットは、デジタル通貨を使うにあたってのメインツールになります。ウォレットを使って、NAVを送金したり受け取ったりします。ウォレットには様々な種類があります。貴方が完全にコントロールできて、NavCoinネットワークにも参加する事ができるフルウォレットと、より簡単に使う事ができるライトウォレットが&nbsp;あります。"
+      buttonText="財布"
       buttonUrl="/wallets"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
   >}}
   {{< step
-      titleText="Step 3: Get NAV"
+      titleText="Step 3: NAVを入手しよう"
       imgSrc="/images/for-beginners/beg-get-nav.svg"
-      text="Once you’ve chosen your wallet, there are a few ways to acquire NAV. The quickest of which is through a cryptocurrency exchange. You’ll essentially send BTC to the exchange, and convert it into NAV. You can find NAV on several top exchanges - such as Binance, Bittrex and&nbsp;Poloniex."
-      buttonText="Buy NavCoin"
+      text="ウォレットを選んだら、NAVを入手してみましょう。入手の仕方はいくつかありますう。最も早いのは、仮想通貨の取引所を通じて購入する方法です。基本的にはBTCを取引所に送金して、それをNAVに変換します。NAVはいくつかの主要取引所で取り扱われています。例えば、Binanceや Bittrex、 Poloniex &nbsp;などです。"
+      buttonText="NavCoinを買う"
       buttonUrl="/buy-navcoin"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
   >}}
   {{< step
-      titleText="Step 4: Secure the network"
+      titleText="Step 4: ネットワークを保護する"
       imgSrc="/images/for-beginners/beg-secure-network.svg"
-      text="If you’re running the NavCoin Core wallet, then you have the option to stake your coins and receive staking rewards at 4% per annum. There are a range of devices to make staking easier and lots of information created by the community to help get you set&nbsp;up."
+      text="もし貴方がNavCoin コアウォレットを持っているならば、貴方はコインのステーキングを行う事で、年間4%の報酬を受ける事ができます。ステーキングを簡単にする為のデバイスもいくつかあります。ステーキングを始めるに当たって必要な情報はコミュニティによって&nbsp;まとめてあります。"
   >}}
   {{< step
-      titleText="Step 5: Spend NavCoin"
+      titleText="Step 5: NavCoinを送金する"
       imgSrc="/images/for-beginners/beg-spend.svg"
-      text="You can use your NavCoin to buy all sorts of things online and in stores. Check out these merchants that accept NAV and show your&nbsp;support."
+      text="NavCoinを使って、オンラインやお店で様々なものを購入する事ができます。NAV を使って支払いができる小売店は以下で見つける事ができます。ぜひサポートを&nbsp;お願いします。"
       buttonText="Merchants"
       buttonUrl="/merchants"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
   >}}
   {{< step
-      titleText="Step 6: Get involved in NavCoin projects"
+      titleText="Step 6: NavCoin プロジェクトに参加しよう"
       imgSrc="/images/for-beginners/beg-get-involved.svg"
-      text="NavCoin isn’t just a cryptocurrency - it’s a community who believe in a new vision for money. And a community is only as strong as the individuals that contribute to it. With the Community Fund, you can get paid for getting involved in NavCoin projects. Join our community channels and get&nbsp;involved."
-      buttonText="Community Fund"
+      text="NavCoin は単なる仮想通貨ではありません。NavCoin は、貨幣に対する新しいビジョンを信じるコミュニティです。 そして、このコミュニティは、コミュニティに貢献する個人個人の力を超える事はありません。また、コミュニティの資金によって、貴方もNavCoinプロジェクトに関わり、報酬を得る事ができるのです。 私達のコミュニティチャンネルに参加して、ぜひプロジェクトに参加&nbsp;して下さい。"
+      buttonText="コミュニティ資金"
       buttonUrl="/community-fund"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
   >}}
 {{< /step_container_section >}}
 
 {{< social_grid_section 
-    titleText="Join Our Active Community"
+    titleText="皆さんのコミュニティへの参加をお待ちしています"
     subtitleText=""
     bgPurple="true"
 >}}

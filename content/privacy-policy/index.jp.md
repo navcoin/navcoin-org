@@ -1,42 +1,42 @@
 ---
-title: "Privacy Policy"
+title: "プライバシーポリシー"
 date: 2018-03-12T17:47:48+13:00
 draft: false
-description: "By using the site, you agree to the collection and use of information in accordance with this policy."
+description: "貴方が当サイトを使用する事で、当サイトのプライバシーポリシーに準拠した形で貴方の情報が収集及び使用される事に同意する事になります。"
 ---
 {{< text_section
-    title="Privacy Policy"
+    title="プライバシーポリシー"
     bgColor="#fff"
     titleColor="#333">}}
-<p>This page informs you of our policies regarding the collection, use and disclosure of personal information we receive from users of our site (https://navcoin.org). We use your personal information to better understand your usage of the site, and to collect traffic statistics.</p>
+<p>このページでは、当サイト(https://navcoin.org)のユーザーから得る情報の収集、使用及び開示に関する私達のポリシーについてお知らせします。 当サイトではユーザーの情報を、当サイトの利用方法について理解し、利用者統計を取る目的で利用いたします。</p>
 
-<p>By using the site, you agree to the collection and use of information in accordance with this policy.</p>
+<p>貴方が当サイトを使用する事で、当サイトのプライバシーポリシーに準拠した形で貴方の情報が収集及び使用される事に同意する事になります。</p>
 
-<h3>Log Data</h3>
-<p>Like many site operators, we collect information that your browser sends whenever you visit our site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address (with replaced last byte), browser type, browser version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages and other statistics.</p>
+<h3>ログデータ</h3>
+<p>その他多くのオペレーターと同様に、私達も、当サイトを訪問する度に貴方がお使いのブラウザから送られてくる情報を収集します（“ログデータ”）。このログデータ には、貴方のパソコンのインターネットプロトコル（IP）アドレス（最後のバイトは置き換えられている）、ブラウザの種類やバージョン、当サイト内で貴方が訪れたページ、訪問日時、訪問時間の長さやその他の統計的な情報などの個人情報が含まれている事があります。</p>
 
-<h3>Cookies</h3>
-<p>Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our site.</p>
+<h3>クッキー</h3>
+<p>クッキーは、小さなデータ量によるファイルで、それらには匿名でユニークな識別子が含まれている事があります。クッキーは、訪れたウェブサイトから貴方がお使いのブラウザに送られ、お使いのパソコンのハードドライブに保管されます。お使いのブラウザの設定で全てのクッキーを拒否したり、クッキーが送られて来た際にお知らせするように設定する事が可能です。しかしながら、クッキーを拒否する場合は、部分的にしかサイトの閲覧ができない場合があります。</p>
 
-<p>We use cookies for the following purposes:</p>
+<p>私達がクッキーを使用する理由は以下です。</p>
 
 <ul> 
-  <li>To keep track of whether you have pressed the “OK” button on the cookie disclaimer, so we don’t bother you with the notification if you have.</li>
-  <li>Our Analytics software (Google Analytics) uses cookies to measure and better understand user-interactions on our Site. You can read more about how Google Analytics uses cookies here.</li>
+  <li>クッキーの免責条項でOKボタンを押したかどうかの追跡を行う事で、何度もお知らせのポップアップを表示しないで済む為。</li>
+  <li>私達が使用している分析ソフトウェア (Google Analytics)がクッキーを使って、当サイト上でのユーザーインタラクションを分析している為。Google Analyticsがどのようにクッキーを使用しているかは以下をご覧ください。</li>
 </ul>
 
 <h3>Google Analytics</h3>
-<p>We use a third-party JavaScript plug-in provided by Google called “Google Analytics” to provide us with useful traffic statistics and to better understand how you use our site. We do not have direct access to the information obtained from Google Analytics, but Google provides us with a summary through their dashboard.</p>
+<p>私達は、GoogleのJavaScript プラグインであるサードパーティーソフト “Google Analytics” を使用しており、利用者の統計や当サイトの利用方法についての情報を収集しています。私達はGoogle Analytics によって収集された情報へのアクセス権は持ちませんが、Googleがダッシュボードを通じて情報の要約を提供してくれます。</p>
 
-We may share the information obtained from Google Analytics with business partners who are interested in advertising on our website. The information shared with these business partners will not contain any personally identifying information (Google does not provide us with direct access to the data and therefore we cannot see this information).</p>
+私達は、Google Analyticsによって入手された情報を、当サイトに広告を載せるビジネスパートナーに共有する事があります。 これらのビジネスパートナーによって共有された情報には、いかなる形でも個人を特定する情報は含まれません（Googleは、私達に直接データへのアクセス権は与えない為、そのような情報を私達が見る事はできません）。</p>
 
-You can opt-out of having your information collected by Google Analytics by downloading the Google Analytics opt-out browser add-on provided by Google. This will prevent your information being used by Google Analytics. Doing this will not affect your ability to use our Site in any way. You can download the opt-out browser add-on here. We also honor the Do Not Track header and will not track visitors who have Do Not Track switched on.</p>
+Google によって提供される、Google Analytics opt-out ブラウザのアドオンをダウンロードする事で、貴方の情報を提供する事を拒否する事ができます。これを行うと、貴方の情報がGoogle Analyticsによって使用される事を拒否する事ができます。これを行っても、当サイトは問題なく利用する事ができます。opt-out ブラウザのアドオンは、こちらからダウンロードが可能です。また、Do Not Track ヘッダーをオンにしているユーザーの追跡は行いません。</p>
 
-<h3>Changes to this Privacy Policy</h3>
-<p>We may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on the Site. You are advised to review this privacy policy periodically for any changes.</p>
+<h3>当プライバシーポリシーへの変更</h3>
+<p>当プライバシーポリシーは時々アップデートされる事があります。その際は、新しいプライバシーポリシーをサイト上で投稿する事で皆さんにお知らせいたします。ユーザーの皆さんはプライバシーポリシーに変更が無いか確認する為に、定期的に当サイトの見直しを行う事が推奨されます。</p>
 
-This Privacy Policy was last updated: 26th March, 2018.</p>
+当プライバシーポリシーの最新のアップデートは: 2018/3/26に行われました。</p>
 
-<h3>Contact Us</h3>
-<p>If you have any questions about our privacy policy, or how your data is being collected and processed, please join the <a href="https://discord.gg/y4Vu9jw" target="e">community discord channel</a>.</p>
+<h3>お問い合わせ</h3>
+<p>当プライバシーポリシー、及び貴方の情報がどのようにして収集、処理されているかに関してご質問がある場合は、 <a href="https://discord.gg/y4Vu9jw" target="e">コミュニティdiscord チャンネル</a>に参加して下さい。</a>.</p>
 {{< /text_section >}}

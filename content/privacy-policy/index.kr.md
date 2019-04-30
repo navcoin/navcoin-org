@@ -1,42 +1,42 @@
 ---
-title: "Privacy Policy"
+title: "프라이버시 정책"
 date: 2018-03-12T17:47:48+13:00
 draft: false
-description: "By using the site, you agree to the collection and use of information in accordance with this policy."
+description: "사이트를 사용하면 이 정책에 따라 정보 수집 및 사용에 동의합니다."
 ---
 {{< text_section
-    title="Privacy Policy"
+    title="프라이버시 정책"
     bgColor="#fff"
     titleColor="#333">}}
-<p>This page informs you of our policies regarding the collection, use and disclosure of personal information we receive from users of our site (https://navcoin.org). We use your personal information to better understand your usage of the site, and to collect traffic statistics.</p>
+<p>이 페이지는 당사 사이트 사용자로부터 받은 개인 정보의 수집, 사용 및 공개에 관한 당사의 정책을 알려줍니다.(https://navcoin.org).우리는 당신의 개인 정보를 사용하여 당신의 사이트 사용을 더 잘 이해하고 트레픽 통계를 수집합니다.</p>
 
-<p>By using the site, you agree to the collection and use of information in accordance with this policy.</p>
+<p>사이트를 사용하면 이 정책에 따라 정보 수집 및 사용에 동의합니다..</p>
 
-<h3>Log Data</h3>
-<p>Like many site operators, we collect information that your browser sends whenever you visit our site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address (with replaced last byte), browser type, browser version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages and other statistics.</p>
+<h3>데이터 로그</h3>
+<p>많은 사이트 운영자와 마찬가지로, 당사는 귀하가 당사 사이트를 방문할 때마다 브라우저가 보내는 정보("Log Data")를 수집합니다. 이 로그 데이터에는 컴퓨터의 인터넷 프로토콜("IP") 주소(마지막 바이트로 대체됨), 브라우저 유형, 브라우저 버전, 방문하는 당사 사이트의 페이지, 방문 시간과 날짜, 해당 페이지에 소요된 시간 및 기타 통계 등의 정보가 포함될 수 있습니다.</p>
 
-<h3>Cookies</h3>
-<p>Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our site.</p>
+<h3>쿠키</h3>
+<p>쿠키는 적은 양의 데이터가 있는 파일이며 익명 고유 식별자를 포함할 수 있습니다. 쿠키는 웹 사이트에서 브라우저로 전송되고 컴퓨터의 하드 드라이브에 저장됩니다. 브라우저에 모든 쿠키를 거부하도록 지시하거나 쿠키를 보낼 시기를 지정할 수 있습니다. 그러나 쿠키를 수락하지 않을 경우 당사 사이트의 일부를 사용하지 못할 수 있습니다.</p>
 
-<p>We use cookies for the following purposes:</p>
+<p>우리는 다음과 같은 목적으로 쿠키를 사용합니다.:</p>
 
 <ul> 
-  <li>To keep track of whether you have pressed the “OK” button on the cookie disclaimer, so we don’t bother you with the notification if you have.</li>
-  <li>Our Analytics software (Google Analytics) uses cookies to measure and better understand user-interactions on our Site. You can read more about how Google Analytics uses cookies here.</li>
+  <li>쿠키 고지 사항의 "확인" 버튼을 눌렀는지 여부를 추적하기 위해, 문제가 있는 경우 통지하지 않습니다.</li>
+  <li>당사의 Analytics 소프트웨어(Google Analytics)는 쿠키를 사용하여 사이트에서 사용자 상호 작용을 측정하고 더 잘 이해합니다. Google Analytics에서 쿠키를 사용하는 방법에 대한 자세한 내용은 여기에서 확인할 수 있습니다.</li>
 </ul>
 
-<h3>Google Analytics</h3>
-<p>We use a third-party JavaScript plug-in provided by Google called “Google Analytics” to provide us with useful traffic statistics and to better understand how you use our site. We do not have direct access to the information obtained from Google Analytics, but Google provides us with a summary through their dashboard.</p>
+<h3>구글 에널리틱스</h3>
+<p>Google은 Google에서 제공하는 "Google Analytics"라는 타사 JavaScript 플러그인을 사용하여 유용한 트래픽 통계를 제공하고 사이트 사용 방법을 더 잘 이해합니다. Google Analytics에서 얻은 정보에 직접 액세스할 수는 없지만 Google은 대시보드를 통해 요약 정보를 제공합니다.</p>
 
-We may share the information obtained from Google Analytics with business partners who are interested in advertising on our website. The information shared with these business partners will not contain any personally identifying information (Google does not provide us with direct access to the data and therefore we cannot see this information).</p>
+Google Analytics에서 얻은 정보를 당사의 웹 사이트에서 광고에 관심이 있는 비즈니스 파트너와 공유할 수 있습니다. 이러한 비즈니스 파트너와 공유하는 정보에는 개인 식별 정보가 포함되지 않습니다(Google은 데이터에 대한 직접 액세스를 제공하지 않으므로 이 정보를 볼 수 없습니다).</p>
 
-You can opt-out of having your information collected by Google Analytics by downloading the Google Analytics opt-out browser add-on provided by Google. This will prevent your information being used by Google Analytics. Doing this will not affect your ability to use our Site in any way. You can download the opt-out browser add-on here. We also honor the Do Not Track header and will not track visitors who have Do Not Track switched on.</p>
+Google Analytics에서 제공하는 Google Analytics 선택 브라우저 추가 기능을 다운로드하여 Google Analytics에서 정보를 수집하지 않도록 선택할 수 있습니다. 이렇게 하면 Google Analytics에서 사용자의 정보를 사용할 수 없습니다. 이 작업을 수행해도 당사의 사이트 사용 능력에 영향을 미치지 않습니다. 여기서 옵트 아웃 브라우저 추가 기능을 다운로드할 수 있습니다. 또한 Do Not Track 헤더를 준수하며 Do Not Track(추적 안 함)이 켜져 있는 방문자를 추적하지 않습니다.</p>
 
-<h3>Changes to this Privacy Policy</h3>
-<p>We may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on the Site. You are advised to review this privacy policy periodically for any changes.</p>
+<h3>이 개인 정보 보호 정책을 변경</h3>
+<p>이 개인 정보 보호 정책을 수시로 업데이트할 수 있습니다. 변경된 내용은 사이트에 새 개인 정보 보호 정책을 게시하여 알려드리겠습니다. 변경 사항에 대해서는 이 개인 정보 보호 정책을 정기적으로 검토하는 것이 좋습니다.</p>
 
-This Privacy Policy was last updated: 26th March, 2018.</p>
+본 개인정보 보호정책은 마지막으로 업데이트되었습니다: 2018년 3월 26일.</p>
 
-<h3>Contact Us</h3>
-<p>If you have any questions about our privacy policy, or how your data is being collected and processed, please join the <a href="https://discord.gg/y4Vu9jw" target="e">community discord channel</a>.</p>
+<h3>연락하세요</h3>
+<p>당사의 개인 정보 보호 정책에 대해 질문이 있거나 데이터가 수집 및 처리되는 방법에 대해 궁금한 사항이 있으면 다음 사이트에 가입하시기 바랍니다.<a href="https://discord.gg/y4Vu9jw" target="e">커뮤니티 디스코드 채널</a>.</p>
 {{< /text_section >}}

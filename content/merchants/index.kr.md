@@ -1,117 +1,114 @@
 ---
-title: "Merchants"
+title: "상점"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
-description: "Anyone can accept NavCoin on their website or in-store to receive instant global payments with low fees."
+description: "누구나 웹사이트나 매장에서 Nav코인을 받아 저렴한 비용으로 즉시 글로벌 결제 가능합니다"
 ---
 {{< hero_section
-titleText="Merchants"
-paragraphText="Anyone can accept NavCoin on their website or in-store to receive instant global payments with low&nbsp;fees. This page is not an exhaustive list, there is no registration required to accept NavCoin. If you accept NavCoin and want your store listed here, please create a pull request or open an issue on GitHub."
+titleText="상점"
+paragraphText="누구나 웹사이트나 매장에서 Nav코인을 받아 저렴한 비용으로 즉시 글로벌 결제 가능하며, 이 페이지는 전체 목록이 아니므로 Nav코인을 수락하기 위해 등록할 필요가 없습니다. Nav코인을 수락하고 여기에 상점을 나열하려면 GitHub에서 풀 요청을 생성하거나 이슈를 생성하세요."
 imgSrc="/images/merchants/mer-hero.svg"
-buttonText="Add your store"
+buttonText="스토어를 추가하세요"
 buttonLink="https://github.com/NAVCoin/navcoin-org/issues/new"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 newTab="true"
 >}}
 
-
 {{< item_container_section
-    titleText="Stores"
-    subtitleText="A selection of merchants & services that allow you to spend your&nbsp;NavCoin"
+    titleText="스토어"
+    subtitleText="Nav코인을 사용할 수 있는 상점 및 서비스&nbsp;선택"
 >}}
     {{< merchant
-        titleText="CoinPayments"
+        titleText="코인 지불"
         imgSrc="/images/merchants/mer-coinpayment.png"
-        text="Over 70 merchants accept NAV using the CoinPayments merchant&nbsp;gateway."
+        text="70명 이상의 상점들이 CoinPayments 상인 게이트웨이를 사용하여 NAV를&nbsp;받아들입니다."
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}}
-
     {{< merchant
-        titleText="NavPi Store"
+        titleText="NavPi 스토어"
         imgSrc="/images/merchants/mer-navpi.png"
-        text="Purchase a NavPi with NavCoin to stake your NAV easily 24 hours a&nbsp;day."
+        text="Nav코인을 사용할 수 있는 상점 및 서비스&nbsp;선택."
         linkUrl="https://navpi.navcoinstore.com/product/navpi-stakebox/"
     >}}
      {{< merchant
-        titleText="NavCoin Merch Store"
+        titleText="Nav코인 상품 스토어"
         imgSrc="/images/merchants/mer-nav.png"
-        text="Wear NavCoin with pride with this range of branded&nbsp;merchandise."
+        text="Nav코인에 관련된 굿즈를 사용하시고 자부심을&nbsp;느끼세요."
         linkUrl="https://navcoinstore.com/"
     >}}
     {{< merchant
         titleText="BitcoinGallery.Art"
         imgSrc="/images/merchants/mer-bitcoingallery.png"
-        text="Art and crypto collide in unique handmade sculptures of your favourite&nbsp;coin."
+        text="예술과 암호화폐는 당신이 가장 좋아하는 동전의 독특한 수제 조각과&nbsp;상충합니다."
         linkUrl="http://www.sigmasixdesign.com/bitcoingallery-store#!/The-Simplifier-NAV/p/102127036/category=28247023"
     >}}
     {{< merchant
-        titleText="Mile High Ambulance"
+        titleText="마일 하이 엠뷸런스"
         imgSrc="/images/merchants/mer-mile-high.png"
-        text="Full service ambulance company which accepts NavCoin for bill&nbsp;payments."
+        text="구급차의 모든 서비스를 Nav코인으로 결제가&nbsp;가능합니다"
         linkUrl="https://milehighambulance.com/now-accepting-navcoin"
     >}}
     {{< merchant
-        titleText="HODL Merch Store "
+        titleText="HODL 상품 스토어 "
         imgSrc="/images/merchants/mer-hodl.png"
-        text="The home of crypto merchants with range of NavCoin clothing and&nbsp;accessories."
+        text="Nav코인 의류와 액세서리를 갖춘 암호화퍠 상점들의&nbsp;집."
         linkUrl="https://alwayshodl.com/pages/official-nav-collection"
     >}}
     {{< merchant
         titleText="DrApis"
         imgSrc="/images/merchants/mer-dr-apis.png"
-        text="Raw honey by Portuguese bees. Straight from the hive: pure, unheated, &nbsp;unpasteurized."
+        text="포르투갈 벌들의 생 벌꿀. 벌집에서 추출하고, 무미건조 시킨 순수한&nbsp;벌꿀."
         linkUrl="https://drapis.com/"
     >}}
     {{< merchant
         titleText="Lurento"
         imgSrc="/images/merchants/mer-lurento.png"
-        text="Luxury & sports car rental services, available in Europe and&nbsp;UAE."
+        text="유럽과 UAE에서 제공되는 럭셔리 & 스포츠카 렌탈&nbsp;서비스."
         linkUrl="https://lurento.com/"
     >}}
     {{< merchant
-        titleText="SocialTrades"
+        titleText="소셜 트레이드"
         imgSrc="/images/merchants/mer-social-trades.png"
-        text="A Social Media Management service with 100,000 trusted customers&nbsp;worldwide."
+        text="전 세계 10만 명의 신뢰할 수 있는 고객을 보유한 소셜 미디어 관리&nbsp;서비스."
         linkUrl="https://www.socialtrades.xyz/"
     >}}
     {{< merchant
         titleText="1Gbits"
         imgSrc="/images/merchants/mer-1gbits.png"
-        text="More than 20 world class server centers in more than 15 different&nbsp;countries."
+        text="15개 이상의 국가에 20개 이상의 세계적 수준의 서버&nbsp;센터."
         linkUrl="https://1gbits.com/"
     >}}
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="Accepting NavCoin is easy!"
-    subtitleText="NavCoin has the right payment solution for your&nbsp;business."
+    titleText="Nav코인을 지불로 받는 것은 쉽습니다"
+    subtitleText="Nav코인은 귀사의 비즈니스에 적합한 결제 솔루션&nbsp;제공합니다."
     bgPurple="true"
     buttonUrl="/for-business/"
     buttonText="More Info"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
     {{< action
-        titleText="For your store"
+        titleText="고객의 상점"
         imgSrc="/images/merchants/mer-for-store.svg"
-        subtext="Use NavPay wallet on your smartphone. Customers just scan your QR code and transfer the fund&nbsp;instantly"
-        linkText="Visit NavPay"
+        subtext="스마트폰에서 Nav페이 지갑을 사용하십시오. 고객은 QR 코드를 스캔하여 즉시 자금을 이전할 수&nbsp;있습니다"
+        linkText="Nav페이에 방문하세요"
         linkUrl="https://navhub.org/projects/nav-pay/"
         linkImgSrc="/images/icons/rightward-arrow.svg"
-
     >}}
     {{< action
-        titleText="For your online business"
+        titleText="온라인 비즈니스"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="Integrated NavCoin payment gateway, offering plugins for all the popular webcarts like shopify and&nbsp;woocommence."
-        linkText="Visit CoinPayments"
+        subtext="Shopify 및 Whocommence와 같은 모든 인기 웹카트에 플러그인을 제공하는 통합 NavCoin 결제 게이트웨이를&nbsp;이용하세요"
+        linkText="CoinPayments에 방문하세요"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"
     >}}
     {{< action                 
-        titleText="For personal projects"
+        titleText="개인적인 프로젝트"
         imgSrc="/images/merchants/mer-for-blog.svg"
-        subtext="Integrating Nav Buttons for quick payments is an easy to implement option that suits individuals or side&nbsp;businesses."
+        subtext="신속한 지불을 위해 Nav 버튼을 통합하는 것은 개인이나 부업자에게 적합한 옵션이 제공될 수&nbsp;있습니다"
         linkText="View buttons here"
         linkUrl="https://brianium.github.io/nav-button/"
         linkImgSrc="/images/icons/rightward-arrow.svg"

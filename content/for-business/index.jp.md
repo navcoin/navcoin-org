@@ -1,5 +1,5 @@
 ---
-title: "For Business"
+title: "ビジネス"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
@@ -7,73 +7,73 @@ author: ""
 description: ""
 ---
 {{< hero_section
-titleText="NavCoin For Business"
-paragraphText="Is your business ‘future ready?’ More and more people are looking for ways to pay using their digital currency. If you want to stay ahead of the trend, now’s the time to start accepting it at your store and online. NavCoin has the right payment solution for your&nbsp;business."
+titleText="ビジネスの為のNavCoin"
+paragraphText="貴方のビジネスは、未来に対応していますか？現在、デジタル通貨による支払い方法を探し求める人々は、日々増え続けています。時代の流れの先端を行きたいのなら、今こそが、貴方の店舗やオンラインでの支払い方法にNavCoinを取り入れる時です。NavCoin は、貴方のビジネスの支払い方法のソリューションを提供&nbsp;します。"
 imgSrc="/images/for-business/bus-hero.svg"
 >}}
 
 {{< item_container_section 
-    titleText="Why NavCoin Is Good For&nbsp;Business"
+    titleText="なぜNavCoin が貴方のビジネスにとって&nbsp;良いのか"
     subtitleText=""
 >}}
     {{< feature 
-        titleText="Fast payments"
+        titleText="迅速な支払い"
         imgSrc="/images/for-business/bus-fast-payment.svg"
-        text="Transactions show up in as little as five seconds, and confirmed in thirty&nbsp;seconds."
+        text="取引きが表示されるまでに5秒、取引が認証されるまでに３０秒しか&nbsp;かかりません。"
     >}}
     {{< feature 
-        titleText="Secure"
+        titleText="安全性"
         imgSrc="/images/for-business/bus-secure.svg"
-        text="Payment records permanently stored on a decentralized network, with 24/7&nbsp;access."
+        text="支払いの記録は、２４時間いつでもアクセス可能な分散化ネットワーク内に、永久的に保存 &nbsp;されます。"
     >}}
     {{< feature                 
-        titleText="Simple"
+        titleText="簡単"
         imgSrc="/images/for-business/bus-simple.svg"
-        text="Payment is easy as scanning a QR code. Funds automatically transfer to your NavCoin&nbsp;wallet."
+        text="支払いは、QRコードのスキャンのように簡単です。資金は自動的に貴方のNavCoinウォレットに転送&nbsp;されます。"
     >}}
     {{< feature                 
-        titleText="Low fees"
+        titleText="少ない手数料"
         imgSrc="/images/for-business/bus-low-fee.svg"
-        text="NavCoin is one of world's cheapest payment networks in the world, with fees typically under one&nbsp;percent."
+        text="NavCoinは、世界で最も手数料の低いネットワークのうちの１つです。手数料は大概１％&nbsp;以下です。"
     >}}
     {{< feature                 
-        titleText="Eco-friendly"
+        titleText="エコフレンドリー"
         imgSrc="/images/for-business/bus-eco.svg"
-        text="Join a payment network that consumes only a fraction of the energy of other&nbsp;networks."
+        text="他のネットワークに比べほんの僅かのエネルギーしか消費しない、エコフレンドリーなネットワークにぜひ参加r&nbsp;しましょう。"
     >}}
     {{< feature                 
-        titleText="Flexibility"
+        titleText="柔軟性"
         imgSrc="/images/for-business/bus-flex.svg"
-        text="A range of payment options to suit your business requirements, with even more in&nbsp;development."
+        text="貴方のビジネスの必要に応じた、様々な支払いのオプションがあります。そして今後さらなる支払い方法も現在&nbsp;開発中です。"
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
-  titleText="Accept Payments In Person"
+  titleText="個人による支払いの受け取り"
   imgSrc="/images/for-business/bus-for-store.svg"
-  buttonText="Visit NavPay"
+  buttonText="NavPayへ"
   buttonUrl="https://navhub.org/projects/nav-pay/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-NavPay is a light wallet that works with your smartphone or desktop computer. Customers just scan your QR code and their funds transfer to your wallet almost instantly. With no blockchain to download, it's an easy way to get&nbsp;started.
+NavPay は、貴方のスマートフォンやデスクトップコンピューター上で使えるライトウォレットです。利用者がブロックチェーンのダウンロードをする必要は無く、ただ  QRコードをスキャンするだけで資金を貴方のウォレットに、ほぼ瞬時に送金する事ができます。これから始める方に&nbsp;ピッタリです。
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="Accept Online Payments"
+titleText="オンラインの支払いを受ける"
 imgSrc="/images/for-business/bus-for-bus.svg"
-buttonText="Visit CoinPayments"
+buttonText="CoinPaymentsへ"
 buttonUrl="https://www.coinpayments.net/"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 newTab="true"
 >}}
-CoinPayments is a little like PayPal, but for digital currencies. Plug-ins include a shopping cart, payment button, invoicing, and point-of-sale interface. If your business is in the EuroZone or USA, you can withdraw funds in EURO or&nbsp;USD.
+CoinPayments は、デジタル通貨用のPayPalのようなものです。 プラグインには、ショッピングカート、支払いボタン、請求書、そしてPOSのインターフェイスがあります。もし貴方がユーロ圏またはアメリカでビジネスを行っているのであれば、ここからEUROやUSDを引き出す&nbsp;事ができます。
 {{< /zig_section>}}
 
 {{< zig_section
-  titleText="Accept Personal Payments"
+  titleText="個人からの支払いを受ける"
   imgSrc="/images/for-business/bus-for-blog.svg"
   buttonText="View buttons here"
   buttonUrl="https://brianium.github.io/nav-button/"
@@ -81,13 +81,13 @@ CoinPayments is a little like PayPal, but for digital currencies. Plug-ins inclu
   bgPurple="true"
   newTab="true"
 >}}
-Integrating NavButtons for quick payments is an easy to implement option that suits individuals or side businesses. It’s as easy as copy-pasting some code onto your website. There is a choice of embeddable buttons, or QR codes for even easier&nbsp;sharing.
+迅速な支払いの為にNavButtonsを取り入れる事はとても簡単で、個人やサイドビジネスを行っている方にピッタリの方法です。やり方はとても簡単で、貴方のウェブサイトにコードをコピペするだけです。埋め込みボタンやQRコードなどの、さらに簡単なシェア方法を選ぶ事も&nbsp;できます。
 {{< /zig_section>}}
 
 {{< center_text_cta
     lightStyle="true"
-    titleText="Who's Accepting NAV?"
-    buttonText="Find merchants here"
+    titleText="誰がNAVを使っているの？"
+    buttonText="小売店を検索する"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants/"
-    innerText="A number of businesses have already begun to integrate NavCoin as a payment option, and with them you can easily purchase a range of products and&nbsp;services.">}}
+    innerText="多くのビジネスが既にNavCoinを支払い方法に 取り入れ始めています。それらのビジネスで様々な商品やサービスをとても簡単に購入する事が&nbsp;できます。">}}

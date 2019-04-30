@@ -10,4 +10,4 @@ weight: 120
 externalUrl: https://github.com/NAVCoin/navcoin-core/issues/384
 ---
 
-Improving the graphical interface for the cold staking address creation wizard and the display of staking rewards and balances in both spending and staking wallets.
+Migliorata l'interfaccia grafica del wizard di creazione degli indirizzi di cold staking, migliorata l'informazione che mostra la staking reward ed il saldo del wallet di spesa e di staking..

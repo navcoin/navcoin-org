@@ -10,4 +10,4 @@ weight: 110
 
 ---
 
-Once both phases of the ZeroCT implementation have been completed the new privacy protocol will go into an extensive testing and peer review period.
+Quando entrambe le fasi di implementazione del protocollo ZeroCT saranno completate, il nuovo protocollo di privacy subirà una estensiva fase di test e verifica da parte dei contributori allo sviluppo.

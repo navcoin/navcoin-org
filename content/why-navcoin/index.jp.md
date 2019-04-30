@@ -1,151 +1,151 @@
 ---
-title: "Why NavCoin"
+title: "なぜNavCoinなのか"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
-description: "NavCoin is an open-source, blockchain based Proof of Stake cryptocurrency. It’s a platform that’s run by its users, for its users."
+description: "NavCoinは、オープンソースで、ブロックチェーンに基づいたプルーフ・オブ・ステークの仮想通貨です。そして、ユーザーによって運営される、ユーザーの為のプラットフォームです。"
 ---
 {{< hero_section
-titleText="What Is NavCoin"
-paragraphText="NavCoin is an open-source, blockchain based Proof of Stake cryptocurrency. Its design is public, nobody owns or controls NavCoin, and everyone can take part. It’s a platform that’s run by its users, for its users - with an incentivised network of nodes verifying payments all around&nbsp;the&nbsp;world."
+titleText="NavCoinとは何か"
+paragraphText="NavCoinは、オープンソースの、プロックチェーンベースのプルーフ・オブ・ステーク仮想通貨です。そのデザインは公開されており、NavCoinを所有したり管理する存在は無く、誰もが参加する事ができます。そしてこれは、ユーザーによって運営される、ユーザーの為のプラットフォームです。 世界中で支払いの承認を行う事ができるノードの&nbsp;インセンティブ&nbsp;ネットワークです。"
 imgSrc="/images/why-navcoin/why-hero.svg"
 >}}
 
 {{< item_container_section
-    titleText="Why Are People Using&nbsp;NavCoin?"
-    subtitleText="It's cheap, fast, eco-friendly and privacy focused."
+    titleText="なぜ人々は&nbsp;NavCoinを使うのか?"
+    subtitleText="安くて、速くて、エコフレンドリーで、プライバシーに着目したコインだから"
 >}}
     {{< long_text
-        titleText="Be your own bank"
+        titleText="自分自身の銀行になりましょう"
         imgSrc="/images/why-navcoin/why-own-bank.svg"
-        text="There are no banks or intermediaries that run NavCoin, and no one you need to deposit your money with. All payments are peer to peer, and managed by your wallet. Unlike the current system, you have total control of your money, and a say in how the network&nbsp;is&nbsp;run."
+        text="NavCoinはいかなる銀行や仲介者によっても運営されていません。また、貴方は誰にお金を預ける必要もありません。全ての支払いはピアツーピアで行われ、貴方のウォレットによって管理されています。現在のシステムとは異なり、 貴方が貴方のお金に関する全ての権限を持ち、どのようにしてネットワークが運営されるかについての発言権&nbsp;を&nbsp;持つのです。"
 
     >}}
     {{< long_text
-        titleText="Privacy"
+        titleText="プライバシー"
         imgSrc="/images/why-navcoin/why-privacy.svg"
-        text="Blockchains by their nature are public ledgers that allows anyone to view every transaction ever sent, which makes privacy a challenge. NavCoin is dedicated to providing privacy for users, so that your information can only be given with your consent,&nbsp;not&nbsp;taken."
+        text="ブロックチェーンはその性質上、誰もがこれまでに送信された全てのトランザクションを見る事ができる公的帳簿であり、これによってプライバシーの保護が困難とされていました。NavCoin は、ユーザーにプライバシーを与える事に専念している為、貴方の情報は、貴方の同意がある場合にのみ&nbsp;提供&nbsp;されます。"
 
     >}}
     {{< long_text
-        titleText="Cold staking"
+        titleText="コールドステーキング"
         imgSrc="/images/why-navcoin/why-peer.svg"
-        text="Security is the number one priority for NavCoin, which makes cold staking an important feature on the network. Instead of having all your coins connected to the internet - this allows you to participate in staking the network, while also keeping your coins offline for&nbsp;added&nbsp;protection."
+        text="セキュリティはNavCoinの最優先事項であり、その為、ネットワーク上でのコールドステーキングが重要な機能となります。貴方のコイン全てをインターネットに接続する代わりに、コインをオフラインに維持しておきながら、ネットワークのステーキングに参加する事を可能にし、保有コインのさらなる&nbsp;保護が&nbsp;可能になったのです。"
 
     >}}
     {{< long_text
-        titleText="A network that never sleeps"
+        titleText="休む事のないネットワーク"
         imgSrc="/images/why-navcoin/why-247.svg"
-        text="With nodes all around the world, the NavCoin network is running 24/7. As long as you’re connected to the internet, you can send & receive payments anywhere in the world, at any time of the day, with no downtime - making it ideal for&nbsp;digital&nbsp;commerce."
+        text="世界中にノードを持つ NavCoinのネットワークは、毎日２４時間休みなく動いています。貴方がインターネットに接続している限り、世界のどこにいても、何時でも、ダウンタイム無しで支払いを送ったり受けたりする事が可能です。だからこそ、デジタルコマースにおいての理想的な&nbsp;支払い&nbsp;システムなのです。"
 
     >}}
     {{< long_text
-        titleText="A human readable address"
+        titleText="人間が判読可能なアドレス"
         imgSrc="/images/why-navcoin/why-fair.svg"
-        text="You can personalise your wallet using OpenAlias, which allows you to create an email-style address for your NAV. The service is built on top of the worldwide DNS service to convert a domain name into a cryptocurrency address, making sending a payment easier&nbsp;than&nbsp;ever."
+        text="OpenAliasを利用して、貴方のウォレットをパーソナライズする事ができます。これにより、貴方のNAV用の電子メール形式のアドレスを作成する事ができます。このサービスは世界に広がるDNSサービスのシステム上に作られており、 ドメイン名を仮想通貨のアドレスに変換する事で、送金が今までにないレベルで&nbsp;簡単に&nbsp;なったのです。"
 
     >}}
     {{< long_text
-        titleText="Frictionless payments"
+        titleText="スムーズな支払い"
         imgSrc="/images/why-navcoin/why-low-fee.svg"
-        text="In the digital economy, sending payments around the world should be fast, cheap, and easy to do. NavCoin can be sent for a fraction of a cent, will show up within seconds (confirmed in 30 seconds), and there are a range of wallets designed to make sending&nbsp;NAV&nbsp;effortless."
+        text="デジタル経済の世界では、世界に向けて支払いを送金するには、速さ、安さ、簡単である事が求められます。NavCoinは、 １円にも満たない僅かな手数料で世界中に送金する事ができ、何秒かの間に送金が表示され（３０秒以内で承認される）、さらに、様々な種類のウォレットによって、NAV の送金を&nbsp;簡単に&nbsp;行う事ができるのです。"
 
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
-  titleText="History Of NavCoin"
+  titleText="NavCoinの歴史"
   imgSrc="/images/why-navcoin/why-history.svg"
   buttonUrl="/governance/"
-  buttonText="Read more about governance"
+  buttonText="ガバナンスについてもっと詳しく読む"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
 >}}
-NavCoin is a community-run network that was started in 2014. It initially used Proof of Work, but quickly made the shift to Proof of Stake. With no ICO or premine, NavCoin has always been self-funded to ensure a fair distribution and that everyone has a chance to&nbsp;get&nbsp;involved.
+NavCoinは、2014年に設立された、コミュニティーによって運営されるネットワークです。当初はプルーフ・オブ・ワークを使用していましたが、すぐにプルーフ・オブ・ステークへと移行しました。ICOや先行マイニングを行わず、NavCoinは常に自己資金による運営を行う事で、公平な分配を確保し、また、全ての人が、運営に関わる&nbsp;チャンスを&nbsp;持つのです。
 {{< /zig_section>}}
 
 {{< item_container_section
-    titleText="How To Use&nbsp;NavCoin"
-    subtitleText="A programmable currency for the web3 era, with a range of&nbsp;use&nbsp;cases."
+    titleText="NavCoin の&nbsp;使い方"
+    subtitleText="様々な使用方法を持つ、web3時代の為の、プログラム&nbsp;可能な&nbsp;通貨"
 >}}
     {{< feature
-        titleText="Buying goods & services"
+        titleText="商品やサービスを購入する"
         imgSrc="/images/why-navcoin/why-buy.svg"
-        text="A cheaper way to pay for goods & services - with no&nbsp;expensive&nbsp;chargebacks."
+        text="高額なチャージバック無しで購入が可能な、商品やサービス購入の為の、より&nbsp;安価な&nbsp;手段"
     >}}
     {{< feature
-        titleText="Digital tip jar"
+        titleText="デジタルチップジャー"
         imgSrc="/images/why-navcoin/why-digital-tips.svg"
-        text="If you’ve got space to add a QR code, you’re able to accept NAV - it’s&nbsp;that&nbsp;easy."
+        text="QRコードを付け足すスペースさえあれば、すぐにNAVの受け入れが可能です。それだけ&nbsp;簡単&nbsp;なのです。"
     >}}
     {{< feature                 
-        titleText="Transparent funding"
+        titleText="透明性のある資金繰り"
         imgSrc="/images/why-navcoin/why-conditional-payment.svg"
-        text="Projects can be held accountable to stakeholders through transparency of&nbsp;spending."
+        text="プロジェクトは、支出の透明性を通じて、利害関係者に対しての説明責任を負う事が&nbsp;できます。"
     >}}
     {{< feature                 
-        titleText="Borderless payments"
+        titleText="ボーダーレスな支払い"
         imgSrc="/images/why-navcoin/why-international.svg"
-        text="Low-cost money transfers makes doing international business&nbsp;even&nbsp;easier."
+        text="低コストの送金によって、国際的なビジネスがより&nbsp;簡単に&nbsp;なりました。"
     >}}
     {{< feature                 
-        titleText="Multi-person wallets "
+        titleText="マルチパーソンウォレット"
         imgSrc="/images/why-navcoin/why-crowdfunding.svg"
-        text="Create a shared account with family or friends, with a range of&nbsp;security&nbsp;options."
+        text="様々なセキュリティのオプションを持つ共有のアカウントを、家族や友達と共有して作る&nbsp;事が&nbsp;可能です。"
     >}}
     {{< feature                 
-        titleText="Store of wealth"
+        titleText="財産の保管"
         imgSrc="/images/why-navcoin/why-wealth.svg"
-        text="NavCoin doesn’t require any central authority to run - meaning your money is in&nbsp;your&nbsp;control."
+        text="NavCoin は、運営に中心となる権力を必要としません。つまり、貴方のお金は &nbsp;貴方が&nbsp;コントロールするのです。"
     >}}
 {{< /item_container_section >}}
 
 
 {{< item_container_section
-    titleText="A Developer-Centric Community"
-    subtitleText="Making it easy for developers to get involved."
+    titleText="デベロッパー中心のコミュニティ"
+    subtitleText="デベロッパーが参加しやすいシステム"
     bgPurple="true"
 >}}
     {{< feature
-        titleText="Lots of ways to get involved"
+        titleText="様々な形で関わる事ができます"
         imgSrc="/images/why-navcoin/why-decentralised-dev.svg"
-        text="NavCoin is an ecosystem of different teams and projects - allowing for a number of ways to&nbsp;get&nbsp;involved."
+        text="NavCoinは、様々なチームやプロジェクトによって成るエコシステムです。様々な形で、&nbsp;関わる&nbsp;事ができます。"
     >}}
     {{< feature
-        titleText="Community fund"
+        titleText="コミュニティの資金"
         imgSrc="/images/why-navcoin/why-cfund.svg"
-        text="NavCoin’s Community Fund allows contributors to get paid by the network for&nbsp;their&nbsp;efforts."
+        text="NavCoinのコミュニティ資金により、貢献者はその努力に対してネットワークから報酬を&nbsp;得る事が&nbsp;できます。"
     >}}
     {{< feature                 
-        titleText="Proof of Stake Alliance member"
+        titleText="プルーフ・オブ・ステークアライアンスのメンバーです"
         imgSrc="/images/why-navcoin/why-pos-alliance.svg"
-        text="Which aims to collaboratively research the PoS protocol - alongside PivX, Blackcoin, Particl, Komodo,&nbsp;and&nbsp;more."
+        text="このアライアンスは、共同でPoSプロトコルをリサーチする目的を持ちますーPivX、Blackcoin、Particl、Komodo&nbsp;などが&nbsp;参加しています。"
     >}}
     {{< feature                 
-        titleText="Active research & development"
+        titleText="アクティブなリサーチと開発"
         imgSrc="/images/why-navcoin/why-research.svg"
-        text="NavCoin Protocol Improvement Proposals (NPIPs) are the research playground where cryptographers, economists, and developers&nbsp;collaborate."
+        text="NavCoin Protocol Improvement Proposals (NPIPs)は、暗号学者、エコノミスト、そしてデベロッパーが協力し合う&nbsp;研究の場です。"
     >}}
     {{< feature                 
-        titleText="Programmable money"
+        titleText="プログラム可能なお金"
         imgSrc="/images/why-navcoin/why-digital-money.svg"
-        text="Digitizing money allows it to be programmable, automatable, and interactable in new and&nbsp;interesting&nbsp;ways."
+        text="お金をデジタル化する事で、新しい形で、プログラム可能、自動化、インタラクティブにする事が&nbsp;可能&nbsp;です。"
     >}}
     {{< feature                 
-        titleText="An easy payment solution"
+        titleText="支払いの為の簡単なソリューション"
         imgSrc="/images/why-navcoin/why-easy-pay.svg"
-        text="You don't need to sign up with anything in order to accept payments. It's as easy as showing your address or&nbsp;QR&nbsp;code!"
+        text="支払いを受ける為に何かに登録する必要はありません。貴方のアドレスまたはQRコードを見せる&nbsp;だけという&nbsp;簡単さなのです！"
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
-titleText="Protocol Roadmap"
+titleText="プロトコルのロードマップ"
 imgSrc="/images/why-navcoin/why-roadmap.svg"
 buttonUrl="/roadmap/"
-buttonText="Check out where we're going"
+buttonText="私達の方向性を知って下さい。"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 >}}
-With an active community working on the NavCoin protocol, check out the roadmap to see what's&nbsp;coming&nbsp;next.
+アクティブなコミュニティがNavCoinプロトコルに取り組んでいます。ぜひロードマップをチェックして、次に何が来るのか&nbsp;見て&nbsp;下さい。
 {{< /zig_section>}}
