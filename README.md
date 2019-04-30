@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fd773cff-cd56-4aad-842d-7aca4ff79893/deploy-status)](https://app.netlify.com/sites/navcoin/deploys)
+
 # NavCoin.org
 
 Maintained by the global NAV community
