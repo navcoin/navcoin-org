@@ -1,10 +1,10 @@
 ---
-layout: 路线图
+layout: roadmap
 title:  OpenAlias
 author: Alex Vazquez
 date: '2018-11-04'
 feature_image: /images/uploads/navpi-patch.jpg
-status: 已完成
+status: completed
 externalUrl: https://navhub.org/projects/open-alias/
 ---
 

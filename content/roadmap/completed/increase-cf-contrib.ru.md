@@ -1,5 +1,5 @@
 ---
-layout: дорожная карта
+layout: roadmap
 title: Увеличение фонда сообщества
 author: Craig MacGregor
 date: '2018-06-01'

@@ -1,10 +1,10 @@
 ---
-layout: 路线图
+layout: roadmap
 title: 社区资金
 author: Alex Vazquez
 date: '2018-06-06T17:07:30+12:00'
 feature_image: /images/uploads/navpi-patch.jpg
-status: 已完成
+status: completed
 externalUrl: https://navcoin.org/community-fund/
 
 ---

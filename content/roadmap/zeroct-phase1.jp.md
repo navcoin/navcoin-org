@@ -1,10 +1,10 @@
 ---
-layout: ロードマップ
+layout: roadmap
 title: ZeroCT 実装　フェーズ1
 author: Skreener
 date: '2019-02-07T00:00:00+12:00'
 publishDate: '2019-02-07T00:00:00+12:00'
-status: テスト中
+status: testing
 externalUrl: https://github.com/NAVCoin/navcoin-core/pull/412
 ---
 

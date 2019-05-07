@@ -1,10 +1,10 @@
 ---
-layout: 路线图
+layout: roadmap
 title:  主网上线
 author: Soopy452000
 date: '2014-07-07'
 feature_image: /images/uploads/navpi-patch.jpg
-status: 已完成
+status: completed
 externalUrl: https://bitcointalk.org/index.php?topic=679791.0
 ---
 

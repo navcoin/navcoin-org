@@ -10,4 +10,4 @@ weight: 110
 
 ---
 
-ZeroCT 구현의 두 단계가 모두 완료되면 새로운 개인 정보 보호 프로토콜은 광범위한 테스트 및 피어 검토 기간으로 들어갑니다.
+Once both phases of the ZeroCT implementation have been completed the new privacy protocol will go into an extensive testing and peer review period.

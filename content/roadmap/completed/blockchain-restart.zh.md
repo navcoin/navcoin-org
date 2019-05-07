@@ -1,10 +1,10 @@
 ---
-layout: 路线图
+layout: roadmap
 title:  区块链重启
 author: Soopy452000
 date: '2016-05-12'
 feature_image: /images/uploads/navpi-patch.jpg
-status: 已完成
+status: completed
 externalUrl: https://www.navexplorer.com/block/1
 ---
 

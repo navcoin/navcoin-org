@@ -1,10 +1,10 @@
 ---
-layout: 路线图
+layout: roadmap
 title:  隔离见证
 author: Alex Vazquez
 date: '2017-12-25'
 feature_image: /images/uploads/navpi-patch.jpg
-status: 已完成
+status: completed
 externalUrl: https://en.bitcoin.it/wiki/Segregated_Witness
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: дорожная карта
+layout: roadmap
 title:  Накопление Фонда Сообщества
 author: Alex Vazquez
 date: '2018-06-06'

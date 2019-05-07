@@ -1,10 +1,10 @@
 ---
-layout: 路线图
+layout: roadmap
 title:  社区资金累积
 author: Alex Vazquez
 date: '2018-06-06'
 feature_image: /images/uploads/navpi-patch.jpg
-status: 已完成
+status: completed
 externalUrl: https://github.com/NAVCoin/navcoin-core/releases/tag/4.2.0/
 ---
 

@@ -1,10 +1,10 @@
 ---
-layout: 路线图
+layout: roadmap
 title:  以 Bitcoin 0.13为基础
 author: Craig MacGregor
 date: '2017-08-21'
 feature_image: /images/uploads/navpi-patch.jpg
-status: 已完成
+status: completed
 externalUrl: https://www.navexplorer.com/block/1
 ---
 

@@ -1,10 +1,10 @@
 ---
-배치: 로드맵
-타이틀: 향상된 개인 정보 보호 솔루션을 정의
-저자: Alex Vazquez
-날짜: '2018-06-06T17:07:30+12:00'
+layout: roadmap
+title: 향상된 개인 정보 보호 솔루션을 정의
+author: Alex Vazquez
+date: '2018-06-06T17:07:30+12:00'
 feature_image: /images/uploads/navpi-patch.jpg
-상태: 커밍순
+status: completed
 externalUrl: https://www.reddit.com/r/NavCoin/comments/9eevo4/little_update_from_dev_team/
 ---
 

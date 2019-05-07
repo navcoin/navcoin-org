@@ -8,4 +8,4 @@ status: testing
 externalUrl: https://github.com/NAVCoin/navcoin-core/pull/412
 ---
 
-ZeroCT 구현의 첫 번째 단계이며 Zero코인 축열조 구현이 포함되어 있습니다. 이 시스템은 디노미네이션된 축전지를 사용하며, 기밀 거래는 아직 구현되지 않았습니다.
+This is the first Phase of implementing ZeroCT and contains the Zerocoin accumulator implementation. It uses denominated accumulators and Confidential Transactions are not yet implemented.

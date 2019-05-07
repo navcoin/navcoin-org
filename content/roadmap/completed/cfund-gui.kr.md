@@ -1,10 +1,10 @@
 ---
-배치 : 로드맵
-타이틀 : C펀드 GUI 개선사항
-저자 : Andreas Knapp
-날짜 : '2019-02-07T00:00:00+12:00'
-게시 날짜: '2019-02-07T00:00:00+12:00'
-상태 : 진행중
+layout: roadmap
+title: C펀드 GUI 개선사항
+author: Andreas Knapp
+date: '2019-02-07T00:00:00+12:00'
+publishDate: '2019-02-07T00:00:00+12:00'
+date: completed
 externalUrl: https://github.com/NAVCoin/navcoin-core/issues/383
 ---
 

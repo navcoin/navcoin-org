@@ -1,11 +1,11 @@
 ---
-배치: 로드맵
-타이틀: Nav코인 v4.5.2
-저자: Marcus Chan
-날짜: '2019-02-07T00:00:00+12:00'
-게시 날짜: '2019-02-07T00:00:00+12:00'
+layout: roadmap
+title: Nav코인 v4.5.2
+author: Marcus Chan
+date: '2019-02-07T00:00:00+12:00'
+publishDate: '2019-02-07T00:00:00+12:00'
 feature_image: /images/uploads/navpi-patch.jpg
-상태: 테스트
+status: completed
 weight: 110
 externalUrl: https://github.com/NAVCoin/navcoin-core/pull/413
 ---

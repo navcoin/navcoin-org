@@ -1,10 +1,10 @@
 ---
-layout: 路线图
+layout: roadmap
 title: 冷加注
 author: Alex Vazquez
 date: '2018-12-05'
 feature_image: /images/uploads/navpi-patch.jpg
-status: 已完成
+status: completed
 externalUrl: https://github.com/NAVCoin/npips/blob/master/npip-0002.mediawiki
 ---
 
