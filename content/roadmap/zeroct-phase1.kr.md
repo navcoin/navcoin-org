@@ -1,10 +1,10 @@
 ---
-배치: 로드맵
-타이틀: ZeroCT Implementation Phase 1
-저자: Skreener
-날짜: '2019-02-07T00:00:00+12:00'
-게시 날짜: '2019-02-07T00:00:00+12:00'
-상태: 테스트
+layout: roadmap
+title: ZeroCT Implementation Phase 1
+author: Skreener
+date: '2019-02-07T00:00:00+12:00'
+publishDate: '2019-02-07T00:00:00+12:00'
+status: testing
 externalUrl: https://github.com/NAVCoin/navcoin-core/pull/412
 ---
 

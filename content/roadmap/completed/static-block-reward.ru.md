@@ -1,5 +1,5 @@
 ---
-layout: дорожная карта
+layout: roadmap
 title: Вознаграждение за статический блок
 author: Craig MacGregor
 date: '2018-12-06'

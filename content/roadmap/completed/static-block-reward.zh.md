@@ -1,10 +1,10 @@
 ---
-layout: 路线图
+layout: roadmap
 title: 固定区块奖励
 author: Craig MacGregor
 date: '2018-12-06'
 feature_image: /images/uploads/navpi-patch.jpg
-status: 已完成
+status: completed
 externalUrl: https://github.com/NAVCoin/npips/blob/master/npip-0004.mediawiki
 ---
 

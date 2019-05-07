@@ -1,5 +1,5 @@
 ---
-layout: дорожная карта
+layout: roadmap
 title:  Ребейзинг из Биткойн 0.13
 author: Craig MacGregor
 date: '2017-08-21'

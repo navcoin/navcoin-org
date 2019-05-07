@@ -1,11 +1,11 @@
 ---
-배치: 로드맵
-타이틀: 콜드 스테이킹 GUI가 개선사항
-저자: Craig MacGregor
-날짜: '2019-02-07T00:00:00+12:00'
-게시 날짜: '2019-02-07T00:00:00+12:00'
+layout: roadmap
+title: 콜드 스테이킹 GUI가 개선사항
+author: Craig MacGregor
+date: '2019-02-07T00:00:00+12:00'
+publishDate: '2019-02-07T00:00:00+12:00'
 feature_image: /images/uploads/navpi-patch.jpg
-상태: 커밍순
+status: upcoming
 weight: 120
 externalUrl: https://github.com/NAVCoin/navcoin-core/issues/384
 ---

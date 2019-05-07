@@ -1,11 +1,11 @@
 ---
-배치: 로드맵
-타이틀: ZeroCT Beta
-저자: Alex Vazquez
-날짜: '2019-02-07T00:00:00+12:00'
-게시 날짜: '2019-02-07T00:00:00+12:00'
+layout: roadmap
+title: ZeroCT Beta
+author: Alex Vazquez
+date: '2019-02-07T00:00:00+12:00'
+publishDate: '2019-02-07T00:00:00+12:00'
 feature_image: /images/uploads/navpi-patch.jpg
-상태: 커밍순
+status: upcoming
 weight: 110
 
 ---

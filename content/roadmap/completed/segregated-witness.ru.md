@@ -1,5 +1,5 @@
 ---
-layout: дорожная карта
+layout: roadmap
 title:  Segregated Witness
 author: Alex Vazquez
 date: '2017-12-25'

@@ -1,9 +1,9 @@
 ---
-layout: ロードマップ
+layout: roadmap
 title: 改善されたプライバシーのソリューションを定義する
 author: Alex Vazquez
 date: '2019-01-01T17:07:30+12:00'
-status: 完成
+status: completed
 externalUrl: https://www.researchgate.net/publication/330366788_ZeroCT_Improving_Zerocoin_with_Confidential_Transactions_and_more
 ---
 

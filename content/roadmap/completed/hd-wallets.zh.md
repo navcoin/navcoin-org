@@ -1,10 +1,10 @@
 ---
-layout: 路线图
+layout: roadmap
 title: 等级确定的钱包
 author: Soopy452000
 date: '2016-05-13'
 feature_image: /images/uploads/navpi-patch.jpg
-status: 已完成
+status: completed
 externalUrl: https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki
 ---
 

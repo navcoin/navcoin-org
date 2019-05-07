@@ -4,7 +4,7 @@ title: CFund GUI Improvements
 author: Andreas Knapp
 date: '2019-02-07T00:00:00+12:00'
 publishDate: '2019-02-07T00:00:00+12:00'
-status: in-progress
+status: completed
 externalUrl: https://github.com/NAVCoin/navcoin-core/issues/383
 ---
 

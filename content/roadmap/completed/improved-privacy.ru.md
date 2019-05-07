@@ -1,10 +1,10 @@
 ---
-layout: дорожная карта
+layout: roadmap
 title: Улучшенное решение для конфиденциальности
 author: Alex Vazquez
 date: '2018-06-06T17:07:30+12:00'
 feature_image: /images/uploads/navpi-patch.jpg
-status: запланировано
+status: completed
 externalUrl: https://www.reddit.com/r/NavCoin/comments/9eevo4/little_update_from_dev_team/
 ---
 

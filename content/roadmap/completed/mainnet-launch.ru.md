@@ -1,5 +1,5 @@
 ---
-layout: дорожная карта
+layout: roadmap
 title:  Запуск основной сети
 author: Soopy452000
 date: '2014-07-07'

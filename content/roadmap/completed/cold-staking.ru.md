@@ -1,5 +1,5 @@
 ---
-layout: дорожная карта
+layout: roadmap
 title: Холодный стекинг
 author: Alex Vazquez
 date: '2018-12-05'
