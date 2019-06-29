@@ -61,13 +61,7 @@ newTab="true"
            text="유로로 구매가 가능한 거래소"
            linkUrl="https://www.litebit.eu/en/buy/navcoin"
        >}}
-    {{< exchange
-        titleText="크립토피아"
-        imgSrc="/images/buy-navcoin/buy-crypopia.png"
-        text="BTC, USD, NZD / NAV"
-        linkUrl="https://www.cryptopia.co.nz/Exchange/?market=NAV_BTC"
-    >}}
-    {{< exchange
+     {{< exchange
          titleText="Easy Crypto"
          imgSrc="/images/buy-navcoin/buy-easy-crypto.png"
          text="NZD Direct Purchase"
@@ -160,9 +154,39 @@ newTab="true"
      {{< exchange
           titleText="CoinXtr"
           imgSrc="/images/buy-navcoin/coinxtr.jpg"
-          text="Turkish Exchange"
+          text="터키어 교환"
           linkUrl="https://www.coinxtr.com/"
       >}}
+    {{< exchange
+        titleText="Simple Swap"
+        imgSrc="/images/buy-navcoin/simpleswap_400x400.jpg"
+        text="복수 통화 / NAV"
+        linkUrl="https://simpleswap.io/coins/navcoin"
+    >}}
+    {{< exchange
+        titleText="Social Send"
+        imgSrc="/images/buy-navcoin/socialsend400x400.jpg"
+        text="복수 통화 / NAV"
+        linkUrl="https://socialsend.net"
+    >}}
+    {{< exchange
+        titleText="Stake Cube"
+        imgSrc="/images/buy-navcoin/stakecube_400x400.jpg"
+        text="M복수 통화 / NAV"
+        linkUrl="https://stakecube.net/exchange"
+    >}}
+    {{< exchange
+        titleText="Coin Switch"
+        imgSrc="/images/buy-navcoin/coinswitch_400x400.jpg"
+        text="복수 통화 / NAV"
+        linkUrl="https://coinswitch.co"
+    >}}
+    {{< exchange
+        titleText="CoinZark"
+        imgSrc="/images/buy-navcoin/coinzark_400x400.png"
+        text="복수 통화 / NAV"
+        linkUrl="https://www.coinzark.com/nav"
+    >}}
 {{< /item_container_section >}}
 
 
