@@ -13,12 +13,20 @@ Paste the preview links where the changes can be viewed on the netlify deploy pr
 eg.
 
 https://deploy-preview-205--navcoin.netlify.com/en/buy-navcoin
+
 https://deploy-preview-205--navcoin.netlify.com/es/buy-navcoin
+
 https://deploy-preview-205--navcoin.netlify.com/it/buy-navcoin
+
 https://deploy-preview-205--navcoin.netlify.com/jp/buy-navcoin
+
 https://deploy-preview-205--navcoin.netlify.com/kr/buy-navcoin
+
 https://deploy-preview-205--navcoin.netlify.com/ru/buy-navcoin
+
 https://deploy-preview-205--navcoin.netlify.com/zh/buy-navcoin
+
+The preview can be found on the pull reqeuest once it's made by clicking `show all checks` > `details`.
 
 ### Checklist
 
