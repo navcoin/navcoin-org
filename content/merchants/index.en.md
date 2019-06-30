@@ -87,6 +87,31 @@ newTab="true"
         text="List of every registered domain"
         linkUrl="https://domains-index.com/"
     >}}
+
+{{< merchant
+        titleText="Keyi Store"
+        imgSrc="/images/merchants/keyistore_400x400.jpg"
+        text="In Keyi Store, we partner with BLockchain companies to enable their cryptocurrency in Keyi Store."
+        linkUrl="https://keyi.store/"
+    >}}
+    {{< merchant
+        titleText="Print-Ted"
+        imgSrc="/images/merchants/print-ted_180x.png"
+        text="Fashionable high quality prints and products designed by our own artists!"
+        linkUrl="https://print-ted.com/"
+    >}}
+    {{< merchant
+        titleText="Firo Solutions"
+        imgSrc="/images/merchants/firo-solutions_400x400.jpg"
+        text="Independent Software Company Firo Solutions is the Vulnerability Management Company"
+        linkUrl="https://firosolutions.com/"
+    >}}
+    {{< merchant
+        titleText="Woop Woop Shop"
+        imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
+        text="Shop Best Price & Best Quality Trending Products Shipped Free to Your Doorstep "
+        linkUrl="https://www.woopshop.com/"
+    >}}
 {{< /item_container_section >}}
 
 {{< item_container_section
