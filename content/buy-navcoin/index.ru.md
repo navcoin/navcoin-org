@@ -165,7 +165,7 @@ newTab="подлинный"
     >}}
     {{< exchange
         titleText="Social Send"
-        imgSrc="/images/buy-navcoin/socialsend400x400.jpg"
+        imgSrc="/images/buy-navcoin/socialsend_400x400.jpg"
         text="Мульти валюта / NAV"
         linkUrl="https://socialsend.net"
     >}}

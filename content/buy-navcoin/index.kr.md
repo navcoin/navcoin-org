@@ -165,7 +165,7 @@ newTab="true"
     >}}
     {{< exchange
         titleText="Social Send"
-        imgSrc="/images/buy-navcoin/socialsend400x400.jpg"
+        imgSrc="/images/buy-navcoin/socialsend_400x400.jpg"
         text="복수 통화 / NAV"
         linkUrl="https://socialsend.net"
     >}}
