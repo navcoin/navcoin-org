@@ -157,7 +157,7 @@ newTab="подлинный"
           text="Турецкая биржа"
           linkUrl="https://www.coinxtr.com/"
       >}}
-{{< exchange
+    {{< exchange
         titleText="Simple Swap"
         imgSrc="/images/buy-navcoin/simpleswap_400x400.jpg"
         text="Мульти валюта / NAV"
@@ -178,7 +178,7 @@ newTab="подлинный"
     {{< exchange
         titleText="Coin Switch"
         imgSrc="/images/buy-navcoin/coinswitch_400x400.jpg"
-        text="Multi Currency / NAV"
+        text="Мульти валюта / NAV"
         linkUrl="https://coinswitch.co"
     >}}
     {{< exchange

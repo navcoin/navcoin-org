@@ -87,6 +87,30 @@ newTab="true"
         text="登録ドメイン全てのリスト"
         linkUrl="https://domains-index.com/"
     >}}
+    {{< merchant
+        titleText="キーストア"
+        imgSrc="/images/merchants/keyistore_400x400.jpg"
+        text="Keyi Storeでは、BLockchain企業と提携して、Keyi Storeでの暗号通貨を有効にします。"
+        linkUrl="https://keyi.store/"
+    >}}
+    {{< merchant
+        titleText="Print-Ted"
+        imgSrc="/images/merchants/print-ted_180x.png"
+        text="私達の自身の芸術家によって設計されている流行の良質の印刷物そしてプロダクト！"
+        linkUrl="https://print-ted.com/"
+    >}}
+    {{< merchant
+        titleText="Firoソリューション"
+        imgSrc="/images/merchants/firo-solutions_400x400.jpg"
+        text="独立系ソフトウェア会社Firo Solutionsは脆弱性管理会社です"
+        linkUrl="https://firosolutions.com/"
+    >}}
+    {{< merchant
+        titleText="ウープウープショップ"
+        imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
+        text="あなたの玄関口に無料で出荷される最高の価格と最高の品質のトレンド商品を購入する"
+        linkUrl="https://www.woopshop.com/"
+    >}}
 {{< /item_container_section >}}
 
 {{< item_container_section

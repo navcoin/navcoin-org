@@ -81,6 +81,30 @@ newTab="true"
         text="在超过15个不同的国家拥有20多个世界级的服务器中心。"
         linkUrl="https://1gbits.com/"
     >}}
+    {{< merchant
+        titleText="Keyi Store"
+        imgSrc="/images/merchants/keyistore_400x400.jpg"
+        text="在Keyi Store，我们与BLockchain公司合作，在Keyi Store中实现加密货币。"
+        linkUrl="https://keyi.store/"
+    >}}
+    {{< merchant
+        titleText="Print-Ted"
+        imgSrc="/images/merchants/print-ted_180x.png"
+        text="由我们自己的艺术家设计的时尚高品质印刷品和产品！"
+        linkUrl="https://print-ted.com/"
+    >}}
+    {{< merchant
+        titleText="Firo Solutions"
+        imgSrc="/images/merchants/firo-solutions_400x400.jpg"
+        text="独立软件公司Firo Solutions是漏洞管理公司"
+        linkUrl="https://firosolutions.com/"
+    >}}
+    {{< merchant
+        titleText="Woop Woop Shop"
+        imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
+        text="购买最优价格和最优质的趋势产品免费送到您的门前"
+        linkUrl="https://www.woopshop.com/"
+    >}}
 {{< /item_container_section >}}
 
 {{< item_container_section

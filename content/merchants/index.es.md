@@ -79,6 +79,30 @@ newTab="true"
         text="Más de 20 centros de servidores de clase mundial con más de 15&nbsp;paises."
         linkUrl="https://1gbits.com/"
     >}}
+    {{< merchant
+        titleText="Keyi Store"
+        imgSrc="/images/merchants/keyistore_400x400.jpg"
+        text="En Keyi Store, nos asociamos con compañías de BLockchain para habilitar su criptomoneda en Keyi Store."
+        linkUrl="https://keyi.store/"
+    >}}
+    {{< merchant
+        titleText="Print-Ted"
+        imgSrc="/images/merchants/print-ted_180x.png"
+        text="Impresiones de moda de alta calidad y productos diseñados por nuestros propios artistas!"
+        linkUrl="https://print-ted.com/"
+    >}}
+    {{< merchant
+        titleText="Soluciones firo"
+        imgSrc="/images/merchants/firo-solutions_400x400.jpg"
+        text="Independent Software Company Firo Solutions es la compañía de gestión de vulnerabilidades."
+        linkUrl="https://firosolutions.com/"
+    >}}
+    {{< merchant
+        titleText="Woop Woop Shop"
+        imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
+        text="Compre el mejor precio y la mejor calidad Los productos de tendencias se envían gratis a su puerta"
+        linkUrl="https://www.woopshop.com/"
+    >}}
 {{< /item_container_section >}}
 
 {{< item_container_section

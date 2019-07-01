@@ -79,6 +79,30 @@ newTab="true"
         text="15개 이상의 국가에 20개 이상의 세계적 수준의 서버&nbsp;센터."
         linkUrl="https://1gbits.com/"
     >}}
+    {{< merchant
+        titleText="Keyi Store"
+        imgSrc="/images/merchants/keyistore_400x400.jpg"
+        text="Keyi Store에서는 BLOCKCHAIN ​​회사와 파트너 관계를 맺고 Keyi Store에서 암호 해독 기능을 지원합니다."
+        linkUrl="https://keyi.store/"
+    >}}
+    {{< merchant
+        titleText="Print-Ted"
+        imgSrc="/images/merchants/print-ted_180x.png"
+        text="자신의 아티스트가 디자인 한 멋진 고품질의 인쇄물 및 제품!"
+        linkUrl="https://print-ted.com/"
+    >}}
+    {{< merchant
+        titleText="Firo Solutions"
+        imgSrc="/images/merchants/firo-solutions_400x400.jpg"
+        text="독립적 인 소프트웨어 회사 인 Firo Solutions는 취약점 관리 회사입니다"
+        linkUrl="https://firosolutions.com/"
+    >}}
+    {{< merchant
+        titleText="Woop Woop Shop"
+        imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
+        text="최고의 가격 및 최고의 품질 트렌드 제품을 귀하의 도어 스텝으로 무료 배송"
+        linkUrl="https://www.woopshop.com/"
+    >}}
 {{< /item_container_section >}}
 
 {{< item_container_section

@@ -23,92 +23,92 @@ newTab="true"
     {{< merchant
         titleText="CoinPayments"
         imgSrc="/images/merchants/mer-coinpayment.png"
-        text="Over 70 merchants accept NAV using the CoinPayments merchant&nbsp;gateway."
+        text="Più di 70 commercianti accettano NAV utilizzando il gateway merchant CoinPayments."
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}}
 
     {{< merchant
         titleText="NavPi Store"
         imgSrc="/images/merchants/mer-navpi.png"
-        text="Purchase a NavPi with NavCoin to stake your NAV easily 24 hours a&nbsp;day."
+        text="Acquista un NavPi con NavCoin per mettere in palio il tuo NAV facilmente 24 ore al giorno."
         linkUrl="https://navpi.navcoinstore.com/product/navpi-stakebox/"
     >}}
      {{< merchant
         titleText="NavCoin Merch Store"
         imgSrc="/images/merchants/mer-nav.png"
-        text="Wear NavCoin with pride with this range of branded&nbsp;merchandise."
+        text="Indossa NavCoin con orgoglio con questa gamma di articoli di marca."
         linkUrl="https://navcoinstore.com/"
     >}}
     {{< merchant
         titleText="BitcoinGallery.Art"
         imgSrc="/images/merchants/mer-bitcoingallery.png"
-        text="Art and crypto collide in unique handmade sculptures of your favourite&nbsp;coin."
+        text="Arte e cripto si scontrano in sculture artigianali uniche della tua moneta preferita."
         linkUrl="http://www.sigmasixdesign.com/bitcoingallery-store#!/The-Simplifier-NAV/p/102127036/category=28247023"
     >}}
     {{< merchant
         titleText="Mile High Ambulance"
         imgSrc="/images/merchants/mer-mile-high.png"
-        text="Full service ambulance company which accepts NavCoin for bill&nbsp;payments."
+        text="Compagnia di ambulanze di servizio completo che accetta NavCoin per i pagamenti bil."
         linkUrl="https://milehighambulance.com/now-accepting-navcoin"
     >}}
     {{< merchant
         titleText="HODL Merch Store "
         imgSrc="/images/merchants/mer-hodl.png"
-        text="The home of crypto merchants with range of NavCoin clothing and&nbsp;accessories."
+        text="La casa dei cripto-commercianti con la gamma di abbigliamento e accessori NavCoin."
         linkUrl="https://alwayshodl.com/pages/official-nav-collection"
     >}}
     {{< merchant
         titleText="DrApis"
         imgSrc="/images/merchants/mer-dr-apis.png"
-        text="Raw honey by Portuguese bees. Straight from the hive: pure, unheated, &nbsp;unpasteurized."
+        text="Miele crudo di api portoghesi. Direttamente dall'alveare: puro, non riscaldato e non pastorizzato."
         linkUrl="https://drapis.com/"
     >}}
     {{< merchant
         titleText="Lurento"
         imgSrc="/images/merchants/mer-lurento.png"
-        text="Luxury & sports car rental services, available in Europe and&nbsp;UAE."
+        text="Servizi di noleggio auto di lusso e sportivi, disponibili in Europa e negli Emirati Arabi."
         linkUrl="https://lurento.com/"
     >}}
     {{< merchant
         titleText="SocialTrades"
         imgSrc="/images/merchants/mer-social-trades.png"
-        text="A Social Media Management service with 100,000 trusted customers&nbsp;worldwide."
+        text="Un servizio di gestione dei social media con 100.000 clienti fidati in tutto il mondo."
         linkUrl="https://www.socialtrades.xyz/"
     >}}
     {{< merchant
         titleText="1Gbits"
         imgSrc="/images/merchants/mer-1gbits.png"
-        text="More than 20 world class server centers in more than 15 different&nbsp;countries."
+        text="Più di 20 centri server di classe mondiale in più di 15 paesi diversi."
         linkUrl="https://1gbits.com/"
     >}}
     {{< merchant
         titleText="Domains-Index"
         imgSrc="/images/merchants/mer-domains-index.png"
-        text="List of every registered domain"
+        text="Elenco di tutti i domini registrati"
         linkUrl="https://domains-index.com/"
     >}}
     {{< merchant
         titleText="Keyi Store"
         imgSrc="/images/merchants/keyistore_400x400.jpg"
-        text="We partner with Blockchain companies to enable their cryptocurrency in Keyi Store."
+        text="Collaboriamo con società Blockchain per abilitare la loro criptovaluta in Keyi Store."
         linkUrl="https://keyi.store/"
     >}}
     {{< merchant
         titleText="Print-Ted"
         imgSrc="/images/merchants/print-ted_180x.png"
-        text="Fashionable high quality prints and products designed by our own artists!"
+        text="Stampe e prodotti di alta qualità alla moda disegnati dai nostri artisti!"
         linkUrl="https://print-ted.com/"
     >}}
     {{< merchant
-        titleText="Firo Solutions"
+        titleText="Soluzioni Firo"
         imgSrc="/images/merchants/firo-solutions_400x400.jpg"
-        text="Independent Software Company Firo Solutions is the Vulnerability Management Company"
+        text="Società di software indipendente Firo Solutions è la società di gestione delle vulnerabilità"
         linkUrl="https://firosolutions.com/"
     >}}
     {{< merchant
         titleText="Woop Woop Shop"
         imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
-        text="Shop Best Price & Best Quality Trending Products Shipped Free to Your Doorstep "
+        text="Acquista il miglior prezzo e prodotti di tendenza di alta qualità spediti gratuitamente a domicilio."
         linkUrl="https://www.woopshop.com/"
     >}}
 {{< /item_container_section >}}
