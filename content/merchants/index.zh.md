@@ -96,13 +96,13 @@ newTab="true"
     {{< merchant
         titleText="Firo Solutions"
         imgSrc="/images/merchants/firo-solutions_400x400.jpg"
-        text="独立软件公司Firo Solutions是漏洞管理公司"
+        text="独立软件公司Firo Solutions是漏洞管理公司。"
         linkUrl="https://firosolutions.com/"
     >}}
     {{< merchant
         titleText="Woop Woop Shop"
         imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
-        text="购买最优价格和最优质的趋势产品免费送到您的门前"
+        text="购买最优价格和最优质的趋势产品免费送到您的门前。"
         linkUrl="https://www.woopshop.com/"
     >}}
 {{< /item_container_section >}}

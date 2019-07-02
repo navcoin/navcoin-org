@@ -46,7 +46,7 @@ newTab="true"
     {{< merchant
         titleText="마일 하이 엠뷸런스"
         imgSrc="/images/merchants/mer-mile-high.png"
-        text="구급차의 모든 서비스를 Nav코인으로 결제가&nbsp;가능합니다"
+        text="구급차의 모든 서비스를 Nav코인으로 결제가&nbsp;가능합니다."
         linkUrl="https://milehighambulance.com/now-accepting-navcoin"
     >}}
     {{< merchant
@@ -94,13 +94,13 @@ newTab="true"
     {{< merchant
         titleText="Firo Solutions"
         imgSrc="/images/merchants/firo-solutions_400x400.jpg"
-        text="독립적 인 소프트웨어 회사 인 Firo Solutions는 취약점 관리 회사입니다"
+        text="독립적 인 소프트웨어 회사 인 Firo Solutions는 취약점 관리 회사입니다."
         linkUrl="https://firosolutions.com/"
     >}}
     {{< merchant
         titleText="Woop Woop Shop"
         imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
-        text="최고의 가격 및 최고의 품질 트렌드 제품을 귀하의 도어 스텝으로 무료 배송"
+        text="최고의 가격 및 최고의 품질 트렌드 제품을 귀하의 도어 스텝으로 무료 배송."
         linkUrl="https://www.woopshop.com/"
     >}}
 {{< /item_container_section >}}

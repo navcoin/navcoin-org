@@ -84,7 +84,7 @@ newTab="true"
     {{< merchant
         titleText="Keyi Store"
         imgSrc="/images/merchants/keyistore_400x400.jpg"
-        text="В Keyi Store мы сотрудничаем с компаниями BLockchain, чтобы включить их криптовалюту в Keyi Store"
+        text="В Keyi Store мы сотрудничаем с компаниями BLockchain, чтобы включить их криптовалюту в Keyi Store."
         linkUrl="https://keyi.store/"
     >}}
     {{< merchant
@@ -96,13 +96,13 @@ newTab="true"
     {{< merchant
         titleText="Firo Solutions"
         imgSrc="/images/merchants/firo-solutions_400x400.jpg"
-        text="Независимая софтверная компания Firo Solutions - компания по управлению уязвимостями"
+        text="Независимая софтверная компания Firo Solutions - компания по управлению уязвимостями."
         linkUrl="https://firosolutions.com/"
     >}}
     {{< merchant
         titleText="Woop Woop Shop"
         imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
-        text="Магазин Лучшая цена и лучшие товары качества поставляются бесплатно к вашему порогу"
+        text="Магазин Лучшая цена и лучшие товары качества поставляются бесплатно к вашему порогу."
         linkUrl="https://www.woopshop.com/"
     >}}
 {{< /item_container_section >}}

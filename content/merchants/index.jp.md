@@ -84,7 +84,7 @@ newTab="true"
     {{< merchant
         titleText="Domains-Index"
         imgSrc="/images/merchants/mer-domains-index.png"
-        text="登録ドメイン全てのリスト"
+        text="登録ドメイン全てのリスト。"
         linkUrl="https://domains-index.com/"
     >}}
     {{< merchant
@@ -102,13 +102,13 @@ newTab="true"
     {{< merchant
         titleText="Firoソリューション"
         imgSrc="/images/merchants/firo-solutions_400x400.jpg"
-        text="独立系ソフトウェア会社Firo Solutionsは脆弱性管理会社です"
+        text="独立系ソフトウェア会社Firo Solutionsは脆弱性管理会社です。"
         linkUrl="https://firosolutions.com/"
     >}}
     {{< merchant
         titleText="ウープウープショップ"
         imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
-        text="あなたの玄関口に無料で出荷される最高の価格と最高の品質のトレンド商品を購入する"
+        text="あなたの玄関口に無料で出荷される最高の価格と最高の品質のトレンド商品を購入する。"
         linkUrl="https://www.woopshop.com/"
     >}}
 {{< /item_container_section >}}

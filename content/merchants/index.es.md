@@ -100,7 +100,7 @@ newTab="true"
     {{< merchant
         titleText="Woop Woop Shop"
         imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
-        text="Compre el mejor precio y la mejor calidad Los productos de tendencias se envían gratis a su puerta"
+        text="Compre el mejor precio y la mejor calidad Los productos de tendencias se envían gratis a su puerta."
         linkUrl="https://www.woopshop.com/"
     >}}
 {{< /item_container_section >}}

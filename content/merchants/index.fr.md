@@ -102,13 +102,13 @@ newTab="true"
     {{< merchant
         titleText="Solutions Firo"
         imgSrc="/images/merchants/firo-solutions_400x400.jpg"
-        text="Société de logiciels indépendante Firo Solutions est la société de gestion de la vulnérabilité"
+        text="Société de logiciels indépendante Firo Solutions est la société de gestion de la vulnérabilité."
         linkUrl="https://firosolutions.com/"
     >}}
     {{< merchant
         titleText="Woop Woop Boutique"
         imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
-        text="Magasinez au meilleur prix et à la meilleure qualité des produits tendance livrés gratuitement à votre porte"
+        text="Magasinez au meilleur prix et à la meilleure qualité des produits tendance livrés gratuitement à votre porte."
         linkUrl="https://www.woopshop.com/"
     >}}
 {{< /item_container_section >}}

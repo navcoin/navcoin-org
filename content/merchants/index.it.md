@@ -102,7 +102,7 @@ newTab="true"
     {{< merchant
         titleText="Soluzioni Firo"
         imgSrc="/images/merchants/firo-solutions_400x400.jpg"
-        text="Società di software indipendente Firo Solutions è la società di gestione delle vulnerabilità"
+        text="Società di software indipendente Firo Solutions è la società di gestione delle vulnerabilità."
         linkUrl="https://firosolutions.com/"
     >}}
     {{< merchant

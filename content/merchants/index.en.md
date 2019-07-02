@@ -102,13 +102,13 @@ newTab="true"
     {{< merchant
         titleText="Firo Solutions"
         imgSrc="/images/merchants/firo-solutions_400x400.jpg"
-        text="Independent Software Company Firo Solutions is the Vulnerability Management Company"
+        text="Independent Software Company Firo Solutions is the Vulnerability Management Company."
         linkUrl="https://firosolutions.com/"
     >}}
     {{< merchant
         titleText="Woop Woop Shop"
         imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
-        text="Shop Best Price & Best Quality Trending Products Shipped Free to Your Doorstep "
+        text="Shop Best Price & Best Quality Trending Products Shipped Free to Your Doorstep."
         linkUrl="https://www.woopshop.com/"
     >}}
 {{< /item_container_section >}}
