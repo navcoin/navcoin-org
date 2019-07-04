@@ -81,6 +81,30 @@ newTab="true"
         text="Более 20 сервисных центров мирового класса в более чем 15&nbsp;странах."
         linkUrl="https://1gbits.com/"
     >}}
+    {{< merchant
+        titleText="Keyi Store"
+        imgSrc="/images/merchants/keyistore_400x400.jpg"
+        text="В Keyi Store мы сотрудничаем с компаниями BLockchain, чтобы включить их криптовалюту в Keyi Store"
+        linkUrl="https://keyi.store/"
+    >}}
+    {{< merchant
+        titleText="Print-Ted"
+        imgSrc="/images/merchants/print-ted_180x.png"
+        text="Модные высококачественные принты и изделия, созданные нашими собственными художниками!"
+        linkUrl="https://print-ted.com/"
+    >}}
+    {{< merchant
+        titleText="Firo Solutions"
+        imgSrc="/images/merchants/firo-solutions_400x400.jpg"
+        text="Независимая софтверная компания Firo Solutions - компания по управлению уязвимостями."
+        linkUrl="https://firosolutions.com/"
+    >}}
+    {{< merchant
+        titleText="Woop Woop Shop"
+        imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
+        text="Магазин Лучшая цена и лучшие товары качества поставляются бесплатно к вашему порогу."
+        linkUrl="https://www.woopshop.com/"
+    >}}
 {{< /item_container_section >}}
 
 {{< item_container_section
