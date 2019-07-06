@@ -43,10 +43,6 @@ enableRobotsTXT = true
         title = "NavCoin - An Easy To Use Decentralized Cryptocurrency"
         weight = 6
         languageName = "日本語"
-    [Languages.fr]
-        languageName = "French"
-        title = "NavCoin - An Easy To Use Decentralized Cryptocurrency"
-        weight = 7
     [Languages.it]
         title = "NavCoin - Una criptovaluta facile da utilizzare "
         weight = 8
@@ -161,6 +157,13 @@ enableRobotsTXT = true
     url = "/community-fund/"
 
 [[Languages.en.menu.main]]
+    name = "Bounties"
+    title = "Bounties"
+    weight = 45
+    identifier = "bounties"
+    url = "/bounties/"
+
+[[Languages.en.menu.main]]
     name = "Wallets"
     title = "Wallets"
     weight = 50
@@ -272,6 +275,13 @@ enableRobotsTXT = true
     weight = 40
     identifier = "community-fund"
     url = "/community-fund/"
+
+[[Languages.es.menu.main]]
+    name = "Recompensas"
+    title = "Recompensas"
+    weight = 45
+    identifier = "bounties"
+    url = "/bounties/"
 
 [[Languages.es.menu.main]]
     name = "Monederos"
@@ -388,6 +398,13 @@ enableRobotsTXT = true
     url = "/community-fund/"
 
 [[Languages.ru.menu.main]]
+    name = "щедроты"
+    title = "щедроты"
+    weight = 45
+    identifier = "bounties"
+    url = "/bounties/"
+
+[[Languages.ru.menu.main]]
     name = "Кошельки"
     title = "Кошельки"
     weight = 50
@@ -502,6 +519,13 @@ enableRobotsTXT = true
     url = "/community-fund/"
 
 [[Languages.zh.menu.main]]
+    name = "赏金"
+    title = "奖金"
+    weight = 45
+    identifier = "bounties"
+    url = "/bounties/"
+
+[[Languages.zh.menu.main]]
     name = "钱包"
     title = "钱包"
     weight = 50
@@ -512,69 +536,69 @@ enableRobotsTXT = true
 # Main Menu Korean
 
 [[Languages.kr.menu.main]]
-    name = "Get Started"
-    title = "Get Started"
+    name = "시작하다"
+    title = "시작하다"
     weight = 10
     identifier = "get-started"
     depth = 1
     [[Languages.kr.menu.main]]
-        name = "Why NavCoin"
-        title = "Why NavCoin"
+        name = "왜 NavCoin인가?"
+        title = "왜 NavCoin인가?"
         weight = 20
         url = "/why-navcoin/"
         identifier = "why-navcoin"
         parent = "get-started"
     [[Languages.kr.menu.main]]
-        name = "Governance"
-        title = "Governance"
+        name = "통치"
+        title = "통치"
         weight = 30
         url = "/governance/"
         identifier = "governance"
         parent = "get-started"
     [[Languages.kr.menu.main]]
-        name = "For Individuals"
-        title = "For Individuals"
+        name = "개인용"
+        title = "개인용"
         weight = 40
         url = "/for-individuals/"
         identifier = "for-individuals"
         parent = "get-started"
     [[Languages.kr.menu.main]]
-        name = "For Developers"
-        title = "For Developers"
+        name = "프로그래머 용"
+        title = "프로그래머 용"
         weight = 50
         identifier = "for-developers"
         url = "/for-developers/"
         parent="get-started"
     [[Languages.kr.menu.main]]
-        name = "For Businesses"
-        title = "For Businesses"
+        name = "기업용"
+        title = "기업용"
         weight = 60
         identifier = "for-business"
         url = "/for-business/"
         parent="get-started"
     [[Languages.kr.menu.main]]
-        name = "Buy NavCoin"
-        title = "Buy NavCoin"
+        name = "NavCoin 구입"
+        title = "NavCoin 구입"
         weight = 70
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"
         parent = "get-started"
 
 [[Languages.kr.menu.main]]
-    name = "Explore"
-    title = "Explore"
+    name = "발견하다"
+    title = "발견하다"
     weight = 20
     identifier = "explore"
     [[Languages.kr.menu.main]]
-        name = "Roadmap"
-        title = "Roadmap"
+        name = "로드맵"
+        title = "로드맵"
         weight = 20
         url = "/roadmap/"
         identifier = "roadmap"
         parent = "explore"
     [[Languages.kr.menu.main]]
-        name = "Block Explorer"
-        title = "Block Explorer"
+        name = "블록 탐색기"
+        title = "블록 탐색기"
         weight = 30
         url = "https://navexplorer.com"
         identifier = "block-explorer"
@@ -587,44 +611,51 @@ enableRobotsTXT = true
         identifier = "navhub"
         parent = "explore"
     [[Languages.kr.menu.main]]
-        name = "Merchants"
-        title = "Merchants"
+        name = "상인"
+        title = "상인"
         weight = 50
         url = "/merchants/"
         identifier = "merchants"
         parent = "explore"
     [[Languages.kr.menu.main]]
-        name = "Get Involved"
-        title = "Get Involved"
+        name = "참여하다"
+        title = "참여하다"
         weight = 60
         url = "/get-involved/"
         identifier = "get-involved"
         parent = "explore"
 
 [[Languages.kr.menu.main]]
-    name = "News"
-    title = "News"
+    name = "뉴스"
+    title = "뉴스"
     url="/notices/"
     weight = 30
     identifier = "news"
 
 [[Languages.kr.menu.main]]
-    name = "Community Fund"
-    title = "Community Fund"
+    name = "커뮤니티 기금"
+    title = "커뮤니티 기금"
     weight = 40
     identifier = "community-fund"
     url = "/community-fund/"
 
 [[Languages.kr.menu.main]]
-    name = "Wallets"
-    title = "Wallets"
+    name = "현상금"
+    title = "현상금"
+    weight = 45
+    identifier = "bounties"
+    url = "/bounties/"
+
+[[Languages.kr.menu.main]]
+    name = "지갑"
+    title = "지갑"
     weight = 50
     identifier = "wallets"
     url = "/wallets/"
 
 
 
-# Main Menu French
+# Main Menu Japanese
 
 [[Languages.jp.menu.main]]
     name = "Get Started"
@@ -729,6 +760,13 @@ enableRobotsTXT = true
     weight = 40
     identifier = "community-fund"
     url = "/community-fund/"
+
+[[Languages.jp.menu.main]]
+    name = "Bounties"
+    title = "Bounties"
+    weight = 45
+    identifier = "bounties"
+    url = "/bounties/"
 
 [[Languages.jp.menu.main]]
     name = "Wallets"
@@ -842,6 +880,13 @@ enableRobotsTXT = true
     weight = 40
     identifier = "community-fund"
     url = "/community-fund/"
+
+[[Languages.it.menu.main]]
+    name = "Bounties"
+    title = "Bounties"
+    weight = 45
+    identifier = "bounties"
+    url = "/bounties/"
 
 [[Languages.it.menu.main]]
     name = "Wallets"
