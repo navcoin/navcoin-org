@@ -77,7 +77,7 @@ newTab="true"
 {{< merchant
         titleText="Domains-Index"
         imgSrc="/images/merchants/mer-domains-index.png"
-        text="List of every registered domain"
+        text="每个注册域名列表"
         linkUrl="https://domains-index.com/"
     >}}
     {{< merchant
@@ -104,6 +104,55 @@ newTab="true"
         text="购买最优价格和最优质的趋势产品免费送到您的门前。"
         linkUrl="https://www.woopshop.com/"
     >}}
+    {{< merchant
+        titleText="Bidali Store"
+        imgSrc="/images/merchants/Bidali_400x400.jpg"
+        text="帮助小型和大型公司接受下一代付款。"
+        linkUrl="https://www.bidali.com/"
+    >}}
+    {{< merchant
+        titleText="Get Ballistic"
+        imgSrc="/images/merchants/get-ballistic_400x400.jpg"
+        text="夏威夷的防弹板体育场1996年为波浪爱好者。"
+        linkUrl="http://www.getballistic.com/"
+    >}}
+    {{< merchant
+        titleText="Prontocardiologia"
+        imgSrc="/images/merchants/prontocardiologia.jpg"
+        text="Prontocardiologia."
+        linkUrl="http://www.prontocardiologia.it/"
+    >}}
+    {{< merchant
+        titleText="Like At Home"
+        imgSrc="/images/merchants/likeathome_logo.png"
+        text="我们很高兴欢迎您成为我们1765年中年风格公寓的潜在客人！"
+        linkUrl="http://likeathome.lv/en"
+    >}}
+    {{< merchant
+        titleText="MonoVm"
+        imgSrc="/images/merchants/monovm_400x400.jpg"
+        text="MonoVM网络解决方案.VPS，域和虚拟主机。"
+        linkUrl="https://monovm.com/"
+    >}}
+    {{< merchant
+        titleText="Toys4Sex"
+        imgSrc="/images/merchants/toys4sex.png"
+        text="精选的成人产品系列。"
+        linkUrl="http://toys4sex.com.au/"
+    >}}
+    {{< merchant
+        titleText="SEO Better"
+        imgSrc="/images/merchants/seo-better_400x400.png"
+        text="这些在线课程的目的是为您提供在线增加收入所需的技能和工具。"
+        linkUrl="https://seobetter.com/"
+    >}}
+    {{< merchant
+        titleText="Natural Pet Shop"
+        imgSrc="/images/merchants/natural-petshop.jpg"
+        text="我们的狗床有柔软的衬垫侧面，可以很容易地手洗，以保持特殊狗的清洁。"
+        linkUrl="https://naturalpetshop.com.au/"
+    >}}
+
 {{< /item_container_section >}}
 
 {{< item_container_section

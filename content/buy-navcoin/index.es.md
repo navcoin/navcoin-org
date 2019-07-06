@@ -187,6 +187,24 @@ newTab="true"
         text="Multi Currency / NAV"
         linkUrl="https://www.coinzark.com/nav"
     >}}
+    {{< exchange
+        titleText="Zwaply"
+        imgSrc="/images/buy-navcoin/zwaply.png"
+        text="Intercambia criptografía al instante."
+        linkUrl="https://zwaply.com/"
+    >}}
+    {{< exchange
+        titleText="Crypto Wolf"
+        imgSrc="/images/buy-navcoin/cryptowolf.png"
+        text=" Privacidad reinventada. ¡Cómo deben ser los intercambios entre cadenas!"
+        linkUrl="https://cryptowolf.eu/"
+    >}}
+    {{< exchange
+        titleText="Sato Wallet Exchange"
+        imgSrc="/images/buy-navcoin/sato-wallet_400x400.png"
+        text="Disfrute de operaciones flexibles, apuestas, inversiones y almacenamiento de su Criptomoneda."
+        linkUrl="https://satowallet.com/"
+    >}}
 {{< /item_container_section >}}
 
 {{< center_text_cta

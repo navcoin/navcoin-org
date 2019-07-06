@@ -103,6 +103,73 @@ newTab="true"
         text="최고의 가격 및 최고의 품질 트렌드 제품을 귀하의 도어 스텝으로 무료 배송."
         linkUrl="https://www.woopshop.com/"
     >}}
+    {{< merchant
+        titleText="Bidali Store"
+        imgSrc="/images/merchants/Bidali_400x400.jpg"
+        text="중소기업이 차세대 지불을 허용하도록 돕습니다."
+        linkUrl="https://www.bidali.com/"
+    >}}
+    {{< merchant
+        titleText="Get Ballistic"
+        imgSrc="/images/merchants/get-ballistic_400x400.jpg"
+        text="Wave 매니아를위한 탄도 보디 보드 Hawaii est 1996."
+        linkUrl="http://www.getballistic.com/"
+    >}}
+    {{< merchant
+        titleText="Prontocardiologia"
+        imgSrc="/images/merchants/prontocardiologia.jpg"
+        text="Prontocardiologia."
+        linkUrl="http://www.prontocardiologia.it/"
+    >}}
+    {{< merchant
+        titleText="Like At Home"
+        imgSrc="/images/merchants/likeathome_logo.png"
+        text="우리는 1765 년 중세 스타일의 아파트에서 당신을 환영합니다."
+        linkUrl="http://likeathome.lv/en"
+    >}}
+    {{< merchant
+        titleText="MonoVm"
+        imgSrc="/images/merchants/monovm_400x400.jpg"
+        text="MonoVM 네트워크 솔루션 .VPS, 도메인 및 웹 호스팅."
+        linkUrl="https://monovm.com/"
+    >}}
+    {{< merchant
+        titleText="Toys4Sex"
+        imgSrc="/images/merchants/toys4sex.png"
+        text="특별히 선정한 성인용 제품입니다."
+        linkUrl="http://toys4sex.com.au/"
+    >}}
+    {{< merchant
+        titleText="SEO Better"
+        imgSrc="/images/merchants/seo-better_400x400.png"
+        text="이 온라인 과정의 요점은 온라인 매출 증대에 필요한 기술과 도구를 제공하는 것입니다."
+        linkUrl="https://seobetter.com/"
+    >}}
+    {{< merchant
+        titleText="Natural Pet Shop"
+        imgSrc="/images/merchants/natural-petshop.jpg"
+        text="우리의 개 침대에는 부드러운 패딩 처리 된면이 있으며, 그 특별한 멍멍이를 깨끗하게 유지하기 위해 쉽게 손을 씻을 수 있습니다."
+        linkUrl="https://naturalpetshop.com.au/"
+    >}}
+    {{< exchange
+        titleText="Zwaply"
+        imgSrc="/images/buy-navcoin/zwaply.png"
+        text="Exchange Crypto 즉시."
+        linkUrl="https://zwaply.com/"
+    >}}
+    {{< exchange
+        titleText="Crypto Wolf"
+        imgSrc="/images/buy-navcoin/cryptowolf.png"
+        text="프라이버시가 재발되었습니다. 교차 사슬 교환은 어떻게 이루어져야합니다!"
+        linkUrl="https://cryptowolf.eu/"
+    >}}
+    {{< exchange
+        titleText="Sato Wallet Exchange"
+        imgSrc="/images/buy-navcoin/sato-wallet_400x400.png"
+        text="유연한 거래, 스테이크, 투자 및 Cryptocurrency 저장."
+        linkUrl="https://satowallet.com/"
+    >}}
+
 {{< /item_container_section >}}
 
 {{< item_container_section

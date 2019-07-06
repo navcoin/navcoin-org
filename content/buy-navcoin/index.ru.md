@@ -157,7 +157,7 @@ newTab="подлинный"
           text="Турецкая биржа"
           linkUrl="https://www.coinxtr.com/"
       >}}
-{{< exchange
+    {{< exchange
         titleText="Simple Swap"
         imgSrc="/images/buy-navcoin/simpleswap_400x400.jpg"
         text="Мульти валюта / NAV"
@@ -186,6 +186,24 @@ newTab="подлинный"
         imgSrc="/images/buy-navcoin/coinzark_400x400.png"
         text="Мульти валюта / NAV"
         linkUrl="https://www.coinzark.com/nav"
+    >}}
+    {{< exchange
+        titleText="Zwaply"
+        imgSrc="/images/buy-navcoin/zwaply.png"
+        text="Обмен Крипто Мгновенно."
+        linkUrl="https://zwaply.com/"
+    >}}
+    {{< exchange
+        titleText="Crypto Wolf"
+        imgSrc="/images/buy-navcoin/cryptowolf.png"
+        text="Конфиденциальность переизобретена. Каким должен быть кросс-цепной обмен!"
+        linkUrl="https://cryptowolf.eu/"
+    >}}
+    {{< exchange
+        titleText="Sato Wallet Exchange"
+        imgSrc="/images/buy-navcoin/sato-wallet_400x400.png"
+        text="Наслаждайтесь гибкой торговлей, размещением, инвестированием и хранением своей криптовалюты."
+        linkUrl="https://satowallet.com/"
     >}}
 {{< /item_container_section >}}
 

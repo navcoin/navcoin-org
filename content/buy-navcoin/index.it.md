@@ -16,7 +16,7 @@ buttonImgSrc="/images/icons/rightward-arrow.svg"
 newTab="true"
 >}}
 {{< item_container_section
-    titleText="Exchanges"
+    titleText="scambi"
     subtitleText="NavCoin è acquistabile sui seguenti&nbsp;exchanges"
 >}}
     {{< exchange
@@ -186,6 +186,24 @@ newTab="true"
         imgSrc="/images/buy-navcoin/coinzark_400x400.png"
         text="Multi Currency / NAV"
         linkUrl="https://www.coinzark.com/nav"
+    >}}
+    {{< exchange
+        titleText="Zwaply"
+        imgSrc="/images/buy-navcoin/zwaply.png"
+        text="Scambia Crypto all'istante."
+        linkUrl="https://zwaply.com/"
+    >}}
+    {{< exchange
+        titleText="Crypto Wolf"
+        imgSrc="/images/buy-navcoin/cryptowolf.png"
+        text="Privacy reinventata. Come dovrebbero essere gli scambi cross-chain!"
+        linkUrl="https://cryptowolf.eu/"
+    >}}
+    {{< exchange
+        titleText="Sato Wallet Exchange"
+        imgSrc="/images/buy-navcoin/sato-wallet_400x400.png"
+        text="Goditi il trading flessibile, scommetti, investi e conserva la tua criptovaluta."
+        linkUrl="https://satowallet.com/"
     >}}
 {{< /item_container_section >}}
 

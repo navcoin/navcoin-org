@@ -187,6 +187,24 @@ newTab="true"
         text="복수 통화 / NAV"
         linkUrl="https://www.coinzark.com/nav"
     >}}
+    {{< exchange
+        titleText="Zwaply"
+        imgSrc="/images/buy-navcoin/zwaply.png"
+        text="Exchange Crypto 즉시."
+        linkUrl="https://zwaply.com/"
+    >}}
+    {{< exchange
+        titleText="Crypto Wolf"
+        imgSrc="/images/buy-navcoin/cryptowolf.png"
+        text=" 프라이버시가 재발되었습니다. 교차 사슬 교환은 어떻게 이루어져야합니다!"
+        linkUrl="https://cryptowolf.eu/"
+    >}}
+    {{< exchange
+        titleText="Sato Wallet Exchange"
+        imgSrc="/images/buy-navcoin/sato-wallet_400x400.png"
+        text="유연한 거래, 스테이크, 투자 및 Cryptocurrency 저장."
+        linkUrl="https://satowallet.com/"
+    >}}
 {{< /item_container_section >}}
 
 

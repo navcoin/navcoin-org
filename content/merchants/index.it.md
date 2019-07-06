@@ -104,6 +104,55 @@ newTab="true"
         text="Acquista il miglior prezzo e prodotti di tendenza di alta qualità spediti gratuitamente a domicilio."
         linkUrl="https://www.woopshop.com/"
     >}}
+    {{< merchant
+        titleText="Bidali Store"
+        imgSrc="/images/merchants/Bidali_400x400.jpg"
+        text="Aiutare piccole e grandi aziende ad accettare pagamenti di nuova generazione."
+        linkUrl="https://www.bidali.com/"
+    >}}
+    {{< merchant
+        titleText="Get Ballistic"
+        imgSrc="/images/merchants/get-ballistic_400x400.jpg"
+        text="Ballistic Bodyboards Hawaii est. 1996 per gli appassionati di onde."
+        linkUrl="http://www.getballistic.com/"
+    >}}
+    {{< merchant
+        titleText="Prontocardiologia"
+        imgSrc="/images/merchants/prontocardiologia.jpg"
+        text="Prontocardiologia."
+        linkUrl="http://www.prontocardiologia.it/"
+    >}}
+    {{< merchant
+        titleText="Like At Home"
+        imgSrc="/images/merchants/likeathome_logo.png"
+        text="Siamo felici di darti il benvenuto come nostro potenziale ospite negli appartamenti in stile medievale - anno 1765!"
+        linkUrl="http://likeathome.lv/en"
+    >}}
+    {{< merchant
+        titleText="MonoVm"
+        imgSrc="/images/merchants/monovm_400x400.jpg"
+        text="MonoVM Network Solutions.VPS, dominio e Web Hosting."
+        linkUrl="https://monovm.com/"
+    >}}
+    {{< merchant
+        titleText="Toys4Sex"
+        imgSrc="/images/merchants/toys4sex.png"
+        text="Una gamma appositamente selezionata di prodotti per adulti."
+        linkUrl="http://toys4sex.com.au/"
+    >}}
+    {{< merchant
+        titleText="SEO Better"
+        imgSrc="/images/merchants/seo-better_400x400.png"
+        text="Il punto di questi corsi online è quello di fornire le competenze e gli strumenti necessari per far crescere le tue entrate online."
+        linkUrl="https://seobetter.com/"
+    >}}
+    {{< merchant
+        titleText="Natural Pet Shop"
+        imgSrc="/images/merchants/natural-petshop.jpg"
+        text="I nostri letti per cani hanno morbidi lati imbottiti e possono essere lavati facilmente a mano per mantenere pulito quel cagnaccio speciale."
+        linkUrl="https://naturalpetshop.com.au/"
+    >}}
+
 {{< /item_container_section >}}
 
 {{< item_container_section

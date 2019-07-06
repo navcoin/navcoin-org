@@ -187,6 +187,24 @@ newTab="正确的"
         text="多币种 / NAV"
         linkUrl="https://www.coinzark.com/nav"
     >}}
+    {{< exchange
+        titleText="Zwaply"
+        imgSrc="/images/buy-navcoin/zwaply.png"
+        text="立即交换加密."
+        linkUrl="https://zwaply.com/"
+    >}}
+    {{< exchange
+        titleText="Crypto Wolf"
+        imgSrc="/images/buy-navcoin/cryptowolf.png"
+        text="隐私重新发明。 交叉链交换应该如何！"
+        linkUrl="https://cryptowolf.eu/"
+    >}}
+    {{< exchange
+        titleText="Sato Wallet Exchange"
+        imgSrc="/images/buy-navcoin/sato-wallet_400x400.png"
+        text="享受灵活的交易，赌注，投资和存储您的加密货币."
+        linkUrl="https://satowallet.com/"
+    >}}
 
 {{< /item_container_section >}}
 

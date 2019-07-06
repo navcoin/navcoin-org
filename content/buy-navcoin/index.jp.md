@@ -187,6 +187,24 @@ newTab="true"
         text="多通貨 / NAV"
         linkUrl="https://www.coinzark.com/nav"
     >}}
+    {{< exchange
+        titleText="Zwaply"
+        imgSrc="/images/buy-navcoin/zwaply.png"
+        text="即座に暗号を交換する。"
+        linkUrl="https://zwaply.com/"
+    >}}
+    {{< exchange
+        titleText="Crypto Wolf"
+        imgSrc="/images/buy-navcoin/cryptowolf.png"
+        text="プライバシーを一新しました。 クロスチェーン交換はどうあるべきか！"
+        linkUrl="https://cryptowolf.eu/"
+    >}}
+    {{< exchange
+        titleText="Sato Wallet Exchange"
+        imgSrc="/images/buy-navcoin/sato-wallet_400x400.png"
+        text="あなたの暗号通貨の柔軟な取引、賭け、投資、そして保管をお楽しみください。"
+        linkUrl="https://satowallet.com/"
+    >}}
 {{< /item_container_section >}}
 
 

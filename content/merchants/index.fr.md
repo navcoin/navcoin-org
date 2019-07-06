@@ -104,6 +104,55 @@ newTab="true"
         text="Magasinez au meilleur prix et à la meilleure qualité des produits tendance livrés gratuitement à votre porte."
         linkUrl="https://www.woopshop.com/"
     >}}
+{{< merchant
+        titleText="Bidali Store"
+        imgSrc="/images/merchants/Bidali_400x400.jpg"
+        text="Aider les petites et grandes entreprises à accepter les paiements de prochaine génération."
+        linkUrl="https://www.bidali.com/"
+    >}}
+    {{< merchant
+        titleText="Get Ballistic"
+        imgSrc="/images/merchants/get-ballistic_400x400.jpg"
+        text="Ballistic Bodyboards Hawaii est. 1996 pour les amateurs de vagues."
+        linkUrl="http://www.getballistic.com/"
+    >}}
+    {{< merchant
+        titleText="Prontocardiologia"
+        imgSrc="/images/merchants/prontocardiologia.jpg"
+        text="Prontocardiologia."
+        linkUrl="http://www.prontocardiologia.it/"
+    >}}
+    {{< merchant
+        titleText="Like At Home"
+        imgSrc="/images/merchants/likeathome_logo.png"
+        text="Nous sommes heureux de vous accueillir comme notre invité potentiel dans des appartements de style moyenâgeux - année 1765!"
+        linkUrl="http://likeathome.lv/en"
+    >}}
+    {{< merchant
+        titleText="MonoVm"
+        imgSrc="/images/merchants/monovm_400x400.jpg"
+        text="MonoVM Network Solutions.Hébergement Web, Hébergement Web et VPS."
+        linkUrl="https://monovm.com/"
+    >}}
+    {{< merchant
+        titleText="Toys4Sex"
+        imgSrc="/images/merchants/toys4sex.png"
+        text="Une gamme de produits pour adultes spécialement sélectionnés."
+        linkUrl="http://toys4sex.com.au/"
+    >}}
+    {{< merchant
+        titleText="SEO Better"
+        imgSrc="/images/merchants/seo-better_400x400.png"
+        text="Le but de ces cours en ligne est de vous fournir les compétences et les outils nécessaires pour augmenter vos revenus en ligne."
+        linkUrl="https://seobetter.com/"
+    >}}
+    {{< merchant
+        titleText="Natural Pet Shop"
+        imgSrc="/images/merchants/natural-petshop.jpg"
+        text="Nos lits pour chiens ont des côtés rembourrés et peuvent être facilement lavés à la main pour rester propres pour ce chien spécial."
+        linkUrl="https://naturalpetshop.com.au/"
+    >}}
+
 {{< /item_container_section >}}
 
 {{< item_container_section

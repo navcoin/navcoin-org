@@ -104,6 +104,55 @@ newTab="true"
         text="あなたの玄関口に無料で出荷される最高の価格と最高の品質のトレンド商品を購入する。"
         linkUrl="https://www.woopshop.com/"
     >}}
+    {{< merchant
+        titleText="Bidali Store"
+        imgSrc="/images/merchants/Bidali_400x400.jpg"
+        text="中小企業が次世代の支払いを受け入れるのを助けます。"
+        linkUrl="https://www.bidali.com/"
+    >}}
+    {{< merchant
+        titleText="Get Ballistic"
+        imgSrc="/images/merchants/get-ballistic_400x400.jpg"
+        text="Ballistic Bodyboards Hawaiiは1996年にウェイブファンのために開催されました。"
+        linkUrl="http://www.getballistic.com/"
+    >}}
+    {{< merchant
+        titleText="Prontocardiologia"
+        imgSrc="/images/merchants/prontocardiologia.jpg"
+        text="Prontocardiologia."
+        linkUrl="http://www.prontocardiologia.it/"
+    >}}
+    {{< merchant
+        titleText="Like At Home"
+        imgSrc="/images/merchants/likeathome_logo.png"
+        text="1765年 - 私たちはミドルエイジスタイルのアパートで私たちの潜在的なゲストとしてあなたを歓迎して嬉しく思います！"
+        linkUrl="http://likeathome.lv/en"
+    >}}
+    {{< merchant
+        titleText="MonoVm"
+        imgSrc="/images/merchants/monovm_400x400.jpg"
+        text="MonoVMネットワークソリューション。VPS、ドメイン、そしてWebホスティング。"
+        linkUrl="https://monovm.com/"
+    >}}
+    {{< merchant
+        titleText="Toys4Sex"
+        imgSrc="/images/merchants/toys4sex.png"
+        text="アダルト商品の特別に選択された範囲。"
+        linkUrl="http://toys4sex.com.au/"
+    >}}
+    {{< merchant
+        titleText="SEO Better"
+        imgSrc="/images/merchants/seo-better_400x400.png"
+        text="これらのオンラインコースのポイントは、あなたの収入をオンラインで増やすために必要なスキルとツールをあなたに提供することです。"
+        linkUrl="https://seobetter.com/"
+    >}}
+    {{< merchant
+        titleText="Natural Pet Shop"
+        imgSrc="/images/merchants/natural-petshop.jpg"
+        text=「われわれのドッグベッドは柔らかいパッドで覆われた側面を持っていて、そしてその特別な犬をきれいに保つために簡単に手洗いすることができます。」
+        linkUrl="https://naturalpetshop.com.au/"
+    >}}
+
 {{< /item_container_section >}}
 
 {{< item_container_section

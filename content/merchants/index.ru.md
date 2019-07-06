@@ -68,7 +68,7 @@ newTab="true"
         text="Более 20 сервисных центров мирового класса в более чем 15&nbsp;странах."
         linkUrl="https://1gbits.com/"
     >}}
-{{< merchant
+    {{< merchant
         titleText="Domains-Index"
         imgSrc="/images/merchants/mer-domains-index.png"
         text="List of every registered domain"
@@ -98,6 +98,55 @@ newTab="true"
         text="Магазин Лучшая цена и лучшие товары качества поставляются бесплатно к вашему порогу."
         linkUrl="https://www.woopshop.com/"
     >}}
+{{< merchant
+        titleText="Bidali Store"
+        imgSrc="/images/merchants/Bidali_400x400.jpg"
+        text="Помощь малым и крупным компаниям в приеме платежей следующего поколения."
+        linkUrl="https://www.bidali.com/"
+    >}}
+    {{< merchant
+        titleText="Get Ballistic"
+        imgSrc="/images/merchants/get-ballistic_400x400.jpg"
+        text="Баллистические Bodyboard Гавайи Est. 1996 для любителей волн."
+        linkUrl="http://www.getballistic.com/"
+    >}}
+    {{< merchant
+        titleText="Prontocardiologia"
+        imgSrc="/images/merchants/prontocardiologia.jpg"
+        text="Prontocardiologia."
+        linkUrl="http://www.prontocardiologia.it/"
+    >}}
+    {{< merchant
+        titleText="Like At Home"
+        imgSrc="/images/merchants/likeathome_logo.png"
+        text="Мы рады приветствовать вас в качестве нашего потенциального гостя в апартаментах в стиле средневековья - 1765 год!"
+        linkUrl="http://likeathome.lv/en"
+    >}}
+    {{< merchant
+        titleText="MonoVm"
+        imgSrc="/images/merchants/monovm_400x400.jpg"
+        text="Сетевые решения MonoVM. VPS, домен и веб-хостинг."
+        linkUrl="https://monovm.com/"
+    >}}
+    {{< merchant
+        titleText="Toys4Sex"
+        imgSrc="/images/merchants/toys4sex.png"
+        text="Специально подобранный ассортимент товаров для взрослых."
+        linkUrl="http://toys4sex.com.au/"
+    >}}
+    {{< merchant
+        titleText="SEO Better"
+        imgSrc="/images/merchants/seo-better_400x400.png"
+        text="Смысл этих онлайн-курсов заключается в том, чтобы предоставить вам навыки и инструменты, необходимые для увеличения вашего дохода в Интернете."
+        linkUrl="https://seobetter.com/"
+    >}}
+    {{< merchant
+        titleText="Natural Pet Shop"
+        imgSrc="/images/merchants/natural-petshop.jpg"
+        text="Наши кровати для собак имеют мягкие боковые стороны, и их можно легко мыть вручную, чтобы содержать в чистоте для этого особого пса."
+        linkUrl="https://naturalpetshop.com.au/"
+    >}}
+
 {{< /item_container_section >}}
 
 {{< item_container_section
