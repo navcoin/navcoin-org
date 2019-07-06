@@ -26,14 +26,7 @@ newTab="true"
         text="CoinPayments を利用した70 以上の小売店でNAVが使用可能&nbsp;です。"
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}}
-
     {{< merchant
-        titleText="NavPi ストア"
-        imgSrc="/images/merchants/mer-navpi.png"
-        text="NavCoin を使ってNavPi を購入し、貴方のNAVを 簡単に24時間ステーキング a&nbsp;する事ができます。"
-        linkUrl="https://navpi.navcoinstore.com/product/navpi-stakebox/"
-    >}}
-     {{< merchant
         titleText="NavCoin オリジナルグッズ販売"
         imgSrc="/images/merchants/mer-nav.png"
         text="ストアでは、色々な種類のNavCoin オリジナルグッズを販売しています。NavCoin オリジナルグッズを身に着けて&nbsp;自慢しましょう。"

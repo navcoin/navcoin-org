@@ -26,19 +26,6 @@ newTab="true"
         text="Более 70 продавцов принимают NAV с помощью торгового шлюза&nbsp;CoinPayments."
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}}
-
-    {{< merchant
-        titleText="Магазин NavPi"
-        imgSrc="/images/merchants/mer-navpi.png"
-        text="Покупайте NavPi с NavCoin, чтобы легко заниматься стекингом NAV, 24 часа в&nbsp;сутки."
-        linkUrl="https://navpi.navcoinstore.com/product/navpi-stakebox/"
-    >}}
-     {{< merchant
-        titleText="Магазин товаров NavCoin"
-        imgSrc="/images/merchants/mer-nav.png"
-        text="С гордстью носите NavCoin выбрав что-то из этого ассортимента фирменных&nbsp;товаров."
-        linkUrl="https://navcoinstore.com/"
-    >}}
     {{< merchant
         titleText="BitcoinGallery.Art"
         imgSrc="/images/merchants/mer-bitcoingallery.png"
@@ -80,6 +67,12 @@ newTab="true"
         imgSrc="/images/merchants/mer-1gbits.png"
         text="Более 20 сервисных центров мирового класса в более чем 15&nbsp;странах."
         linkUrl="https://1gbits.com/"
+    >}}
+{{< merchant
+        titleText="Domains-Index"
+        imgSrc="/images/merchants/mer-domains-index.png"
+        text="List of every registered domain"
+        linkUrl="https://domains-index.com/"
     >}}
     {{< merchant
         titleText="Keyi Store"

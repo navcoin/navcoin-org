@@ -27,11 +27,8 @@ newTab="true"
         imgSrc="/images/merchants/mer-coinpayment.png"
         text="Más de 70 comerciantes aceptan NAV mediante el portal de&nbsp;CoinPayments."
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
-    >}}
-
-   
-    
-     {{< merchant
+    >}} 
+    {{< merchant
         titleText="Tienda de NavCoin oficial"
         imgSrc="/images/merchants/mer-nav.png"
         text="Usen mercaderia de NAVCoin y apoyen su&nbsp;marca."
@@ -79,6 +76,12 @@ newTab="true"
         text="Más de 20 centros de servidores de clase mundial con más de 15&nbsp;paises."
         linkUrl="https://1gbits.com/"
     >}}
+{{< merchant
+        titleText="Domains-Index"
+        imgSrc="/images/merchants/mer-domains-index.png"
+        text="Lista de todos los dominios registrados"
+        linkUrl="https://domains-index.com/"
+    >}}
     {{< merchant
         titleText="Keyi Store"
         imgSrc="/images/merchants/keyistore_400x400.jpg"
@@ -102,6 +105,54 @@ newTab="true"
         imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
         text="Compre el mejor precio y la mejor calidad Los productos de tendencias se envían gratis a su puerta"
         linkUrl="https://www.woopshop.com/"
+    >}}
+{{< merchant
+        titleText="Bidali Store"
+        imgSrc="/images/merchants/Bidali_400x400.jpg"
+        text="Ayudando a pequeñas y grandes empresas a aceptar pagos de próxima generación."
+        linkUrl="https://www.bidali.com/"
+    >}}
+    {{< merchant
+        titleText="Get Ballistic"
+        imgSrc="/images/merchants/get-ballistic_400x400.jpg"
+        text="Bodyboards balísticos Hawaii est. 1996 para los amantes de las olas."
+        linkUrl="http://www.getballistic.com/"
+    >}}
+    {{< merchant
+        titleText="Prontocardiologia"
+        imgSrc="/images/merchants/prontocardiologia.jpg"
+        text="Prontocardiologia."
+        linkUrl="http://www.prontocardiologia.it/"
+    >}}
+    {{< merchant
+        titleText="Like At Home"
+        imgSrc="/images/merchants/likeathome_logo.png"
+        text="¡Nos complace darle la bienvenida como nuestro huésped potencial en los apartamentos de estilo de la Edad Media - año 1765!"
+        linkUrl="http://likeathome.lv/en"
+    >}}
+    {{< merchant
+        titleText="MonoVm"
+        imgSrc="/images/merchants/monovm_400x400.jpg"
+        text="MonoVM Network Solutions.VPS, Dominio y Alojamiento Web."
+        linkUrl="https://monovm.com/"
+    >}}
+    {{< merchant
+        titleText="Toys4Sex"
+        imgSrc="/images/merchants/toys4sex.png"
+        text="Una gama especialmente seleccionada de productos para adultos."
+        linkUrl="http://toys4sex.com.au/"
+    >}}
+    {{< merchant
+        titleText="SEO Better"
+        imgSrc="/images/merchants/seo-better_400x400.png"
+        text="El objetivo de estos cursos en línea es proporcionarle las habilidades y herramientas necesarias para aumentar sus ingresos en línea."
+        linkUrl="https://seobetter.com/"
+    >}}
+    {{< merchant
+        titleText="Natural Pet Shop"
+        imgSrc="/images/merchants/natural-petshop.jpg"
+        text="Nuestras camas para perros tienen lados acolchados suaves y se pueden lavar a mano fácilmente para mantenerlas limpias para ese perro especial."
+        linkUrl="https://naturalpetshop.com.au/"
     >}}
 {{< /item_container_section >}}
 

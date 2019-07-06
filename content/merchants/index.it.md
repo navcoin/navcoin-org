@@ -26,14 +26,7 @@ newTab="true"
         text="Più di 70 commercianti accettano NAV utilizzando il gateway merchant CoinPayments."
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}}
-
     {{< merchant
-        titleText="NavPi Store"
-        imgSrc="/images/merchants/mer-navpi.png"
-        text="Acquista un NavPi con NavCoin per mettere in palio il tuo NAV facilmente 24 ore al giorno."
-        linkUrl="https://navpi.navcoinstore.com/product/navpi-stakebox/"
-    >}}
-     {{< merchant
         titleText="NavCoin Merch Store"
         imgSrc="/images/merchants/mer-nav.png"
         text="Indossa NavCoin con orgoglio con questa gamma di articoli di marca."

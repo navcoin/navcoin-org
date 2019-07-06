@@ -26,12 +26,6 @@ newTab="true"
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}}
     {{< merchant
-        titleText="NavPi 스토어"
-        imgSrc="/images/merchants/mer-navpi.png"
-        text="Nav코인을 사용할 수 있는 상점 및 서비스&nbsp;선택."
-        linkUrl="https://navpi.navcoinstore.com/product/navpi-stakebox/"
-    >}}
-     {{< merchant
         titleText="Nav코인 상품 스토어"
         imgSrc="/images/merchants/mer-nav.png"
         text="Nav코인에 관련된 굿즈를 사용하시고 자부심을&nbsp;느끼세요."
@@ -78,6 +72,12 @@ newTab="true"
         imgSrc="/images/merchants/mer-1gbits.png"
         text="15개 이상의 국가에 20개 이상의 세계적 수준의 서버&nbsp;센터."
         linkUrl="https://1gbits.com/"
+    >}}
+{{< merchant
+        titleText="Domains-Index"
+        imgSrc="/images/merchants/mer-domains-index.png"
+        text="List of every registered domain"
+        linkUrl="https://domains-index.com/"
     >}}
     {{< merchant
         titleText="Keyi Store"

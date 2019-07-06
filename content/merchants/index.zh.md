@@ -26,14 +26,7 @@ newTab="true"
         text="超过70家商户接受NAV使用coinpayment商户网关。"
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}}
-
     {{< merchant
-        titleText="NavPi 商店"
-        imgSrc="/images/merchants/mer-navpi.png"
-        text="购买一个NavPi与NavCoin，使您可以轻松地一天24小时加注NAV。"
-        linkUrl="https://navpi.navcoinstore.com/product/navpi-stakebox/"
-    >}}
-     {{< merchant
         titleText="NavCoin营销店"
         imgSrc="/images/merchants/mer-nav.png"
         text="自豪地佩戴NavCoin系列品牌商品。"
@@ -80,6 +73,12 @@ newTab="true"
         imgSrc="/images/merchants/mer-1gbits.png"
         text="在超过15个不同的国家拥有20多个世界级的服务器中心。"
         linkUrl="https://1gbits.com/"
+    >}}
+{{< merchant
+        titleText="Domains-Index"
+        imgSrc="/images/merchants/mer-domains-index.png"
+        text="List of every registered domain"
+        linkUrl="https://domains-index.com/"
     >}}
     {{< merchant
         titleText="Keyi Store"
