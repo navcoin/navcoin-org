@@ -149,7 +149,7 @@ newTab="true"
     {{< merchant
         titleText="Natural Pet Shop"
         imgSrc="/images/merchants/natural-petshop.jpg"
-        text=「われわれのドッグベッドは柔らかいパッドで覆われた側面を持っていて、そしてその特別な犬をきれいに保つために簡単に手洗いすることができます。"
+        text="われわれのドッグベッドは柔らかいパッドで覆われた側面を持っていて、そしてその特別な犬をきれいに保つために簡単に手洗いすることができます。"
         linkUrl="https://naturalpetshop.com.au/"
     >}}
 
