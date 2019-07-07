@@ -16,7 +16,7 @@ buttonImgSrc="/images/icons/rightward-arrow.svg"
 newTab="true"
 >}}
 {{< item_container_section
-    titleText="Exchanges"
+    titleText="교류"
     subtitleText="Nav코인은 아래의 &nbsp; 거래소에서 거래가 가능합니다."
 >}}
     {{< exchange
