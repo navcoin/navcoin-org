@@ -10,7 +10,7 @@ titleText="NavCoin Bounties"
 imgSrc="/images/for-developers/dev-hero.svg"
 paragraphText="NavCoin is a community based project and there are multiple bounty programs running where you can earn NAV for contributing to NavCoin projects. Not all of the bounties require the skills of a computer programmer, so even if you're non-technical check it out, there might be some way for you to&nbsp;earn&nbsp;NAV."
 buttonText="Read more"
-buttonLink="/bounties/#active-bounties"
+buttonLink="#active-bounties"
 buttonImgSrc="/images/icons/downward-arrow.svg"
 >}}
 
@@ -24,7 +24,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
                     <img src="/images/homepage/hom-fast.svg" alt="" class="item-icon">
                     <h3>NavCoin Core</h3>
                     <p style="margin-bottom: 10%">If you're a C++ guru or just getting started, you can earn NAV by helping to maintain and develop the NavCoin Core software.</p>
-                    <a href="/bounties/#navcoin-core" class="round-btn small gradient-btn">View Bounty Program <img src="/images/icons/downward-arrow.svg" class="btn-img"> 
+                    <a href="#navcoin-core" class="round-btn small gradient-btn">View Bounty Program <img src="/images/icons/downward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -33,7 +33,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
                     <img src="/images/homepage/hom-new-system.svg" alt="" class="item-icon">
                     <h3>NavCoin Websites</h3>
                     <p style="margin-bottom: 10%">Web developers, content writers and translators can earn NAV by helping to update and maintain NavCoin's websites.</p>
-                    <a href="/bounties/#navcoin-websites" class="round-btn small gradient-btn">View Bounty Program <img src="/images/icons/downward-arrow.svg" class="btn-img"> 
+                    <a href="#navcoin-websites" class="round-btn small gradient-btn">View Bounty Program <img src="/images/icons/downward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
