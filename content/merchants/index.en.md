@@ -78,7 +78,7 @@ newTab="true"
     {{< merchant
         titleText="Domains-Index"
         imgSrc="/images/merchants/mer-domains-index.png"
-        text="Providing the bulk purchase of domain name lisings."
+        text="Providing the bulk purchase of domain name listings."
         linkUrl="https://domains-index.com/"
     >}}
     {{< merchant
