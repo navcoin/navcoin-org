@@ -27,14 +27,11 @@ newTab="true"
         imgSrc="/images/merchants/mer-coinpayment.png"
         text="Más de 70 comerciantes aceptan NAV mediante el portal de&nbsp;CoinPayments."
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
-    >}}
-
-   
-    
-     {{< merchant
+    >}} 
+    {{< merchant
         titleText="Tienda de NavCoin oficial"
         imgSrc="/images/merchants/mer-nav.png"
-        text="Usen mercaderia de NAVCoin y apoyen su&nbsp;marca."
+        text="Use NavCoin con orgullo con esta gama de productos de marca."
         linkUrl="https://navcoinstore.com/"
     >}}
     {{< merchant
@@ -46,13 +43,13 @@ newTab="true"
     {{< merchant
         titleText="Ambulancias Mile High"
         imgSrc="/images/merchants/mer-mile-high.png"
-        text="Servicio de ambulancia que acepta pagos en&nbsp;NAV."
+        text="Compañía de ambulancia de servicio completo que acepta NavCoin para pagos de facturas."
         linkUrl="https://milehighambulance.com/now-accepting-navcoin"
     >}}
     {{< merchant
         titleText="HODL negocio de mercaderia "
         imgSrc="/images/merchants/mer-hodl.png"
-        text="La casa de los vendedores de mercaderia relacionada con las criptomonedas con un rango exclusivo para&nbsp;NAV."
+        text="El hogar de los comerciantes de cripto con una amplia gama de ropa y accesorios NavCoin."
         linkUrl="https://alwayshodl.com/pages/official-nav-collection"
     >}}
     {{< merchant
@@ -80,9 +77,15 @@ newTab="true"
         linkUrl="https://1gbits.com/"
     >}}
     {{< merchant
+        titleText="Domains-Index"
+        imgSrc="/images/merchants/mer-domains-index.png"
+        text="Proporcionar la compra a granel de listados de nombres de dominio."
+        linkUrl="https://domains-index.com/"
+    >}}
+    {{< merchant
         titleText="Keyi Store"
         imgSrc="/images/merchants/keyistore_400x400.jpg"
-        text="En Keyi Store, nos asociamos con compañías de BLockchain para habilitar su criptomoneda en Keyi Store."
+        text="Asociarse con compañías de Blockchain para habilitar su criptomoneda."
         linkUrl="https://keyi.store/"
     >}}
     {{< merchant
@@ -100,8 +103,56 @@ newTab="true"
     {{< merchant
         titleText="Woop Woop Shop"
         imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
-        text="Compre el mejor precio y la mejor calidad Los productos de tendencias se envían gratis a su puerta"
+        text="Tendencias de productos de alta calidad enviados gratis a su puerta."
         linkUrl="https://www.woopshop.com/"
+    >}}
+    {{< merchant
+        titleText="Bidali Store"
+        imgSrc="/images/merchants/Bidali_400x400.jpg"
+        text="Ayudando a pequeñas y grandes empresas a aceptar pagos de próxima generación."
+        linkUrl="https://www.bidali.com/"
+    >}}
+    {{< merchant
+        titleText="Get Ballistic"
+        imgSrc="/images/merchants/get-ballistic_400x400.jpg"
+        text="Bodyboards balísticos Hawaii est. 1996 para los amantes de las olas."
+        linkUrl="http://www.getballistic.com/"
+    >}}
+    {{< merchant
+        titleText="Prontocardiologia"
+        imgSrc="/images/merchants/prontocardiologia.jpg"
+        text="Los servicios de Prontocardiologia incluyen diagnóstico y tratamiento médico."
+        linkUrl="http://www.prontocardiologia.it/"
+    >}}
+    {{< merchant
+        titleText="Like At Home"
+        imgSrc="/images/merchants/likeathome_logo.png"
+        text="¡Bienvenido a nuestros apartamentos de estilo de la Edad Media - año 1765!"
+        linkUrl="http://likeathome.lv/en"
+    >}}
+    {{< merchant
+        titleText="MonoVm"
+        imgSrc="/images/merchants/monovm_400x400.jpg"
+        text="MonoVM Network Solutions.VPS, Dominio y Alojamiento Web."
+        linkUrl="https://monovm.com/"
+    >}}
+    {{< merchant
+        titleText="Toys4Sex"
+        imgSrc="/images/merchants/toys4sex.png"
+        text="Una gama especialmente seleccionada de productos para adultos."
+        linkUrl="http://toys4sex.com.au/"
+    >}}
+    {{< merchant
+        titleText="SEO Better"
+        imgSrc="/images/merchants/seo-better_400x400.png"
+        text="Cursos que le brindan las habilidades necesarias para hacer crecer su negocio en línea."
+        linkUrl="https://seobetter.com/"
+    >}}
+    {{< merchant
+        titleText="Natural Pet Shop"
+        imgSrc="/images/merchants/natural-petshop.jpg"
+        text="Un sueño cómodo para su perro en nuestras camas para perros fácilmente lavables a mano."
+        linkUrl="https://naturalpetshop.com.au/"
     >}}
 {{< /item_container_section >}}
 

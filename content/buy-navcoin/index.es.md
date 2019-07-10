@@ -22,7 +22,7 @@ newTab="true"
  {{< exchange
         titleText="Poloniex"
         imgSrc="/images/buy-navcoin/buy-poloniex.png"
-        text="BTC / NAV"
+        text="BTC / NAV - fíat / NAV"
         linkUrl="https://poloniex.com/exchange#btc_nav"
     >}}
     {{< exchange
@@ -154,38 +154,62 @@ newTab="true"
     {{< exchange
         titleText="CoinXTR"
         imgSrc="/images/buy-navcoin/coinxtr_400x400.jpg"
-        text="Turkish Exchange"
+        text="Multi moneda / NAV"
         linkUrl="https://www.coinxtr.com/"
     >}}
     {{< exchange
         titleText="Simple Swap"
         imgSrc="/images/buy-navcoin/simpleswap_400x400.jpg"
-        text="Multi Currency / NAV"
+        text="Multi moneda / NAV"
         linkUrl="https://simpleswap.io/coins/navcoin"
     >}}
     {{< exchange
         titleText="Social Send"
         imgSrc="/images/buy-navcoin/socialsend_400x400.jpg"
-        text="Multi Currency / NAV"
+        text="Multi moneda / NAV"
         linkUrl="https://socialsend.net"
     >}}
     {{< exchange
         titleText="Stake Cube"
         imgSrc="/images/buy-navcoin/stakecube_400x400.jpg"
-        text="Multi Currency / NAV"
+        text="Multi moneda / NAV"
         linkUrl="https://stakecube.net/exchange"
     >}}
     {{< exchange
         titleText="Coin Switch"
         imgSrc="/images/buy-navcoin/coinswitch_400x400.jpg"
-        text="Multi Currency / NAV"
+        text="Multi moneda / NAV"
         linkUrl="https://coinswitch.co"
     >}}
     {{< exchange
         titleText="CoinZark"
         imgSrc="/images/buy-navcoin/coinzark_400x400.png"
-        text="Multi Currency / NAV"
+        text="Multi moneda / NAV"
         linkUrl="https://www.coinzark.com/nav"
+    >}}
+    {{< exchange
+        titleText="Zwaply"
+        imgSrc="/images/buy-navcoin/zwaply.png"
+        text="Multi moneda / NAV"
+        linkUrl="https://zwaply.com/"
+    >}}
+    {{< exchange
+        titleText="Crypto Wolf"
+        imgSrc="/images/buy-navcoin/cryptowolf.png"
+        text="Multi moneda / NAV"
+        linkUrl="https://cryptowolf.eu/"
+    >}}
+    {{< exchange
+        titleText="Sato Wallet Exchange"
+        imgSrc="/images/buy-navcoin/sato-wallet_400x400.png"
+        text="Doge / NAV"
+        linkUrl="https://satowallet.com/"
+    >}}
+    {{< exchange
+        titleText="Bitladon Exchange"
+        imgSrc="/images/buy-navcoin/bitladon_400x400.png"
+        text="Fiat / NAV"
+        linkUrl="https://www.bitladon.com/navcoin/"
     >}}
 {{< /item_container_section >}}
 

@@ -26,14 +26,7 @@ newTab="true"
         text="Più di 70 commercianti accettano NAV utilizzando il gateway merchant CoinPayments."
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}}
-
     {{< merchant
-        titleText="NavPi Store"
-        imgSrc="/images/merchants/mer-navpi.png"
-        text="Acquista un NavPi con NavCoin per mettere in palio il tuo NAV facilmente 24 ore al giorno."
-        linkUrl="https://navpi.navcoinstore.com/product/navpi-stakebox/"
-    >}}
-     {{< merchant
         titleText="NavCoin Merch Store"
         imgSrc="/images/merchants/mer-nav.png"
         text="Indossa NavCoin con orgoglio con questa gamma di articoli di marca."
@@ -60,7 +53,7 @@ newTab="true"
     {{< merchant
         titleText="DrApis"
         imgSrc="/images/merchants/mer-dr-apis.png"
-        text="Miele crudo di api portoghesi. Direttamente dall'alveare: puro, non riscaldato e non pastorizzato."
+        text="Miele crudo di api portoghesi. Direttamente dall'alveare: non riscaldato e non pastorizzato."
         linkUrl="https://drapis.com/"
     >}}
     {{< merchant
@@ -84,7 +77,7 @@ newTab="true"
     {{< merchant
         titleText="Domains-Index"
         imgSrc="/images/merchants/mer-domains-index.png"
-        text="Elenco di tutti i domini registrati"
+        text="Fornendovi l'acquisto in blocco di elenchi di nomi di dominio."
         linkUrl="https://domains-index.com/"
     >}}
     {{< merchant
@@ -111,6 +104,55 @@ newTab="true"
         text="Acquista il miglior prezzo e prodotti di tendenza di alta qualità spediti gratuitamente a domicilio."
         linkUrl="https://www.woopshop.com/"
     >}}
+    {{< merchant
+        titleText="Bidali Store"
+        imgSrc="/images/merchants/Bidali_400x400.jpg"
+        text="Aiutare piccole e grandi aziende ad accettare pagamenti di nuova generazione."
+        linkUrl="https://www.bidali.com/"
+    >}}
+    {{< merchant
+        titleText="Get Ballistic"
+        imgSrc="/images/merchants/get-ballistic_400x400.jpg"
+        text="Ballistic Bodyboards Hawaii est. 1996 per gli appassionati di onde."
+        linkUrl="http://www.getballistic.com/"
+    >}}
+    {{< merchant
+        titleText="Prontocardiologia"
+        imgSrc="/images/merchants/prontocardiologia.jpg"
+        text="I servizi di prontocardiologia comprendono diagnosi e trattamenti medici."
+        linkUrl="http://www.prontocardiologia.it/"
+    >}}
+    {{< merchant
+        titleText="Like At Home"
+        imgSrc="/images/merchants/likeathome_logo.png"
+        text="Diventa nostro ospite in questi appartamenti in stile medievale - anno 1765!"
+        linkUrl="http://likeathome.lv/en"
+    >}}
+    {{< merchant
+        titleText="MonoVm"
+        imgSrc="/images/merchants/monovm_400x400.jpg"
+        text="MonoVM Network Solutions.VPS, dominio e Web Hosting."
+        linkUrl="https://monovm.com/"
+    >}}
+    {{< merchant
+        titleText="Toys4Sex"
+        imgSrc="/images/merchants/toys4sex.png"
+        text="Una gamma appositamente selezionata di prodotti per adulti."
+        linkUrl="http://toys4sex.com.au/"
+    >}}
+    {{< merchant
+        titleText="SEO Better"
+        imgSrc="/images/merchants/seo-better_400x400.png"
+        text="Corsi che ti forniscono le competenze necessarie per far crescere la tua attività online."
+        linkUrl="https://seobetter.com/"
+    >}}
+    {{< merchant
+        titleText="Natural Pet Shop"
+        imgSrc="/images/merchants/natural-petshop.jpg"
+        text="Assicurati che il tuo cane dorma bene nei nostri letti per cani facilmente lavabili."
+        linkUrl="https://naturalpetshop.com.au/"
+    >}}
+
 {{< /item_container_section >}}
 
 {{< item_container_section

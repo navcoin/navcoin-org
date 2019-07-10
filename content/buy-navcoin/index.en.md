@@ -22,7 +22,7 @@ newTab="true"
     {{< exchange
         titleText="Poloniex"
         imgSrc="/images/buy-navcoin/buy-poloniex.png"
-        text="BTC / NAV"
+        text="BTC / NAV - Fiat / BTC"
         linkUrl="https://poloniex.com/exchange#btc_nav"
     >}}
     {{< exchange
@@ -187,8 +187,31 @@ newTab="true"
         text="Multi Currency / NAV"
         linkUrl="https://www.coinzark.com/nav"
     >}}
-
-
+    {{< exchange
+        titleText="Zwaply"
+        imgSrc="/images/buy-navcoin/zwaply.png"
+        text="Multi Currency / NAV"
+        linkUrl="https://zwaply.com/"
+    >}}
+    {{< exchange
+        titleText="Crypto Wolf"
+        imgSrc="/images/buy-navcoin/cryptowolf.png"
+        text="Multi Currency / NAV"
+        linkUrl="https://cryptowolf.eu/"
+    >}}
+    {{< exchange
+        titleText="Sato Wallet Exchange"
+        imgSrc="/images/buy-navcoin/sato-wallet_400x400.png"
+        text="Doge / NAV"
+        linkUrl="https://satowallet.com/"
+    >}}
+    {{< exchange
+        titleText="Bitladon Exchange"
+        imgSrc="/images/buy-navcoin/bitladon_400x400.png"
+        text="Fiat / NAV"
+        linkUrl="https://www.bitladon.com/navcoin/"
+    >}}
+	 
 {{< /item_container_section >}}
 
 {{< center_text_cta

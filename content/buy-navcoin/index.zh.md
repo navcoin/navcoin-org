@@ -22,7 +22,7 @@ newTab="正确的"
     {{< exchange
         titleText="P网"
         imgSrc="/images/buy-navcoin/buy-poloniex.png"
-        text="BTC / NAV"
+        text="BTC / NAV - 菲亚特 / BTC"
         linkUrl="https://poloniex.com/exchange#btc_nav"
     >}}
     {{< exchange
@@ -38,125 +38,125 @@ newTab="正确的"
         linkUrl="https://www.binance.com/trade.html?symbol=NAV_BTC"
     >}}
     {{< exchange
-         titleText="UPbit"
-         imgSrc="/images/buy-navcoin/upbit.png"
-         text="BTC / NAV"
-         linkUrl="https://upbit.com/exchange?code=CRIX.UPBIT.BTC-NAV"
-     >}}
+        titleText="UPbit"
+        imgSrc="/images/buy-navcoin/upbit.png"
+        text="BTC / NAV"
+        linkUrl="https://upbit.com/exchange?code=CRIX.UPBIT.BTC-NAV"
+    >}}
     {{< exchange
-          titleText="Equicex"
-          imgSrc="/images/buy-navcoin/equicex.png"
-          text="Exchange + Debit Card"
-          linkUrl="https://www.equicex.com/"
-      >}}
-     {{< exchange
-          titleText="Changelly"
-          imgSrc="/images/buy-navcoin/buy-changelly.png"
-          text="即时交易"
-          linkUrl="https://changelly.com/"
-      >}}
-      {{< exchange
-           titleText="莱特币"
-           imgSrc="/images/buy-navcoin/buy-litebit.png"
-           text="欧元直接购买"
-           linkUrl="https://www.litebit.eu/en/buy/navcoin"
-       >}}
-     {{< exchange
-         titleText="Easy Crypto"
-         imgSrc="/images/buy-navcoin/buy-easy-crypto.png"
-         text="NZD 直接购买"
-         linkUrl="https://www.easycrypto.nz/"
-     >}}
+        titleText="Equicex"
+        imgSrc="/images/buy-navcoin/equicex.png"
+        text="Exchange + Debit Card"
+        linkUrl="https://www.equicex.com/"
+    >}}
     {{< exchange
-         titleText="BitPrime"
-         imgSrc="/images/buy-navcoin/buy-bitprime.png"
-         text="NZD 直接买／卖"
-         linkUrl="https://www.bitprime.co.nz/product/navcoin-nav"
-     >}}
-   {{< exchange
+        titleText="Changelly"
+        imgSrc="/images/buy-navcoin/buy-changelly.png"
+        text="即时交易"
+        linkUrl="https://changelly.com/"
+    >}}
+    {{< exchange
+        titleText="莱特币"
+        imgSrc="/images/buy-navcoin/buy-litebit.png"
+        text="欧元直接购买"
+        linkUrl="https://www.litebit.eu/en/buy/navcoin"
+    >}}
+    {{< exchange
+        titleText="Easy Crypto"
+        imgSrc="/images/buy-navcoin/buy-easy-crypto.png"
+        text="NZD 直接购买"
+        linkUrl="https://www.easycrypto.nz/"
+    >}}
+    {{< exchange
+        titleText="BitPrime"
+        imgSrc="/images/buy-navcoin/buy-bitprime.png"
+        text="NZD 直接买／卖"
+        linkUrl="https://www.bitprime.co.nz/product/navcoin-nav"
+    >}}
+    {{< exchange
         titleText="Bisq"
         imgSrc="/images/buy-navcoin/buy-bisq.png"
         text="去中心化交易所"
         linkUrl="https://bitsquare.io/"
     >}}
-   {{< exchange
+    {{< exchange
         titleText="最好的利率"
         imgSrc="/images/buy-navcoin/buy-bestrate.png"
         text="即时交易"
         linkUrl="https://bestrate.org/"
     >}}
-   {{< exchange
+    {{< exchange
         titleText="Godex"
         imgSrc="/images/buy-navcoin/buy-godex.png"
         text="去中心化交易所"
         linkUrl="https://godex.io/"
     >}}
-   {{< exchange
+    {{< exchange
         titleText="现在交易"
         imgSrc="/images/buy-navcoin/buy-changenow.png"
         text="即时交易"
         linkUrl="https://changenow.io/"
     >}}
-   {{< exchange
+    {{< exchange
         titleText="Coindirect"
         imgSrc="/images/buy-navcoin/buy-coindirect.png"
         text="直接购买"
         linkUrl="https://www.coindirect.com/buy/navcoin"
     >}}
-   {{< exchange
+    {{< exchange
         titleText="Crex24"
         imgSrc="/images/buy-navcoin/buy-crex-24.png"
         text="复合交易平台"
         linkUrl="https://crex24.com/exchange/NAV-BTC"
     >}}
-   {{< exchange
+    {{< exchange
         titleText="Crytrex"
         imgSrc="/images/buy-navcoin/buy-crytrex.png"
         text="BTC / NAV"
         linkUrl="https://crytrex.com/"
     >}}
     {{< exchange
-         titleText="Bitexlive"
-         imgSrc="/images/buy-navcoin/bitexlive.png"
-         text="BTC / NAV"
-         linkUrl="https://bitexlive.com/exchange/BTC-NAV"
-     >}}
+        titleText="Bitexlive"
+        imgSrc="/images/buy-navcoin/bitexlive.png"
+        text="BTC / NAV"
+        linkUrl="https://bitexlive.com/exchange/BTC-NAV"
+    >}}
     {{< exchange
-         titleText="Bitqist"
-          imgSrc="/images/buy-navcoin/bitqist.png"
-          text="BTC + ETH / NAV"
-          linkUrl="https://bitqist.com/exchange/nav-coin"
-      >}}
-     {{< exchange
-          titleText="Vertbase"
-          imgSrc="/images/buy-navcoin/vertbase.jpg"
-          text="USD / NAV"
-          linkUrl="https://www.vertbase.com/"
-      >}}
-     {{< exchange
-          titleText="Altilly"
-          imgSrc="/images/buy-navcoin/altilly.jpg"
-          text="BTC / NAV"
-          linkUrl="https://www.altilly.com/asset/NAV"
-      >}}
-     {{< exchange
-          titleText="Nova Exchange"
-          imgSrc="/images/buy-navcoin/nova_exchange.jpg"
-          text="BTC + ETH / NAV"
-          linkUrl="https://novaexchange.com/market/BTC_NAV/"
-      >}}
-     {{< exchange
-          titleText="Coinmerce"
-          imgSrc="/images/buy-navcoin/coinmerce.jpg"
-          text="EUR / NAV"
-          linkUrl="https://coinmerce.io/uk/buy/nav/"
-      >}}
-     {{< exchange
-          titleText="CoinXtr"
-          imgSrc="/images/buy-navcoin/coinxtr.jpg"
-          text="土耳其交易所"
-          linkUrl="https://www.coinxtr.com/"
-      >}}
+        titleText="Bitqist"
+        imgSrc="/images/buy-navcoin/bitqist.png"
+        text="BTC + ETH / NAV"
+        linkUrl="https://bitqist.com/exchange/nav-coin"
+    >}}
+    {{< exchange
+        titleText="Vertbase"
+        imgSrc="/images/buy-navcoin/vertbase.jpg"
+        text="USD / NAV"
+        linkUrl="https://www.vertbase.com/"
+    >}}
+    {{< exchange
+        titleText="Altilly"
+        imgSrc="/images/buy-navcoin/altilly.jpg"
+        text="BTC / NAV"
+        linkUrl="https://www.altilly.com/asset/NAV"
+    >}}
+    {{< exchange
+        titleText="Nova Exchange"
+        imgSrc="/images/buy-navcoin/nova_exchange.jpg"
+        text="BTC + ETH / NAV"
+        linkUrl="https://novaexchange.com/market/BTC_NAV/"
+    >}}
+    {{< exchange
+        titleText="Coinmerce"
+        imgSrc="/images/buy-navcoin/coinmerce.jpg"
+        text="EUR / NAV"
+        linkUrl="https://coinmerce.io/uk/buy/nav/"
+    >}}
+    {{< exchange
+        titleText="CoinXtr"
+        imgSrc="/images/buy-navcoin/coinxtr.jpg"
+        text="土耳其交易所"
+        linkUrl="https://www.coinxtr.com/"
+    >}}
     {{< exchange
         titleText="Simple Swap"
         imgSrc="/images/buy-navcoin/simpleswap_400x400.jpg"
@@ -186,6 +186,30 @@ newTab="正确的"
         imgSrc="/images/buy-navcoin/coinzark_400x400.png"
         text="多币种 / NAV"
         linkUrl="https://www.coinzark.com/nav"
+    >}}
+    {{< exchange
+        titleText="Zwaply"
+        imgSrc="/images/buy-navcoin/zwaply.png"
+        text="多币种 / NAV"
+        linkUrl="https://zwaply.com/"
+    >}}
+    {{< exchange
+        titleText="Crypto Wolf"
+        imgSrc="/images/buy-navcoin/cryptowolf.png"
+        text="多币种 / NAV"
+        linkUrl="https://cryptowolf.eu/"
+    >}}
+    {{< exchange
+        titleText="Sato 钱包交换"
+        imgSrc="/images/buy-navcoin/sato-wallet_400x400.png"
+        text="Doge / NAV"
+        linkUrl="https://satowallet.com/"
+    >}}
+    {{< exchange
+        titleText="Bitladon 交换"
+        imgSrc="/images/buy-navcoin/bitladon_400x400.png"
+        text="菲亚特 / NAV"
+        linkUrl="https://www.bitladon.com/navcoin/"
     >}}
 
 {{< /item_container_section >}}

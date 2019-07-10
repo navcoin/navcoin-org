@@ -26,23 +26,16 @@ newTab="true"
         text="Более 70 продавцов принимают NAV с помощью торгового шлюза&nbsp;CoinPayments."
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}}
-
-    {{< merchant
-        titleText="Магазин NavPi"
-        imgSrc="/images/merchants/mer-navpi.png"
-        text="Покупайте NavPi с NavCoin, чтобы легко заниматься стекингом NAV, 24 часа в&nbsp;сутки."
-        linkUrl="https://navpi.navcoinstore.com/product/navpi-stakebox/"
-    >}}
      {{< merchant
-        titleText="Магазин товаров NavCoin"
+        titleText="NavCoin Merch Store"
         imgSrc="/images/merchants/mer-nav.png"
-        text="С гордстью носите NavCoin выбрав что-то из этого ассортимента фирменных&nbsp;товаров."
+        text="Носите NavCoin с гордостью с этим ассортиментом фирменных товаров."
         linkUrl="https://navcoinstore.com/"
     >}}
     {{< merchant
         titleText="BitcoinGallery.Art"
         imgSrc="/images/merchants/mer-bitcoingallery.png"
-        text="Искусство и криптовалюта сталкиваются в уникальных скульптурах ручной работы вашей любимой&nbsp;монеты."
+        text="Уникальные скульптуры ручной работы вашей любимой монеты."
         linkUrl="http://www.sigmasixdesign.com/bitcoingallery-store#!/The-Simplifier-NAV/p/102127036/category=28247023"
     >}}
     {{< merchant
@@ -60,7 +53,7 @@ newTab="true"
     {{< merchant
         titleText="DrApis"
         imgSrc="/images/merchants/mer-dr-apis.png"
-        text="Сырой мед, сделанный португальскими пчелами. Прямо из улья - чистый, не нагретый,&nbsp;непастеризованный."
+        text="Сырой мед португальскими пчелами. Прямо из улья: без подогрева и без пастеризации."
         linkUrl="https://drapis.com/"
     >}}
     {{< merchant
@@ -72,7 +65,7 @@ newTab="true"
     {{< merchant
         titleText="SocialTrades"
         imgSrc="/images/merchants/mer-social-trades.png"
-        text="Сервис по управлению социальными сетями с 100 000 доверенными клиентами по всему&nbsp;миру."
+        text="Служба управления социальными сетями со 100 000 клиентов по всему миру."
         linkUrl="https://www.socialtrades.xyz/"
     >}}
     {{< merchant
@@ -82,29 +75,84 @@ newTab="true"
         linkUrl="https://1gbits.com/"
     >}}
     {{< merchant
+        titleText="Domains-Index"
+        imgSrc="/images/merchants/mer-domains-index.png"
+        text="Обеспечение массовой покупки списков доменных имен."
+        linkUrl="https://domains-index.com/"
+    >}}
+    {{< merchant
         titleText="Keyi Store"
         imgSrc="/images/merchants/keyistore_400x400.jpg"
-        text="В Keyi Store мы сотрудничаем с компаниями BLockchain, чтобы включить их криптовалюту в Keyi Store"
+        text="Партнерство с компаниями Blockchain для обеспечения их криптовалюты."
         linkUrl="https://keyi.store/"
     >}}
     {{< merchant
         titleText="Print-Ted"
         imgSrc="/images/merchants/print-ted_180x.png"
-        text="Модные высококачественные принты и изделия, созданные нашими собственными художниками!"
+        text="Высококачественные принты и изделия, созданные нашими художниками!"
         linkUrl="https://print-ted.com/"
     >}}
     {{< merchant
         titleText="Firo Solutions"
         imgSrc="/images/merchants/firo-solutions_400x400.jpg"
-        text="Независимая софтверная компания Firo Solutions - компания по управлению уязвимостями."
+        text="Firo Solutions - компания по управлению уязвимостями программного обеспечения."
         linkUrl="https://firosolutions.com/"
     >}}
     {{< merchant
         titleText="Woop Woop Shop"
         imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
-        text="Магазин Лучшая цена и лучшие товары качества поставляются бесплатно к вашему порогу."
+        text="Тенденции высокого качества поставляются бесплатно к вашему порогу."
         linkUrl="https://www.woopshop.com/"
     >}}
+    {{< merchant
+        titleText="Bidali Store"
+        imgSrc="/images/merchants/Bidali_400x400.jpg"
+        text="Помощь малым и крупным компаниям в приеме платежей следующего поколения."
+        linkUrl="https://www.bidali.com/"
+    >}}
+    {{< merchant
+        titleText="Get Ballistic"
+        imgSrc="/images/merchants/get-ballistic_400x400.jpg"
+        text="Баллистические Bodyboard Гавайи Est. 1996 для любителей волн."
+        linkUrl="http://www.getballistic.com/"
+    >}}
+    {{< merchant
+        titleText="Prontocardiologia"
+        imgSrc="/images/merchants/prontocardiologia.jpg"
+        text="Услуги Пронтокардиология включают в себя медицинскую диагностику и лечение."
+        linkUrl="http://www.prontocardiologia.it/"
+    >}}
+    {{< merchant
+        titleText="Like At Home"
+        imgSrc="/images/merchants/likeathome_logo.png"
+        text="Станьте нашим гостем в этих апартаментах в стиле средневековья - 1765 год!"
+        linkUrl="http://likeathome.lv/en"
+    >}}
+    {{< merchant
+        titleText="MonoVm"
+        imgSrc="/images/merchants/monovm_400x400.jpg"
+        text="Сетевые решения MonoVM. VPS, домен и веб-хостинг."
+        linkUrl="https://monovm.com/"
+    >}}
+    {{< merchant
+        titleText="Toys4Sex"
+        imgSrc="/images/merchants/toys4sex.png"
+        text="Специально подобранный ассортимент товаров для взрослых."
+        linkUrl="http://toys4sex.com.au/"
+    >}}
+    {{< merchant
+        titleText="SEO Better"
+        imgSrc="/images/merchants/seo-better_400x400.png"
+        text="Курсы, дающие вам навыки, необходимые для развития вашего бизнеса в Интернете."
+        linkUrl="https://seobetter.com/"
+    >}}
+    {{< merchant
+        titleText="Natural Pet Shop"
+        imgSrc="/images/merchants/natural-petshop.jpg"
+        text="Следите за тем, чтобы ваша собака выспалась на наших легко моющихся кроватях для собак."
+        linkUrl="https://naturalpetshop.com.au/"
+    >}}
+
 {{< /item_container_section >}}
 
 {{< item_container_section
