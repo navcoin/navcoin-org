@@ -16,13 +16,13 @@ buttonImgSrc="/images/icons/rightward-arrow.svg"
 newTab="true"
 >}}
 {{< item_container_section
-    titleText="Exchanges"
+    titleText="scambi"
     subtitleText="NavCoin è acquistabile sui seguenti&nbsp;exchanges"
 >}}
     {{< exchange
         titleText="Poloniex"
         imgSrc="/images/buy-navcoin/buy-poloniex.png"
-        text="BTC / NAV"
+        text="BTC / NAV - fiat / NAV"
         linkUrl="https://poloniex.com/exchange#btc_nav"
     >}}
     {{< exchange
@@ -46,67 +46,67 @@ newTab="true"
     {{< exchange
         titleText="Equicex"
         imgSrc="/images/buy-navcoin/equicex.png"
-        text="Exchange + Debit Card"
+        text="Exchange + carta di debito"
         linkUrl="https://www.equicex.com/"
     >}}
     {{< exchange
         titleText="Changelly"
         imgSrc="/images/buy-navcoin/buy-changelly.png"
-        text="Instant Exchange"
+        text="Scambio istantaneo"
         linkUrl="https://changelly.com/"
     >}}
     {{< exchange
         titleText="Litebit"
         imgSrc="/images/buy-navcoin/buy-litebit.png"
-        text="Euro Direct Purchase"
+        text="Euro acquisto diretto"
         linkUrl="https://www.litebit.eu/en/buy/navcoin"
     >}}
     {{< exchange
         titleText="Easy Crypto"
         imgSrc="/images/buy-navcoin/buy-easy-crypto.png"
-        text="NZD Direct Purchase"
+        text="Acquisto diretto NZD"
         linkUrl="https://www.easycrypto.nz/"
     >}}
     {{< exchange
         titleText="BitPrime"
         imgSrc="/images/buy-navcoin/buy-bitprime.png"
-        text="NZD Direct Buy/Sell"
+        text="Acquisto / vendita diretta NZD"
         linkUrl="https://www.bitprime.co.nz/product/navcoin-nav"
     >}}
     {{< exchange
         titleText="Bisq"
         imgSrc="/images/buy-navcoin/buy-bisq.png"
-        text="Decentralised Exchange"
+        text="Scambio decentralizzato"
         linkUrl="https://bitsquare.io/"
     >}}
     {{< exchange
         titleText="Best Rate"
         imgSrc="/images/buy-navcoin/buy-bestrate.png"
-        text="Instant Exchange"
+        text="Scambio istantaneo"
         linkUrl="https://bestrate.org/"
     >}}
     {{< exchange
         titleText="Godex"
         imgSrc="/images/buy-navcoin/buy-godex.png"
-        text="Decentralised Exchange"
+        text="Scambio decentralizzato"
         linkUrl="https://godex.io/"
     >}}
     {{< exchange
         titleText="Change Now"
         imgSrc="/images/buy-navcoin/buy-changenow.png"
-        text="Instant Exchange"
+        text="Scambio istantaneo"
         linkUrl="https://changenow.io/"
     >}}
     {{< exchange
         titleText="Coindirect"
         imgSrc="/images/buy-navcoin/buy-coindirect.png"
-        text="Direct Purchase"
+        text="Acquisto diretto"
         linkUrl="https://www.coindirect.com/buy/navcoin"
     >}}
     {{< exchange
         titleText="Crex24"
         imgSrc="/images/buy-navcoin/buy-crex-24.png"
-        text="Multi Exchange Platform"
+        text="Multi piattaforma di scambio"
         linkUrl="https://crex24.com/exchange/NAV-BTC"
     >}}
     {{< exchange
@@ -154,38 +154,62 @@ newTab="true"
     {{< exchange
         titleText="CoinXTR"
         imgSrc="/images/buy-navcoin/coinxtr_400x400.jpg"
-        text="Turkish Exchange"
+        text="Valuta multipla / NAV"
         linkUrl="https://www.coinxtr.com/"
     >}}
     {{< exchange
         titleText="Simple Swap"
         imgSrc="/images/buy-navcoin/simpleswap_400x400.jpg"
-        text="Multi Currency / NAV"
+        text="Valuta multipla / NAV"
         linkUrl="https://simpleswap.io/coins/navcoin"
     >}}
     {{< exchange
         titleText="Social Send"
         imgSrc="/images/buy-navcoin/socialsend_400x400.jpg"
-        text="Multi Currency / NAV"
+        text="Valuta multipla / NAV"
         linkUrl="https://socialsend.net"
     >}}
     {{< exchange
         titleText="Stake Cube"
         imgSrc="/images/buy-navcoin/stakecube_400x400.jpg"
-        text="Multi Currency / NAV"
+        text="Valuta multipla / NAV"
         linkUrl="https://stakecube.net/exchange"
     >}}
     {{< exchange
         titleText="Coin Switch"
         imgSrc="/images/buy-navcoin/coinswitch_400x400.jpg"
-        text="Multi Currency / NAV"
+        text="Valuta multipla / NAV"
         linkUrl="https://coinswitch.co"
     >}}
     {{< exchange
         titleText="CoinZark"
         imgSrc="/images/buy-navcoin/coinzark_400x400.png"
-        text="Multi Currency / NAV"
+        text="Valuta multipla / NAV"
         linkUrl="https://www.coinzark.com/nav"
+    >}}
+    {{< exchange
+        titleText="Zwaply"
+        imgSrc="/images/buy-navcoin/zwaply.png"
+        text="Valuta multipla / NAV"
+        linkUrl="https://zwaply.com/"
+    >}}
+    {{< exchange
+        titleText="Crypto Wolf"
+        imgSrc="/images/buy-navcoin/cryptowolf.png"
+        text="Valuta multipla / NAV"
+        linkUrl="https://cryptowolf.eu/"
+    >}}
+    {{< exchange
+        titleText="Scambio di portafoglio Sato"
+        imgSrc="/images/buy-navcoin/sato-wallet_400x400.png"
+        text="Doge / NAV"
+        linkUrl="https://satowallet.com/"
+    >}}
+    {{< exchange
+        titleText="Scambio Bitladon"
+        imgSrc="/images/buy-navcoin/bitladon_400x400.png"
+        text="Fiat / NAV"
+        linkUrl="https://www.bitladon.com/navcoin/"
     >}}
 {{< /item_container_section >}}
 

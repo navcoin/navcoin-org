@@ -28,12 +28,6 @@ newTab="true"
     >}}
 
     {{< merchant
-        titleText="NavPi Store"
-        imgSrc="/images/merchants/mer-navpi.png"
-        text="Purchase a NavPi with NavCoin to stake your NAV easily 24 hours a&nbsp;day."
-        linkUrl="https://navpi.navcoinstore.com/product/navpi-stakebox/"
-    >}}
-     {{< merchant
         titleText="NavCoin Merch Store"
         imgSrc="/images/merchants/mer-nav.png"
         text="Wear NavCoin with pride with this range of branded&nbsp;merchandise."
@@ -84,13 +78,13 @@ newTab="true"
     {{< merchant
         titleText="Domains-Index"
         imgSrc="/images/merchants/mer-domains-index.png"
-        text="List of every registered domain"
+        text="Providing the bulk purchase of domain name listings."
         linkUrl="https://domains-index.com/"
     >}}
     {{< merchant
         titleText="Keyi Store"
         imgSrc="/images/merchants/keyistore_400x400.jpg"
-        text="We partner with Blockchain companies to enable their cryptocurrency in Keyi Store."
+        text="Partnering with Blockchain companies to enable their cryptocurrency."
         linkUrl="https://keyi.store/"
     >}}
     {{< merchant
@@ -108,9 +102,58 @@ newTab="true"
     {{< merchant
         titleText="Woop Woop Shop"
         imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
-        text="Shop Best Price & Best Quality Trending Products Shipped Free to Your Doorstep."
+        text="Trending high quality products shipped free to your doorstep."
         linkUrl="https://www.woopshop.com/"
     >}}
+    {{< merchant
+        titleText="Bidali Store"
+        imgSrc="/images/merchants/Bidali_400x400.jpg"
+        text="Helping small and large companies accept next generation payments."
+        linkUrl="https://www.bidali.com/"
+    >}}
+    {{< merchant
+        titleText="Get Ballistic"
+        imgSrc="/images/merchants/get-ballistic_400x400.jpg"
+        text="Ballistic Bodyboards Hawaii est. 1996 for wave enthusiasts."
+        linkUrl="http://www.getballistic.com/"
+    >}}
+    {{< merchant
+        titleText="Prontocardiologia"
+        imgSrc="/images/merchants/prontocardiologia.jpg"
+        text="Prontocardiologia services include medical diagnosis and treatment."
+        linkUrl="http://www.prontocardiologia.it/"
+    >}}
+    {{< merchant
+        titleText="Like At Home"
+        imgSrc="/images/merchants/likeathome_logo.png"
+        text="Become our guest in these Middle Age style apartments - year 1765!"
+        linkUrl="http://likeathome.lv/en"
+    >}}
+    {{< merchant
+        titleText="MonoVm"
+        imgSrc="/images/merchants/monovm_400x400.jpg"
+        text="MonoVM Network Solutions.VPS, Domain, and Web Hosting."
+        linkUrl="https://monovm.com/"
+    >}}
+    {{< merchant
+        titleText="Toys4Sex"
+        imgSrc="/images/merchants/toys4sex.png"
+        text="A specially selected range of adult products delivered discreetly."
+        linkUrl="http://toys4sex.com.au/"
+    >}}
+    {{< merchant
+        titleText="SEO Better"
+        imgSrc="/images/merchants/seo-better_400x400.png"
+        text="Courses that provide you with the skills needed to grow your business online."
+        linkUrl="https://seobetter.com/"
+    >}}
+    {{< merchant
+        titleText="Natural Pet Shop"
+        imgSrc="/images/merchants/natural-petshop.jpg"
+        text="Making sure that your dog gets a comfortable sleep in our easily handwashable dog beds."
+        linkUrl="https://naturalpetshop.com.au/"
+    >}}
+
 {{< /item_container_section >}}
 
 {{< item_container_section

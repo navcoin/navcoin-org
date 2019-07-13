@@ -26,17 +26,10 @@ newTab="true"
         text="CoinPayments を利用した70 以上の小売店でNAVが使用可能&nbsp;です。"
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}}
-
     {{< merchant
-        titleText="NavPi ストア"
-        imgSrc="/images/merchants/mer-navpi.png"
-        text="NavCoin を使ってNavPi を購入し、貴方のNAVを 簡単に24時間ステーキング a&nbsp;する事ができます。"
-        linkUrl="https://navpi.navcoinstore.com/product/navpi-stakebox/"
-    >}}
-     {{< merchant
         titleText="NavCoin オリジナルグッズ販売"
         imgSrc="/images/merchants/mer-nav.png"
-        text="ストアでは、色々な種類のNavCoin オリジナルグッズを販売しています。NavCoin オリジナルグッズを身に着けて&nbsp;自慢しましょう。"
+        text="当社の高品質ブランド商品を誇りを持ってNavCoinを着用してください。"
         linkUrl="https://navcoinstore.com/"
     >}}
     {{< merchant
@@ -54,7 +47,7 @@ newTab="true"
     {{< merchant
         titleText="HODL グッズストア"
         imgSrc="/images/merchants/mer-hodl.png"
-        text="様々な仮想通貨グッズを販売するストア。NavCoinの洋服や、アクセサリーも&nbsp;販売しています。"
+        text="NavCoinのさまざまな衣類やアクセサリーが並ぶ暗号商人の本拠地。"
         linkUrl="https://alwayshodl.com/pages/official-nav-collection"
     >}}
     {{< merchant
@@ -84,7 +77,7 @@ newTab="true"
     {{< merchant
         titleText="Domains-Index"
         imgSrc="/images/merchants/mer-domains-index.png"
-        text="登録ドメイン全てのリスト"
+        text="クライアントにドメイン名リストの一括購入を提供する。"
         linkUrl="https://domains-index.com/"
     >}}
     {{< merchant
@@ -111,6 +104,55 @@ newTab="true"
         text="あなたの玄関口に無料で出荷される最高の価格と最高の品質のトレンド商品を購入する。"
         linkUrl="https://www.woopshop.com/"
     >}}
+    {{< merchant
+        titleText="Bidali Store"
+        imgSrc="/images/merchants/Bidali_400x400.jpg"
+        text="中小企業が次世代の支払いを受け入れるのを助けます。"
+        linkUrl="https://www.bidali.com/"
+    >}}
+    {{< merchant
+        titleText="Get Ballistic"
+        imgSrc="/images/merchants/get-ballistic_400x400.jpg"
+        text="Ballistic Bodyboards Hawaiiは1996年にウェイブファンのために開催されました。"
+        linkUrl="http://www.getballistic.com/"
+    >}}
+    {{< merchant
+        titleText="Prontocardiologia"
+        imgSrc="/images/merchants/prontocardiologia.jpg"
+        text="前心室サービスには医学的診断と治療が含まれます。"
+        linkUrl="http://www.prontocardiologia.it/"
+    >}}
+    {{< merchant
+        titleText="Like At Home"
+        imgSrc="/images/merchants/likeathome_logo.png"
+        text="1765年 - これらの中世スタイルのアパートメントで私たちのゲストになりましょう！"
+        linkUrl="http://likeathome.lv/en"
+    >}}
+    {{< merchant
+        titleText="MonoVm"
+        imgSrc="/images/merchants/monovm_400x400.jpg"
+        text="MonoVMネットワークソリューション。VPS、ドメイン、そしてWebホスティング。"
+        linkUrl="https://monovm.com/"
+    >}}
+    {{< merchant
+        titleText="Toys4Sex"
+        imgSrc="/images/merchants/toys4sex.png"
+        text="慎重に配信されるアダルト商品の特別に選択された範囲。"
+        linkUrl="http://toys4sex.com.au/"
+    >}}
+    {{< merchant
+        titleText="SEO Better"
+        imgSrc="/images/merchants/seo-better_400x400.png"
+        text="あなたのビジネスをオンラインで成長させるのに必要なスキルをあなたに提供するコース。"
+        linkUrl="https://seobetter.com/"
+    >}}
+    {{< merchant
+        titleText="Natural Pet Shop"
+        imgSrc="/images/merchants/natural-petshop.jpg"
+        text="あなたの犬は私たちの簡単に手で洗える犬のベッドで快適な眠りを得るでしょう。"
+        linkUrl="https://naturalpetshop.com.au/"
+    >}}
+
 {{< /item_container_section >}}
 
 {{< item_container_section
