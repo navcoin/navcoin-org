@@ -34,7 +34,7 @@ newTab="true"
     >}}
     {{< merchant
         titleText="WikiLeaks Shop"
-        imgSrc="/images/merchants/wikileaks-shop_400x400.png"
+        imgSrc="/images/merchants/wikileaks-shop_400x400.jpg"
         text="ウィキリークス公式ショップ、Tシャツであなたの支持を示してください"
         linkUrl="https://wikileaks.shop"
     >}}

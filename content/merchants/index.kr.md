@@ -33,7 +33,7 @@ newTab="true"
     >}}
     {{< merchant
         titleText="WikiLeaks Shop"
-        imgSrc="/images/merchants/wikileaks-shop_400x400.png"
+        imgSrc="/images/merchants/wikileaks-shop_400x400.jpg"
         text="공식 WikiLeaks Shop에서는 T 셔츠로 지원을 보여줍니다."
         linkUrl="https://wikileaks.shop"
     >}}
