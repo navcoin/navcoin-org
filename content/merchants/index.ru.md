@@ -33,6 +33,12 @@ newTab="true"
         linkUrl="https://navcoinstore.com/"
     >}}
     {{< merchant
+        titleText="WikiLeaks Shop"
+        imgSrc="/images/merchants/wikileaks-shop_400x400.png"
+        text="Официальный магазин WikiLeaks, покажи свою поддержку с футболкой"
+        linkUrl="https://wikileaks.shop"
+    >}}
+    {{< merchant
         titleText="BitcoinGallery.Art"
         imgSrc="/images/merchants/mer-bitcoingallery.png"
         text="Уникальные скульптуры ручной работы вашей любимой монеты."
