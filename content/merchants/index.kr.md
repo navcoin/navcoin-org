@@ -32,6 +32,12 @@ newTab="true"
         linkUrl="https://navcoinstore.com/"
     >}}
     {{< merchant
+        titleText="WikiLeaks Shop"
+        imgSrc="/images/merchants/wikileaks-shop_400x400.jpg"
+        text="공식 WikiLeaks Shop에서는 T 셔츠로 지원을 보여줍니다."
+        linkUrl="https://wikileaks.shop"
+    >}}
+    {{< merchant
         titleText="BitcoinGallery.Art"
         imgSrc="/images/merchants/mer-bitcoingallery.png"
         text="예술과 암호화폐는 당신이 가장 좋아하는 동전의 독특한 수제 조각과&nbsp;상충합니다."
