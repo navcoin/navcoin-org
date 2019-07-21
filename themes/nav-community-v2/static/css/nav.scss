@@ -936,8 +936,9 @@ a {
 //wallets
 .wallet-column .item-icon{
   padding:0;
-  max-height: 80%;
   align-self: center;
+  margin: 0 auto;
+  display: block;
 }
 
 .wallet-column .item-card{
