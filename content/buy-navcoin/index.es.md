@@ -211,6 +211,12 @@ newTab="true"
         text="Fiat / NAV"
         linkUrl="https://www.bitladon.com/navcoin/"
     >}}
+    {{< exchange
+        titleText="Switchain"
+        imgSrc="/images/buy-navcoin/switchain_200x200.png"
+        text="Multi moneda / NAV"
+        linkUrl="https://www.switchain.com/"
+    >}}
 {{< /item_container_section >}}
 
 {{< center_text_cta

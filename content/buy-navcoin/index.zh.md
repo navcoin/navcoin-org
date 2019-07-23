@@ -211,6 +211,12 @@ newTab="正确的"
         text="菲亚特 / NAV"
         linkUrl="https://www.bitladon.com/navcoin/"
     >}}
+    {{< exchange
+        titleText="Switchain"
+        imgSrc="/images/buy-navcoin/switchain_200x200.png"
+        text="多币种 / NAV"
+        linkUrl="https://www.switchain.com/"
+    >}}
 
 {{< /item_container_section >}}
 

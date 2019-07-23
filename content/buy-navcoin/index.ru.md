@@ -211,6 +211,12 @@ newTab="подлинный"
         text="указ / NAV"
         linkUrl="https://www.bitladon.com/navcoin/"
     >}}
+    {{< exchange
+        titleText="Switchain"
+        imgSrc="/images/buy-navcoin/switchain_200x200.png"
+        text="мульти валюта / NAV"
+        linkUrl="https://www.switchain.com/"
+    >}}
 {{< /item_container_section >}}
 
 {{< center_text_cta

@@ -211,6 +211,12 @@ newTab="true"
         text="피아트 / NAV"
         linkUrl="https://www.bitladon.com/navcoin/"
     >}}
+    {{< exchange
+        titleText="Switchain"
+        imgSrc="/images/buy-navcoin/switchain_200x200.png"
+        text="복수 통화 / NAV"
+        linkUrl="https://www.switchain.com/"
+    >}}
 {{< /item_container_section >}}
 
 
