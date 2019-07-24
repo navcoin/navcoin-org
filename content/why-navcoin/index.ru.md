@@ -10,6 +10,10 @@ description: "NavCoin - это основанная на блокчейне кр
 titleText="Что такое NavCoin"
 paragraphText="NavCoin - это основанная на блокчейне криптовалюта Proof of Stake с открытым исходным кодом. Его конструкция публично открыта, никто не владеет и не контролирует NavCoin, и каждый может принять участие.  NavCoin - это платформа, которая управляется ее пользователями и для ее пользователей - с стимулированной сетью узлов, проверяющих платежи по&nbsp;всему&nbsp;миру."
 imgSrc="/images/why-navcoin/why-hero.svg"
+buttonText="Обзор проекта"
+buttonImgSrc="/images/icons/downward-arrow.svg"
+buttonLink="/assets/NavCoinOverview_July2019.pdf"
+newTab="true"
 >}}
 
 {{< item_container_section

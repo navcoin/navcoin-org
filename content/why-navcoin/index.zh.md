@@ -10,6 +10,10 @@ description: "NavCoin是一个开源的，基于股权证明的区块链加密�
 titleText="NavCoin是什么"
 paragraphText="NavCoin是一个开源的，基于股权证明的区块链加密货币。它的设计是公开的，没有人拥有或控制NavCoin，每个人都可以参与。这是一个由其用户运营的平台，为其用户服务——拥有一个激励网络节点，在世界各地验证支付。"
 imgSrc="/images/why-navcoin/why-hero.svg"
+buttonText="项目概况"
+buttonImgSrc="/images/icons/downward-arrow.svg"
+buttonLink="/assets/NavCoinOverview_July2019.pdf"
+newTab="true"
 >}}
 
 {{< item_container_section
