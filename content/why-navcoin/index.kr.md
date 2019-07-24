@@ -10,6 +10,10 @@ description: "NavCoin은 오픈 소스 블록체인 기반의 Stake 암호화 �
 titleText="Nav코인은 무엇인가?"
 paragraphText="Nav코인은 오픈 소스 블록체인 기반의 스테이크 암호화폐 입니다. 디자인은 공공장소이고, Nav코인을 소유하거나 통제하는 사람은 아무도 없으며, 모든 사람이 참여할 수 있습니다. 이 플랫폼은 사용자와 사용자에 의해 운영되는 플랫폼으로, 전 세계의 결제를 확인하는 노드들의 인센티브&nbsp;네트워크를&nbsp;제공합니다."
 imgSrc="/images/why-navcoin/why-hero.svg"
+buttonText="프로젝트 개요"
+buttonImgSrc="/images/icons/downward-arrow.svg"
+buttonLink="/assets/NavCoinOverview_July2019.pdf"
+newTab="true"
 >}}
 
 {{< item_container_section

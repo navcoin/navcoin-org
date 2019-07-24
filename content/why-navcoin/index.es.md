@@ -10,6 +10,10 @@ description: "NavCoin es una criptomoneda de código abierto, su cadena de bloqu
 titleText="¿Qué es NavCoin?"
 paragraphText="NavCoin es una criptomoneda de código abierto, basada una cadena de bloques con &#34;Prueba de Participación&#34; (PoS). Su diseño es público, nadie posee ni controla NavCoin, y todos pueden participar. Es una plataforma operada por sus usuarios, para sus usuarios, con una red de nodos que verifican las transacciones dispersos por todo el&nbsp;mundo."
 imgSrc="/images/why-navcoin/why-hero.svg"
+buttonText="Descripción del proyecto"
+buttonImgSrc="/images/icons/downward-arrow.svg"
+buttonLink="/assets/NavCoinOverview_July2019.pdf"
+newTab="true"
 >}}
 
 {{< item_container_section
