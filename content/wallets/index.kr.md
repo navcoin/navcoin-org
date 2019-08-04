@@ -61,6 +61,16 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
+        titleText="Magnum Wallet"
+        walletImgSrc="/images/wallets/MagnumWallet_400x400.jpg"
+        text="1000 개가 넘는 암호화 자산을 관리하기위한 가볍고 보편적 인 비 양육권&nbsp;지갑."
+        buttonUrl="https://magnumwallet.co/"
+        buttonText="Download"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+        platformImg6Src="/images/platforms/web.png"
+        newTab="true"
+    >}}
+    {{< wallet
         titleText="Coinomi"
         walletImgSrc="/images/wallets/wal-coinomi.png"
         text="코이노미(Coinomi)는 비트코인, 알토킨, 토큰을 위한 시큐리티 최초의 멀티 에셋&nbsp;지갑입니다."

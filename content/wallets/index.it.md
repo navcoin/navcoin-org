@@ -61,6 +61,16 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
+        titleText="Magnum Wallet"
+        walletImgSrc="/images/wallets/MagnumWallet_400x400.jpg"
+        text="Portafoglio non custodito leggero e universale per la gestione di oltre 1000&nbsp;criptovalute."
+        buttonUrl="https://magnumwallet.co/"
+        buttonText="Download"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+        platformImg6Src="/images/platforms/web.png"
+        newTab="true"
+    >}}
+    {{< wallet
         titleText="Coinomi"
         walletImgSrc="/images/wallets/wal-coinomi.png"
         text="Coinomi is a Security-First Multi-Asset Wallet for Bitcoin, Altcoins and&nbsp;Tokens."

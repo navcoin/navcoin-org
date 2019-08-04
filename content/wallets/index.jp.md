@@ -61,6 +61,16 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
+        titleText="Magnum Wallet"
+        walletImgSrc="/images/wallets/MagnumWallet_400x400.jpg"
+        text="1000を超える暗号資産を管理するための軽量で普遍的な非保管財布。"
+        buttonUrl="https://magnumwallet.co/"
+        buttonText="Download"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+        platformImg6Src="/images/platforms/web.png"
+        newTab="true"
+    >}}
+    {{< wallet
         titleText="Coinomi"
         walletImgSrc="/images/wallets/wal-coinomi.png"
         text="Coinomi は、セキュリティ重視の、ビットコイン、アルトコインそしてトークン用のマルチアセットウォレット&nbsp;です。"

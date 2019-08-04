@@ -61,6 +61,16 @@ newTab="正确的"
         newTab="正确的"
     >}}
     {{< wallet
+        titleText="Magnum Wallet"
+        walletImgSrc="/images/wallets/MagnumWallet_400x400.jpg"
+        text="轻便且通用的非保管钱包，用于管理1000多个加密资产。"
+        buttonUrl="https://magnumwallet.co/"
+        buttonText="Download"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+        platformImg6Src="/images/platforms/web.png"
+        newTab="true"
+    >}}
+    {{< wallet
         titleText="Coinomi"
         walletImgSrc="/images/wallets/wal-coinomi.png"
         text="Coinomi是一个安全第一的多重资产钱包，用于比特币、替代币和代币."
