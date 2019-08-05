@@ -62,7 +62,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
                 <div class="feature-card">
                     <img src="/images/community-fund/cfu-submit.svg" alt="" class="item-icon">
                     <h3>Step 1: invia una proposta</h3>
-                    <p style="margin-bottom: 10%">Trova un modo di migliorare l'ecosistema di NavCoin, sottoponi la tua idea al&nbsp;network.</p>
+                    <p style="margin-bottom: 10%">Trova un modo di migliorare l'ecosistema di NavCoin, sottoponi la tua idea al&nbsp;network.<br>&nbsp;</p>
                     <a href="https://communityfund.nav.community/create-proposal" target="_blank" class="round-btn small gradient-btn">Crea proposta        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
@@ -100,19 +100,19 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
 
 <section class="item-container-section " id="">
   <div class="ninety-vw-container">
-    <h1 class="container-title">Featured Proposals</h1>
+    <h1 class="container-title">Proposte in primo piano</h1>
     <!-- <h3 class="container-subtitle"></h3> -->
     <div class="grid-container">
       <div class="wallet-column">
         <div class="item-card">
           <div class="item-main">
             <div class="item-icon-container">
-              <h2 class="cf-proposal-title"> NavCoin Sticker&nbsp;Creation </h2>
+              <h2 class="cf-proposal-title"> Creazione di adesivi NavCoin </h2>
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">Public awareness is one of the most important things to achieve for any cryptocurrency, and one way to achieve this is by creating stickers which you can post to different places like your car, the window of your store, etc.<br><br>
-                This proposal is to get the things needed to print and cut NAV stickers and send them out to the people interested in the community. You can <a href="https://collab.navcoin.org/s/navcoin-sticker-creation/custom_pages/container/view?id=12" target="_blank" style="color:white; text-decoration: underline">read more about it here.</a></p>
+                <p style="margin-top:0; margin-bottom: 15px;">La consapevolezza del pubblico è una delle cose più importanti da raggiungere per qualsiasi criptovaluta e un modo per raggiungere questo obiettivo è quello di creare adesivi che puoi pubblicare in luoghi diversi come la tua auto, la finestra del tuo negozio, ecc. <br> <br>
+                 Questa proposta è quella di ottenere le cose necessarie per stampare e tagliare gli adesivi NAV e inviarli alle persone interessate alla comunità. Puoi <a href = "https://collab.navcoin.org/s/navcoin-sticker-creation/custom_pages/container/view?id=12" target = "_ blank" style="color:white; text-decoration: underline">leggere di più qui.</a></p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
                     <h4>Pending</h4>
@@ -139,7 +139,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">This Community Fund project is designed to offset the carbon footprint of the NavCoin network, making NAV the world's first carbon neutral cryptocurrency. <br><br>This proposal calculates the amount of electricity used by the network and the ecosystem around it - and proposes to purchase native forest carbon credits to offset this. You can <a href="https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6" target="_blank" style="color:white; text-decoration: underline">read more about it here.</a></p>
+                <p style="margin-top:0; margin-bottom: 15px;">Questo progetto del Fondo comunitario è progettato per compensare l'impronta di carbonio della rete NavCoin, rendendo il NAV la prima criptovaluta al carbonio neutra al mondo. <br><br>Questa proposta calcola la quantità di elettricità utilizzata dalla rete e dall'ecosistema circostante e propone di acquistare crediti di carbonio delle foreste native per compensare ciò. Puoi <a href = "https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6" target = "_ blank" style="color:white; text-decoration: underline">leggere di più qui.<br><br></a></p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
                     <h4>Pending</h4>
@@ -161,12 +161,12 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
         <div class="item-card">
           <div class="item-main">
             <div class="item-icon-container">
-              <h2 class="cf-proposal-title"> NavCoin NEXT Wallet </h2>
+              <h2 class="cf-proposal-title"> NavCoin NEXT Portafoglio </h2>
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">NEXT is an alternative wallet for NavCoin. It's an open source, cross-platform full node NavCoin wallet. It can be run on Windows, Mac and Linux. NEXT provides all the basic wallet features like sending/receiving coins, and much&nbsp;more. 
-                <br><br>This proposal is to fund the ongoing research & development of the NEXT wallet. You can <a href="https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10" target="_blank" style="color:white; text-decoration: underline">read more about it here.</a><br></p>
+                <p style="margin-top:0; margin-bottom: 15px;">NEXT è un portafoglio alternativo per NavCoin. È un portafoglio NavCoin open-source e multipiattaforma. Può essere eseguito su Windows, Mac e Linux. NEXT fornisce tutte le funzionalità di base del portafoglio come l'invio / ricezione di monete e molto altro.
+                 <br> <br> Questa proposta è destinata a finanziare la ricerca e lo sviluppo in corso del portafoglio NEXT. Puoi <a href = "https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6" target = "_ blank" style="color:white; text-decoration: underline">leggere di più qui.<br><br></a></p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
                     <h4>Pending</h4>

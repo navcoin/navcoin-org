@@ -84,7 +84,7 @@ newTab="true"
     {{< wallet
         titleText="NavPi StakeBox"
         walletImgSrc="/images/wallets/wal-pi.png"
-        text="Un portafoglio completo NavCoin a basso consumo basato sulla piattaforma&nbsp;Raspberry-Pi."
+        text="Un portafoglio completo NavCoin a basso consumo basato sulla piattaforma Raspberry-Pi."
         buttonUrl="https://navhub.org/projects/nav-pi/"
         buttonText="Scaricare"
         platformImg1Src="/images/platforms/pi.png"
