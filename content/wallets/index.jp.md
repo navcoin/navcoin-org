@@ -36,7 +36,7 @@ newTab="true"
     {{< wallet
         titleText="NavPay"
         walletImgSrc="/images/wallets/wal-navpay.png"
-        text="NavPay は、使い方が簡単なライトウォレットで、貴方はお持ちのNAVを安全に保管する事ができます。デスクトップ版とモバイル版があり、容量もギガバイトまで使用しません。"
+        text="NavPay は、使い方が簡単なライトウォレットで、貴方はお持ちのNAVを安全に保管する事ができます。デスクトップ版とモバイル版があり、容量もギガバイトまで使用しません。<br>&nbsp;"
         buttonUrl="https://navhub.org/projects/nav-pay/"
         buttonText="ダウンロード"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
