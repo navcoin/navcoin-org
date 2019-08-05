@@ -139,7 +139,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
 <div class="grey">
   <div class="article">
     <h2 class="article-title">
-        Bounty Program Details
+        Dettagli del programma Bounty
     </h2>
     <p class="paragraph-text">Il programma di bounty dei siti Web NavCoin è stato avviato dallo sviluppatore NavCoin <a href="https://github.com/proletesseract" target="_blank"> Craig M </a> per incoraggiare il decentramento della responsabilità per i principali siti Web NavCoin open source . </ p>
     <p class = "paragraph-text"> I numeri che possono essere elaborati per rivendicare le monete saranno etichettati con un tag speciale. Le problematiche verranno assegnate ai candidati in base all'ordine di arrivo e l'assegnazione deve essere gestita sulla questione GitHub. Se vuoi lavorare su una taglia, assicurati di commentarla e che il tuo reclamo sia stato riconosciuto. </p>
