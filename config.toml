@@ -107,11 +107,11 @@ enableRobotsTXT = true
     weight = 20
     identifier = "explore"
     [[Languages.en.menu.main]]
-        name = "Roadmap"
-        title = "Roadmap"
+        name = "Project Activity"
+        title = "Project Activity"
         weight = 20
-        url = "/roadmap/"
-        identifier = "roadmap"
+        url = "/project-activity/"
+        identifier = "project-activity"
         parent = "explore"
     [[Languages.en.menu.main]]
         name = "Block Explorer"
@@ -227,11 +227,11 @@ enableRobotsTXT = true
     weight = 20
     identifier = "explore"
     [[Languages.es.menu.main]]
-        name = "Hoja de ruta"
-        title = "Hoja ruta"
+        name = "Actividad del proyecto"
+        title = "Actividad del proyecto"
         weight = 20
-        url = "/roadmap/"
-        identifier = "roadmap"
+        url = "/project-activity/"
+        identifier = "project-activity"
         parent = "explore"
     [[Languages.es.menu.main]]
         name = "Explorador de bloques"
@@ -348,11 +348,11 @@ enableRobotsTXT = true
     weight = 20
     identifier = "explore"
     [[Languages.ru.menu.main]]
-        name = "Дорожная карта"
-        title = "Дорожная карта"
+        name = "Деятельность проекта"
+        title = "Деятельность проекта"
         weight = 20
-        url = "/roadmap/"
-        identifier = "roadmap"
+        url = "/project-activity/"
+        identifier = "project-activity"
         parent = "explore"
     [[Languages.ru.menu.main]]
         name = "Обозреватель блоков"
@@ -469,11 +469,11 @@ enableRobotsTXT = true
     weight = 20
     identifier = "explore"
     [[Languages.zh.menu.main]]
-        name = "路线图"
-        title = "路线图"
+        name = "项目活动"
+        title = "项目活动"
         weight = 20
-        url = "/roadmap/"
-        identifier = "roadmap"
+        url = "/project-activity/"
+        identifier = "project-activity"
         parent = "explore"
     [[Languages.zh.menu.main]]
         name = "区块开发者"
@@ -590,11 +590,11 @@ enableRobotsTXT = true
     weight = 20
     identifier = "explore"
     [[Languages.kr.menu.main]]
-        name = "로드맵"
-        title = "로드맵"
+        name = "프로젝트 활동"
+        title = "프로젝트 활동"
         weight = 20
-        url = "/roadmap/"
-        identifier = "roadmap"
+        url = "/project-activity/"
+        identifier = "project-activity"
         parent = "explore"
     [[Languages.kr.menu.main]]
         name = "블록 탐색기"
@@ -712,11 +712,11 @@ enableRobotsTXT = true
     weight = 20
     identifier = "explore"
     [[Languages.jp.menu.main]]
-        name = "Roadmap"
-        title = "Roadmap"
+        name = "Project Activity"
+        title = "Project Activity"
         weight = 20
-        url = "/roadmap/"
-        identifier = "roadmap"
+        url = "/project-activity/"
+        identifier = "project-activity"
         parent = "explore"
     [[Languages.jp.menu.main]]
         name = "Block Explorer"
@@ -832,11 +832,11 @@ enableRobotsTXT = true
     weight = 20
     identifier = "explore"
     [[Languages.it.menu.main]]
-        name = "Roadmap"
-        title = "Roadmap"
+        name = "Project Activity"
+        title = "Project Activity"
         weight = 20
-        url = "/roadmap/"
-        identifier = "roadmap"
+        url = "/project-activity/"
+        identifier = "project-activity"
         parent = "explore"
     [[Languages.it.menu.main]]
         name = "Block Explorer"

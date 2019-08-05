@@ -10,19 +10,29 @@
   <div class="hero-section">
       <img src="/images/roadmap/map_hero.svg" class="hero-img">
     <div class="text-section-container">
-        <h1 class="">Core Roadmap</h1>
+        <h1 class="">Project Activity</h1>
         <p class="paragraph-text">
-            Cryptocurrencies are complicated, and NavCoin’s community roadmap is aimed at changing that. As a community, we are laying the foundation for NavCoin to be an industry-leading cryptocurrency by building better money.
-          </p>
+          NavCoin is a decentralised project with many contributors. As a community, we are shaping the future of digital money by building industry-leading features and&nbsp;protocols. Here you can see what is happening on the NavCoin Core GitHub Project. 
+          <br /><br />
+          For all other NavCoin projects see the NavHub Community projects page.
+        </p>
 
             <div>
-                <a href="https://www.navexplorer.com/soft-forks" class="round-btn blue-btn" target="_blank">
-                    View soft fork stats
+                <a href="https://www.navhub.org/projects" class="round-btn blue-btn" target="_blank">
+                    Community Projects
                     <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
             </div>
 
     </div>
 </div>
+
+<section>
+    <div id="react-latest-news">
+        <div class="status-container">
+            <h3>Loading...</h3>
+        </div>
+    </div>
+</section>
 
   <section>
     <div class="roadmap-grid-container" style="max-width: 1190px;">
@@ -74,6 +84,10 @@
   </div>
 
   {{ partial "footer.html" . }}
+
+   <!-- React components. -->
+   <script src="/js/react/vendor.bundle.js"></script>
+   <script src="/js/react/github-project.js"></script>
 
 </body>
 </html>

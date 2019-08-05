@@ -200,3 +200,16 @@
       font-weight:400;
   }
 }
+
+.status-container {
+  max-width: 550px;
+  justify-self: center;
+  padding: 10px 31px 45px 30px;
+  background: #fff;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  box-shadow: 1px 13px 35px rgba(66, 45, 178, 0.12);
+  transition: all 0.3s ease;
+  margin: 30px auto;
+}
