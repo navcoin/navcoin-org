@@ -1,10 +1,10 @@
 ---
-title: "Perché NavCoin"
+title: "Why NavCoin"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
-description: "NavCoin è una criptovaluta Proof of Stake basata su blockchain. È una piattaforma gestita dai suoi utenti, per i suoi utenti."
+description: "NavCoin is an open-source, blockchain based Proof of Stake cryptocurrency. It’s a platform that’s run by its users, for its users."
 ---
 {{< hero_section
 titleText="Cos'è NavCoin"
@@ -138,9 +138,9 @@ NavCoin è una rete gestita dalla comunità che è stata avviata nel 2014. Inizi
         text="Dl'igitizzazione del denaro gli consente di essere programmabile, automatizzabile e interagibile in modi nuovi e interessanti."
     >}}
     {{< feature                 
-        titleText="Una soluzione di pagamento semplice"
+        titleText="soluzione di pagamento facile"
         imgSrc="/images/why-navcoin/why-easy-pay.svg"
-        text="Non è necessario registrarsi con nulla per accettare pagamenti. È facile come mostrare il tuo indirizzo o codice QR!"
+        text="Non è necessario registrarsi con nulla per accettare pagamenti. È facile come mostrare il tuo indirizzo o&nbsp;codice&nbsp;QR!"
     >}}
 {{< /item_container_section >}}
 
