@@ -6,7 +6,7 @@ type: "default"
 description: "Anyone can accept NavCoin on their website or in-store to receive instant global payments with low fees."
 ---
 {{< hero_section
-titleText="Merchants"
+titleText="i commercianti"
 paragraphText="Chiunque può accettare NavCoin sul proprio sito Web o in negozio per ricevere pagamenti globali immediati con commissioni basse. Questa pagina non è un elenco esaustivo, non è richiesta la registrazione per accettare NavCoin. Se accetti NavCoin e desideri che il tuo negozio sia elencato qui, crea una richiesta pull o apri un problema su GitHub."
 imgSrc="/images/merchants/mer-hero.svg"
 buttonText="Aggiungi il tuo negozio"

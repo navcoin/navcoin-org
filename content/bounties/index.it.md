@@ -24,7 +24,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
                     <img src="/images/homepage/hom-fast.svg" alt="" class="item-icon">
                     <h3>NavCoin Core</h3>
                     <p style="margin-bottom: 10%">Se sei un guru C ++ o hai appena iniziato, puoi guadagnare NAV aiutando a mantenere e sviluppare il software NavCoin Core.<br>&nbsp;</p>
-                    <a href="#navcoin-core" class="round-btn small gradient-btn">View Bounty Program <img src="/images/icons/downward-arrow.svg" class="btn-img"> 
+                    <a href="#navcoin-core" class="round-btn small gradient-btn">Visualizza il programma Bounty<img src="/images/icons/downward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -33,7 +33,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
                     <img src="/images/homepage/hom-new-system.svg" alt="" class="item-icon">
                     <h3>NavCoin Websites</h3>
                     <p style="margin-bottom: 10%">Gli sviluppatori Web, i redattori di contenuti e i traduttori possono guadagnare NAV aiutando ad aggiornare e mantenere i siti Web di NavCoin.</p>
-                    <a href="#navcoin-websites" class="round-btn small gradient-btn">View Bounty Program <img src="/images/icons/downward-arrow.svg" class="btn-img"> 
+                    <a href="#navcoin-websites" class="round-btn small gradient-btn">Visualizza il programma Bounty<img src="/images/icons/downward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -71,13 +71,13 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
      <p class = "paragraph-text"> I premi verranno pagati una volta che la richiesta pull è stata fusa in master e la richiesta pull deve includere le corrispondenti unità di test da considerare complete. Il premio per l'attività si baserà sull'etichetta dell'emissione: </p>
     <br />
     <div style="display: flex; flex-direction: row;  justify-content: flex-start; flex-wrap: wrap">
-        <div class="bounty-label"><span style="background-color: #d8695f;">bounty-low</span></div>
+        <div class="bounty-label"><span style="background-color: #d8695f;">bounty-bassa</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 100 NAV</div>
-        <div class="bounty-label"><span style="background-color: #eabc88;">bounty-medium</span></div>
+        <div class="bounty-label"><span style="background-color: #eabc88;">bounty-medio</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 500 NAV</div>
-        <div class="bounty-label"><span style="background-color: #cbea7c;">bounty-high</span></div>
+        <div class="bounty-label"><span style="background-color: #cbea7c;">bounty-alta</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 1,000 NAV</div>
-        <div class="bounty-label"><span style="background-color: #b60205;">bounty-xhigh</span></div>
+        <div class="bounty-label"><span style="background-color: #b60205;">bounty-xalta</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 2,000 NAV</div>
     </div>
     <br />
@@ -88,7 +88,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
      <p class = "paragraph-text"> Le vulnerabilità già segnalate / conosciute pubblicamente o le vulnerabilità critiche (livello 5 o più) che richiedono l'accesso fisico al dispositivo o le tecniche MITM, non saranno prese in considerazione per la generosità. Il pagamento verrà effettuato in base alla sua gravità: </p>
     <br />
     <div style="display: flex; flex-direction: row;  justify-content: flex-start; flex-wrap: wrap">
-        <div class = "bounty-label"> 1. Visual Glitch </div>
+        <div class = "bounty-label"> 1. Problema visivo </div>
         <div class = "bounty-description"> <i class = "fa fa-arrow-right"> </i> 100 NAV </div>
         <div class = "bounty-label"> 2. Problemi di UX minori </div>
         <div class = "bounty-description"> <i class = "fa fa-arrow-right"> </i> 300 NAV </div>
@@ -109,7 +109,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
     </div>
     <br />
     <p class="paragraph-text">
-    Se hai scoperto un bug critico nel core di NavCoin, ti chiederemo di trattarlo con discrezione e di utilizzare la nostra procedura <a href="/responsible-disclosure/" target="e"> Responsible Disclosure </a> per avvisare gli altri sviluppatori principali e lavorano con loro per risolvere il bug e rivendicare la tua ricompensa.
+    Se hai scoperto un bug critico nel core di NavCoin, ti chiederemo di trattarlo con discrezione e di utilizzare la nostra procedura <a href="/responsible-disclosure/" target="e"> Divulgazione responsabile </a> per avvisare gli altri sviluppatori principali e lavorano con loro per risolvere il bug e rivendicare la tua ricompensa.
     </p>
     <br />
     <div>
@@ -146,24 +146,24 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
     <p class = "paragraph-text"> Webist che sono coperti da questo programma di bounty: </p>
     <H3> 1. NavCoin Org </h3>
     <p class = "paragraph-text"> Questo è il sito pubblico principale di NavCoin. Contiene informazioni su cos'è NavCoin, dove acquistarlo, come conservarlo, dove spenderlo e come funziona il protocollo. </p>
-    <p class = "paragraph-text"> <b> Bounty Ideas: </b> Nuovi commercianti, nuovi scambi, nuove traduzioni, aggiornamento di traduzioni esistenti, aggiornamento della roadmap, revisione e perfezionamento del contenuto, aggiunta di impaginazione sulle pagine dell'elenco, miglioramento del sistema di gestione dei contenuti e altro. </p>
+    <p class = "paragraph-text"> <b> Idee di ricompensa: </b> Nuovi commercianti, nuovi scambi, nuove traduzioni, aggiornamento di traduzioni esistenti, aggiornamento della roadmap, revisione e perfezionamento del contenuto, aggiunta di impaginazione sulle pagine dell'elenco, miglioramento del sistema di gestione dei contenuti e altro. </p>
     <H3> 2. NavHub </ h3>
     <p class = "paragraph-text"> Questo è il sito web dedicato a tutte le applicazioni di livello due di NavCoin e la più ampia comunità oltre il protocollo principale. </p>
-    <p class = "paragraph-text"> <b> Bounty Ideas: </b> scrivere articoli di notizie, aggiornare progetti di community, aggiungere nuovi progetti di community, aggiungere nuovi eventi, aggiungere risorse di community, aggiungere eroi di navcoin, aggiungere o aggiornare guide, aggiungere l'impaginazione alle pagine dell'elenco, aggiungere filtri di ricerca o categoria all'elenco dei progetti e altro ancora. </p>
+    <p class = "paragraph-text"> <b> Idee di ricompensa: </b> scrivere articoli di notizie, aggiornare progetti di community, aggiungere nuovi progetti di community, aggiungere nuovi eventi, aggiungere risorse di community, aggiungere eroi di navcoin, aggiungere o aggiornare guide, aggiungere l'impaginazione alle pagine dell'elenco, aggiungere filtri di ricerca o categoria all'elenco dei progetti e altro ancora. </p>
     <H3> 3. Base di conoscenza di NavCoin </h3>
     <p class = "paragraph-text"> Questo è il sito Web in cui esistono guide, tutorial e informazioni sulla risoluzione dei problemi per l'ecosistema di prodotti, siti Web e servizi di NavCoin. </p>
-    <p class = "paragraph-text"> <b> Bounty Ideas: </b> Aggiunta di articoli della knowledge base relativi a NavCoin Core, NavPay, NavPi, NavDroid, Next Wallet, NavPaper, Community Fund e altro. Tradurre articoli, migliorare il design, migliorare l'esperienza dell'utente, aggiungere l'impaginazione, aggiungere la navigazione delle categorie e altro ancora. </p>
+    <p class = "paragraph-text"> <b> Idee di ricompensa: </b> Aggiunta di articoli della knowledge base relativi a NavCoin Core, NavPay, NavPi, NavDroid, Next Wallet, NavPaper, Community Fund e altro. Tradurre articoli, migliorare il design, migliorare l'esperienza dell'utente, aggiungere l'impaginazione, aggiungere la navigazione delle categorie e altro ancora. </p>
     <h3> Reclami di taglie </h3>
     <p class = "paragraph-text"> La ricompensa per l'attività si baserà sull'etichetta dell'emissione:</p>
     <br />
     <div style="display: flex; flex-direction: row;  justify-content: flex-start; flex-wrap: wrap">
-        <div class="bounty-label"><span style="background-color: #0e8a16;">bounty-low</span></div>
+        <div class="bounty-label"><span style="background-color: #0e8a16;">bounty-bassa</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 100 NAV</div>
-        <div class="bounty-label"><span style="background-color: #fbca04;">bounty-medium</span></div>
+        <div class="bounty-label"><span style="background-color: #fbca04;">bounty-medio</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 500 NAV</div>
-        <div class="bounty-label"><span style="background-color: #d93f0b;">bounty-high</span></div>
+        <div class="bounty-label"><span style="background-color: #d93f0b;">bounty-alta</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 1,000 NAV</div>
-        <div class="bounty-label"><span style="background-color: #b60205;">bounty-xhigh</span></div>
+        <div class="bounty-label"><span style="background-color: #b60205;">bounty-xalta</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 2,000 NAV</div>
     </div>
     <br />

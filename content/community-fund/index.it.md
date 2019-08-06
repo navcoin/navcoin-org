@@ -8,7 +8,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
 <section class="cf-hero">
     <div class="grid-container">
         <div class="text-container">
-            <h1 style="font-weight: 600; margin-bottom:35px;">Community Fund</h1>
+            <h1 style="font-weight: 600; margin-bottom:35px;">Fondo comunitario</h1>
             <p>NavCoin è realizzato dalla community, per la community. Essendo un progetto open source non nato da premine o ICO - il community fund di NavCoin permette a chiunque di essere remunerato dal network per il suo contributo all'ecosistema NavCon. </p>
         </div>
         <img src="/images/community-fund/cfu-hero.png" alt="Hero image">
@@ -22,7 +22,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
     subtitleText="I progetti sono approvati e finanziati dal network decentralizzato senza nessuna autorità centrale o intermediari. Questo approccio assicura che la direzione di NavCoin rimanga orientata all'interesse dell'intero network. Questo fondo ti ripaga per aver avuto una idea, averla sviluppata e costruito il team per far prendere vita al tuo&nbsp;progetto."
     >}}
     {{< feature
-        titleText="Dual-vote consensus"
+        titleText="Consenso a doppio voto"
         imgSrc="/images/community-fund/cfu-dual-vote.svg"
         text="E' il primo community fund che utilizza un sistema di voto duale, ciò assicura che i fondi destinati ad un progetto non completato tornino nel community&nbsp;fund."
     >}}

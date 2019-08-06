@@ -9,7 +9,7 @@ description: "NavCoin is an open source protocol, which means that wallets are m
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 {{< hero_section
-titleText="Wallets"
+titleText="Portafoglio"
 imgSrc="/images/wallets/wal-hero.svg"
 paragraphText="NavCoin è un protocollo open source, il che significa che i portafogli sono gestiti da una serie di organizzazioni e individui. Esistono diversi tipi di portafogli: dai portafogli &#34;completi&#34; che ti danno il controllo completo e ti consentono di partecipare alla rete NavCoin, ai portafogli &#34;leggeri&#34; che sono più facili da usare. Ricorda sempre che è tua responsabilità scegliere con cura il tuo portafoglio e adottare le buone pratiche al fine di proteggere i tuoi soldi."
 buttonText="Chiedi assistenza alla community"
