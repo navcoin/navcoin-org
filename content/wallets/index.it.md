@@ -9,10 +9,10 @@ description: "NavCoin is an open source protocol, which means that wallets are m
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 {{< hero_section
-titleText="Portafoglio"
+titleText="Portafogli"
 imgSrc="/images/wallets/wal-hero.svg"
 paragraphText="NavCoin è un protocollo open source, il che significa che i portafogli sono gestiti da una serie di organizzazioni e individui. Esistono diversi tipi di portafogli: dai portafogli &#34;completi&#34; che ti danno il controllo completo e ti consentono di partecipare alla rete NavCoin, ai portafogli &#34;leggeri&#34; che sono più facili da usare. Ricorda sempre che è tua responsabilità scegliere con cura il tuo portafoglio e adottare le buone pratiche al fine di proteggere i tuoi soldi."
-buttonText="Chiedi assistenza alla community"
+buttonText="Chiedi assistenza alla comunità"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 buttonLink="https://discord.gg/y4Vu9jw"
 newTab="true"
@@ -20,12 +20,12 @@ newTab="true"
 
 {{< item_container_section
     titleText="Portafogli NavCoin"
-    subtitleText="Assicurati di fare le tue ricerche o chiedere assistenza alla community."
+    subtitleText="Assicurati di fare le tue ricerche o chiedere assistenza alla comunità."
     >}}
     {{< wallet
         titleText="NavCoin Core"
         walletImgSrc="/images/wallets/wal-core.png"
-        text="Il portafoglio NavCoin Core è un client NavCoin completo che consente agli utenti di partecipare al picchettamento di rete. Questa è l'implementazione di riferimento ufficiale pubblicata dagli sviluppatori di NavCoin Core."
+        text="Il portafoglio NavCoin Core è un cliente di NavCoin completo che consente agli utenti di partecipare al picchettamento di rete. Questa è l'implementazione di riferimento ufficiale pubblicata dagli sviluppatori di NavCoin Core."
         buttonUrl="#download-core"
         buttonText="Scaricare"
         buttonImgSrc="/images/icons/downward-arrow.svg"
@@ -104,7 +104,7 @@ newTab="true"
     {{< wallet
         titleText="NavPaper"
         walletImgSrc="/images/wallets/wal-paper.png"
-        text="Genera chiavi da stampare e archiviare offline per ulteriore&nbsp;sicurezza."
+        text="Genera chiavi da stampare e archiviare offline per sicurezza aggiuntivo."
         buttonUrl="https://paper.navcoin.org/"
         buttonText="Scaricare"
         buttonImgSrc="/images/icons/rightward-arrow.svg"

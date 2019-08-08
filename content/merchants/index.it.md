@@ -6,7 +6,7 @@ type: "default"
 description: "Anyone can accept NavCoin on their website or in-store to receive instant global payments with low fees."
 ---
 {{< hero_section
-titleText="i commercianti"
+titleText="I Mercanti"
 paragraphText="Chiunque può accettare NavCoin sul proprio sito Web o in negozio per ricevere pagamenti globali immediati con commissioni basse. Questa pagina non è un elenco esaustivo, non è richiesta la registrazione per accettare NavCoin. Se accetti NavCoin e desideri che il tuo negozio sia elencato qui, crea una richiesta pull o apri un problema su GitHub."
 imgSrc="/images/merchants/mer-hero.svg"
 buttonText="Aggiungi il tuo negozio"
@@ -18,7 +18,7 @@ newTab="true"
 
 {{< item_container_section
     titleText="I negozi"
-    subtitleText="Una selezione di commercianti e servizi che ti consentono di spendere NavCoin"
+    subtitleText="Una selezione di mercanti e servizi che ti consentono di spendere NavCoin"
 >}}
     {{< merchant
         titleText="CoinPayments"
@@ -181,7 +181,7 @@ newTab="true"
     {{< action
         titleText="Per il tuo business online"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="Gateway di pagamento integrato NavCoin, che offre plug-in per tutti i webcar popolari come shopify e woo.<br>&nbsp;"
+        subtext="Gateway di pagamento integrato NavCoin, che offre plug-in per tutti i webcart popolari come shopify e woocommerce.<br>&nbsp;"
         linkText="Visita CoinPayments"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"

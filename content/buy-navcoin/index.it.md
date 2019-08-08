@@ -9,15 +9,15 @@ description: "NavCoin is publicly mined and ran no token sale. The only way to b
 {{< hero_section
 titleText="Acquista NavCoin"
 imgSrc="/images/buy-navcoin/buy-hero.svg"
-paragraphText="NavCoin viene estratto pubblicamente e non viene eseguita alcuna vendita di token. L'unico modo per ottenere il NAV è acquistarlo da una terza parte o scambiare. Gli scambi offrono livelli molto diversi di sicurezza, protezione, privacy e controllo su fondi e informazioni. Esegui la tua due diligence e scegli un portafoglio in cui conservare NavCoin prima di selezionare uno scambio. Seguire il collegamento per controllare i volumi di scambio per ulteriori informazioni."
+paragraphText="NavCoin è minato pubblicamente e non viene eseguita alcuna vendita di token. L'unico modo per ottenere il NAV è acquistarlo da una terza parte o uno scambio. Gli scambi offrono livelli molto diversi di sicurezza, protezione, privacy e controllo su fondi e informazioni. Esegui la tua diligenza dovuta e scegli un portafoglio in cui conservare NavCoin prima di selezionare uno scambio. Seguire il collegamento per controllare i volumi di scambio per ulteriori informazioni."
 buttonText="Statistiche dei mercati"
 buttonLink="https://coinmarketcap.com/currencies/nav-coin/#markets"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 newTab="true"
 >}}
 {{< item_container_section
-    titleText="scambi"
-    subtitleText="NavCoin è acquistabile sui seguenti&nbsp;exchanges"
+    titleText="Scambi"
+    subtitleText="NavCoin è disponibile dai seguenti scambi"
 >}}
     {{< exchange
         titleText="Poloniex"
@@ -221,7 +221,7 @@ newTab="true"
 
 {{< center_text_cta
     titleText="Utilizzare NavCoin"
-    buttonText="Fare acquisti negli store"
+    buttonText="Fare acquisti nei negozi"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants"
-    innerText="Molti business hanno già iniziato ad integrare NavCoin come opzione di pagamento e quindi potete acquistare una vasta gamma di prodotti e&nbsp;servizi.">}}
+    innerText="Molte aziende hanno già iniziato ad integrare NavCoin come opzione di pagamento e quindi potete acquistare una vasta gamma di prodotti e&nbsp;servizi.">}}

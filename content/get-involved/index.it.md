@@ -19,7 +19,7 @@ imgSrc="/images/get-involved/con-translate.svg"
     reversed="true"
     newTab="true"
 >}}
-NavCoin Core è stato tradotto in oltre due dozzine di lingue, con dozzine di altre lingue parzialmente tradotte, ma è sempre necessario ulteriore aiuto. NavCoin utilizza Transifex per la traduzione, quindi è necessario impostare un account. <br> <br> Per contribuire con una traduzione, vai al progetto NavCoin su Transifex: <br> <a href = "https: //www.transifex .com / navcoin / navcoin-core "style =" text-decoration: underline; "> https://www.transifex.com/navcoin/navcoin-core </a> <br> <br> Fai clic su 'Partecipa Pulsante "Team", facci sapere quali lingue puoi tradurre e inizia a tradurre!
+NavCoin Core è stato tradotto in oltre due dozzine di lingue, con dozzine di altre lingue parzialmente tradotte, ma è sempre necessario ulteriore aiuto. NavCoin utilizza Transifex per la traduzione, quindi è necessario impostare un account. <br> <br> Per contribuire con una traduzione, vai al progetto NavCoin su Transifex: <br> <a href = "https: //www.transifex .com / navcoin / navcoin-core "style =" text-decoration: underline; "> https://www.transifex.com/navcoin/navcoin-core </a> <br> <br> Fai clic sul pulsante "Join Team", facci sapere quali lingue puoi tradurre e inizia a tradurre!
 {{< /zig_section>}}
 
 {{< zig_section
@@ -49,7 +49,7 @@ Per tutti i problemi non critici con NavCoin Core, cerca problemi simili e, se n
   <li>Una chiara descrizione del problema e passaggi per riprodurre il problema.</li>
   <li>Quale versione di NavCoin Core usi o quale impegno hai creato usando. </li> <li> Qualsiasi voce rilevante dal tuo file debug.log. Assicurati di eliminare tutte le informazioni sensibili prima di pubblicare le voci debug.log.</li>
 </ul>
-<p class="paragraph-text">La migliore strategia per risolvere rapidamente il problema è rendere il team di sviluppo il più semplice possibile per rintracciare il problema e scrivere una soluzione. Fornire ulteriori informazioni e organizzarle bene aiuta in modo significativo.</p>
+<p class="paragraph-text">La migliore strategia per risolvere rapidamente il problema è rendere la squadra di sviluppo il più semplice possibile per rintracciare il problema e scrivere una soluzione. Fornire ulteriori informazioni e organizzarle bene aiuta in modo significativo.</p>
 {{< /zig_section>}}
 
 {{< zig_section
@@ -61,7 +61,7 @@ Per tutti i problemi non critici con NavCoin Core, cerca problemi simili e, se n
   bgPurple="true"
   newTab="true"
 >}}
-TIl tracker dei problemi è il posto migliore per trovare un modo utile per contribuire a NavCoin Core. Prima di iniziare a scrivere eventuali patch per i problemi riscontrati, potresti voler commentare il problema per assicurarti che nessun altro ci stia già lavorando. Ricorda che anche se stai risolvendo un problema che hai riscontrato, dovrai prima creare un problema nel tracker dei problemi.
+Il tracker dei problemi è il posto migliore per trovare un modo utile per contribuire a NavCoin Core. Prima di iniziare a scrivere eventuali patch per i problemi riscontrati, potresti voler commentare il problema per assicurarti che nessun altro ci stia già lavorando. Ricorda che anche se stai risolvendo un problema che hai riscontrato, dovrai prima creare un problema nel tracker dei problemi.
 <br><br>
 Per risolvere un problema, attenersi alla seguente procedura:
 <br>
@@ -109,7 +109,7 @@ buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 newTab="true"
 >}}
-NavCoin Core si impegna a migliorare continuamente il protocollo sottostante di NavCoin. Il nostro obiettivo è sempre quello di migliorare la sicurezza, la privacy e l'efficienza, incoraggiando al contempo il decentramento, la diffusione e l'usabilità. Se vuoi aiutarci a migliorare il protocollo NavCoin, il posto migliore per documentare il tuo suggerimento è nel repository GitHub di NPIP (proposte di miglioramento del protocollo NavCoin). <br> <br> Le persone che desiderano presentare NPIP devono prima proporre la propria idea o documento alla comunità di sviluppo di NavCoin Core tramite Discord o IRC (irc.freenode.net #navcoin). Dopo la discussione, si prega di aprire un PR nel repository NPIPs. Dopo la modifica e l'accettazione della copia, sarà pubblicato lì. <br> <br> Siamo abbastanza liberali con l'approvazione dei NPIP e cerchiamo di non essere troppo coinvolti nel processo decisionale a nome della comunità. L'eccezione è in casi molto rari di risoluzione delle controversie quando una decisione è controversa e non può essere concordata. In quei casi, l'opzione conservativa sarà sempre preferita. <br> <br> Avere un NPIP qui non lo rende uno standard formalmente accettato fino a quando il suo status non diventa Finale o Attivo. <br> <br> Quelli che propongono modifiche dovrebbero considerare che in ultima analisi, il consenso può basarsi sul consenso degli utenti di NavCoin.
+NavCoin Core si impegna a migliorare continuamente il protocollo sottostante di NavCoin. Il nostro obiettivo è sempre quello di migliorare la sicurezza, la vita privata e l'efficienza, incoraggiando al contempo il decentramento, la diffusione e l'usabilità. Se vuoi aiutarci a migliorare il protocollo NavCoin, il posto migliore per documentare il tuo suggerimento è nel repository GitHub di NPIP (proposte di miglioramento del protocollo NavCoin). <br> <br> Le persone che desiderano presentare NPIP devono prima proporre la propria idea o documento alla comunità di sviluppo di NavCoin Core tramite Discord o IRC (irc.freenode.net #navcoin). Dopo la discussione, si prega di aprire un PR nel repository NPIPs. Dopo la modifica e l'accettazione della copia, sarà pubblicato lì. <br> <br> Siamo abbastanza liberali con l'approvazione dei NPIP e cerchiamo di non essere troppo coinvolti nel processo decisionale a nome della comunità. L'eccezione è in casi molto rari di risoluzione delle controversie quando una decisione è controversa e non può essere concordata. In quei casi, l'opzione conservativa sarà sempre preferita. <br> <br> Avere un NPIP qui non lo rende uno standard formalmente accettato fino a quando il suo status non diventa Finale o Attivo. <br> <br> Quelli che propongono modifiche dovrebbero considerare che in ultima analisi, il consenso può basarsi sul consenso degli utenti di NavCoin.
 {{< /zig_section>}}
 
 {{< zig_section

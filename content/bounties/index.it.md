@@ -66,9 +66,9 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
     <p class = "paragraph-text"> Il programma di ricompensa di NavCoin Core Developer è stato avviato da NavCoin Developer <a href="https://github.com/aguycalled" target="_blank"> Alex V </a> per incoraggiare il decentramento dello sviluppo di NavCoin Core. </p>
      <p class = "paragraph-text"> Esistono due modi principali per richiedere monete attraverso il programma di taglie: </a>
      <H3> 1. Risolvere i problemi di GitHub </h3>
-     <p class = "paragraph-text"> I numeri che possono essere elaborati per rivendicare le monete saranno etichettati con un tag speciale. Le problematiche verranno assegnate ai candidati in base all'ordine di arrivo e l'assegnazione deve essere gestita sulla questione GitHub. Se vuoi lavorare su una taglia, assicurati di commentarla e che il tuo reclamo sia stato riconosciuto. </p>
+     <p class = "paragraph-text"> I problem che possono essere elaborati per rivendicare le monete saranno etichettati con un tag speciale. Le problematiche verranno assegnate ai candidati in base all'ordine di arrivo e l'assegnazione deve essere gestita sulla questione GitHub. Se vuoi lavorare su una taglia, assicurati di commentarla e che il tuo reclamo sia stato riconosciuto. </p>
      <br />
-     <p class = "paragraph-text"> I premi verranno pagati una volta che la richiesta pull è stata fusa in master e la richiesta pull deve includere le corrispondenti unità di test da considerare complete. Il premio per l'attività si baserà sull'etichetta dell'emissione: </p>
+     <p class = "paragraph-text"> I premi verranno pagati una volta che la richiesta pull è stata fusa in master e la richiesta pull deve includere le corrispondenti unità di test da considerare complete. Il premio per l'attività si baserà sull'etichetta del problema: </p>
     <br />
     <div style="display: flex; flex-direction: row;  justify-content: flex-start; flex-wrap: wrap">
         <div class="bounty-label"><span style="background-color: #d8695f;">bounty-bassa</span></div>
@@ -168,24 +168,24 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
     </div>
     <br />
     <p class="paragraph-text">
-      Alcuni problemi possono superare la soglia di rating di taglia x e possono essere valutati caso per caso con un importo di grazia concordato contrassegnato sul problema, ad es. bounty-5000.
+      Alcuni problemi possono superare la valutazione della soglia bounty-xalta x e possono essere valutati caso per caso con un importo di grazia concordato contrassegnato sul problema, ad es. bounty-5000.
      </ P>
      <p class = "paragraph-text">
-       I premi verranno pagati dopo che la richiesta pull è stata testata e unita in master.
+       I premi verranno pagati dopo che la richiesta pull è stata testata e fusa in master.
      </ P>
      <p class = "paragraph-text"> Se hai notato qualcosa che potrebbe essere migliorato su uno dei tre siti Web coperti da questo programma di ricompensa che non è già presente nell'elenco dei problemi, puoi anche creare tu stesso un problema e chiedere per essere rivisto e assegnato un premio.</p>
     <br />
     <div>
         <a href="https://www.reddit.com/r/NavCoin/comments/bttld6/websites_bounty_program/" class="round-btn gradient-btn" target="_blank">
-          Maggiori informazioni <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+          Informazioni Aggiuntive <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
         </a>
     </div>
   </div>
 </div>
 
 {{< social_grid_section
-    titleText="Unisciti alla nostra community"
-     subtitleText="Se vuoi partecipare a uno qualsiasi dei programmi Bounty di NavCoin, il modo migliore per essere coinvolto è unirti ai canali della community e salutare."
+    titleText="Unisciti alla nostra comunità"
+     subtitleText="Se vuoi partecipare a uno qualsiasi dei programmi Bounty di NavCoin, il modo migliore per essere coinvolto è unirti ai canali della comunità e salutare."
     bgPurple="true"
 >}}
     {{< social                 

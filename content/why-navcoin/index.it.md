@@ -8,7 +8,7 @@ description: "NavCoin is an open-source, blockchain based Proof of Stake cryptoc
 ---
 {{< hero_section
 titleText="Cos'è NavCoin"
-paragraphText="NavCoin è una criptovaluta Proof of Stake basata su blockchain. Il suo design è pubblico, nessuno possiede o controlla NavCoin e tutti possono partecipare. È una piattaforma gestita dai suoi utenti, per i suoi utenti - con una rete incentivata di nodi che verificano i pagamenti in tutto il mondo."
+paragraphText="NavCoin è una criptovaluta Proof of Stake basata su blockchain e scritto con codice sorgente aperto. Il suo disegno è pubblico, nessuno possiede o controlla NavCoin e tutti possono partecipare. È una piattaforma gestita dai suoi utenti, per i suoi utenti - con una rete incentivata di nodi che verificano i pagamenti in tutto il mondo."
 imgSrc="/images/why-navcoin/why-hero.svg"
 buttonText="Panoramica del progetto"
 buttonImgSrc="/images/icons/downward-arrow.svg"
@@ -18,7 +18,7 @@ newTab="true"
 
 {{< item_container_section
     titleText="Perché le persone utilizzano NavCoin?"
-    subtitleText="È economico, veloce, ecologico e incentrato sulla privacy."
+    subtitleText="È economico, veloce, ecologico e incentrato sulla vita privata."
 >}}
     {{< long_text
         titleText="Sii la tua banca"
@@ -39,7 +39,7 @@ newTab="true"
 
     >}}
     {{< long_text
-        titleText="Rete carbon neutral"
+        titleText="Rete a emissioni zero"
         imgSrc="/images/why-navcoin/why-low-energy.svg"
         text="NavCoin utilizza Proof of Stake che è una forma di convalida blockchain ad alta efficienza energetica. Con la sponsorizzazione del Fondo comunitario, NavCoin ha compensato l'impronta di carbonio annua stimata della rete per diventare la prima criptovaluta a emissioni zero del mondo."
         buttonText="Leggi di più"
@@ -63,7 +63,7 @@ newTab="true"
   titleText="Storia di NavCoin"
   imgSrc="/images/why-navcoin/why-history.svg"
   buttonUrl="/governance/"
-  buttonText="Ulteriori informazioni sulla governance"
+  buttonText="Ulteriori informazioni sulla governanza"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
 >}}
@@ -80,7 +80,7 @@ NavCoin è una rete gestita dalla comunità che è stata avviata nel 2014. Inizi
         text="Un modo più economico per pagare beni e servizi, senza addebiti costosi."
     >}}
     {{< feature
-        titleText="Vasetto con punta digitale"
+        titleText="Barattolo delle mance digitale"
         imgSrc="/images/why-navcoin/why-digital-tips.svg"
         text="Se hai spazio per aggiungere un codice QR, puoi accettare il NAV - è così facile."
     >}}
@@ -100,7 +100,7 @@ NavCoin è una rete gestita dalla comunità che è stata avviata nel 2014. Inizi
         text="Crea un account condiviso con familiari o amici, con una gamma di opzioni di sicurezza."
     >}}
     {{< feature                 
-        titleText="Negozio di ricchezza"
+        titleText="Depositario di Valore"
         imgSrc="/images/why-navcoin/why-wealth.svg"
         text="NavCoin non richiede alcuna autorità centrale per funzionare, il che significa che i tuoi soldi sono sotto il tuo controllo."
     >}}
@@ -115,7 +115,7 @@ NavCoin è una rete gestita dalla comunità che è stata avviata nel 2014. Inizi
     {{< feature
         titleText="Molti modi per essere coinvolti"
         imgSrc="/images/why-navcoin/why-decentralised-dev.svg"
-        text="NavCoin è un ecosistema di diversi team e progetti, che consente una serie di modi per essere coinvolti."
+        text="NavCoin è un ecosistema di diversi squadre e progetti, che consente una serie di modi per essere coinvolti."
     >}}
     {{< feature
         titleText="Fondo comunitario"
@@ -135,7 +135,7 @@ NavCoin è una rete gestita dalla comunità che è stata avviata nel 2014. Inizi
     {{< feature                 
         titleText="Denaro programmabile"
         imgSrc="/images/why-navcoin/why-digital-money.svg"
-        text="Dl'igitizzazione del denaro gli consente di essere programmabile, automatizzabile e interagibile in modi nuovi e interessanti."
+        text="Digitalzzazione del denaro gli consente di essere programmabile, automatizzabile e interagibile in modi nuovi e interessanti."
     >}}
     {{< feature                 
         titleText="soluzione di pagamento facile"
@@ -152,5 +152,5 @@ buttonText="Scopri dove stiamo andando"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 >}}
-Con una community attiva che lavora sul protocollo NavCoin, controlla la roadmap per vedere cosa succederà dopo.
+Con una comunità attiva che lavora sul protocollo NavCoin, controlla la roadmap per vedere cosa succederà dopo.
 {{< /zig_section>}}
