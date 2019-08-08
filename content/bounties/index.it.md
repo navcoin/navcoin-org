@@ -66,7 +66,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
     <p class = "paragraph-text"> Il programma di ricompensa di NavCoin Core Developer è stato avviato da NavCoin Developer <a href="https://github.com/aguycalled" target="_blank"> Alex V </a> per incoraggiare il decentramento dello sviluppo di NavCoin Core. </p>
      <p class = "paragraph-text"> Esistono due modi principali per richiedere monete attraverso il programma di taglie: </a>
      <H3> 1. Risolvere i problemi di GitHub </h3>
-     <p class = "paragraph-text"> I problem che possono essere elaborati per rivendicare le monete saranno etichettati con un tag speciale. Le problematiche verranno assegnate ai candidati in base all'ordine di arrivo e l'assegnazione deve essere gestita sulla questione GitHub. Se vuoi lavorare su una taglia, assicurati di commentarla e che il tuo reclamo sia stato riconosciuto. </p>
+     <p class = "paragraph-text"> I problemi che possono essere elaborati per rivendicare le monete saranno etichettati con un tag speciale. Le problematiche verranno assegnate ai candidati in base all'ordine di arrivo e l'assegnazione deve essere gestita sulla questione GitHub. Se vuoi lavorare su una taglia, assicurati di commentarla e che il tuo reclamo sia stato riconosciuto. </p>
      <br />
      <p class = "paragraph-text"> I premi verranno pagati una volta che la richiesta pull è stata fusa in master e la richiesta pull deve includere le corrispondenti unità di test da considerare complete. Il premio per l'attività si baserà sull'etichetta del problema: </p>
     <br />
