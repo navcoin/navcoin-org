@@ -42,7 +42,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
         text="Ogni blocco che viene minato genera 0,5 NAV che vengono accumulati nel tempo all'interno del fondo comunitario"
     >}}
     {{< feature                 
-        titleText="Diversi modi per essere remunerati"
+        titleText="Diversi modi per essereremunerati"
         imgSrc="/images/community-fund/cfu-get-paid.svg"
         text="I fondi vengono rilasciati con un secondo voto, che può essere pagato in più fasi o al termine del lavoro."
     >}}
@@ -61,7 +61,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="/images/community-fund/cfu-submit.svg" alt="" class="item-icon">
-                    <h3>Passo 1: invia una proposta</h3>
+                    <h3>Passo 1: invia una proposta<br>&nbsp;</h3>
                     <p style="margin-bottom: 10%">Trova un modo di migliorare l'ecosistema di NavCoin, sottoponi la tua idea al&nbsp;rete.<br>&nbsp;<br><br><br></p>
                     <a href="https://communityfund.nav.community/create-proposal" target="_blank" class="round-btn small gradient-btn">Crea proposta        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
@@ -70,7 +70,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
-                    <h3>Passo 2: Vota la proposta</h3>
+                    <h3>Passo 2: Vota la proposta<br>&nbsp;</h3>
                     <p style="margin-bottom: 10%">Chiaunque stia facendo staking del rete di NavCoin può votare  ‘sì’ oppure ‘no’ per qualsiasi proposta utilizzando il proprio&nbsp;peso di staking nel&nbsp;rete.<br><br></p>
                     <a href="https://communityfund.nav.community/?PENDING=on" target="_blank" class="round-btn small gradient-btn">Vedi le proposte        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
@@ -79,8 +79,8 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="https://d33wubrfki0l68.cloudfront.net/6be625e8bf582732c2b66ffa1705dd083fdd6c51/f8c8a/images/community-fund/cfu-payment.svg" alt="" class="item-icon">
-                    <h3>Passo 3: Richieste di pagamento</h3>
-                    <p style="margin-bottom: 10%">I pagamenti sono rilasciati soltanto dopo un secondo round di votazioni che verificano i risultati prodotti dal titolare&nbsp;della&nbsp;proposta.</p>
+                    <h3>Passo 3: Richieste di<br><center> pagamento</center></h3>
+                    <p style="margin-bottom: 10%">I pagamenti sono rilasciati soltanto dopo un secondo round di votazioni che verificano i risultati prodotti dal titolare&nbsp;della&nbsp;proposta.<br>&nbsp;</p>
                     <a href="https://communityfund.nav.community/create-payment-request" target="_blank" class="round-btn small gradient-btn">Crea richiesta pagamento        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
@@ -88,7 +88,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="https://d33wubrfki0l68.cloudfront.net/a6136e0554b83cc742e44f715978ee9fbd3c7791/88e3e/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
-                    <h3>Passo 4: Vota per i pagamenti</h3>
+                    <h3>Passo 4: Vota per i pagamenti<br>&nbsp;</h3>
                     <p style="margin-bottom: 10%">Quando un pietra miliare viene raggiunta il rete vota per garantire che il progetto sia sul giusto percorso, questo voto rilascia i fondi per il&nbsp;pagamento.<br><br></p>
                     <a href="https://communityfund.nav.community/?ACCEPTED=on&PENDING_PR=on" target="_blank" class="round-btn small gradient-btn">Vedi richieste di pagamento        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
