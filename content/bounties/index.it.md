@@ -114,7 +114,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
     <br />
     <div>
         <a href="https://www.reddit.com/r/NavCoin/comments/bd1mku/navcoincore_dev_bounty_fund/" class="round-btn gradient-btn" target="_blank">
-          Maggiori informazioni <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+          Informazioni Aggiuntive <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
         </a>
     </div>
   </div>
@@ -154,14 +154,14 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
     <p class = "paragraph-text"> Questo è il sito Web in cui esistono guide, tutorial e informazioni sulla risoluzione dei problemi per l'ecosistema di prodotti, siti Web e servizi di NavCoin. </p>
     <p class = "paragraph-text"> <b> Idee di ricompensa: </b> Aggiunta di articoli della knowledge base relativi a NavCoin Core, NavPay, NavPi, NavDroid, Next Wallet, NavPaper, Community Fund e altro. Tradurre articoli, migliorare il design, migliorare l'esperienza dell'utente, aggiungere l'impaginazione, aggiungere la navigazione delle categorie e altro ancora. </p>
     <h3> Reclami di taglie </h3>
-    <p class = "paragraph-text"> La ricompensa per l'attività si baserà sull'etichetta dell'emissione:</p>
+    <p class = "paragraph-text"> La ricompensa per l'attività si baserà sull'etichetta del problema:</p>
     <br />
     <div style="display: flex; flex-direction: row;  justify-content: flex-start; flex-wrap: wrap">
-        <div class="bounty-label"><span style="background-color: #0e8a16;">bounty-bassa</span></div>
+        <div class="bounty-label"><span style="background-color: #d8695f;">bounty-bassa</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 100 NAV</div>
-        <div class="bounty-label"><span style="background-color: #fbca04;">bounty-medio</span></div>
+        <div class="bounty-label"><span style="background-color: #eabc88;">bounty-medio</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 500 NAV</div>
-        <div class="bounty-label"><span style="background-color: #d93f0b;">bounty-alta</span></div>
+        <div class="bounty-label"><span style="background-color: #cbea7c;">bounty-alta</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 1,000 NAV</div>
         <div class="bounty-label"><span style="background-color: #b60205;">bounty-xalta</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 2,000 NAV</div>

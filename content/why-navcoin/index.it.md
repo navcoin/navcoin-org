@@ -138,7 +138,7 @@ NavCoin è una rete gestita dalla comunità che è stata avviata nel 2014. Inizi
         text="Digitalzzazione del denaro gli consente di essere programmabile, automatizzabile e interagibile in modi nuovi e interessanti."
     >}}
     {{< feature                 
-        titleText="soluzione di pagamento facile"
+        titleText="Soluzione di pagamento facile"
         imgSrc="/images/why-navcoin/why-easy-pay.svg"
         text="Non è necessario registrarsi con nulla per accettare pagamenti. È facile come mostrare il tuo indirizzo o&nbsp;codice&nbsp;QR!"
     >}}

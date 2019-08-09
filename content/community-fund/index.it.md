@@ -9,7 +9,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
     <div class="grid-container">
         <div class="text-container">
             <h1 style="font-weight: 600; margin-bottom:35px;">Fondo comunitario</h1>
-            <p>NavCoin è realizzato dalla comunità, per la comunità. Essendo un progetto open source non nato da premine o ICO - il fondo comunitario di NavCoin permette a chiunque di essere remunerato dal rete per il suo contributo all'ecosistema NavCon. </p>
+            <p>NavCoin è realizzato dalla comunità, per la comunità. Essendo un progetto open source non nato da premine o ICO - il fondo comunitario di NavCoin permette a chiunque di essere remunerato dal rete per il suo contributo all'ecosistema NavCoin. </p>
         </div>
         <img src="/images/community-fund/cfu-hero.png" alt="Hero image">
     </div>
@@ -42,14 +42,14 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
         text="Ogni blocco che viene minato genera 0,5 NAV che vengono accumulati nel tempo all'interno del fondo comunitario"
     >}}
     {{< feature                 
-        titleText="Diversi modi per essereremunerati"
+        titleText="Diversi modi per essere remunerati"
         imgSrc="/images/community-fund/cfu-get-paid.svg"
         text="I fondi vengono rilasciati con un secondo voto, che può essere pagato in più fasi o al termine del lavoro."
     >}}
     {{< feature                 
-        titleText="Il network decide"
+        titleText="La rete decide"
         imgSrc="/images/community-fund/cfu-network.svg"
-        text="Il comunità fund da maggiore potere alla comunità stessa - ricompensando le persone che partecipano e dando voce alla rete per decidere la direzione di&nbsp;NavCoin."
+        text="Il fondo comunitario dà più potere alla comunità stessa - ricompensando le persone che partecipano e dando voce alla rete per decidere la direzione di&nbsp;NavCoin."
     >}}
 {{< /item_container_section >}}
 
@@ -125,7 +125,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://communityfund.nav.community/discussion/aabb434ae2a248cbf8ffa903f9e9610e4d51ac53e507f09450b3e7ebac66ee59" target="_blank" class="round-btn small gradient-btn">View proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://communityfund.nav.community/discussion/aabb434ae2a248cbf8ffa903f9e9610e4d51ac53e507f09450b3e7ebac66ee59" target="_blank" class="round-btn small gradient-btn">Guarda la proposta <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
@@ -152,7 +152,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://communityfund.nav.community/discussion/0a4c915850491675e264fafacd20d14b8d9f0b165d4065ff2f53a21bbf0f72a2" target="_blank" class="round-btn small gradient-btn">View proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://communityfund.nav.community/discussion/0a4c915850491675e264fafacd20d14b8d9f0b165d4065ff2f53a21bbf0f72a2" target="_blank" class="round-btn small gradient-btn">Guarda la proposta <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
@@ -179,7 +179,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://communityfund.nav.community/discussion/97229d571fdade1c48fda8c1b1060820f87c1dc1c99d3a8cd498a3809537d723" target="_blank" class="round-btn small gradient-btn">View proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://communityfund.nav.community/discussion/97229d571fdade1c48fda8c1b1060820f87c1dc1c99d3a8cd498a3809537d723" target="_blank" class="round-btn small gradient-btn">Guarda la proposta <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
