@@ -26,7 +26,7 @@ class GitHubProject extends React.Component {
       method: 'get',
       headers: new Headers({
         'Accept': '  application/vnd.github.inertia-preview+json',
-        'Authorization': 'Bearer 97e06bf52f9dc603b02f039e2582e8bb21eec3f8'
+        'Authorization': 'Bearer 86c63aaf15b309c27745ae6cfad2af4f9a8c2f2c'
       })
     }
 
