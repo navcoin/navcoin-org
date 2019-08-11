@@ -36,21 +36,20 @@
 .roadmap-grid-container{
   display:grid;
   grid-template-areas:
-    "upcoming   inprogress  beta   completed";
+    "upcoming   inprogress  beta";
   grid-gap:0 1.5%;
   max-width:1850px;
   margin:0 auto;
   padding: 10px;
   margin-bottom: 50px;
+  &.completed {
+   display: inline-grid;
+   grid-template-columns: 3
+  }
 }
 
 @media (max-width:1600px){
   .roadmap-grid-container{
-    grid-template-areas:
-      "upcoming      completed"
-      "inprogress    completed"
-      "beta           completed"
-      ".           completed";
     grid-gap:0 3%;
     max-width:1190px;
     margin:0 auto;
@@ -212,4 +211,24 @@
   box-shadow: 1px 13px 35px rgba(66, 45, 178, 0.12);
   transition: all 0.3s ease;
   margin: 30px auto;
+}
+
+.roadmap-complete {
+  background-color: #FFF;
+  border-top: 1px solid #EEE;
+  display:grid;
+  padding-top:75px;
+  align-content: start;
+  img {
+    justify-self:center;
+    max-width:130px;
+  }
+  h3 {
+    text-align:center;
+    margin: 50px 0 33px 0;
+    font-size:30px;
+    font-family:raleway;
+    color:#7D5AB5;
+    font-weight:500;
+  }
 }

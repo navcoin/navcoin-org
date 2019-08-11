@@ -12,14 +12,14 @@
     <div class="text-section-container">
         <h1 class="">Project Activity</h1>
         <p class="paragraph-text">
-          NavCoin is a decentralised project with many contributors. As a community, we are shaping the future of digital money by building industry-leading features and&nbsp;protocols. Here you can see what is happening on the NavCoin Core GitHub Project. 
+          NavCoin is a decentralised project with many contributors. As a community, we are shaping the future of digital money by building industry-leading features and&nbsp;protocols. On this page you can see what is happening on the NavCoin Core GitHub Project. 
           <br /><br />
-          For all other NavCoin projects see the NavHub Community projects page.
+          For a detailed view of what is being worked on in NavCoin Core and to get involved, visit the project on GitHub.
         </p>
 
             <div>
-                <a href="https://www.navhub.org/projects" class="round-btn blue-btn" target="_blank">
-                    Community Projects
+                <a href="https://github.com/navcoin/navcoin-core" class="round-btn blue-btn" target="_blank">
+                    NavCoin Core GitHub
                     <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
             </div>
 
@@ -27,60 +27,20 @@
 </div>
 
 <section>
-    <div id="react-latest-news">
+    <h2 class="title" style="text-align: center; margin-top: 80px">NavCoin Core Development</h2>
+    <div id="react-project-activity">
         <div class="status-container">
             <h3>Loading...</h3>
         </div>
     </div>
 </section>
 
-  <section>
-    <div class="roadmap-grid-container" style="max-width: 1190px;">
-      {{ if len (where .Site.Pages "Params.status" "upcoming") }}
-      <div class="roadmap-session up-coming">
-        <img src="/images/roadmap/map-up-coming.svg"/>
-        <h3>Upcoming</h3>
-        {{ range where .Site.Pages "Params.status" "upcoming" }}
-          {{ partial "roadmap_item.html" . }}
-        {{ end }}
-      </div>
-      {{ end }}
-      {{ if len (where .Site.Pages "Params.status" "in-progress") }}
-      <div class="roadmap-session in-progress">
-        <img src="/images/roadmap/map-in-progress.svg"/>
-        <h3>In Progress</h3>
-        {{ range where .Site.Pages "Params.status" "in-progress" }}
-          {{ partial "roadmap_item.html" . }}
-        {{ end }}
-      </div>
-      {{ end }}
-      {{ if len (where .Site.Pages "Params.status" "testing") }}
-      <div class="roadmap-session beta">
-        <img src="/images/roadmap/map-beta.svg"/>
-        <h3>Beta Testing</h3>
-        {{ range where .Site.Pages "Params.status" "testing" }}
-          {{ partial "roadmap_item.html" . }}
-        {{ end }}
-      </div>
-      {{ end }}
-      {{ if len (where .Site.Pages "Params.status" "completed") }}
-      <div class="roadmap-session complete">
-        <img src="/images/roadmap/map-completed.svg"/>
-        <h3>Completed</h3>
-        {{ range where .Site.Pages "Params.status" "completed" }}
-          {{ partial "roadmap_item.html" . }}
-        {{ end }}
-      </div>
-      {{ end }}
-    </div>
-  </section>
-
   <div class="center-text-cta-section inner-text-exists" >
-    <h2 class="title">Community Roadmap</h2>
+    <h2 class="title">Community Projects</h2>
     <p class="inner-text">
       The Core Roadmap only showcases protocol related projects which are just the tip of the iceberg when it comes to the NavCoin eco-system. To check out what has been or is being built ontop of the NavCoin protocol, head on over to NavHub and check out the community projects and roadmap there.
     </p>
-    <a href="https://navhub.org" target="e" class="round-btn gradient-btn" >Go to NavHub <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+    <a href="https://navhub.org/projects" target="e" class="round-btn gradient-btn" >Go to NavHub <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
   </div>
 
   {{ partial "footer.html" . }}

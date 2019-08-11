@@ -27,7 +27,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
         text="The first community fund to implement a dual vote, to ensure that if work is never completed the funds are&nbsp;returned."
     >}}
     {{< feature
-        titleText="Open to anyone"
+        titleText="Open to anyone blah long text even longer"
         imgSrc="/images/community-fund/cfu-anyone.svg"
         text="Anyone and everyone can get involved by submitting a proposal - leaving it to the network to decide what's most&nbsp;valuable."
     >}}

@@ -47,7 +47,7 @@ newTab="true"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
     >}}
     {{< long_text
-        titleText="A human readable address"
+        titleText="A human readable address long title text"
         imgSrc="/images/why-navcoin/why-fair.svg"
         text="You can personalise your wallet using OpenAlias, which allows you to create an email-style address for your NAV. The service is built on top of the worldwide DNS service to convert a domain name into a cryptocurrency address, making sending a payment easier&nbsp;than&nbsp;ever."
     >}}
