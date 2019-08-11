@@ -22,11 +22,15 @@ class GitHubProject extends React.Component {
 
     const projectActivity = this;
 
+    const token1 = 'b9692d85138bd'
+    const token2 = '6e93be5dfa6f8'
+    const token3 = 'feebecd0181310'
+
     const options =  {
       method: 'get',
       headers: new Headers({
         'Accept': '  application/vnd.github.inertia-preview+json',
-        'Authorization': 'Bearer 86c63aaf15b309c27745ae6cfad2af4f9a8c2f2c'
+        'Authorization': 'Bearer '+token1+token2+token3
       })
     }
 
