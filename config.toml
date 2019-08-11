@@ -868,22 +868,22 @@ enableRobotsTXT = true
         parent = "explore"
 
 [[Languages.it.menu.main]]
-    name = "Notizia"
-    title = "Notizia"
+    name = "Notizie"
+    title = "Notizie"
     url="/notices/"
     weight = 30
     identifier = "news"
 
 [[Languages.it.menu.main]]
-    name = "Fondo comunitario"
-    title = "Fondo comunitario"
+    name = "Fondo Comunitario"
+    title = "Fondo Comunitario"
     weight = 40
     identifier = "community-fund"
     url = "/community-fund/"
 
 [[Languages.it.menu.main]]
-    name = "Bounties"
-    title = "Bounties"
+    name = "Campagne di taglie"
+    title = "Campagne di taglie"
     weight = 45
     identifier = "bounties"
     url = "/bounties/"
