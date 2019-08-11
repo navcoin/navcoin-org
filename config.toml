@@ -658,69 +658,69 @@ enableRobotsTXT = true
 # Main Menu Japanese
 
 [[Languages.jp.menu.main]]
-    name = "Get Started"
-    title = "Get Started"
+    name = "始めましょう"
+    title = "始めましょう"
     weight = 10
     identifier = "get-started"
     depth = 1
     [[Languages.jp.menu.main]]
-        name = "Why NavCoin"
-        title = "Why NavCoin"
+        name = "なぜNavCoin"
+        title = "なぜNavCoin"
         weight = 20
         url = "/why-navcoin/"
         identifier = "why-navcoin"
         parent = "get-started"
     [[Languages.jp.menu.main]]
-        name = "Governance"
-        title = "Governance"
+        name = "ガバナンス"
+        title = "ガバナンス"
         weight = 30
         url = "/governance/"
         identifier = "governance"
         parent = "get-started"
     [[Languages.jp.menu.main]]
-        name = "For Individuals"
-        title = "For Individuals"
+        name = "個人向け"
+        title = "個人向け"
         weight = 40
         url = "/for-individuals/"
         identifier = "for-individuals"
         parent = "get-started"
     [[Languages.jp.menu.main]]
-        name = "For Developers"
-        title = "For Developers"
+        name = "開発者向け"
+        title = "開発者向け"
         weight = 50
         identifier = "for-developers"
         url = "/for-developers/"
         parent="get-started"
     [[Languages.jp.menu.main]]
-        name = "For Businesses"
-        title = "For Businesses"
+        name = "企業向け"
+        title = "企業向け"
         weight = 60
         identifier = "for-business"
         url = "/for-business/"
         parent="get-started"
     [[Languages.jp.menu.main]]
-        name = "Buy NavCoin"
-        title = "Buy NavCoin"
+        name = "NavCoinを購入する"
+        title = "NavCoinを購入する"
         weight = 70
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"
         parent = "get-started"
 
 [[Languages.jp.menu.main]]
-    name = "Explore"
-    title = "Explore"
+    name = "探検する"
+    title = "探検する"
     weight = 20
     identifier = "explore"
     [[Languages.jp.menu.main]]
-        name = "Project Activity"
-        title = "Project Activity"
+        name = "プロジェクト活動"
+        title = "プロジェクト活動"
         weight = 20
         url = "/project-activity/"
         identifier = "project-activity"
         parent = "explore"
     [[Languages.jp.menu.main]]
-        name = "Block Explorer"
-        title = "Block Explorer"
+        name = "ブロックエクスプローラー"
+        title = "ブロックエクスプローラー"
         weight = 30
         url = "https://navexplorer.com"
         identifier = "block-explorer"
@@ -733,44 +733,44 @@ enableRobotsTXT = true
         identifier = "navhub"
         parent = "explore"
     [[Languages.jp.menu.main]]
-        name = "Merchants"
-        title = "Merchants"
+        name = "商人"
+        title = "商人"
         weight = 50
         url = "/merchants/"
         identifier = "merchants"
         parent = "explore"
     [[Languages.jp.menu.main]]
-        name = "Get Involved"
-        title = "Get Involved"
+        name = "参加する"
+        title = "参加する"
         weight = 60
         url = "/get-involved/"
         identifier = "get-involved"
         parent = "explore"
 
 [[Languages.jp.menu.main]]
-    name = "News"
-    title = "News"
+    name = "ニュース"
+    title = "ニュース"
     url="/notices/"
     weight = 30
     identifier = "news"
 
 [[Languages.jp.menu.main]]
-    name = "Community Fund"
-    title = "Community Fund"
+    name = "コミュニティ基金"
+    title = "コミュニティ基金"
     weight = 40
     identifier = "community-fund"
     url = "/community-fund/"
 
 [[Languages.jp.menu.main]]
-    name = "Bounties"
-    title = "Bounties"
+    name = "報奨金"
+    title = "報奨金"
     weight = 45
     identifier = "bounties"
     url = "/bounties/"
 
 [[Languages.jp.menu.main]]
-    name = "Wallets"
-    title = "Wallets"
+    name = "財布"
+    title = "財布"
     weight = 50
     identifier = "wallets"
     url = "/wallets/"
@@ -791,8 +791,8 @@ enableRobotsTXT = true
         identifier = "why-navcoin"
         parent = "get-started"
     [[Languages.it.menu.main]]
-        name = "Governance"
-        title = "Governance"
+        name = "Governanza"
+        title = "Governanza"
         weight = 30
         url = "/governance/"
         identifier = "governance"
@@ -832,8 +832,8 @@ enableRobotsTXT = true
     weight = 20
     identifier = "explore"
     [[Languages.it.menu.main]]
-        name = "Project Activity"
-        title = "Project Activity"
+        name = "Attività del progetto"
+        title = "Attività del progetto"
         weight = 20
         url = "/project-activity/"
         identifier = "project-activity"
@@ -868,15 +868,15 @@ enableRobotsTXT = true
         parent = "explore"
 
 [[Languages.it.menu.main]]
-    name = "News"
-    title = "News"
+    name = "Notizia"
+    title = "Notizia"
     url="/notices/"
     weight = 30
     identifier = "news"
 
 [[Languages.it.menu.main]]
-    name = "Community Fund"
-    title = "Community Fund"
+    name = "Fondo comunitario"
+    title = "Fondo comunitario"
     weight = 40
     identifier = "community-fund"
     url = "/community-fund/"
@@ -889,8 +889,8 @@ enableRobotsTXT = true
     url = "/bounties/"
 
 [[Languages.it.menu.main]]
-    name = "Wallets"
-    title = "Wallets"
+    name = "Portafogli"
+    title = "Portafogli"
     weight = 50
     identifier = "wallets"
     url = "/wallets/"
