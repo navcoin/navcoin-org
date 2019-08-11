@@ -98,6 +98,12 @@ command = "gulp sass && hugo"
   status = 301
   force = true
 
+  [[redirects]]
+  from = "/:lang/roadmap"
+  to = "/:lang/project-activity"
+  status = 301
+  force = true
+
 
   [[redirects]]
   from = "/roadmap"
