@@ -157,11 +157,11 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
     <p class = "paragraph-text"> La ricompensa per l'attività si baserà sull'etichetta del problema:</p>
     <br />
     <div style="display: flex; flex-direction: row;  justify-content: flex-start; flex-wrap: wrap">
-        <div class="bounty-label"><span style="background-color: #d8695f;">bounty-bassa</span></div>
+        <div class="bounty-label"><span style="background-color: #0e8a16;">bounty-bassa</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 100 NAV</div>
-        <div class="bounty-label"><span style="background-color: #eabc88;">bounty-medio</span></div>
+        <div class="bounty-label"><span style="background-color: #fbca04;">bounty-medio</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 500 NAV</div>
-        <div class="bounty-label"><span style="background-color: #cbea7c;">bounty-alta</span></div>
+        <div class="bounty-label"><span style="background-color: #d93f0b;">bounty-alta</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 1,000 NAV</div>
         <div class="bounty-label"><span style="background-color: #b60205;">bounty-xalta</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 2,000 NAV</div>
