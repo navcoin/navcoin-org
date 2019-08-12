@@ -179,7 +179,7 @@ newTab="true"
     {{< action
         titleText="온라인 비즈니스"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="Shopify 및 Woocommerce와 같은 모든 인기 웹카트에 플러그인을 제공하는 통합 NavCoin 결제 게이트웨이를&nbsp;이용하세요"
+        subtext="Shopify 및 WooCommerce와 같은 모든 인기 웹카트에 플러그인을 제공하는 통합 NavCoin 결제 게이트웨이를&nbsp;이용하세요"
         linkText="CoinPayments에 방문하세요"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"

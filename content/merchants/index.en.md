@@ -182,7 +182,7 @@ newTab="true"
     {{< action
         titleText="For your online business"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="Integrated NavCoin payment gateway, offering plugins for all the popular webcarts like Shopify and&nbsp;Woocommerce."
+        subtext="Integrated NavCoin payment gateway, offering plugins for all the popular webcarts like Shopify and&nbsp;WooCommerce."
         linkText="Visit CoinPayments"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"

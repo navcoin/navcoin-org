@@ -181,7 +181,7 @@ newTab="true"
     {{< action
         titleText="Per il tuo business online"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="Gateway di pagamento integrato NavCoin, che offre plug-in per tutti i webcart popolari come Shopify e Woocommerce.<br>&nbsp;"
+        subtext="Gateway di pagamento integrato NavCoin, che offre plug-in per tutti i webcart popolari come Shopify e WooCommerce.<br>&nbsp;"
         linkText="Visita CoinPayments"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"
