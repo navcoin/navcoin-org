@@ -130,7 +130,7 @@ newTab="true"
     {{< exchange
         titleText="Vertbase"
         imgSrc="/images/buy-navcoin/vertbase.jpg"
-        text="USD / NAV"
+        text="GBP/USD/EU/swap"
         linkUrl="https://www.vertbase.com/"
      >}}
     {{< exchange
