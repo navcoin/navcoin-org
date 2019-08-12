@@ -71,13 +71,13 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
     <p class="paragraph-text">Bounties will be paid once the pull request is merged into master and the pull request must include the corresponding test units to be considered complete. The reward for the task will be based on the issue's label:</p>
     <br />
     <div style="display: flex; flex-direction: row;  justify-content: flex-start; flex-wrap: wrap">
-        <div class="bounty-label"><span style="background-color: #d8695f;">bounty-low</span></div>
+        <div class="bounty-label"><span style="background-color: #7bd0f5;">bounty-low</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 100 NAV</div>
-        <div class="bounty-label"><span style="background-color: #eabc88;">bounty-medium</span></div>
+        <div class="bounty-label"><span style="background-color: #6091de;">bounty-medium</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 500 NAV</div>
-        <div class="bounty-label"><span style="background-color: #cbea7c;">bounty-high</span></div>
+        <div class="bounty-label"><span style="background-color: #6252e2;">bounty-high</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 1,000 NAV</div>
-        <div class="bounty-label"><span style="background-color: #b60205;">bounty-xhigh</span></div>
+        <div class="bounty-label"><span style="background-color: #7841b1;">bounty-xhigh</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 2,000 NAV</div>
     </div>
     <br />
@@ -157,13 +157,13 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
     <p class="paragraph-text">The reward for the task will be based on the issue's label:</p>
     <br />
     <div style="display: flex; flex-direction: row;  justify-content: flex-start; flex-wrap: wrap">
-        <div class="bounty-label"><span style="background-color: #0e8a16;">bounty-low</span></div>
+        <div class="bounty-label"><span style="background-color: #7bd0f5;">bounty-low</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 100 NAV</div>
-        <div class="bounty-label"><span style="background-color: #fbca04;">bounty-medium</span></div>
+        <div class="bounty-label"><span style="background-color: #6091de;">bounty-medium</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 500 NAV</div>
-        <div class="bounty-label"><span style="background-color: #d93f0b;">bounty-high</span></div>
+        <div class="bounty-label"><span style="background-color: #6252e2;">bounty-high</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 1,000 NAV</div>
-        <div class="bounty-label"><span style="background-color: #b60205;">bounty-xhigh</span></div>
+        <div class="bounty-label"><span style="background-color: #7841b1;">bounty-xhigh</span></div>
         <div class="bounty-description"><i class="fa fa-arrow-right"></i> 2,000 NAV</div>
     </div>
     <br />
