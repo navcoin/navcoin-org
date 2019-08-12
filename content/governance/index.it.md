@@ -30,7 +30,7 @@ Come collaboratori della comunità NavCoin siamo membri di una delle prime socie
   imgSrc="/images/governance/gov-world.svg"
   bgPurple="true"
 >}}
-Valute digitali decentralizzate come NavCoin prendono il controllo del sistema monetario lontano dalle élite governative e aziendali e restituiscono libertà, privata e potere finanziario all'individuo. Ecco perché NavCoin non è solo un protocollo di pagamento, è in realtà un vettore per un profondo cambiamento nel modo in cui il sistema economico globale opera. La Governanza decentralizzata è al centro. Poiché non esiste un'autorità centrale per NavCoin, una parte cruciale del nostro ruolo di membri di questa comunità è di essere campioni di neutralità e decisione basata sul&nbsp;consenso,.
+Valute digitali decentralizzate come NavCoin prendono il controllo del sistema monetario lontano dalle élite governative e aziendali e restituiscono libertà, vita privata e potere finanziario all'individuo. Ecco perché NavCoin non è solo un protocollo di pagamento, è in realtà un vettore per un profondo cambiamento nel modo in cui il sistema economico globale opera. La governanza decentralizzata è al centro. Poiché non esiste un'autorità centrale per NavCoin, una parte cruciale del nostro ruolo di membri di questa comunità è di essere campioni di neutralità e decisione basata sul&nbsp;consenso,.
 {{< /zig_section>}}
 
 
@@ -78,7 +78,7 @@ NavCoin è un'iniziativa comunitaria che consente a chiunque di contribuire in d
     {{< action
         titleText="Manifesto dei contenuti"
         imgSrc="/images/governance/gov-content-manifesto.svg"
-        subtext="Una guida ai valori e agli obiettivi condivisi dei partecipanti ai contenuti della community&nbsp;NavCoin."
+        subtext="Una guida ai valori e agli obiettivi condivisi dei partecipanti ai contenuti della comunità&nbsp;NavCoin."
         linkText="Ottieni il Manifesto"
         linkUrl="/assets/NavCoinContentManifesto.pdf"
         linkImgSrc="/images/icons/downward-arrow.svg"
