@@ -43,7 +43,7 @@ l Fondo comunitario di NavCoin consente a qualsiasi sviluppatore di essere pagat
     {{< feature                 
         titleText="Proof of Stake Alliance"
         imgSrc="/images/for-developers/dev-pos-alliance.svg"
-        text="Siamo parte della PoS Alliance, un consorzio che ha lo scopo di ricercare collaborativamente allo sviluppo del PoS&nbsp;protocol."
+        text="Siamo parte della PoS Alliance, un consorzio che ha lo scopo di ricercare collaborativamente allo sviluppo del PoS&nbsp;protocollo."
     >}}
     {{< feature                 
         titleText="Inizare è facile"

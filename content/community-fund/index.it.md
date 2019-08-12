@@ -18,7 +18,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
 
 
 {{< item_container_section
-    titleText="Il comunità Fund più avanzato al&nbsp;mondo"
+    titleText="Il Fondo Comunitario più avanzato al&nbsp;mondo"
     subtitleText="I progetti sono approvati e finanziati dal rete decentralizzato senza nessuna autorità centrale o intermediari. Questo approccio assicura che la direzione di NavCoin rimanga orientata all'interesse dell'intero rete. Questo fondo ti ripaga per aver avuto una idea, averla sviluppata e costruito il team per far prendere vita al tuo&nbsp;progetto."
     >}}
     {{< feature

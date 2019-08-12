@@ -13,7 +13,7 @@ imgSrc="/images/for-business/bus-hero.svg"
 >}}
 
 {{< item_container_section 
-    titleText="Perchè NavCoin è ideale per le&nbsp;Aziendeil"
+    titleText="Perchè NavCoin è ideale per le&nbsp;Aziende"
     subtitleText=""
 >}}
     {{< feature 
@@ -34,7 +34,7 @@ imgSrc="/images/for-business/bus-hero.svg"
     {{< feature                 
         titleText="Commissioni economiche"
         imgSrc="/images/for-business/bus-low-fee.svg"
-        text="NavCoin è una delle reti di pagamento più economiche al mondo al mondo, con commissioni generalmente inferiori all'uno&nbsp;percento."
+        text="NavCoin è una delle reti di pagamento più economiche al mondo, con commissioni generalmente inferiori all'uno&nbsp;percento."
     >}}
     {{< feature                 
         titleText="Amichevole per l'ambiente"
