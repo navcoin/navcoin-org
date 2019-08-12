@@ -6,10 +6,10 @@ type: "default"
 description: "Anyone can accept NavCoin on their website or in-store to receive instant global payments with low fees."
 ---
 {{< hero_section
-titleText="Merchants"
-paragraphText="Anyone can accept NavCoin on their website or in-store to receive instant global payments with low&nbsp;fees. This page is not an exhaustive list, there is no registration required to accept NavCoin. If you accept NavCoin and want your store listed here, please create a pull request or open an issue on GitHub."
+titleText="I Mercanti"
+paragraphText="Chiunque può accettare NavCoin sul proprio sito Web o in negozio per ricevere pagamenti globali immediati con commissioni basse. Questa pagina non è un elenco esaustivo, non è richiesta la registrazione per accettare NavCoin. Se accetti NavCoin e desideri che il tuo negozio sia elencato qui, crea una richiesta pull o apri un problema su GitHub."
 imgSrc="/images/merchants/mer-hero.svg"
-buttonText="Add your store"
+buttonText="Aggiungi il tuo negozio"
 buttonLink="https://github.com/NAVCoin/navcoin-org/issues/new"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 newTab="true"
@@ -17,8 +17,8 @@ newTab="true"
 
 
 {{< item_container_section
-    titleText="Stores"
-    subtitleText="A selection of merchants & services that allow you to spend your&nbsp;NavCoin"
+    titleText="I negozi"
+    subtitleText="Una selezione di mercanti e servizi che ti consentono di spendere NavCoin"
 >}}
     {{< merchant
         titleText="CoinPayments"
@@ -162,35 +162,35 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="Accepting NavCoin is easy!"
-    subtitleText="NavCoin has the right payment solution for your&nbsp;business."
+    titleText="Accettare NavCoin è facile!"
+    subtitleText="NavCoin ha la soluzione di pagamento giusta per la tua azienda."
     bgPurple="true"
     buttonUrl="/for-business/"
-    buttonText="More Info"
+    buttonText="Ulteriori informazioni"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
     {{< action
-        titleText="For your store"
+        titleText="Per il tuo negozio"
         imgSrc="/images/merchants/mer-for-store.svg"
-        subtext="Use NavPay wallet on your smartphone. Customers just scan your QR code and transfer the fund&nbsp;instantly"
-        linkText="Visit NavPay"
+        subtext="Usa il portafoglio NavPay sul tuo smartphone. I clienti scansionano semplicemente il codice QR e trasferiscono il fondo all'istante"
+        linkText="Visita NavPay"
         linkUrl="https://navhub.org/projects/nav-pay/"
         linkImgSrc="/images/icons/rightward-arrow.svg"
 
     >}}
     {{< action
-        titleText="For your online business"
+        titleText="Per il tuo business online"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="Integrated NavCoin payment gateway, offering plugins for all the popular webcarts like shopify and&nbsp;woocommence."
-        linkText="Visit CoinPayments"
+        subtext="Gateway di pagamento integrato NavCoin, che offre plug-in per tutti i webcart popolari come shopify e woocommerce.<br>&nbsp;"
+        linkText="Visita CoinPayments"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"
     >}}
     {{< action                 
-        titleText="For personal projects"
+        titleText="Per progetti personali"
         imgSrc="/images/merchants/mer-for-blog.svg"
-        subtext="Integrating Nav Buttons for quick payments is an easy to implement option that suits individuals or side&nbsp;businesses."
-        linkText="View buttons here"
+        subtext="L'integrazione dei pulsanti di navigazione per pagamenti rapidi è un'opzione facile da implementare adatta alle persone o alle attività secondarie."
+        linkText="Visualizza i pulsanti qui"
         linkUrl="https://brianium.github.io/nav-button/"
         linkImgSrc="/images/icons/rightward-arrow.svg"
     >}}
