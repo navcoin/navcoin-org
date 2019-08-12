@@ -24,7 +24,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
     {{< feature
         titleText="Consenso a doppio voto"
         imgSrc="/images/community-fund/cfu-dual-vote.svg"
-        text="E' il primo comunità fund che utilizza un sistema di voto duale, ciò assicura che i fondi destinati ad un progetto non completato tornino nel fondo comunitario."
+        text="E' il primo fondo comunitario che utilizza un sistema di voto duale, ciò assicura che i fondi destinati ad un progetto non completato tornino nel fondo comunitario."
     >}}
     {{< feature
         titleText="Apero a tutti"
