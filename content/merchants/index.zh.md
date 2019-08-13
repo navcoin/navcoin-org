@@ -181,7 +181,7 @@ newTab="true"
     {{< action
         titleText="您的网上业务"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="集成了NavCoin支付网关，为shopify和woocommence等所有流行的网络购物车提供插件。"
+        subtext="集成了NavCoin支付网关，为shopify和WooCommerce等所有流行的网络购物车提供插件。"
         linkText="访问CoinPayments"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"

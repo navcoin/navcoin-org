@@ -7,49 +7,49 @@ author: ""
 description: ""
 ---
 {{< hero_section
-titleText="NavCoin For Business"
-paragraphText="Il tuo business è pronto per il futuro? Sempre più persone stanno cercando il modo di pagare beni e servizi utilizzando le proprie valute digitali. Se desideri rimanere al passo con questo trend, questo è il momento di iniziare ad accettarle nel tuo store o nel tuo negozio on-line. NavCoin ha la soluzione ideale per il tuo&nbsp;business."
+titleText="NavCoin per Aziende"
+paragraphText="Il tuo azienda è pronto per il futuro? Sempre più persone stanno cercando il modo di pagare beni e servizi utilizzando le proprie valute digitali. Se desideri rimanere al passo con questo tendenza, questo è il momento di iniziare ad accettarle nel tuo store o nel tuo negozio on-line. NavCoin ha la soluzione ideale per il tuo&nbsp;azienda."
 imgSrc="/images/for-business/bus-hero.svg"
 >}}
 
 {{< item_container_section 
-    titleText="Perchè NavCoin è ideale per il&nbsp;Business"
+    titleText="Perchè NavCoin è ideale per le&nbsp;Aziende"
     subtitleText=""
 >}}
     {{< feature 
-        titleText="PAgamenti istantanei"
+        titleText="Pagamenti istantanei"
         imgSrc="/images/for-business/bus-fast-payment.svg"
         text="LE transazioni vengono mostrate in appena cinque secondi e confermate in trenta&nbsp;secondi."
     >}}
     {{< feature 
         titleText="Sicuro"
         imgSrc="/images/for-business/bus-secure.svg"
-        text="LE transazioni di pagamento vengono registrate permanentemente nel network decentralizzato, con accesso&nbsp;24/7."
+        text="Le transazioni di pagamento vengono registrate permanentemente nel rete decentralizzato, con accesso&nbsp;24/7."
     >}}
     {{< feature                 
         titleText="Semplice"
         imgSrc="/images/for-business/bus-simple.svg"
-        text="PAgare è semplice come scansionare un QR code, i fondi vengono automaticamente trasferiti dal tuo wallet&nbsp;NavCoin."
+        text="Il pagamento è semplice come la scansione di un codice QR. I fondi vengono trasferiti automaticamente sul tuo portafoglio&nbsp;NavCoin."
     >}}
     {{< feature                 
         titleText="Commissioni economiche"
         imgSrc="/images/for-business/bus-low-fee.svg"
-        text="NavCoin è uno dei servizi di pagamento più economici al mondo, con percentuali di commissione inferiori al uno&nbsp;percento."
+        text="NavCoin è una delle reti di pagamento più economiche al mondo, con commissioni generalmente inferiori all'uno&nbsp;percento."
     >}}
     {{< feature                 
-        titleText="Eco-friendly"
+        titleText="Amichevole per l'ambiente"
         imgSrc="/images/for-business/bus-eco.svg"
-        text="Unisciti ad un network di transazioni che consuma una frazione infinitesima se comparata agli altri network di&nbsp;pagamento."
+        text="Unisciti a una rete di pagamento che consuma solo una frazione dell'energia di altre&nbsp;reti."
     >}}
     {{< feature                 
-        titleText="Flessibile"
+        titleText="Flessibilità"
         imgSrc="/images/for-business/bus-flex.svg"
-        text="Un vasto range di opzioni di pagamento per adattarsi ai requisiti del tuo business, e molti altri sono in&nbsp;sviluppo."
+        text="Una gamma di opzioni di pagamento per soddisfare le tue esigenze aziendali, con ancora di più in fase di&nbsp;sviluppo."
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
-  titleText="Accetta pagamenti di persona"
+  titleText="Accetta pagamenti di persona con NavPay"
   imgSrc="/images/for-business/bus-for-store.svg"
   buttonText="Visita NavPay"
   buttonUrl="https://navhub.org/projects/nav-pay/"
@@ -57,7 +57,7 @@ imgSrc="/images/for-business/bus-hero.svg"
   bgPurple="true"
   newTab="true"
 >}}
-NavPay è un wallet leggero che funziona con smartphone e computer. I clienti dovranno semplicemente inquadrare il tuo QR code e il pagamento verrà trasferito istantaneamente al tuo wallet. Senza la necessità di scaricare l'intera blockchain, un modo semplice per iniziare ad acettare&nbsp;pagamenti.
+NavPay è un portafoglio leggero che funziona con il tuo smartphone o computer desktop. I clienti scansionano il tuo codice QR e il trasferimento dei loro fondi sul tuo portafoglio quasi istantaneamente. Senza la neccessità di scaricare l'intera blockchain, è un modo semplice per iniziare ad accettare&nbsp;pagamenti.
 {{< /zig_section>}}
 
 {{< zig_section
@@ -69,19 +69,19 @@ buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 newTab="true"
 >}}
-CoinPayments è simile a PayPal ma creato per le criptovalute. Il plugin include un carrello per la spesa, bottoni di pagamento, fatturazione e interfaccia point-of-sale. Se il tuo business è nella Euro zona o negli USA, puoi prelevare i fondi in Euro o in dolalri&nbsp;Statunitensi.
+CoinPayments è un po 'come PayPal, ma per le valute digitali. I plug-in includono un carrello della spesa, un pulsante di pagamento, la fatturazione e un'interfaccia del punto vendita. Se la tua attività è in EuroZone o negli Stati Uniti, puoi prelevare fondi in EURO o&nbsp;USD.
 {{< /zig_section>}}
 
 {{< zig_section
   titleText="Acceta pagamenti personali"
   imgSrc="/images/for-business/bus-for-blog.svg"
-  buttonText="Vedi il bottone"
+  buttonText="Vedi i pulsanti qui"
   buttonUrl="https://brianium.github.io/nav-button/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-Integrando NavButtons per pagamenti veloci si ottine una ottima soluzione per pagamenti tra persone o per side business. E' facile come fare 'copia-incolla' di una porzione di codice all'interno del tuo sito web, il bottone può essere integrato o semplicemente può essere utilizzato un QR code per rendere il tuto ancora più&nbsp;semplice.
+L'integrazione di NavButtons per pagamenti rapidi è un'opzione facile da implementare adatta alle persone o alle attività secondarie. È facile come incollare un po 'di codice sul tuo sito web. È possibile scegliere tra pulsanti incorporabili o codici QR per una condivisione ancora più&nbsp;semplice.
 {{< /zig_section>}}
 
 {{< center_text_cta
@@ -90,4 +90,4 @@ Integrando NavButtons per pagamenti veloci si ottine una ottima soluzione per pa
     buttonText="Trova commercianti"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants/"
-    innerText="Un grande numero di business hanno iniziato ad utilizzare NavCoin come opzione di pagamento e grazie a questi è possibile acquistare un vasto numero di beni o&nbsp;servizi.">}}
+    innerText="Numerose aziende hanno già iniziato a integrare NavCoin come opzione di pagamento e con esse è possibile acquistare facilmente una gamma di prodotti e&nbsp;servizi.">}}

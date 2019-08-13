@@ -181,7 +181,7 @@ newTab="true"
     {{< action
         titleText="Для вашего интернет-бизнеса"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="Интегрированный платежный шлюз NavCoin, предлагающий плагины для всех популярных веб-карт, таких как shopify и&nbsp;woocommence."
+        subtext="Интегрированный платежный шлюз NavCoin, предлагающий плагины для всех популярных веб-карт, таких как Shopify и&nbsp;Woocommerce."
         linkText="Посетите CoinPayments"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"

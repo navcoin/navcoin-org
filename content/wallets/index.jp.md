@@ -36,7 +36,7 @@ newTab="true"
     {{< wallet
         titleText="NavPay"
         walletImgSrc="/images/wallets/wal-navpay.png"
-        text="NavPay は、使い方が簡単なライトウォレットで、貴方はお持ちのNAVを安全に保管する事ができます。デスクトップ版とモバイル版があり、容量もギガバイトまで使用しません。"
+        text="NavPay は、使い方が簡単なライトウォレットで、貴方はお持ちのNAVを安全に保管する事ができます。デスクトップ版とモバイル版があり、容量もギガバイトまで使用しません。<br>&nbsp;"
         buttonUrl="https://navhub.org/projects/nav-pay/"
         buttonText="ダウンロード"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -58,6 +58,16 @@ newTab="true"
         platformImg1Src="/images/platforms/mac.png"
         platformImg2Src="/images/platforms/windows.png"
         platformImg3Src="/images/platforms/linux.png"
+        newTab="true"
+    >}}
+    {{< wallet
+        titleText="Magnum Wallet"
+        walletImgSrc="/images/wallets/MagnumWallet_400x400.jpg"
+        text="1000を超える暗号資産を管理するための軽量で普遍的な非保管財布。"
+        buttonUrl="https://magnumwallet.co/"
+        buttonText="詳しくは"
+        buttonImgSrc="/images/icons/rightward-arrow.svg"
+        platformImg6Src="/images/platforms/web.png"
         newTab="true"
     >}}
     {{< wallet

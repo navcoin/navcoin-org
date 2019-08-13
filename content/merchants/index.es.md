@@ -182,7 +182,7 @@ newTab="true"
     {{< action
         titleText="Para comerciantes en linea"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="Sistema de pago con NavCoin integrada, ofrece complementos para todos los carros populares como shopify y&nbsp;woocommence NavCoin payment gateway, offering plugins for all the popular webcarts like shopify and&nbsp;woocommerce."
+        subtext="Sistema de pago con NavCoin integrada, ofrece complementos para todos los carros populares como Shopify y&nbsp;WooCommerce NavCoin payment gateway, offering plugins for all the popular webcarts like Shopify and&nbsp;WooCommerce."
         linkText="Visitar CoinPayments"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"

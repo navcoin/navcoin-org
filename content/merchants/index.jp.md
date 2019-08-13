@@ -181,7 +181,7 @@ newTab="true"
     {{< action
         titleText="貴方のオンラインビジネスで使う"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="shopify やwoocommenceなどを始めとする多くのポピュラーなウェブショッピングサイトに対するプラグインを提供する、NavCoin の統合された支払い&nbsp;ゲートウェイ。"
+        subtext="Shopify やWooCommerceなどを始めとする多くのポピュラーなウェブショッピングサイトに対するプラグインを提供する、NavCoin の統合された支払い&nbsp;ゲートウェイ。"
         linkText="CoinPaymentsへ"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"
