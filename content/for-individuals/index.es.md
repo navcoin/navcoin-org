@@ -22,7 +22,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
       imgSrc="/images/for-beginners/beg-learn.svg"
       text=" NavCoin; es una criptomoneda en circulación desde 2014, con un ecosistema construido alrededor de ella. Es de poco costo de mantención debido a su concenso de prueba de participacion, es considerada de las ecologicas y sustentables ya que el gasto de energia para mantener la red es despreciable. La privacidad de los usuarios y los pagos rápidos es lo que nos motiva. Nav posee monederos móbiles y seguros siendo mantenida y desarrollada por una comunidad internacional sin autoridad central de&nbsp;gobierno"
       buttonText="Más información"
-      buttonUrl="/porqué-navcoin"
+      buttonUrl="/why-navcoin"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
   >}}
   {{< step 
