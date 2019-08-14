@@ -41,7 +41,7 @@ newTab="true"
     {{< long_text
         titleText="Una red que nunca duerme."
         imgSrc="/images/why-navcoin/why-247.svg"
-        text="Con nodos en todo el mundo, la red NavCoin funciona 24/7. Mientras esten conectado a Internet, pueden enviar y recibir pagos en cualquier lugar del mundo, en cualquier momento del día, sin tiempo de inactividad, lo que lo hace ideal para&nbsp;comercios."
+        text="Con nodos en todo el mundo, la red NavCoin funciona 24/7. Mientras estén conectados a Internet, pueden enviar y recibir pagos en cualquier lugar del mundo, en cualquier momento del día, sin tiempo de inactividad, lo que lo hace ideal para&nbsp;comercios."
 
     >}}
     {{< long_text
