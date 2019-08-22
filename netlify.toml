@@ -10,10 +10,9 @@ command = "gulp sass && hugo"
 
 [[redirects]]
   from = "/downloads"
-  to = "/wallets"
+  to = "/en/wallets"
   status = 301
   force = true
-
 
 [[redirects]]
   from = "/navpay"
@@ -23,48 +22,182 @@ command = "gulp sass && hugo"
 
 [[redirects]]
   from = "/manifestos"
-  to = "/governance"
+  to = "/en/governance"
   status = 301
   force = true
 
   [[redirects]]
   from = "/getting-started"
-  to = "/for-individuals"
+  to = "/en/for-individuals"
   status = 301
   force = true
 
   [[redirects]]
   from = "/about-this-website"
-  to = "/"
+  to = "/en/"
   status = 301
   force = true
 
   [[redirects]]
   from = "/about-navcoin"
-  to = "/why-navcoin"
+  to = "/en/why-navcoin"
   status = 301
   force = true
 
   [[redirects]]
   from = "/buying-navcoin"
-  to = "/buy-navcoin"
+  to = "/en/buy-navcoin"
   status = 301
   force = true
 
   [[redirects]]
   from = "/how-to-accept-navcoin"
-  to = "/for-business"
+  to = "/en/for-business"
   status = 301
   force = true
 
   [[redirects]]
-  from = "/community-roadmap"
-  to = "/roadmap"
+  from = "/why-navcoin"
+  to = "/en/why-navcoin"
   status = 301
   force = true
 
   [[redirects]]
-  from = "/project-roadmap"
-  to = "/roadmap"
+  from = "/governance"
+  to = "/en/governance"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/for-individuals"
+  to = "/en/for-individuals"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/for-developers"
+  to = "/en/for-developers"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/responsible-disclosure"
+  to = "/en/responsible-disclosure"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/for-business"
+  to = "/en/for-business"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/buy-navcoin"
+  to = "/en/buy-navcoin"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/:lang/roadmap"
+  to = "/:lang/project-activity"
+  status = 301
+  force = true
+
+
+  [[redirects]]
+  from = "/roadmap"
+  to = "/en/project-activity"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/merchants"
+  to = "/en/merchants"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/get-involved"
+  to = "/en/get-involved"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/notices"
+  to = "/en/notices"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/community-fund"
+  to = "/en/community-fund"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/wallets"
+  to = "/en/wallets"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/privacy-policy"
+  to = "/en/privacy-policy"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/terms-of-use"
+  to = "/en/terms-of-use"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/notices/2018-10-24-navcoin-core-4-4-0/"
+  to = "/en/notices/2018-10-24-navcoin-core-4-4-0/"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/notices/2018-09-04-navcoin-core-4-3-0/"
+  to = "/en/notices/2018-09-04-navcoin-core-4-3-0/"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/notices/2018-08-18-npip004-static-block-reward/"
+  to = "/en/notices/2018-08-18-npip004-static-block-reward/"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/notices/2018-06-28-4-2-1-soft-fork-now-locked-in/"
+  to = "/en/notices/2018-06-28-4-2-1-soft-fork-now-locked-in/"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/notices/2018-06-11-navcoin-4-2-1-32bit-ntp-sync-hotfix/"
+  to = "/en/notices/2018-06-11-navcoin-4-2-1-32bit-ntp-sync-hotfix/"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/notices/2018-06-06-navcoin-4-2-0-navpi-patch-notice/"
+  to = "/en/notices/2018-06-06-navcoin-4-2-0-navpi-patch-notice/"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/notices/2018-06-06-navcoin-4-2-0/"
+  to = "/en/notices/2018-06-06-navcoin-4-2-0/"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/notices/2018-05-27-navcoin-core-4-2-0-release-candidate/"
+  to = "/en/notices/2018-05-27-navcoin-core-4-2-0-release-candidate/"
+  status = 301
+  force = true
+

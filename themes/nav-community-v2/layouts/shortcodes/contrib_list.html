@@ -10,7 +10,7 @@
             {{ range $element := sort $.Site.Data.contributors "total" "desc" }}
                 <div class="single-item">
                     <a href="https://github.com/{{ $element.author.login }}">
-                        <img src="{{ .author.avatar }}" class="git-disp-pic">
+                        <img src="{{ .author.avatar_url }}" class="git-disp-pic">
                         <div class="contrib-info">
                             <div class="name">{{ $element.author.login }}</div>
                             <div class="underline">View on Github</div>
