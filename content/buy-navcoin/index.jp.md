@@ -217,6 +217,12 @@ newTab="true"
         text="フィアット / NAV"
         linkUrl="https://www.switchain.com/"
     >}}
+    {{< exchange
+        titleText="Stealthex"
+        imgSrc="/images/buy-navcoin/stealthex_400x400.jpg"
+        text="フィアット / NAV"
+        linkUrl="https://stealthex.io/"
+    >}}
 {{< /item_container_section >}}
 
 

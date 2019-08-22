@@ -61,13 +61,13 @@ newTab="true"
     {{< merchant
         titleText="DrApis"
         imgSrc="/images/merchants/mer-dr-apis.png"
-        text="Miel desde portugal. Directa desde los panales. Pura, sin&nbsp;pasteurizar."
+        text="Miel desde portugal. Directa desde los panales. Pura, sin&nbsp;pasteurizar.<br>&nbsp;"
         linkUrl="https://drapis.com/"
     >}}
     {{< merchant
         titleText="Lurento"
         imgSrc="/images/merchants/mer-lurento.png"
-        text="Alquiler de vehiculos de lujo, disponible en Europa y los Emiratos&nbsp;Árabes."
+        text="Alquiler de vehiculos de lujo, disponible en Europa y los Emiratos&nbsp;Árabes.<br>&nbsp;"
         linkUrl="https://lurento.com/"
     >}}
     {{< merchant
@@ -120,7 +120,7 @@ newTab="true"
     >}}
     {{< merchant
         titleText="Get Ballistic"
-        imgSrc="/images/merchants/get-ballistic_400x400.jpg"
+        imgSrc="/images/merchants/get-ballistic_400x228.png"
         text="Bodyboards balísticos Hawaii est. 1996 para los amantes de las olas."
         linkUrl="http://www.getballistic.com/"
     >}}
@@ -159,6 +159,12 @@ newTab="true"
         imgSrc="/images/merchants/natural-petshop.jpg"
         text="Un sueño cómodo para su perro en nuestras camas para perros fácilmente lavables a mano."
         linkUrl="https://naturalpetshop.com.au/"
+    >}}
+    {{< merchant
+        titleText="Blockchashion"
+        imgSrc="/images/merchants/blockchashion_400x117.png"
+        text="Moda para futuristas. Una amplia selección de productos de marca."
+        linkUrl="https://blockchashion.com/"
     >}}
 {{< /item_container_section >}}
 

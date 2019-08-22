@@ -217,6 +217,12 @@ newTab="true"
         text="Multi moneda / NAV"
         linkUrl="https://www.switchain.com/"
     >}}
+    {{< exchange
+        titleText="Stealthex"
+        imgSrc="/images/buy-navcoin/stealthex_400x400.jpg"
+        text="Multi moneda / NAV"
+        linkUrl="https://stealthex.io/"
+    >}}
 {{< /item_container_section >}}
 
 {{< center_text_cta

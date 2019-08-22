@@ -217,6 +217,12 @@ newTab="true"
         text="복수 통화 / NAV"
         linkUrl="https://www.switchain.com/"
     >}}
+    {{< exchange
+        titleText="Stealthex"
+        imgSrc="/images/buy-navcoin/stealthex_400x400.jpg"
+        text="복수 통화 / NAV"
+        linkUrl="https://stealthex.io/"
+    >}}
 {{< /item_container_section >}}
 
 

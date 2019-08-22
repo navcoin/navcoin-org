@@ -117,7 +117,7 @@ newTab="true"
     >}}
     {{< merchant
         titleText="Get Ballistic"
-        imgSrc="/images/merchants/get-ballistic_400x400.jpg"
+        imgSrc="/images/merchants/get-ballistic_400x228.png"
         text="웨이브 매니아를위한 하와이 est. 1996에 위치한 탄도 보디 보드 및 액세서리."
         linkUrl="http://www.getballistic.com/"
     >}}
@@ -156,6 +156,12 @@ newTab="true"
         imgSrc="/images/merchants/natural-petshop.jpg"
         text="개가 손쉽게 씻을 수있는 개 침대에서 편안하게 잠을 자도록하십시오."
         linkUrl="https://naturalpetshop.com.au/"
+    >}}
+    {{< merchant
+        titleText="Blockchashion"
+        imgSrc="/images/merchants/blockchashion_400x117.png"
+        text="미래 학자를위한 패션. 다양한 브랜드 상품.<br>&nbsp;"
+        linkUrl="https://blockchashion.com/"
     >}}
    
 {{< /item_container_section >}}

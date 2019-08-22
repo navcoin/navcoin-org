@@ -28,7 +28,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
   {{< step 
       titleText="Paso 2: Elegir el monedero"
       imgSrc="/images/for-beginners/beg-wallets.svg"
-      text="Your wallet is the main way to interact with your digital coins, and is what you use to send & receive NAV. There are different types of wallets - from ‘full’ wallets that give you complete control and allow you to participate in the NavCoin network, to ‘thin’ wallets that are easier to&nbsp;use."
+      text="El monedero es el principal actor para interactuar con sus monedas digitales, y es lo que usa para enviar y recibir NAV. Hay diferentes tipos de monederos: desde los &#34;completos&#34; que le dan un control total y le permiten participar en la red NavCoin, hasta carteras &#34;delgadas&#34; que son más fáciles de&nbsp;usar."
       buttonText="Wallets"
       buttonUrl="/wallets"
       buttonImgSrc="/images/icons/rightward-arrow.svg"

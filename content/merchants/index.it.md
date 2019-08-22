@@ -118,7 +118,7 @@ newTab="true"
     >}}
     {{< merchant
         titleText="Get Ballistic"
-        imgSrc="/images/merchants/get-ballistic_400x400.jpg"
+        imgSrc="/images/merchants/get-ballistic_400x228.png"
         text="Ballistic Bodyboards Hawaii est. 1996 per gli appassionati di onde."
         linkUrl="http://www.getballistic.com/"
     >}}
@@ -157,6 +157,12 @@ newTab="true"
         imgSrc="/images/merchants/natural-petshop.jpg"
         text="Assicurati che il tuo cane dorma bene nei nostri letti per cani facilmente lavabili."
         linkUrl="https://naturalpetshop.com.au/"
+    >}}
+    {{< merchant
+        titleText="Blockchashion"
+        imgSrc="/images/merchants/blockchashion_400x117.png"
+        text="Moda per futuristi. Un'ampia selezione di prodotti di marca."
+        linkUrl="https://blockchashion.com/"
     >}}
 
 {{< /item_container_section >}}

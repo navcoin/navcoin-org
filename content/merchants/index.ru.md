@@ -118,7 +118,7 @@ newTab="true"
     >}}
     {{< merchant
         titleText="Get Ballistic"
-        imgSrc="/images/merchants/get-ballistic_400x400.jpg"
+        imgSrc="/images/merchants/get-ballistic_400x228.png"
         text="Баллистические Bodyboard Гавайи Est. 1996 для любителей волн."
         linkUrl="http://www.getballistic.com/"
     >}}
@@ -157,6 +157,12 @@ newTab="true"
         imgSrc="/images/merchants/natural-petshop.jpg"
         text="Следите за тем, чтобы ваша собака выспалась на наших легко моющихся кроватях для собак."
         linkUrl="https://naturalpetshop.com.au/"
+    >}}
+    {{< merchant
+        titleText="Blockchashion"
+        imgSrc="/images/merchants/blockchashion_400x117.png"
+        text="Мода для футуристов. Широкий выбор фирменных товаров."
+        linkUrl="https://blockchashion.com/"
     >}}
 
 {{< /item_container_section >}}
