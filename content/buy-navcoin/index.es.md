@@ -225,7 +225,7 @@ newTab="true"
     >}}
     {{< exchange
         titleText="Instaswap"
-        imgSrc="/images/buy-navcoin/instaswap.png"
+        imgSrc="/images/buy-navcoin/instaswap_400x400.png"
         text="Multi moneda / NAV"
         linkUrl="https://instaswap.io/"
     >}}
