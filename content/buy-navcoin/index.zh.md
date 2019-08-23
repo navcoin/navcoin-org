@@ -223,6 +223,12 @@ newTab="正确的"
         text="多币种 / NAV"
         linkUrl="https://stealthex.io/"
     >}}
+    {{< exchange
+        titleText="Instaswap"
+        imgSrc="/images/buy-navcoin/instaswap.png"
+        text="多币种 / NAV"
+        linkUrl="https://instaswap.io/"
+    >}}
 
 {{< /item_container_section >}}
 

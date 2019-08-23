@@ -223,6 +223,12 @@ newTab="true"
         text="Valuta multipla / NAV"
         linkUrl="https://stealthex.io/"
     >}}
+    {{< exchange
+        titleText="Instaswap"
+        imgSrc="/images/buy-navcoin/instaswap.png"
+        text="Valuta multipla / NAV"
+        linkUrl="https://instaswap.io/"
+    >}}
 {{< /item_container_section >}}
 
 {{< center_text_cta

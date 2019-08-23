@@ -223,6 +223,12 @@ newTab="true"
         text="복수 통화 / NAV"
         linkUrl="https://stealthex.io/"
     >}}
+    {{< exchange
+        titleText="Instaswap"
+        imgSrc="/images/buy-navcoin/instaswap.png"
+        text="복수 통화 / NAV"
+        linkUrl="https://instaswap.io/"
+    >}}
 {{< /item_container_section >}}
 
 

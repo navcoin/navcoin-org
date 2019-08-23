@@ -223,6 +223,12 @@ newTab="true"
         text="フィアット / NAV"
         linkUrl="https://stealthex.io/"
     >}}
+    {{< exchange
+        titleText="Instaswap"
+        imgSrc="/images/buy-navcoin/instaswap.png"
+        text="フィアット / NAV"
+        linkUrl="https://instaswap.io/"
+    >}}
 {{< /item_container_section >}}
 
 
