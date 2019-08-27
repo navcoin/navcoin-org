@@ -224,7 +224,7 @@ newTab="正确的"
         linkUrl="https://stealthex.io/"
     >}}
     {{< exchange
-        titleText="Instaswap"
+        titleText="InstaSwap"
         imgSrc="/images/buy-navcoin/instaswap_400x400.png"
         text="多币种 / NAV"
         linkUrl="https://instaswap.io/"

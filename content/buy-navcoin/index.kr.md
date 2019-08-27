@@ -224,7 +224,7 @@ newTab="true"
         linkUrl="https://stealthex.io/"
     >}}
     {{< exchange
-        titleText="Instaswap"
+        titleText="InstaSwap"
         imgSrc="/images/buy-navcoin/instaswap_400x400.png"
         text="복수 통화 / NAV"
         linkUrl="https://instaswap.io/"
