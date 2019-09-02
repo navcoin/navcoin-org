@@ -80,7 +80,7 @@ newTab="true"
         text="在超过15个不同的国家拥有20多个世界级的服务器中心。"
         linkUrl="https://1gbits.com/"
     >}}
-{{< merchant
+    {{< merchant
         titleText="Domains-Index"
         imgSrc="/images/merchants/mer-domains-index.png"
         text="我们定期为我们的一个项目收集和更新域名数据库，并乐于分享。"
@@ -118,7 +118,7 @@ newTab="true"
     >}}
     {{< merchant
         titleText="Get Ballistic"
-        imgSrc="/images/merchants/get-ballistic_400x400.jpg"
+        imgSrc="/images/merchants/get-ballistic_400x228.png"
         text="Ballistic Bodyboards和泳装位于Hawaii est.1996，适合波浪爱好者。"
         linkUrl="http://www.getballistic.com/"
     >}}
@@ -157,6 +157,12 @@ newTab="true"
         imgSrc="/images/merchants/natural-petshop.jpg"
         text="我们的狗床有柔软的衬垫侧面，可以很容易地手洗，以保持特殊狗的清洁。"
         linkUrl="https://naturalpetshop.com.au/"
+    >}}
+    {{< merchant
+        titleText="Blockchashion"
+        imgSrc="/images/merchants/blockchashion_400x117.png"
+        text="未来主义者的时尚。 各种品牌商品。"
+        linkUrl="https://blockchashion.com/"
     >}}
 
 {{< /item_container_section >}}

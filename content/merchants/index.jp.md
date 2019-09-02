@@ -118,7 +118,7 @@ newTab="true"
     >}}
     {{< merchant
         titleText="Get Ballistic"
-        imgSrc="/images/merchants/get-ballistic_400x400.jpg"
+        imgSrc="/images/merchants/get-ballistic_400x228.png"
         text="Ballistic Bodyboards Hawaiiは1996年にウェイブファンのために開催されました。"
         linkUrl="http://www.getballistic.com/"
     >}}
@@ -157,6 +157,12 @@ newTab="true"
         imgSrc="/images/merchants/natural-petshop.jpg"
         text="あなたの犬は私たちの簡単に手で洗える犬のベッドで快適な眠りを得るでしょう。"
         linkUrl="https://naturalpetshop.com.au/"
+    >}}
+    {{< merchant
+        titleText="Blockchashion"
+        imgSrc="/images/merchants/blockchashion_400x117.png"
+        text="未来派のためのファッション。 ブランド品の幅広い選択。"
+        linkUrl="https://blockchashion.com/"
     >}}
 
 {{< /item_container_section >}}

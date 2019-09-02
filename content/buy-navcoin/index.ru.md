@@ -217,6 +217,18 @@ newTab="подлинный"
         text="мульти валюта / NAV"
         linkUrl="https://www.switchain.com/"
     >}}
+    {{< exchange
+        titleText="Stealthex"
+        imgSrc="/images/buy-navcoin/stealthex_400x400.jpg"
+        text="мульти валюта / NAV"
+        linkUrl="https://stealthex.io/"
+    >}}
+    {{< exchange
+        titleText="InstaSwap"
+        imgSrc="/images/buy-navcoin/instaswap_400x400.png"
+        text="мульти валюта / NAV"
+        linkUrl="https://instaswap.io/"
+    >}}
 {{< /item_container_section >}}
 
 {{< center_text_cta
