@@ -26,18 +26,17 @@ newTab="true"
         text="超过70家商户接受NAV使用coinpayment商户网关。"
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}}
-
     {{< merchant
-        titleText="NavPi 商店"
-        imgSrc="/images/merchants/mer-navpi.png"
-        text="购买一个NavPi与NavCoin，使您可以轻松地一天24小时加注NAV。"
-        linkUrl="https://navpi.navcoinstore.com/product/navpi-stakebox/"
-    >}}
-     {{< merchant
         titleText="NavCoin营销店"
         imgSrc="/images/merchants/mer-nav.png"
-        text="自豪地佩戴NavCoin系列品牌商品。"
+        text="以我们的品牌高品质加密商品为荣，让NavCoin自豪。"
         linkUrl="https://navcoinstore.com/"
+    >}}
+    {{< merchant
+        titleText="WikiLeaks Shop"
+        imgSrc="/images/merchants/wikileaks-shop_400x400.jpg"
+        text="维基解密官方商店，用T恤显示你的支持"
+        linkUrl="https://wikileaks.shop"
     >}}
     {{< merchant
         titleText="BitcoinGallery.Art"
@@ -66,7 +65,7 @@ newTab="true"
     {{< merchant
         titleText="Lurento"
         imgSrc="/images/merchants/mer-lurento.png"
-        text="豪华和跑车租赁服务，范围在欧洲和阿联酋."
+        text="优质的奢侈品和跑车租赁服务，在欧洲和阿联酋提供。"
         linkUrl="https://lurento.com/"
     >}}
     {{< merchant
@@ -81,6 +80,91 @@ newTab="true"
         text="在超过15个不同的国家拥有20多个世界级的服务器中心。"
         linkUrl="https://1gbits.com/"
     >}}
+    {{< merchant
+        titleText="Domains-Index"
+        imgSrc="/images/merchants/mer-domains-index.png"
+        text="我们定期为我们的一个项目收集和更新域名数据库，并乐于分享。"
+        linkUrl="https://domains-index.com/"
+    >}}
+    {{< merchant
+        titleText="Keyi Store"
+        imgSrc="/images/merchants/keyistore_400x400.jpg"
+        text="在Keyi Store，我们与BLockchain公司合作，在Keyi Store中实现加密货币。"
+        linkUrl="https://keyi.store/"
+    >}}
+    {{< merchant
+        titleText="Print-Ted"
+        imgSrc="/images/merchants/print-ted_180x.png"
+        text="由我们自己的艺术家设计的时尚高品质印刷品和产品！"
+        linkUrl="https://print-ted.com/"
+    >}}
+    {{< merchant
+        titleText="Firo Solutions"
+        imgSrc="/images/merchants/firo-solutions_400x400.jpg"
+        text="独立软件公司Firo Solutions是您的软件漏洞管理公司的第一站。"
+        linkUrl="https://firosolutions.com/"
+    >}}
+    {{< merchant
+        titleText="Woop Woop Shop"
+        imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
+        text="购买最优价格和最优质的趋势产品免费送到您的门前。"
+        linkUrl="https://www.woopshop.com/"
+    >}}
+    {{< merchant
+        titleText="Bidali Store"
+        imgSrc="/images/merchants/Bidali_400x400.jpg"
+        text="Bidali Store正在帮助小型和大型公司接受下一代付款。"
+        linkUrl="https://www.bidali.com/"
+    >}}
+    {{< merchant
+        titleText="Get Ballistic"
+        imgSrc="/images/merchants/get-ballistic_400x228.png"
+        text="Ballistic Bodyboards和泳装位于Hawaii est.1996，适合波浪爱好者。"
+        linkUrl="http://www.getballistic.com/"
+    >}}
+    {{< merchant
+        titleText="Prontocardiologia"
+        imgSrc="/images/merchants/prontocardiologia.jpg"
+        text="Prontocardiologia服务包括心脏问题的医疗诊断和治疗。"
+        linkUrl="http://www.prontocardiologia.it/"
+    >}}
+    {{< merchant
+        titleText="Like At Home"
+        imgSrc="/images/merchants/likeathome_logo.png"
+        text="我们很高兴欢迎您成为我们1765年中年风格公寓的潜在客人！"
+        linkUrl="http://likeathome.lv/en"
+    >}}
+    {{< merchant
+        titleText="MonoVm"
+        imgSrc="/images/merchants/monovm_400x400.jpg"
+        text="MonoVM网络解决方案.VPS，域和虚拟主机，专用服务器和SSL。"
+        linkUrl="https://monovm.com/"
+    >}}
+    {{< merchant
+        titleText="Toys4Sex"
+        imgSrc="/images/merchants/toys4sex.png"
+        text="精选的成人产品系列以平装包装方式谨慎地送到您的信箱中。"
+        linkUrl="http://toys4sex.com.au/"
+    >}}
+    {{< merchant
+        titleText="SEO Better"
+        imgSrc="/images/merchants/seo-better_400x400.png"
+        text="这些在线课程的目的是为您提供在线增加收入所需的技能和工具。"
+        linkUrl="https://seobetter.com/"
+    >}}
+    {{< merchant
+        titleText="Natural Pet Shop"
+        imgSrc="/images/merchants/natural-petshop.jpg"
+        text="我们的狗床有柔软的衬垫侧面，可以很容易地手洗，以保持特殊狗的清洁。"
+        linkUrl="https://naturalpetshop.com.au/"
+    >}}
+    {{< merchant
+        titleText="Blockchashion"
+        imgSrc="/images/merchants/blockchashion_400x117.png"
+        text="未来主义者的时尚。 各种品牌商品。"
+        linkUrl="https://blockchashion.com/"
+    >}}
+
 {{< /item_container_section >}}
 
 {{< item_container_section
@@ -103,7 +187,7 @@ newTab="true"
     {{< action
         titleText="您的网上业务"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="集成了NavCoin支付网关，为shopify和woocommence等所有流行的网络购物车提供插件。"
+        subtext="集成了NavCoin支付网关，为shopify和WooCommerce等所有流行的网络购物车提供插件。"
         linkText="访问CoinPayments"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"

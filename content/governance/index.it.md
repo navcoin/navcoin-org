@@ -8,7 +8,7 @@ description: "Decentralized digital currencies like NavCoin return freedom, priv
 ---
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 {{< hero_section
-titleText="Governance"
+titleText="Governanza"
 imgSrc="/images/governance/gov-hero.svg"
 paragraphText="L'obiettivo del Manifesto NavCoin è quello di illustrare chiaramente i motivi per cui i membri della comunità NavCoin fanno ciò che facciamo, come lo facciamo e perché. I documenti riguardano i principi guida, lo scopo, lo scopo del lavoro e i requisiti operativi per garantire che si condivida gli stessi valori e operiamo sempre nel migliore l'interesse della&nbsp;rete."
 buttonText="Leggi il Manifesto"
@@ -30,7 +30,7 @@ Come collaboratori della comunità NavCoin siamo membri di una delle prime socie
   imgSrc="/images/governance/gov-world.svg"
   bgPurple="true"
 >}}
-Valute digitali decentralizzate come NavCoin prendono il controllo del sistema monetario lontano dalle élite governative e aziendali e restituiscono libertà, privacy e potere finanziario all'individuo. Ecco perché NavCoin non è solo un protocollo di pagamento, è in realtà un vettore per un profondo cambiamento nel modo in cui il sistema economico globale opera. La governance decentralizzata è al centro. Poiché non esiste un'autorità centrale per NavCoin, una parte cruciale del nostro ruolo di membri di questa comunità è di essere campioni di neutralità e decisione basata sul&nbsp;consenso,.
+Valute digitali decentralizzate come NavCoin prendono il controllo del sistema monetario lontano dalle élite governative e aziendali e restituiscono libertà, vita privata e potere finanziario all'individuo. Ecco perché NavCoin non è solo un protocollo di pagamento, è in realtà un vettore per un profondo cambiamento nel modo in cui il sistema economico globale opera. La governanza decentralizzata è al centro. Poiché non esiste un'autorità centrale per NavCoin, una parte cruciale del nostro ruolo di membri di questa comunità è di essere campioni di neutralità e decisione basata sul&nbsp;consenso,.
 {{< /zig_section>}}
 
 
@@ -57,37 +57,37 @@ titleText="Fatti coinvolgere"
 imgSrc="/images/governance/gov-get-involved.svg"
 reversed="true"
 >}}
-NavCoin è un'iniziativa comunitaria che consente a chiunque di contribuire in diversi modi. L'ecosistema NavCoin è più di un semplice sviluppo open source. La creazione, la promozione e l'adozione di contenuti sono ugualmente importanti come una moneta digitale decentralizzata: ecco perché la chiave del successo è il contributo di persone di diversi&nbsp;skillset.
+NavCoin è un'iniziativa comunitaria che consente a chiunque di contribuire in diversi modi. L'ecosistema NavCoin è più di un semplice sviluppo open source. La creazione, la promozione e l'adozione di contenuti sono ugualmente importanti come una moneta digitale decentralizzata: ecco perché la chiave del successo è il contributo di persone di diversi insieme di&nbsp;abilità.
 {{< /zig_section>}}
 
 
 {{< item_container_section
     titleText="Leggi il Manifesto"
-    subtitleText="The NavCoin core values and contribution&nbsp;guidelines"
+    subtitleText="I valori fondamentali di NavCoin e le linee guida per il&nbsp;contributo"
     bgPurple="true"
     anchor="read-manifestos"
 >}}
     {{< action
-        titleText="MAnifesto degli sviluppatori"
+        titleText="Manifesto degli sviluppatori"
         imgSrc="/images/governance/gov-dev-manifesto.svg"
-        subtext="Essential reading for anyone who wants to contribute to NavCoin's open-source&nbsp;code."
-        linkText="Get the Manifesto"
+        subtext="Lettura essenziale per chiunque desideri contribuire al codice open source di&nbsp;NavCoin."
+        linkText="Ottieni il Manifesto"
         linkUrl="/assets/NavCoinDeveloperManifesto.pdf"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action
-        titleText="Content Manifesto"
+        titleText="Manifesto dei contenuti"
         imgSrc="/images/governance/gov-content-manifesto.svg"
-        subtext="A guide to the shared values and objectives of NavCoin community content&nbsp;contributors."
-        linkText="Get the Manifesto"
+        subtext="Una guida ai valori e agli obiettivi condivisi dei partecipanti ai contenuti della comunità&nbsp;NavCoin."
+        linkText="Ottieni il Manifesto"
         linkUrl="/assets/NavCoinContentManifesto.pdf"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action
-        titleText="Brand Guidelines"
+        titleText="Linee Guida per il Marchio"
         imgSrc="/images/governance/gov-brand.svg"
-        subtext="A handbook to help you match the content you create to the NavCoin brand look and&nbsp;feel. "
-        linkText="Get the Guide"
+        subtext="Un manuale per aiutarti ad abbinare il contenuto che crei alle caratteristiche del marchio&nbsp;NavCoin."
+        linkText="Ottieni la Guida"
         linkUrl="/assets/NavCoinBrandGuidelines.pdf"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}

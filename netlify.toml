@@ -14,7 +14,6 @@ command = "gulp sass && hugo"
   status = 301
   force = true
 
-
 [[redirects]]
   from = "/navpay"
   to = "https://navhub.org/projects/nav-pay"
@@ -56,9 +55,6 @@ command = "gulp sass && hugo"
   to = "/en/for-business"
   status = 301
   force = true
-
-
-
 
   [[redirects]]
   from = "/why-navcoin"
@@ -103,8 +99,15 @@ command = "gulp sass && hugo"
   force = true
 
   [[redirects]]
+  from = "/:lang/roadmap"
+  to = "/:lang/project-activity"
+  status = 301
+  force = true
+
+
+  [[redirects]]
   from = "/roadmap"
-  to = "/en/roadmap"
+  to = "/en/project-activity"
   status = 301
   force = true
 

@@ -26,16 +26,16 @@ newTab="true"
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}}
     {{< merchant
-        titleText="NavPi 스토어"
-        imgSrc="/images/merchants/mer-navpi.png"
-        text="Nav코인을 사용할 수 있는 상점 및 서비스&nbsp;선택."
-        linkUrl="https://navpi.navcoinstore.com/product/navpi-stakebox/"
-    >}}
-     {{< merchant
         titleText="Nav코인 상품 스토어"
         imgSrc="/images/merchants/mer-nav.png"
         text="Nav코인에 관련된 굿즈를 사용하시고 자부심을&nbsp;느끼세요."
         linkUrl="https://navcoinstore.com/"
+    >}}
+    {{< merchant
+        titleText="WikiLeaks Shop"
+        imgSrc="/images/merchants/wikileaks-shop_400x400.jpg"
+        text="공식 WikiLeaks Shop에서는 T 셔츠로 지원을 보여줍니다."
+        linkUrl="https://wikileaks.shop"
     >}}
     {{< merchant
         titleText="BitcoinGallery.Art"
@@ -79,6 +79,91 @@ newTab="true"
         text="15개 이상의 국가에 20개 이상의 세계적 수준의 서버&nbsp;센터."
         linkUrl="https://1gbits.com/"
     >}}
+{{< merchant
+        titleText="Domains-Index"
+        imgSrc="/images/merchants/mer-domains-index.png"
+        text="비즈니스 요구 사항에 따라 정기적으로 업데이트되는 도메인 이름 데이터베이스."
+        linkUrl="https://domains-index.com/"
+    >}}
+    {{< merchant
+        titleText="Keyi Store"
+        imgSrc="/images/merchants/keyistore_400x400.jpg"
+        text="Keyi Store에서는 BLOCKCHAIN ​​회사와 파트너 관계를 맺고 Keyi Store에서 암호 해독 기능을 지원합니다."
+        linkUrl="https://keyi.store/"
+    >}}
+    {{< merchant
+        titleText="Print-Ted"
+        imgSrc="/images/merchants/print-ted_180x.png"
+        text="자신의 아티스트가 디자인 한 멋진 고품질의 인쇄물 및 제품!"
+        linkUrl="https://print-ted.com/"
+    >}}
+    {{< merchant
+        titleText="Firo Solutions"
+        imgSrc="/images/merchants/firo-solutions_400x400.jpg"
+        text="독립적 인 소프트웨어 회사 인 Firo Solutions는 취약점 관리 회사입니다."
+        linkUrl="https://firosolutions.com/"
+    >}}
+    {{< merchant
+        titleText="Woop Woop Shop"
+        imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
+        text="최고의 가격 및 최고의 품질 트렌드 제품을 귀하의 도어 스텝으로 무료 배송."
+        linkUrl="https://www.woopshop.com/"
+    >}}
+    {{< merchant
+        titleText="Bidali Store"
+        imgSrc="/images/merchants/Bidali_400x400.jpg"
+        text="중소기업이 차세대 암호 암호화 지불을 허용하도록 지원합니다."
+        linkUrl="https://www.bidali.com/"
+    >}}
+    {{< merchant
+        titleText="Get Ballistic"
+        imgSrc="/images/merchants/get-ballistic_400x228.png"
+        text="웨이브 매니아를위한 하와이 est. 1996에 위치한 탄도 보디 보드 및 액세서리."
+        linkUrl="http://www.getballistic.com/"
+    >}}
+    {{< merchant
+        titleText="Prontocardiologia"
+        imgSrc="/images/merchants/prontocardiologia.jpg"
+        text="Prontocardiologia 서비스에는 의료 진단 및 치료가 포함됩니다."
+        linkUrl="http://www.prontocardiologia.it/"
+    >}}
+    {{< merchant
+        titleText="Like At Home"
+        imgSrc="/images/merchants/likeathome_logo.png"
+        text="우리는 1765 년 중세 스타일의 아파트에서 당신을 환영합니다."
+        linkUrl="http://likeathome.lv/en"
+    >}}
+    {{< merchant
+        titleText="MonoVm"
+        imgSrc="/images/merchants/monovm_400x400.jpg"
+        text="MonoVM 네트워크 솔루션 전용 서버 및 SSL을 통한 VPS, 도메인 및 웹 호스팅"
+        linkUrl="https://monovm.com/"
+    >}}
+    {{< merchant
+        titleText="Toys4Sex"
+        imgSrc="/images/merchants/toys4sex.png"
+        text="특별히 포장 된 성인용 제품을 귀하의 레터 박스에 보관하십시오."
+        linkUrl="http://toys4sex.com.au/"
+    >}}
+    {{< merchant
+        titleText="SEO Better"
+        imgSrc="/images/merchants/seo-better_400x400.png"
+        text="이 온라인 과정의 요점은 온라인 매출 증대에 필요한 기술과 도구를 제공하는 것입니다."
+        linkUrl="https://seobetter.com/"
+    >}}
+    {{< merchant
+        titleText="Natural Pet Shop"
+        imgSrc="/images/merchants/natural-petshop.jpg"
+        text="개가 손쉽게 씻을 수있는 개 침대에서 편안하게 잠을 자도록하십시오."
+        linkUrl="https://naturalpetshop.com.au/"
+    >}}
+    {{< merchant
+        titleText="Blockchashion"
+        imgSrc="/images/merchants/blockchashion_400x117.png"
+        text="미래 학자를위한 패션. 다양한 브랜드 상품.<br>&nbsp;"
+        linkUrl="https://blockchashion.com/"
+    >}}
+   
 {{< /item_container_section >}}
 
 {{< item_container_section
@@ -100,7 +185,7 @@ newTab="true"
     {{< action
         titleText="온라인 비즈니스"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="Shopify 및 Whocommence와 같은 모든 인기 웹카트에 플러그인을 제공하는 통합 NavCoin 결제 게이트웨이를&nbsp;이용하세요"
+        subtext="Shopify 및 WooCommerce와 같은 모든 인기 웹카트에 플러그인을 제공하는 통합 NavCoin 결제 게이트웨이를&nbsp;이용하세요"
         linkText="CoinPayments에 방문하세요"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"

@@ -3,7 +3,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100vw;
+  width: 100%;
 
   &.bg-purple {
     background-color: #7D5AB5;
@@ -15,7 +15,7 @@
     }
   }
   .zig-container {
-    width: 100vw;
+    width: 100%;
     max-width: 1250px;
     color: #7D5AB5;
     padding: 80px 0;

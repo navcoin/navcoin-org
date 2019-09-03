@@ -28,16 +28,16 @@ newTab="true"
     >}}
 
     {{< merchant
-        titleText="NavPi Store"
-        imgSrc="/images/merchants/mer-navpi.png"
-        text="Purchase a NavPi with NavCoin to stake your NAV easily 24 hours a&nbsp;day."
-        linkUrl="https://navpi.navcoinstore.com/product/navpi-stakebox/"
-    >}}
-     {{< merchant
         titleText="NavCoin Merch Store"
         imgSrc="/images/merchants/mer-nav.png"
         text="Wear NavCoin with pride with this range of branded&nbsp;merchandise."
         linkUrl="https://navcoinstore.com/"
+    >}}
+    {{< merchant
+        titleText="WikiLeaks Shop"
+        imgSrc="/images/merchants/wikileaks-shop_400x400.jpg"
+        text="The Official WikiLeaks Shop, show your support with a t-shirt"
+        linkUrl="https://wikileaks.shop"
     >}}
     {{< merchant
         titleText="BitcoinGallery.Art"
@@ -84,9 +84,88 @@ newTab="true"
     {{< merchant
         titleText="Domains-Index"
         imgSrc="/images/merchants/mer-domains-index.png"
-        text="List of every registered domain"
+        text="Providing the bulk purchase of domain name listings."
         linkUrl="https://domains-index.com/"
     >}}
+    {{< merchant
+        titleText="Keyi Store"
+        imgSrc="/images/merchants/keyistore_400x400.jpg"
+        text="Partnering with Blockchain companies to enable their cryptocurrency."
+        linkUrl="https://keyi.store/"
+    >}}
+    {{< merchant
+        titleText="Print-Ted"
+        imgSrc="/images/merchants/print-ted_180x.png"
+        text="Fashionable high quality prints and products designed by our own artists!"
+        linkUrl="https://print-ted.com/"
+    >}}
+    {{< merchant
+        titleText="Firo Solutions"
+        imgSrc="/images/merchants/firo-solutions_400x400.jpg"
+        text="Independent Software Company Firo Solutions is the Vulnerability Management Company."
+        linkUrl="https://firosolutions.com/"
+    >}}
+    {{< merchant
+        titleText="Woop Woop Shop"
+        imgSrc="/images/merchants/woop-woop-shop_400x400.jpg"
+        text="Trending high quality products shipped free to your doorstep."
+        linkUrl="https://www.woopshop.com/"
+    >}}
+    {{< merchant
+        titleText="Bidali Store"
+        imgSrc="/images/merchants/Bidali_400x400.jpg"
+        text="Helping small and large companies accept next generation payments."
+        linkUrl="https://www.bidali.com/"
+    >}}
+    {{< merchant
+        titleText="Get Ballistic"
+        imgSrc="/images/merchants/get-ballistic_400x228.png"
+        text="Ballistic Bodyboards Hawaii est. 1996 for wave enthusiasts."
+        linkUrl="http://www.getballistic.com/"
+    >}}
+    {{< merchant
+        titleText="Prontocardiologia"
+        imgSrc="/images/merchants/prontocardiologia.jpg"
+        text="Prontocardiologia services include medical diagnosis and treatment."
+        linkUrl="http://www.prontocardiologia.it/"
+    >}}
+    {{< merchant
+        titleText="Like At Home"
+        imgSrc="/images/merchants/likeathome_logo.png"
+        text="Become our guest in these Middle Age style apartments - year 1765!"
+        linkUrl="http://likeathome.lv/en"
+    >}}
+    {{< merchant
+        titleText="MonoVm"
+        imgSrc="/images/merchants/monovm_400x400.jpg"
+        text="MonoVM Network Solutions.VPS, Domain, and Web Hosting."
+        linkUrl="https://monovm.com/"
+    >}}
+    {{< merchant
+        titleText="Toys4Sex"
+        imgSrc="/images/merchants/toys4sex.png"
+        text="A specially selected range of adult products delivered discreetly."
+        linkUrl="http://toys4sex.com.au/"
+    >}}
+    {{< merchant
+        titleText="SEO Better"
+        imgSrc="/images/merchants/seo-better_400x400.png"
+        text="Courses that provide you with the skills needed to grow your business online."
+        linkUrl="https://seobetter.com/"
+    >}}
+    {{< merchant
+        titleText="Natural Pet Shop"
+        imgSrc="/images/merchants/natural-petshop.jpg"
+        text="Making sure that your dog gets a comfortable sleep in our easily handwashable dog beds."
+        linkUrl="https://naturalpetshop.com.au/"
+    >}}
+    {{< merchant
+        titleText="Blockchashion"
+        imgSrc="/images/merchants/blockchashion_400x117.png"
+        text="Fashion for Futurists. A wide selection of branded merchandise."
+        linkUrl="https://blockchashion.com/"
+    >}}
+
 {{< /item_container_section >}}
 
 {{< item_container_section
@@ -100,7 +179,7 @@ newTab="true"
     {{< action
         titleText="For your store"
         imgSrc="/images/merchants/mer-for-store.svg"
-        subtext="Use NavPay wallet on your smartphone. Customers just scan your QR code and transfer the fund&nbsp;instantly"
+        subtext="Use NavPay wallet on your smartphone. Customers just scan your QR code and transfer the fund&nbsp;instantly<br>&nbsp;"
         linkText="Visit NavPay"
         linkUrl="https://navhub.org/projects/nav-pay/"
         linkImgSrc="/images/icons/rightward-arrow.svg"
@@ -109,7 +188,7 @@ newTab="true"
     {{< action
         titleText="For your online business"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="Integrated NavCoin payment gateway, offering plugins for all the popular webcarts like shopify and&nbsp;woocommence."
+        subtext="Integrated NavCoin payment gateway, offering plugins for all the popular webcarts like Shopify and WooCommerce."
         linkText="Visit CoinPayments"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"
@@ -117,7 +196,7 @@ newTab="true"
     {{< action                 
         titleText="For personal projects"
         imgSrc="/images/merchants/mer-for-blog.svg"
-        subtext="Integrating Nav Buttons for quick payments is an easy to implement option that suits individuals or side&nbsp;businesses."
+        subtext="Integrating Nav Buttons for quick payments is an easy to implement option that suits individuals or side&nbsp;businesses.<br>&nbsp;"
         linkText="View buttons here"
         linkUrl="https://brianium.github.io/nav-button/"
         linkImgSrc="/images/icons/rightward-arrow.svg"

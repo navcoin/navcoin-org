@@ -10,6 +10,10 @@ description: "NavCoin es una criptomoneda de código abierto, su cadena de bloqu
 titleText="¿Qué es NavCoin?"
 paragraphText="NavCoin es una criptomoneda de código abierto, basada una cadena de bloques con &#34;Prueba de Participación&#34; (PoS). Su diseño es público, nadie posee ni controla NavCoin, y todos pueden participar. Es una plataforma operada por sus usuarios, para sus usuarios, con una red de nodos que verifican las transacciones dispersos por todo el&nbsp;mundo."
 imgSrc="/images/why-navcoin/why-hero.svg"
+buttonText="Descripción del proyecto"
+buttonImgSrc="/images/icons/downward-arrow.svg"
+buttonLink="/assets/NavCoinOverview_July2019.pdf"
+newTab="true"
 >}}
 
 {{< item_container_section
@@ -31,13 +35,13 @@ imgSrc="/images/why-navcoin/why-hero.svg"
     {{< long_text
         titleText="Prueba de Participación segura (Cold staking)"
         imgSrc="/images/why-navcoin/why-peer.svg"
-        text="La seguridad es la prioridad número uno para NavCoin, lo que hace que la prueba de participación en frío sea una importante función dentro de nuestro ecosistema. En lugar de tener todas sus monedas conectadas a la red, esto permite participar en el PoS, al mismo tiempo que mantienen sus monedas fuera de línea para la mayor proteccion&nbsp;posible."
+        text="La seguridad es la prioridad número uno para NavCoin, lo que hace que la prueba de participación en frío sea una importante función dentro de nuestro ecosistema. En lugar de tener todas sus monedas conectadas a la red, Cold Staking permite participar en el PoS, al mismo tiempo que mantienen sus monedas fuera de línea para la mayor proteccion&nbsp;posible."
 
     >}}
     {{< long_text
         titleText="Una red que nunca duerme."
         imgSrc="/images/why-navcoin/why-247.svg"
-        text="Con nodos en todo el mundo, la red NavCoin funciona 24/7. Mientras esten conectado a Internet, pueden enviar y recibir pagos en cualquier lugar del mundo, en cualquier momento del día, sin tiempo de inactividad, lo que lo hace ideal para&nbsp;comercios."
+        text="Con nodos en todo el mundo, la red NavCoin funciona 24/7. Mientras estén conectados a Internet, pueden enviar y recibir pagos en cualquier lugar del mundo, en cualquier momento del día, sin tiempo de inactividad, lo que lo hace ideal para&nbsp;comercios."
 
     >}}
     {{< long_text
@@ -62,7 +66,7 @@ imgSrc="/images/why-navcoin/why-hero.svg"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
 >}}
-NavCoin es una red administrada por su comunidad que se inició en 2014. Al principio usó la Prueba de trabajo (PoW), pero rápidamente hizo el cambio a la Prueba de Participación (PoS). Sin ICO o premine, NavCoin siempre se ha autofinanciado para garantizar una distribución justa y para que todos tengan la oportunidad de involucrarse al&nbsp;proyecto."
+NavCoin es una red administrada por su comunidad que se inició en 2014. Al principio usó la Prueba de trabajo (PoW), pero rápidamente hizo el cambio a la Prueba de Participación (PoS). Sin ICO o preminado, NavCoin siempre se ha autofinanciado para garantizar una distribución justa y para que todos tengan la oportunidad de involucrarse al&nbsp;proyecto."
 {{< /zig_section>}}
 
 {{< item_container_section
@@ -118,10 +122,9 @@ NavCoin es una red administrada por su comunidad que se inició en 2014. Al prin
         text="El Fondo Comunitario de NavCoin permite a los contribuyentes recibir un pago de la red por sus&nbsp;esfuerzos."
     >}}
     {{< feature                 
-        titleText="Miembro de la  &#34;Alianza de la Prueba de Participacion &#34;"
-
+        titleText="Miembro de la Alianza de la Prueba de Participacion"
         imgSrc="/images/why-navcoin/why-pos-alliance.svg"
-        text="Este grupo tiene como objetivo mejorar en forma colaborativa el protocolo de la Prueba de Participación (PoS). Incluye proyectos como PivX, Blakcoin, Paticl y&nbsp;otrosW."
+        text="Este grupo tiene como objetivo mejorar en forma colaborativa el protocolo de la Prueba de Participación (PoS). Incluye proyectos como PivX, Blakcoin, Particl y&nbsp;otros."
     >}}
     {{< feature                 
         titleText="Desarrollo e investigación activos"
