@@ -1,4 +1,4 @@
-<div class="zig-section {{ if eq (.Get "bgPurple") "true" }} bg-purple {{ end }}">
+<div class="zig-section {{ if eq (.Get "bgPurple") "true" }} bg-purple {{ end }}" id="{{ .Get "cssId" }}">
   <div class="zig-container {{ if eq (.Get "reversed") "true" }} reversed {{ end }}" >
     <img src="{{ .Get "imgSrc" }}" class="zig-img">
     <div class="text-section-container">

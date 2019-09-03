@@ -1,4 +1,4 @@
----
+﻿---
 title: "For Individuals"
 date: 2018-03-20T08:09:08+13:00
 draft: false
@@ -7,63 +7,63 @@ author: ""
 description: ""
 ---
 {{< hero_section
-titleText="Benvenuto in NavCoin"
+titleText="Benvenuto a NavCoin"
 paragraphText="Se non conosci ancora questo progetto e non sai da dove partire, segui questi semplici passaggi per&nbsp;cominciare."
 imgSrc="/images/for-beginners/beg-hero.svg"
 >}}
 {{< step_container_section 
-    titleText="Inizia"
+    titleText="Iniziare"
     subtitleText=""
 >}}
   {{< step 
-      titleText="Step 1: Conosci NavCoin"
+      titleText="Passo 1: Conosci NavCoin"
       imgSrc="/images/for-beginners/beg-learn.svg"
-      text=" NavCoin; una criptovaluta accessibile, veloce ed eco-friendly. Sin dal 2014, un intero ecosistema è stato sviluppato attorno NavCoin, da wallet per mobile facili da usare e sistemi di pagamento privati e semplificati. Tutto questo creato e mantenuto da una community internazionale molto attiva priva di un autorità centrale o&nbsp;governativa."
+      text=" NavCoin; una criptovaluta accessibile, veloce ed eco-friendly. Sin dal 2014, un intero ecosistema è stato sviluppato attorno NavCoin, da portafogli mobili facili da usare e sistemi di pagamento privati e semplificati. Tutto questo creato e mantenuto da una comunità internazionale molto attiva priva di un autorità centrale o&nbsp;governativa."
       buttonText="Leggi di più"
       buttonUrl="/why-navcoin"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
   >}}
   {{< step 
-      titleText="Step 2: Scegli il tuo wallet"
-      imgSrc="/images/for-beginners/beg-wallets.svg"
-      text="Utilizzare il tuo wallet è la modalità principale con cui interagire con le tue valute digitali. E' lo strumento che utilizzi per inviare e ricevere NAV. Ci sono differenti tipi di wallet - la versione ‘full’ che ti da un controllo totale e ti permette di partecipare allo staking del network di NavCoin, oppure la versione ‘leggera’ che è più semplice da&nbsp;usare."
-      buttonText="Wallets"
+      titleText="Passo 2: Scegli il tuo portafoglio"
+      imgSrc="/images/for-beginners/beg-Portafogli.svg"
+      text="Utilizzare il tuo portafoglio è la modalità principale con cui interagire con le tue valute digitali. E' lo strumento che utilizzi per inviare e ricevere NAV. Ci sono differenti tipi di portafogli - la versione ‘piena’ che ti da un controllo totale e ti permette di partecipare allo staking del rete di NavCoin, oppure la versione ‘leggera’ che è più semplice da&nbsp;usare."
+      buttonText="Portafogli"
       buttonUrl="/wallets"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
   >}}
   {{< step
-      titleText="Step 3: Acquista NAV"
+      titleText="Passo 3: Acquista NAV"
       imgSrc="/images/for-beginners/beg-get-nav.svg"
-      text="Dopo aver scelto il tuo wallet, ci sono pochi modi con i quali possedere NAV, il più veloce è attraverso un exchange di criptovalute. Essenzialmente potrai inviare BTC all'exchange e convertirli in NAV. Puoi trovare NAV in diversi exchange molto noti come Binance, Bittrex e&nbsp;Poloniex."
+      text="Dopo aver scelto il tuo portafoglio, ci sono alcuni modi con i quali possedere NAV, il più veloce è attraverso un exchange di criptovalute. Essenzialmente potrai inviare BTC allo scambio e convertirli in NAV. Puoi trovare NAV in scambi diversi molto noti come Binance, Bittrex e&nbsp;Poloniex."
       buttonText="Acquista NavCoin"
       buttonUrl="/buy-navcoin"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
   >}}
   {{< step
-      titleText="Step 4: Rendi sicuro il network"
+      titleText="Passo 4: Rendi sicuro il rete"
       imgSrc="/images/for-beginners/beg-secure-network.svg"
-      text="Se stai utilizzando la versione Core del wallet NavCoin, hai la possibilità di ativare lo staking delle tue monete e ricevere una ricompensa pari al 4% all'anno. Ci sono diversi strumenti per rendere lo staking semplice ed esistono molte informazioni create dalla community che possono aiutarti a&nbsp;cominciare."
+      text="Se stai utilizzando la versione Core del portafoglio NavCoin, hai la possibilità di attivare lo staking delle tue monete e ricevere una ricompensa pari al 8-10% all'anno. Ci sono diversi strumenti per rendere lo staking semplice ed esistono molte informazioni create dalla comunità che possono aiutarti a&nbsp;cominciare."
   >}}
   {{< step
-      titleText="Step 5: Spendere NavCoin"
+      titleText="Passo 5: Spendere NavCoin"
       imgSrc="/images/for-beginners/beg-spend.svg"
-      text="Puoi utilizzare i tuoi NavCoin per acquistare ogni sorta di oggetto o servizio, online ed in negozi fisici. Guarda i commercianti che accettano NAV come opzione di pagamento e dimostragli il tuo&nbsp;supporto."
-      buttonText="Merchants"
+      text="Puoi utilizzare i tuoi NavCoin per acquistare ogni sorta di oggetti o servizio, online ed in negozi fisici. Guarda i commercianti che accettano NAV come opzione di pagamento e mostra il tuo&nbsp;supporto."
+      buttonText="Mercanti"
       buttonUrl="/merchants"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
   >}}
   {{< step
-      titleText="Step 6: PArtecipa ai progetti NavCoin"
+      titleText="Passo 6: Partecipa ai progetti NavCoin"
       imgSrc="/images/for-beginners/beg-get-involved.svg"
-      text="NavCoin non è solo una criptovauta - è una communiti che crede fermamente in una nuova visione monetaria. La comunity è forte tanto quanto sono forti i suoi membri. Attraverso il Community Fund puoi essere ricompensato per la partecipazione nei progetti di NavCoin. Unisciti ai canali della community ed inizia a&nbsp;partecipare."
-      buttonText="Community Fund"
+      text="NavCoin non è solo una criptovauta - è una comunità che crede fermamente in una nuova visione monetaria. E una comunità è forte solo come gli individui che vi contribuiscono. Attraverso il Fondo Comunitario puoi essere ricompensato per la partecipazione nei progetti di NavCoin. Unisciti ai canali della comunità ed inizia a&nbsp;partecipare."
+      buttonText="Fondo Comunitario"
       buttonUrl="/community-fund"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
   >}}
 {{< /step_container_section >}}
 
 {{< social_grid_section 
-    titleText="Unisciti alla nostra community"
+    titleText="Unisciti alla nostra comunità"
     subtitleText=""
     bgPurple="true"
 >}}

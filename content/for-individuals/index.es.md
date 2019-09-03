@@ -20,15 +20,15 @@ imgSrc="/images/for-beginners/beg-hero.svg"
   {{< step 
       titleText="Paso 1: Aprender sobre NavCoin"
       imgSrc="/images/for-beginners/beg-learn.svg"
-      text=" NavCoin; es una criptomoneda en circulación desde 2014, con un ecosistema construido alrededor de ella. Es de poco costo de mantención debido a su concenso de prueba de participacion, es considerada de las ecologicas y sustentables ya que el gasto de energia para mantener la red es despreciable. La privacidad de los usuarios y los pagos rápidos es lo que nos motiva. Nav posee monederos móbiles y seguros siendo mantenida y desarrollada por una comunidad internacional sin autoridad central de&nbsp;gobierno"
+      text=" NavCoin es una criptomoneda en circulación desde 2014, con un ecosistema construido alrededor de ella. Es de poco costo de mantención debido a su concenso de prueba de participacion, es considerada de las ecologicas y sustentables ya que el gasto de energia para mantener la red es despreciable. La privacidad de los usuarios y los pagos rápidos es lo que nos motiva. Nav posee monederos móbiles y seguros siendo mantenida y desarrollada por una comunidad internacional sin autoridad central de&nbsp;gobierno."
       buttonText="Más información"
-      buttonUrl="/porqué-navcoin"
+      buttonUrl="/why-navcoin"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
   >}}
   {{< step 
       titleText="Paso 2: Elegir el monedero"
       imgSrc="/images/for-beginners/beg-wallets.svg"
-      text="Your wallet is the main way to interact with your digital coins, and is what you use to send & receive NAV. There are different types of wallets - from ‘full’ wallets that give you complete control and allow you to participate in the NavCoin network, to ‘thin’ wallets that are easier to&nbsp;use."
+      text="El monedero es el principal actor para interactuar con sus monedas digitales, y es lo que usa para enviar y recibir NAV. Hay diferentes tipos de monederos: desde los &#34;completos&#34; que le dan un control total y le permiten participar en la red NavCoin, hasta carteras &#34;delgadas&#34; que son más fáciles de&nbsp;usar."
       buttonText="Wallets"
       buttonUrl="/wallets"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -44,7 +44,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
   {{< step
       titleText="Paso 4: Asegurar la red"
       imgSrc="/images/for-beginners/beg-secure-network.svg"
-      text="Si estás corriendo el monedero NavCoin Core, tienes la opción de generar bloques y ganar desde un 4% por año en recompensas por la prueba de&nbsp;participación."
+      text="Si estás corriendo el monedero NavCoin Core, tienes la opción de generar bloques y ganar hasta un 10% por año en recompensas por la prueba de&nbsp;participación."
   >}}
   {{< step
       titleText="Paso 5: Usar NavCoins"
