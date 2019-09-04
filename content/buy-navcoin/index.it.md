@@ -229,6 +229,12 @@ newTab="true"
         text="Valuta multipla / NAV"
         linkUrl="https://instaswap.io/"
     >}}
+    {{< exchange
+        titleText="$WAP4.ME"
+        imgSrc="/images/buy-navcoin/swap4me.png"
+        text="Valuta multipla / NAV"
+        linkUrl="https://swap4.me/"
+    >}}
 {{< /item_container_section >}}
 
 {{< center_text_cta

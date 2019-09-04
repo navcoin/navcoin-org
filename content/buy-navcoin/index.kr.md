@@ -229,6 +229,12 @@ newTab="true"
         text="복수 통화 / NAV"
         linkUrl="https://instaswap.io/"
     >}}
+    {{< exchange
+        titleText="$WAP4.ME"
+        imgSrc="/images/buy-navcoin/swap4me.png"
+        text="복수 통화 / NAV"
+        linkUrl="https://swap4.me/"
+    >}}
 {{< /item_container_section >}}
 
 

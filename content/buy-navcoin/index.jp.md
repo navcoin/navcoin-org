@@ -229,6 +229,12 @@ newTab="true"
         text="フィアット / NAV"
         linkUrl="https://instaswap.io/"
     >}}
+    {{< exchange
+        titleText="$WAP4.ME"
+        imgSrc="/images/buy-navcoin/swap4me.png"
+        text="フィアット / NAV"
+        linkUrl="https://swap4.me/"
+    >}}
 {{< /item_container_section >}}
 
 
