@@ -7,7 +7,7 @@ feature_image: /images/uploads/navcoin-core-4.7.0.png
 notice_categories:
   - General Notices
 ---
-Purple Zebra is the culmination of the last few months of work on NavCoin Core and includes 40 closed pull requests, many new features and important security updates & stability fixes. It is recommended that you upgrade to Purple Zebra immediately, especially if you are staking.
+Purple Zebra is the culmination of the last few months of work on NavCoin Core and includes 40 closed pull requests, many new features and important security updates & stability fixes. Due to the security patches, upgrading to Purple Zebra should be considered mandatory and performed as soon as possible, especially if you are staking.
 <!--more-->
 
 
