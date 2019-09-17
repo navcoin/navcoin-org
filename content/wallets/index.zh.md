@@ -130,7 +130,7 @@ newTab="正确的"
         imgSrc="/images/wallets/wal-windows.svg"
         subtext=""
         linkText="下载"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.7.0/navcoin-4.7.0-win64-setup.exe"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.7.0/navcoin-4.7.0-win64-unsigned-setup.exe"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action
@@ -138,7 +138,7 @@ newTab="正确的"
         imgSrc="/images/wallets/wal-mac.svg"
         subtext=""
         linkText="下载"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.7.0/navcoin-4.7.0-osx.dmg"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.7.0/navcoin-4.7.0-osx-unsigned.dmg"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action                 
