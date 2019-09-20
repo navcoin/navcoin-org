@@ -164,6 +164,12 @@ newTab="true"
         text="Мода для футуристов. Широкий выбор фирменных товаров."
         linkUrl="https://blockchashion.com/"
     >}}
+    {{< merchant
+        titleText="TorGuard"
+        imgSrc="/images/merchants/torguard-logo.png"
+        text="Защитите вашу конфиденциальность с помощью анонимного VPN."
+        linkUrl="https://torguard.net"
+    >}}
 
 {{< /item_container_section >}}
 

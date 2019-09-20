@@ -235,6 +235,12 @@ newTab="true"
         text="Valuta multipla / NAV"
         linkUrl="https://swap4.me/"
     >}}
+    {{< exchange
+        titleText="Exscudo"
+        imgSrc="/images/buy-navcoin/buy-exscudo.png"
+        text="Valuta multipla / NAV"
+        linkUrl="https://exscudo.com"
+    >}}
 {{< /item_container_section >}}
 
 {{< center_text_cta

@@ -165,6 +165,12 @@ newTab="true"
         text="Fashion for Futurists. A wide selection of branded merchandise."
         linkUrl="https://blockchashion.com/"
     >}}
+    {{< merchant
+        titleText="TorGuard"
+        imgSrc="/images/merchants/torguard-logo.png"
+        text="Protect your privacy with Anonymous VPN."
+        linkUrl="https://torguard.net"
+    >}}
 
 {{< /item_container_section >}}
 

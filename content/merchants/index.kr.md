@@ -163,6 +163,12 @@ newTab="true"
         text="미래 학자를위한 패션. 다양한 브랜드 상품.<br>&nbsp;"
         linkUrl="https://blockchashion.com/"
     >}}
+    {{< merchant
+        titleText="TorGuard"
+        imgSrc="/images/merchants/torguard-logo.png"
+        text="익명 VPN으로 개인 정보를 보호하십시오."
+        linkUrl="https://torguard.net"
+    >}}
    
 {{< /item_container_section >}}
 

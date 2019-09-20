@@ -235,6 +235,12 @@ newTab="true"
         text="복수 통화 / NAV"
         linkUrl="https://swap4.me/"
     >}}
+    {{< exchange
+        titleText="Exscudo"
+        imgSrc="/images/buy-navcoin/buy-exscudo.png"
+        text="복수 통화 / NAV"
+        linkUrl="https://exscudo.com"
+    >}}
 {{< /item_container_section >}}
 
 
