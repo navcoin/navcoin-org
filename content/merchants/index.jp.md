@@ -164,6 +164,12 @@ newTab="true"
         text="未来派のためのファッション。 ブランド品の幅広い選択。"
         linkUrl="https://blockchashion.com/"
     >}}
+    {{< merchant
+        titleText="TorGuard"
+        imgSrc="/images/merchants/torguard-logo.png"
+        text="匿名VPNでプライバシーを保護します。"
+        linkUrl="https://torguard.net"
+    >}}
 
 {{< /item_container_section >}}
 

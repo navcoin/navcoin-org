@@ -164,6 +164,12 @@ newTab="true"
         text="未来主义者的时尚。 各种品牌商品。"
         linkUrl="https://blockchashion.com/"
     >}}
+    {{< merchant
+        titleText="TorGuard"
+        imgSrc="/images/merchants/torguard-logo.png"
+        text="使用匿名VPN保护您的隐私。"
+        linkUrl="https://torguard.net"
+    >}}
 
 {{< /item_container_section >}}
 

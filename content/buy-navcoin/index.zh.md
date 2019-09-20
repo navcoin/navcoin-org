@@ -229,6 +229,18 @@ newTab="正确的"
         text="多币种 / NAV"
         linkUrl="https://instaswap.io/"
     >}}
+    {{< exchange
+        titleText="$WAP4.ME"
+        imgSrc="/images/buy-navcoin/swap4me.png"
+        text="多币种 / NAV"
+        linkUrl="https://swap4.me/"
+    >}}
+    {{< exchange
+        titleText="Exscudo"
+        imgSrc="/images/buy-navcoin/buy-exscudo.png"
+        text="多币种 / NAV"
+        linkUrl="https://exscudo.com"
+    >}}
 
 {{< /item_container_section >}}
 
