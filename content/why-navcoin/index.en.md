@@ -12,7 +12,7 @@ paragraphText="NavCoin is an open-source, blockchain based Proof of Stake crypto
 imgSrc="/images/why-navcoin/why-hero.svg"
 buttonText="Project Overview"
 buttonImgSrc="/images/icons/downward-arrow.svg"
-buttonLink="/assets/NavCoinOverview_July2019.pdf"
+buttonLink="/assets/NavCoinOverview_September2019.pdf"
 newTab="true"
 >}}
 

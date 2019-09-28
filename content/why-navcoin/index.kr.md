@@ -12,7 +12,7 @@ paragraphText="Nav코인은 오픈 소스 블록체인 기반의 스테이크 �
 imgSrc="/images/why-navcoin/why-hero.svg"
 buttonText="프로젝트 개요"
 buttonImgSrc="/images/icons/downward-arrow.svg"
-buttonLink="/assets/NavCoinOverview_July2019.pdf"
+buttonLink="/assets/NavCoinOverview_September2019.pdf"
 newTab="true"
 >}}
 

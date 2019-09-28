@@ -12,7 +12,7 @@ paragraphText="NavCoin - это основанная на блокчейне к�
 imgSrc="/images/why-navcoin/why-hero.svg"
 buttonText="Обзор проекта"
 buttonImgSrc="/images/icons/downward-arrow.svg"
-buttonLink="/assets/NavCoinOverview_July2019.pdf"
+buttonLink="/assets/NavCoinOverview_September2019.pdf"
 newTab="true"
 >}}
 
