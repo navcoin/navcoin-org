@@ -12,7 +12,7 @@ paragraphText="NavCoin是一个开源的，基于股权证明的区块链加密�
 imgSrc="/images/why-navcoin/why-hero.svg"
 buttonText="项目概况"
 buttonImgSrc="/images/icons/downward-arrow.svg"
-buttonLink="/assets/NavCoinOverview_July2019.pdf"
+buttonLink="/assets/NavCoinOverview_September2019.pdf"
 newTab="true"
 >}}
 

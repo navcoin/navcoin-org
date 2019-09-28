@@ -12,7 +12,7 @@ paragraphText="NavCoin è una criptovaluta Proof of Stake basata su blockchain e
 imgSrc="/images/why-navcoin/why-hero.svg"
 buttonText="Panoramica del progetto"
 buttonImgSrc="/images/icons/downward-arrow.svg"
-buttonLink="/assets/NavCoinOverview_July2019.pdf"
+buttonLink="/assets/NavCoinOverview_September2019.pdf"
 newTab="true"
 >}}
 
