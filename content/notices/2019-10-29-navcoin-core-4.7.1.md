@@ -8,7 +8,7 @@ notice_categories:
   - General Notices
   - Patch Release
 ---
-This patch fixes a bug where a cfund database entry that was previously deleted is still persisting, preventing future writes of the entry. This can happen in a scenario where a proposal is included in a block which is invalidated (because of a reorganization)> which is then included in a new block as part of the new longest chain.
+This patch fixes a bug where a cfund database entry that was previously deleted is still persisting, preventing future writes of the entry. This can happen in a scenario where a proposal is included in a block which is invalidated (because of a reorganization) which is then included in a new block as part of the new longest chain.
 <!--more-->
 This fix is the main purpose of the 4.7.1 patch release, while preparing this bugfix there were several other PR's merged which are also included in this release.
 
