@@ -167,8 +167,14 @@ newTab="true"
     {{< merchant
         titleText="TorGuard"
         imgSrc="/images/merchants/torguard-logo.png"
-        text="匿名VPNでプライバシーを保護します。"
+        text="匿名VPNでプライバシーを保護します。<br>&nbsp"
         linkUrl="https://torguard.net"
+    >}}
+    {{< merchant
+        titleText="CoinRequest"
+        imgSrc="/images/merchants/coinrequest_400x400.jpg"
+        text="ワンクリック支払いのための暗号請求/要求プラットフォーム。"
+        linkUrl="https://coinrequest.io"
     >}}
 
 {{< /item_container_section >}}

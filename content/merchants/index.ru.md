@@ -170,6 +170,12 @@ newTab="true"
         text="Защитите вашу конфиденциальность с помощью анонимного VPN."
         linkUrl="https://torguard.net"
     >}}
+    {{< merchant
+        titleText="CoinRequest"
+        imgSrc="/images/merchants/coinrequest_400x400.jpg"
+        text="Платформа для крипто-выставления счетов / запросов на оплату одним кликом."
+        linkUrl="https://coinrequest.io"
+    >}}
 
 {{< /item_container_section >}}
 
