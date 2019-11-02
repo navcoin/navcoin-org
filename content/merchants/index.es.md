@@ -169,8 +169,14 @@ newTab="true"
     {{< merchant
         titleText="TorGuard"
         imgSrc="/images/merchants/torguard-logo.png"
-        text="Proteja su privacidad con VPN anónima."
+        text="Proteja su privacidad con VPN anónima.<br>&nbsp"
         linkUrl="https://torguard.net"
+    >}}
+    {{< merchant
+        titleText="CoinRequest"
+        imgSrc="/images/merchants/coinrequest_400x400.jpg"
+        text="Plataforma de facturación / solicitud de cifrado para pagos con un clic."
+        linkUrl="https://coinrequest.io"
     >}}
 {{< /item_container_section >}}
 

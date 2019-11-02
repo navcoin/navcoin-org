@@ -79,7 +79,7 @@ newTab="true"
         text="15개 이상의 국가에 20개 이상의 세계적 수준의 서버&nbsp;센터."
         linkUrl="https://1gbits.com/"
     >}}
-{{< merchant
+    {{< merchant
         titleText="Domains-Index"
         imgSrc="/images/merchants/mer-domains-index.png"
         text="비즈니스 요구 사항에 따라 정기적으로 업데이트되는 도메인 이름 데이터베이스."
@@ -168,6 +168,12 @@ newTab="true"
         imgSrc="/images/merchants/torguard-logo.png"
         text="익명 VPN으로 개인 정보를 보호하십시오."
         linkUrl="https://torguard.net"
+    >}}
+    {{< merchant
+        titleText="CoinRequest"
+        imgSrc="/images/merchants/coinrequest_400x400.jpg"
+        text="한 번의 클릭 지불을위한 암호화 송장 / 요청 플랫폼."
+        linkUrl="https://coinrequest.io"
     >}}
    
 {{< /item_container_section >}}

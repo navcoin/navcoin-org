@@ -161,7 +161,7 @@ newTab="true"
     {{< merchant
         titleText="Blockchashion"
         imgSrc="/images/merchants/blockchashion_400x117.png"
-        text="未来主义者的时尚。 各种品牌商品。"
+        text="未来主义者的时尚。 各种品牌商品。<br>&nbsp"
         linkUrl="https://blockchashion.com/"
     >}}
     {{< merchant
@@ -169,6 +169,12 @@ newTab="true"
         imgSrc="/images/merchants/torguard-logo.png"
         text="使用匿名VPN保护您的隐私。"
         linkUrl="https://torguard.net"
+    >}}
+    {{< merchant
+        titleText="CoinRequest"
+        imgSrc="/images/merchants/coinrequest_400x400.jpg"
+        text="一键付款的加密发票/请求平台。"
+        linkUrl="https://coinrequest.io"
     >}}
 
 {{< /item_container_section >}}
