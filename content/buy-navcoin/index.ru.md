@@ -140,12 +140,6 @@ newTab="подлинный"
         linkUrl="https://www.altilly.com/asset/NAV"
     >}}
     {{< exchange
-        titleText="Nova Exchange"
-        imgSrc="/images/buy-navcoin/nova_exchange.jpg"
-        text="BTC + ETH / NAV"
-        linkUrl="https://novaexchange.com/market/BTC_NAV/"
-    >}}
-    {{< exchange
         titleText="Coinmerce"
         imgSrc="/images/buy-navcoin/coinmerce.jpg"
         text="EUR / NAV"
