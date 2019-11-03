@@ -93,16 +93,6 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
-        titleText="NavCoin M8"
-        walletImgSrc="/images/wallets/wal-m8.png"
-        text="DIYオプションを持つ NEXT ウォレットを含む、ハイパワーのNavCoinステーキングウォレット&nbsp;です。"
-        buttonUrl="https://navcoinm8.com/"
-        buttonText="より詳しく知る"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg1Src="/images/platforms/linux.png"
-        newTab="true"
-    >}}
-    {{< wallet
         titleText="NavPaper"
         walletImgSrc="/images/wallets/wal-paper.png"
         text="キーを印刷して、オフラインで保存・保管する事でセキュリティをさらに&nbsp;UPします。"

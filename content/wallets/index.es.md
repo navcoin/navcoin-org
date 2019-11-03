@@ -23,7 +23,7 @@ newTab="true"
     titleText="Monederos de NavCoin"
     subtitleText="Asegúrense de hacer su propia investigación o busquen ayuda dentro de la&nbsp;comunidad."
     >}}
-{{< wallet
+    {{< wallet
         titleText="NavCoin Core"
         walletImgSrc="/images/wallets/wal-core.png"
         text="El monedero NavCoin Core es un cliente completo de NavCoin que permite a los usuarios participar prueba de participación (PoS) y así generar ganancias en NAV. Esta es la implementación oficial publicada por NavCoin&nbsp;Core."
@@ -34,7 +34,7 @@ newTab="true"
         platformImg2Src="/images/platforms/windows.png"
         platformImg3Src="/images/platforms/linux.png"
     >}}
-{{< wallet
+    {{< wallet
         titleText="NavPay"
         walletImgSrc="/images/wallets/wal-navpay.png"
         text="NavPay es un monedero ligero fácil de usar que le permite almacenar su NAV de forma segura. Está disponible para computadoras de escritorio y dispositivos móviles, y no ocupa gigabytes de almacenamiento.<br>&nbsp;"
@@ -49,7 +49,7 @@ newTab="true"
         platformImg6Src="/images/platforms/web.png"
         newTab="true"
     >}}
-{{< wallet
+    {{< wallet
         titleText="NEXT"
         walletImgSrc="/images/wallets/wal-next.png"
         text="Un moderno y elegante monedero de última generación para NavCoin. Además de participar en el PoS, NEXT ofrece una interfaz simple para crear y votar propuestas de fondos comunitarios.<br>&nbsp;"
@@ -62,7 +62,7 @@ newTab="true"
         platformImg4Src="/images/platforms/linux.png"
         newTab="true"
     >}}
-{{< wallet
+    {{< wallet
         titleText="Magnum Wallet"
         walletImgSrc="/images/wallets/MagnumWallet_400x400.jpg"
         text="Billetera no custodial ligera y universal para administrar más de 1000 activos&nbsp;criptográficos."
@@ -72,7 +72,7 @@ newTab="true"
         platformImg6Src="/images/platforms/web.png"
         newTab="true"
     >}}
-{{< wallet
+    {{< wallet
         titleText="Coinomi"
         walletImgSrc="/images/wallets/wal-coinomi.png"
         text="Coinomi es un monedero con multiples activos para Bitcoin, Altcoins y&nbsp;Tokens."
@@ -83,7 +83,7 @@ newTab="true"
         platformImg2Src="/images/platforms/android.png"
         newTab="true"
     >}}
-{{< wallet
+    {{< wallet
         titleText="NavPi StakeBox"
         walletImgSrc="/images/wallets/wal-pi.png"
         text="Un monedero completo NavCoin de bajo consumo de energía basada en la plataforma&nbsp;Raspberry-Pi."
@@ -93,17 +93,7 @@ newTab="true"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         newTab="true"
     >}}
-{{< wallet
-        titleText="NavCoin M8"
-        walletImgSrc="/images/wallets/wal-m8.png"
-        text="Un monedero de NavCoin de alta potencia que incluye&nbsp;NEXT."
-        buttonUrl="https://navcoinm8.com/"
-        buttonText="Más información"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg1Src="/images/platforms/linux.png"
-        newTab="true"
-    >}}
-{{< wallet
+    {{< wallet
         titleText="NavPaper"
         walletImgSrc="/images/wallets/wal-paper.png"
         text="Generar claves privadas para imprimir y almacenar fuera de línea para obtener una mayor&nbsp;seguridad."

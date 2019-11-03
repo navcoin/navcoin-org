@@ -93,16 +93,6 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
-        titleText="NavCoin M8"
-        walletImgSrc="/images/wallets/wal-m8.png"
-        text="A high-powered NavCoin staking wallet including NEXT Wallet with DIY&nbsp;options."
-        buttonUrl="https://navcoinm8.com/"
-        buttonText="Learn More"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg1Src="/images/platforms/linux.png"
-        newTab="true"
-    >}}
-    {{< wallet
         titleText="NavPaper"
         walletImgSrc="/images/wallets/wal-paper.png"
         text="Generate keys to be printed and stored offline for additional&nbsp;security."

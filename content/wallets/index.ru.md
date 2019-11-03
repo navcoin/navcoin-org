@@ -93,16 +93,6 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
-        titleText="NavCoin M8"
-        walletImgSrc="/images/wallets/wal-m8.png"
-        text="Мощный кошелек NavCoin для стекинга, включающий Кошелек NEXT с опциями DIY&nbsp;(сделай сам)."
-        buttonUrl="https://navcoinm8.com/"
-        buttonText="Узнать подробнее"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg1Src="/images/platforms/linux.png"
-        newTab="true"
-    >}}
-    {{< wallet
         titleText="NavPaper"
         walletImgSrc="/images/wallets/wal-paper.png"
         text="Генерация ключей для печати и хранения в автономном режиме для дополнительной&nbsp;безопасности."

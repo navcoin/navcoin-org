@@ -93,16 +93,6 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
-        titleText="Nav코인 M8"
-        walletImgSrc="/images/wallets/wal-m8.png"
-        text="NEXT Wallet with DIY 옵션을 포함한 고성능 Nav코인 고정&nbsp;지갑입니다.."
-        buttonUrl="https://navcoinm8.com/"
-        buttonText="더 알아보기"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg1Src="/images/platforms/linux.png"
-        newTab="true"
-    >}}
-    {{< wallet
         titleText="NavPaper"
         walletImgSrc="/images/wallets/wal-paper.png"
         text="추가 보안을 위해 인쇄하여 오프라인으로 저장할 키를&nbsp;생성합니다.."

@@ -93,16 +93,6 @@ newTab="正确的"
         newTab="正确的"
     >}}
     {{< wallet
-        titleText="NavCoin M8"
-        walletImgSrc="/images/wallets/wal-m8.png"
-        text="一个高性能的NavCoin加注钱包，包括 NEXT钱包与diy&c选项。"
-        buttonUrl="https://navcoinm8.com/"
-        buttonText="了解更多"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg1Src="/images/platforms/linux.png"
-        newTab="正确的"
-    >}}
-    {{< wallet
         titleText="NavPaper"
         walletImgSrc="/images/wallets/wal-paper.png"
         text="生成要打印和存储的密钥以提高安全性。"

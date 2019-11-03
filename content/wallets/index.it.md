@@ -93,16 +93,6 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
-        titleText="NavCoin M8"
-        walletImgSrc="/images/wallets/wal-m8.png"
-        text="Un portafoglio di picchettamento NavCoin ad alta potenza incluso NEXT Wallet con opzioni&nbsp;fai-da-te."
-        buttonUrl="https://navcoinm8.com/"
-        buttonText="Maggiori informazioni"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg1Src="/images/platforms/linux.png"
-        newTab="true"
-    >}}
-    {{< wallet
         titleText="NavPaper"
         walletImgSrc="/images/wallets/wal-paper.png"
         text="Genera chiavi da stampare e archiviare offline per sicurezza aggiuntivo."
