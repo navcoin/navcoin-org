@@ -47,6 +47,14 @@ enableRobotsTXT = true
         title = "NavCoin - Una criptovaluta facile da utilizzare "
         weight = 8
         languageName = "Italian"
+    [Languages.sk]
+        title = "NavCoin - Decentralizovaná kryptomena s jednoduchým použitím"
+        weight = 9
+        languageName = "Slovenčina"
+    [Languages.cz]
+        title = "NavCoin - Decentralizovaná kryptoměna se snadným použitím"
+        weight = 10
+        languageName = "Čeština"
 
 
 
@@ -774,7 +782,7 @@ enableRobotsTXT = true
     weight = 50
     identifier = "wallets"
     url = "/wallets/"
-    
+
     # Main Menu Italian
 
 [[Languages.it.menu.main]]
@@ -891,6 +899,248 @@ enableRobotsTXT = true
 [[Languages.it.menu.main]]
     name = "Portafogli"
     title = "Portafogli"
+    weight = 50
+    identifier = "wallets"
+    url = "/wallets/"
+
+
+# Main Menu Slovak
+
+[[Languages.sk.menu.main]]
+    name = "Na úvod"
+    title = "Na úvod"
+    weight = 10
+    identifier = "get-started"
+    depth = 1
+    [[Languages.sk.menu.main]]
+        name = "Prečo NavCoin"
+        title = "Prečo NavCoin"
+        weight = 20
+        url = "/why-navcoin/"
+        identifier = "why-navcoin"
+        parent = "get-started"
+    [[Languages.sk.menu.main]]
+        name = "Spravovanie"
+        title = "Spravovanie"
+        weight = 30
+        url = "/governance/"
+        identifier = "governance"
+        parent = "get-started"
+    [[Languages.sk.menu.main]]
+        name = "Pre jednotlivcov"
+        title = "Pre jednotlivcov"
+        weight = 40
+        url = "/for-individuals/"
+        identifier = "for-individuals"
+        parent = "get-started"
+    [[Languages.sk.menu.main]]
+        name = "Pre vývojárov"
+        title = "Pre vývojárov"
+        weight = 50
+        identifier = "for-developers"
+        url = "/for-developers/"
+        parent="get-started"
+    [[Languages.sk.menu.main]]
+        name = "Pre obchodníkov"
+        title = "Pre obchodníkov"
+        weight = 60
+        identifier = "for-business"
+        url = "/for-business/"
+        parent="get-started"
+    [[Languages.sk.menu.main]]
+        name = "Kúpiť NavCoin"
+        title = "Kúpiť NavCoin"
+        weight = 70
+        url = "/buy-navcoin/"
+        identifier = "buy-navcoin"
+        parent = "get-started"
+
+[[Languages.sk.menu.main]]
+    name = "Preskúmať"
+    title = "Preskúmať"
+    weight = 20
+    identifier = "explore"
+    [[Languages.sk.menu.main]]
+        name = "Aktivity projektu"
+        title = "Aktivity projektu"
+        weight = 20
+        url = "/project-activity/"
+        identifier = "project-activity"
+        parent = "explore"
+    [[Languages.sk.menu.main]]
+        name = "Block Explorer"
+        title = "Block Explorer"
+        weight = 30
+        url = "https://navexplorer.com"
+        identifier = "block-explorer"
+        parent = "explore"
+    [[Languages.sk.menu.main]]
+        name = "NavHub"
+        title = "NavHub"
+        weight = 40
+        url = "https://navhub.org"
+        identifier = "navhub"
+        parent = "explore"
+    [[Languages.sk.menu.main]]
+        name = "Obchody"
+        title = "Obchody"
+        weight = 50
+        url = "/merchants/"
+        identifier = "merchants"
+        parent = "explore"
+    [[Languages.sk.menu.main]]
+        name = "Zapojte sa"
+        title = "Zapojte sa"
+        weight = 60
+        url = "/get-involved/"
+        identifier = "get-involved"
+        parent = "explore"
+
+[[Languages.sk.menu.main]]
+    name = "Novinky"
+    title = "Novinky"
+    url="/notices/"
+    weight = 30
+    identifier = "news"
+
+[[Languages.sk.menu.main]]
+    name = "Komunitný fond"
+    title = "Komunitný fond"
+    weight = 40
+    identifier = "community-fund"
+    url = "/community-fund/"
+
+[[Languages.sk.menu.main]]
+    name = "Odmeňovanie"
+    title = "Odmeňovanie"
+    weight = 45
+    identifier = "bounties"
+    url = "/bounties/"
+
+[[Languages.sk.menu.main]]
+    name = "Peňaženky"
+    title = "Peňaženky"
+    weight = 50
+    identifier = "wallets"
+    url = "/wallets/"
+
+
+# Main Menu Czech
+
+[[Languages.cz.menu.main]]
+    name = "Úvodem"
+    title = "Úvodem"
+    weight = 10
+    identifier = "get-started"
+    depth = 1
+    [[Languages.cz.menu.main]]
+        name = "Proč NavCoin"
+        title = "Proč NavCoin"
+        weight = 20
+        url = "/why-navcoin/"
+        identifier = "why-navcoin"
+        parent = "get-started"
+    [[Languages.cz.menu.main]]
+        name = "Správa"
+        title = "Správa"
+        weight = 30
+        url = "/governance/"
+        identifier = "governance"
+        parent = "get-started"
+    [[Languages.cz.menu.main]]
+        name = "Pro jednotlivce"
+        title = "Pro jednotlivce"
+        weight = 40
+        url = "/for-individuals/"
+        identifier = "for-individuals"
+        parent = "get-started"
+    [[Languages.cz.menu.main]]
+        name = "Pro vývojáře"
+        title = "Pro vývojáře"
+        weight = 50
+        identifier = "for-developers"
+        url = "/for-developers/"
+        parent="get-started"
+    [[Languages.cz.menu.main]]
+        name = "Pro obchodníky"
+        title = "Pro obchodníky"
+        weight = 60
+        identifier = "for-business"
+        url = "/for-business/"
+        parent="get-started"
+    [[Languages.cz.menu.main]]
+        name = "Koupit NavCoin"
+        title = "Koupit NavCoin"
+        weight = 70
+        url = "/buy-navcoin/"
+        identifier = "buy-navcoin"
+        parent = "get-started"
+
+[[Languages.cz.menu.main]]
+    name = "Prozkoumat"
+    title = "Prozkoumat"
+    weight = 20
+    identifier = "explore"
+    [[Languages.cz.menu.main]]
+        name = "Aktivity projektu"
+        title = "Aktivity projektu"
+        weight = 20
+        url = "/project-activity/"
+        identifier = "project-activity"
+        parent = "explore"
+    [[Languages.cz.menu.main]]
+        name = "Block Explorer"
+        title = "Block Explorer"
+        weight = 30
+        url = "https://navexplorer.com"
+        identifier = "block-explorer"
+        parent = "explore"
+    [[Languages.cz.menu.main]]
+        name = "NavHub"
+        title = "NavHub"
+        weight = 40
+        url = "https://navhub.org"
+        identifier = "navhub"
+        parent = "explore"
+    [[Languages.cz.menu.main]]
+        name = "Obchody"
+        title = "Obchody"
+        weight = 50
+        url = "/merchants/"
+        identifier = "merchants"
+        parent = "explore"
+    [[Languages.cz.menu.main]]
+        name = "Zapojte se"
+        title = "Zapojte se"
+        weight = 60
+        url = "/get-involved/"
+        identifier = "get-involved"
+        parent = "explore"
+
+[[Languages.cz.menu.main]]
+    name = "Novinky"
+    title = "Novinky"
+    url="/notices/"
+    weight = 30
+    identifier = "news"
+
+[[Languages.cz.menu.main]]
+    name = "Komunitní fond"
+    title = "Komunitní fond"
+    weight = 40
+    identifier = "community-fund"
+    url = "/community-fund/"
+
+[[Languages.cz.menu.main]]
+    name = "Odměňování"
+    title = "Odměňování"
+    weight = 45
+    identifier = "bounties"
+    url = "/bounties/"
+
+[[Languages.cz.menu.main]]
+    name = "Peněženky"
+    title = "Peněženky"
     weight = 50
     identifier = "wallets"
     url = "/wallets/"
