@@ -63,7 +63,7 @@ newTab="正确的"
     >}}
     {{< wallet
         titleText="Magnum Wallet"
-        walletImgSrc="/images/wallets/MagnumWallet_400x400.jpg"
+        walletImgSrc="/images/wallets/SVGLogo.svg"
         text="轻便且通用的非保管钱包，用于管理1000多个加密资产。"
         buttonUrl="https://magnumwallet.co/"
         buttonText="更多信息"

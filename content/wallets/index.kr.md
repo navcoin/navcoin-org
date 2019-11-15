@@ -63,7 +63,7 @@ newTab="true"
     >}}
     {{< wallet
         titleText="Magnum Wallet"
-        walletImgSrc="/images/wallets/MagnumWallet_400x400.jpg"
+        walletImgSrc="/images/wallets/SVGLogo.svg"
         text="1000 개가 넘는 암호화 자산을 관리하기위한 가볍고 보편적 인 비 양육권&nbsp;지갑."
         buttonUrl="https://magnumwallet.co/"
         buttonText="추가 정보"

@@ -63,7 +63,7 @@ newTab="true"
     >}}
     {{< wallet
         titleText="Magnum Wallet"
-        walletImgSrc="/images/wallets/MagnumWallet_400x400.jpg"
+        walletImgSrc="/images/wallets/SVGLogo.svg"
         text="Portafoglio non custodito leggero e universale per la gestione di oltre 1000&nbsp;criptovalute."
         buttonUrl="https://magnumwallet.co/"
         buttonText="Maggiori informazioni"

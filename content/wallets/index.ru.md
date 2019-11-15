@@ -63,7 +63,7 @@ newTab="true"
     >}}
     {{< wallet
         titleText="Magnum Wallet"
-        walletImgSrc="/images/wallets/MagnumWallet_400x400.jpg"
+        walletImgSrc="/images/wallets/SVGLogo.svg"
         text="Легкий и универсальный кошелек, не связанный с хранением, для управления более 1000&nbsp;криптоактивами.<br>&nbsp;"
         buttonUrl="https://magnumwallet.co/"
         buttonText="Дополнительная информация"
