@@ -63,7 +63,7 @@ newTab="true"
     >}}
     {{< wallet
         titleText="Magnum Wallet"
-        walletImgSrc="/images/wallets/MagnumWallet_400x400.jpg"
+        walletImgSrc="/images/wallets/SVGLogo.svg"
         text="1000 개가 넘는 암호화 자산을 관리하기위한 가볍고 보편적 인 비 양육권&nbsp;지갑."
         buttonUrl="https://magnumwallet.co/"
         buttonText="추가 정보"
@@ -90,16 +90,6 @@ newTab="true"
         buttonText="다운로드"
         platformImg1Src="/images/platforms/pi.png"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
-        newTab="true"
-    >}}
-    {{< wallet
-        titleText="Nav코인 M8"
-        walletImgSrc="/images/wallets/wal-m8.png"
-        text="NEXT Wallet with DIY 옵션을 포함한 고성능 Nav코인 고정&nbsp;지갑입니다.."
-        buttonUrl="https://navcoinm8.com/"
-        buttonText="더 알아보기"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg1Src="/images/platforms/linux.png"
         newTab="true"
     >}}
     {{< wallet

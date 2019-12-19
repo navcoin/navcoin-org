@@ -63,7 +63,7 @@ newTab="true"
     >}}
     {{< wallet
         titleText="Magnum Wallet"
-        walletImgSrc="/images/wallets/MagnumWallet_400x400.jpg"
+        walletImgSrc="/images/wallets/SVGLogo.svg"
         text="Легкий и универсальный кошелек, не связанный с хранением, для управления более 1000&nbsp;криптоактивами.<br>&nbsp;"
         buttonUrl="https://magnumwallet.co/"
         buttonText="Дополнительная информация"
@@ -90,16 +90,6 @@ newTab="true"
         buttonText="Загрузить"
         platformImg1Src="/images/platforms/pi.png"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
-        newTab="true"
-    >}}
-    {{< wallet
-        titleText="NavCoin M8"
-        walletImgSrc="/images/wallets/wal-m8.png"
-        text="Мощный кошелек NavCoin для стекинга, включающий Кошелек NEXT с опциями DIY&nbsp;(сделай сам)."
-        buttonUrl="https://navcoinm8.com/"
-        buttonText="Узнать подробнее"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg1Src="/images/platforms/linux.png"
         newTab="true"
     >}}
     {{< wallet

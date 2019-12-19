@@ -63,7 +63,7 @@ newTab="true"
     >}}
     {{< wallet
         titleText="Magnum Wallet"
-        walletImgSrc="/images/wallets/MagnumWallet_400x400.jpg"
+        walletImgSrc="/images/wallets/SVGLogo.svg"
         text="Light and universal non-custodial wallet for managing more than 1000 crypto&nbsp;assets."
         buttonUrl="https://magnumwallet.co/"
         buttonText="More Infomation"
@@ -90,16 +90,6 @@ newTab="true"
         buttonText="Download"
         platformImg1Src="/images/platforms/pi.png"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
-        newTab="true"
-    >}}
-    {{< wallet
-        titleText="NavCoin M8"
-        walletImgSrc="/images/wallets/wal-m8.png"
-        text="A high-powered NavCoin staking wallet including NEXT Wallet with DIY&nbsp;options."
-        buttonUrl="https://navcoinm8.com/"
-        buttonText="Learn More"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg1Src="/images/platforms/linux.png"
         newTab="true"
     >}}
     {{< wallet

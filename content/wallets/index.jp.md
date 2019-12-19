@@ -63,7 +63,7 @@ newTab="true"
     >}}
     {{< wallet
         titleText="Magnum Wallet"
-        walletImgSrc="/images/wallets/MagnumWallet_400x400.jpg"
+        walletImgSrc="/images/wallets/SVGLogo.svg"
         text="1000を超える暗号資産を管理するための軽量で普遍的な非保管財布。"
         buttonUrl="https://magnumwallet.co/"
         buttonText="詳しくは"
@@ -90,16 +90,6 @@ newTab="true"
         buttonText="ダウンロード"
         platformImg1Src="/images/platforms/pi.png"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
-        newTab="true"
-    >}}
-    {{< wallet
-        titleText="NavCoin M8"
-        walletImgSrc="/images/wallets/wal-m8.png"
-        text="DIYオプションを持つ NEXT ウォレットを含む、ハイパワーのNavCoinステーキングウォレット&nbsp;です。"
-        buttonUrl="https://navcoinm8.com/"
-        buttonText="より詳しく知る"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg1Src="/images/platforms/linux.png"
         newTab="true"
     >}}
     {{< wallet

@@ -63,7 +63,7 @@ newTab="true"
     >}}
     {{< wallet
         titleText="Magnum Wallet"
-        walletImgSrc="/images/wallets/MagnumWallet_400x400.jpg"
+        walletImgSrc="/images/wallets/SVGLogo.svg"
         text="Portafoglio non custodito leggero e universale per la gestione di oltre 1000&nbsp;criptovalute."
         buttonUrl="https://magnumwallet.co/"
         buttonText="Maggiori informazioni"
@@ -90,16 +90,6 @@ newTab="true"
         buttonText="Scaricare"
         platformImg1Src="/images/platforms/pi.png"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
-        newTab="true"
-    >}}
-    {{< wallet
-        titleText="NavCoin M8"
-        walletImgSrc="/images/wallets/wal-m8.png"
-        text="Un portafoglio di picchettamento NavCoin ad alta potenza incluso NEXT Wallet con opzioni&nbsp;fai-da-te."
-        buttonUrl="https://navcoinm8.com/"
-        buttonText="Maggiori informazioni"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg1Src="/images/platforms/linux.png"
         newTab="true"
     >}}
     {{< wallet
