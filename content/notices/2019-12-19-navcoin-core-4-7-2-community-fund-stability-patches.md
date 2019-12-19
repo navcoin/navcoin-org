@@ -8,7 +8,7 @@ notice_categories:
   - General Notices
 ---
 This patch fixes various issues which were investigated and identified as part of the community fund stability review undertaken by the NavCoin Core developers. It considered a mandatory update due to the included stability patches and will require a reindex or full resynchronisation of the blockchain to take effect. Please read the full release notes for further instruction.
-
+<!--more-->
 ## Fix for Verify Chain
 
 <[Pull Request 634](https://github.com/navcoin/navcoin-core/pull/634)>
