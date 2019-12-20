@@ -107,7 +107,7 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="Nav코인 코어 4.7.1를 다운받으세요"
+    titleText="Nav코인 코어 4.7.2를 다운받으세요"
     subtitleText="Nav코인 코어 지갑은 직관적이고 사용하기 쉽도록 세심하게 다듬어졌습니다. 여기에는 설정 마법사와 함께 제공되며 블록체인을 로드하고 안전한 환경에서 트랜잭션을 전송하는 데 필요한 모든 것이&nbsp;포함됩니다."
     bgPurple="true"
     anchor="download-core"
@@ -121,7 +121,7 @@ newTab="true"
         imgSrc="/images/wallets/wal-windows.svg"
         subtext=""
         linkText="다운로드"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.7.1/navcoin-4.7.1-win64-setup-unsigned.exe"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.7.2/navcoin-4.7.2-win64-setup-unsigned.exe"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action
@@ -129,7 +129,7 @@ newTab="true"
         imgSrc="/images/wallets/wal-mac.svg"
         subtext=""
         linkText="다운로드"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.7.1/navcoin-4.7.1-osx-unsigned.dmg"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.7.2/navcoin-4.7.2-osx-unsigned.dmg"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action                 
@@ -137,7 +137,7 @@ newTab="true"
         imgSrc="/images/wallets/wal-linux.svg"
         subtext=""
         linkText="다운로드"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.7.1/navcoin-4.7.1-x86_64-linux-gnu.tar.gz"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.7.2/navcoin-4.7.2-x86_64-linux-gnu.tar.gz"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
 {{< /item_container_section >}}
