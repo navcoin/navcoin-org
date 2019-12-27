@@ -235,6 +235,18 @@ newTab="正确的"
         text="多币种 / NAV"
         linkUrl="https://exscudo.com"
     >}}
+    {{< exchange
+        titleText="HitBTC"
+        imgSrc="/images/buy-navcoin/HitBTC.jpg"
+        text="多币种 / NAV"
+        linkUrl="https://hitbtc.com/nav-to-btc"
+    >}}
+    {{< exchange
+        titleText="atomicDEX"
+        imgSrc="/images/buy-navcoin/atomicDEX.png"
+        text="多币种 / NAV"
+        linkUrl="https://atomicdex.io/"
+    >}}
 
 {{< /item_container_section >}}
 

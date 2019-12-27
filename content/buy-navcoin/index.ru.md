@@ -235,6 +235,18 @@ newTab="подлинный"
         text="мульти валюта / NAV"
         linkUrl="https://exscudo.com"
     >}}
+    {{< exchange
+        titleText="HitBTC"
+        imgSrc="/images/buy-navcoin/HitBTC.jpg"
+        text="мульти валюта / NAV"
+        linkUrl="https://hitbtc.com/nav-to-btc"
+    >}}
+    {{< exchange
+        titleText="atomicDEX"
+        imgSrc="/images/buy-navcoin/atomicDEX.png"
+        text="мульти валюта / NAV"
+        linkUrl="https://atomicdex.io/"
+    >}}
 {{< /item_container_section >}}
 
 {{< center_text_cta
