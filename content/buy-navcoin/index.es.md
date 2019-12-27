@@ -235,6 +235,18 @@ newTab="true"
         text="Multi moneda / NAV"
         linkUrl="https://exscudo.com"
     >}}
+    {{< exchange
+        titleText="HitBTC"
+        imgSrc="/images/buy-navcoin/HitBTC.jpg"
+        text="Multi moneda / NAV"
+        linkUrl="https://hitbtc.com/nav-to-btc"
+    >}}
+    {{< exchange
+        titleText="atomicDEX"
+        imgSrc="/images/buy-navcoin/atomicDEX.png"
+        text="Multi moneda / NAV"
+        linkUrl="https://atomicdex.io/"
+    >}}
 {{< /item_container_section >}}
 
 {{< center_text_cta
