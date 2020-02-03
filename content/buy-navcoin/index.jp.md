@@ -247,12 +247,7 @@ newTab="true"
         text="フィアット / NAV"
         linkUrl="https://www.southxchange.com/Market/Book/NAV/BTC"
     >}}
-    {{< exchange
-        titleText="Pionex"
-        imgSrc="/images/buy-navcoin/pionex_400x400.jpg"
-        text="フィアット / NAV"
-        linkUrl="https://www.pionex.com/en-US/trade/NAV_BTC/pionex.v2"
-    >}}
+    
 {{< /item_container_section >}}
 
 
