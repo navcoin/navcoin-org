@@ -20,12 +20,6 @@ newTab="true"
     subtitleText="NavCoin は、以下の取引所で取引&nbsp;可能です"
 >}}
     {{< exchange
-        titleText="Poloniex"
-        imgSrc="/images/buy-navcoin/buy-poloniex.png"
-        text="BTC / NAV - フィアット / BTC"
-        linkUrl="https://poloniex.com/exchange#btc_nav"
-    >}}
-    {{< exchange
         titleText="Bittrex"
         imgSrc="/images/buy-navcoin/buy-bittrex.png"
         text="BTC / NAV"
@@ -246,6 +240,18 @@ newTab="true"
         imgSrc="/images/buy-navcoin/atomicDEX.png"
         text="フィアット / NAV"
         linkUrl="https://atomicdex.io/"
+    >}}
+    {{< exchange
+        titleText="southXchange"
+        imgSrc="/images/buy-navcoin/southXchange_400x400.png"
+        text="フィアット / NAV"
+        linkUrl="https://www.southxchange.com/Market/Book/NAV/BTC"
+    >}}
+    {{< exchange
+        titleText="Pionex"
+        imgSrc="/images/buy-navcoin/pionex_400x400.jpg"
+        text="フィアット / NAV"
+        linkUrl="https://www.pionex.com/en-US/trade/NAV_BTC/pionex.v2"
     >}}
 {{< /item_container_section >}}
 
