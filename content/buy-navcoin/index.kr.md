@@ -20,12 +20,6 @@ newTab="true"
     subtitleText="Nav코인은 아래의 &nbsp; 거래소에서 거래가 가능합니다."
 >}}
     {{< exchange
-        titleText="폴로닉스"
-        imgSrc="/images/buy-navcoin/buy-poloniex.png"
-        text="BTC / NAV - 명령 / BTC"
-        linkUrl="https://poloniex.com/exchange#btc_nav"
-    >}}
-    {{< exchange
         titleText="비트렉스"
         imgSrc="/images/buy-navcoin/buy-bittrex.png"
         text="BTC / NAV"
@@ -247,7 +241,14 @@ newTab="true"
         text="복수 통화 / NAV"
         linkUrl="https://atomicdex.io/"
     >}}
-{{< /item_container_section >}}
+    {{< exchange
+        titleText="southXchange"
+        imgSrc="/images/buy-navcoin/southXchange_400x400.png"
+        text="복수 통화 / NAV"
+        linkUrl="https://www.southxchange.com/Market/Book/NAV/BTC"
+    >}}
+    
+    {{< /item_container_section >}}
 
 
 {{< center_text_cta

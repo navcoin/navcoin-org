@@ -20,12 +20,6 @@ newTab="true"
     subtitleText="NavCoin è disponibile dai seguenti scambi"
 >}}
     {{< exchange
-        titleText="Poloniex"
-        imgSrc="/images/buy-navcoin/buy-poloniex.png"
-        text="BTC / NAV - fiat / NAV"
-        linkUrl="https://poloniex.com/exchange#btc_nav"
-    >}}
-    {{< exchange
         titleText="Bittrex"
         imgSrc="/images/buy-navcoin/buy-bittrex.png"
         text="BTC / NAV"
@@ -247,6 +241,13 @@ newTab="true"
         text="Valuta multipla / NAV"
         linkUrl="https://atomicdex.io/"
     >}}
+    {{< exchange
+        titleText="southXchange"
+        imgSrc="/images/buy-navcoin/southXchange_400x400.png"
+        text="Valuta multipla / NAV"
+        linkUrl="https://www.southxchange.com/Market/Book/NAV/BTC"
+    >}}
+    
 {{< /item_container_section >}}
 
 {{< center_text_cta

@@ -20,12 +20,6 @@ newTab="正确的"
     subtitleText="NavCoin在以下的交易所中找到"
 >}}
     {{< exchange
-        titleText="P网"
-        imgSrc="/images/buy-navcoin/buy-poloniex.png"
-        text="BTC / NAV - 菲亚特 / BTC"
-        linkUrl="https://poloniex.com/exchange#btc_nav"
-    >}}
-    {{< exchange
         titleText="B网"
         imgSrc="/images/buy-navcoin/buy-bittrex.png"
         text="BTC / NAV"
@@ -247,7 +241,13 @@ newTab="正确的"
         text="多币种 / NAV"
         linkUrl="https://atomicdex.io/"
     >}}
-
+    {{< exchange
+        titleText="southXchange"
+        imgSrc="/images/buy-navcoin/southXchange_400x400.png"
+        text="多币种 / NAV"
+        linkUrl="https://www.southxchange.com/Market/Book/NAV/BTC"
+    >}}
+    
 {{< /item_container_section >}}
 
 {{< center_text_cta
