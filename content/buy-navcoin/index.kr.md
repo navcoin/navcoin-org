@@ -247,6 +247,12 @@ newTab="true"
         text="복수 통화 / NAV"
         linkUrl="https://www.southxchange.com/Market/Book/NAV/BTC"
     >}}
+    {{< exchange
+        titleText="Bitexlive"
+        imgSrc="/images/buy-navcoin/bitex.jpg"
+        text="복수 통화 / NAV"
+        linkUrl="https://bitexlive.com/exchange/BTC-NAV"
+    >}}
     
     {{< /item_container_section >}}
 

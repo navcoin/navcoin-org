@@ -238,14 +238,20 @@ newTab="true"
     {{< exchange
         titleText="atomicDEX"
         imgSrc="/images/buy-navcoin/atomicDEX.png"
-        text="Valuta multipla / NAV"
+        text="Multi moneda / NAV"
         linkUrl="https://atomicdex.io/"
     >}}
     {{< exchange
         titleText="southXchange"
         imgSrc="/images/buy-navcoin/southXchange_400x400.png"
-        text="Valuta multipla / NAV"
+        text="Multi moneda / NAV"
         linkUrl="https://www.southxchange.com/Market/Book/NAV/BTC"
+    >}}
+    {{< exchange
+        titleText="Bitexlive"
+        imgSrc="/images/buy-navcoin/bitex.jpg"
+        text="Multi moneda / NAV"
+        linkUrl="https://bitexlive.com/exchange/BTC-NAV"
     >}}
     
 {{< /item_container_section >}}
