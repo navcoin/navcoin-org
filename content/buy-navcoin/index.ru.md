@@ -247,6 +247,18 @@ newTab="подлинный"
         text="мульти валюта / NAV"
         linkUrl="https://www.southxchange.com/Market/Book/NAV/BTC"
     >}}
+    {{< exchange
+        titleText="Bitexlive"
+        imgSrc="/images/buy-navcoin/bitex.jpg"
+        text="мульти валюта / NAV"
+        linkUrl="https://bitexlive.com/exchange/BTC-NAV"
+    >}}
+    {{< exchange
+        titleText="EXOLIX"
+        imgSrc="/images/buy-navcoin/exolix_400x400.png"
+        text="мульти валюта / NAV"
+        linkUrl="https://exolix.com/"
+    >}}
     
 {{< /item_container_section >}}
 
