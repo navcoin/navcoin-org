@@ -253,6 +253,12 @@ newTab="true"
         text="Multi moneda / NAV"
         linkUrl="https://bitexlive.com/exchange/BTC-NAV"
     >}}
+    {{< exchange
+        titleText="EXOLIX"
+        imgSrc="/images/buy-navcoin/exolix_400x400.png"
+        text="Multi moneda / NAV"
+        linkUrl="https://exolix.com/"
+    >}}
     
 {{< /item_container_section >}}
 
