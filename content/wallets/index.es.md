@@ -83,17 +83,7 @@ newTab="true"
         platformImg2Src="/images/platforms/android.png"
         newTab="true"
     >}}
-    {{< wallet
-        titleText="NavPi StakeBox"
-        walletImgSrc="/images/wallets/wal-pi.png"
-        text="Un monedero completo NavCoin de bajo consumo de energía basada en la plataforma&nbsp;Raspberry-Pi."
-        buttonUrl="https://navhub.org/projects/nav-pi/"
-        buttonText="Descargar la imagen"
-        platformImg1Src="/images/platforms/pi.png"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        newTab="true"
-    >}}
-    {{< wallet
+        {{< wallet
         titleText="NavPaper"
         walletImgSrc="/images/wallets/wal-paper.png"
         text="Generar claves privadas para imprimir y almacenar fuera de línea para obtener una mayor&nbsp;seguridad."

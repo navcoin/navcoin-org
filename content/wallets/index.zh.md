@@ -82,17 +82,7 @@ newTab="正确的"
         platformImg2Src="/images/platforms/android.png"
         newTab="正确的"
     >}}
-    {{< wallet
-        titleText="NavPi StakeBox"
-        walletImgSrc="/images/wallets/wal-pi.png"
-        text="基于树莓派平台的低能耗NavCoin full钱包。"
-        buttonUrl="https://navhub.org/projects/nav-pi/"
-        buttonText="下载"
-        platformImg1Src="/images/platforms/pi.png"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        newTab="正确的"
-    >}}
-    {{< wallet
+        {{< wallet
         titleText="NavPaper"
         walletImgSrc="/images/wallets/wal-paper.png"
         text="生成要打印和存储的密钥以提高安全性。"

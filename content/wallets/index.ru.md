@@ -82,20 +82,10 @@ newTab="true"
         platformImg2Src="/images/platforms/android.png"
         newTab="true"
     >}}
-    {{< wallet
-        titleText="NavPi StakeBox"
-        walletImgSrc="/images/wallets/wal-pi.png"
-        text="Энергосберегающий полный кошелек NavCoin, основанный на платформе&nbsp;Raspberry-Pi.<br>&nbsp;"
-        buttonUrl="https://navhub.org/projects/nav-pi/"
-        buttonText="Загрузить"
-        platformImg1Src="/images/platforms/pi.png"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        newTab="true"
-    >}}
-    {{< wallet
+        {{< wallet
         titleText="NavPaper"
         walletImgSrc="/images/wallets/wal-paper.png"
-        text="Генерация ключей для печати и хранения в автономном режиме для дополнительной&nbsp;безопасности."
+        text="Генерация ключей для печати и хранения в автономном режиме для дополнительной&nbsp;безопасности.<br>&nbsp;"
         buttonUrl="https://paper.navcoin.org/"
         buttonText="Загрузить"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
