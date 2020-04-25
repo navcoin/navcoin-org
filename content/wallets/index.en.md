@@ -82,17 +82,7 @@ newTab="true"
         platformImg2Src="/images/platforms/android.png"
         newTab="true"
     >}}
-    {{< wallet
-        titleText="NavPi StakeBox"
-        walletImgSrc="/images/wallets/wal-pi.png"
-        text="A low-energy NavCoin full wallet based on the Raspberry-Pi&nbsp;platform."
-        buttonUrl="https://navhub.org/projects/nav-pi/"
-        buttonText="Download"
-        platformImg1Src="/images/platforms/pi.png"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        newTab="true"
-    >}}
-    {{< wallet
+       {{< wallet
         titleText="NavPaper"
         walletImgSrc="/images/wallets/wal-paper.png"
         text="Generate keys to be printed and stored offline for additional&nbsp;security."

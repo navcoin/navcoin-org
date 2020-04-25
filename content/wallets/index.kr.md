@@ -82,17 +82,7 @@ newTab="true"
         platformImg2Src="/images/platforms/android.png"
         newTab="true"
     >}}
-    {{< wallet
-        titleText="NavPi 스테이크박스"
-        walletImgSrc="/images/wallets/wal-pi.png"
-        text="Raspberry-Pi 플랫폼을 기반으로 한 저 에너지 Nav코인 전체&nbsp;지갑입니다."
-        buttonUrl="https://navhub.org/projects/nav-pi/"
-        buttonText="다운로드"
-        platformImg1Src="/images/platforms/pi.png"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        newTab="true"
-    >}}
-    {{< wallet
+        {{< wallet
         titleText="NavPaper"
         walletImgSrc="/images/wallets/wal-paper.png"
         text="추가 보안을 위해 인쇄하여 오프라인으로 저장할 키를&nbsp;생성합니다.."
