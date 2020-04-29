@@ -259,6 +259,12 @@ newTab="true"
         text="フィアット / NAV"
         linkUrl="https://exolix.com/"
     >}}
+    {{< exchange
+        titleText="SWAPSPACE"
+        imgSrc="/images/buy-navcoin/swapspace_400x400.jpg"
+        text="フィアット / NAV"
+        linkUrl="https://swapspace.co/"
+    >}}
     
 {{< /item_container_section >}}
 

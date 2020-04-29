@@ -259,6 +259,12 @@ newTab="正确的"
         text="多币种 / NAV"
         linkUrl="https://exolix.com/"
     >}}
+    {{< exchange
+        titleText="SWAPSPACE"
+        imgSrc="/images/buy-navcoin/swapspace_400x400.jpg"
+        text="多币种 / NAV"
+        linkUrl="https://swapspace.co/"
+    >}}
     
 {{< /item_container_section >}}
 
