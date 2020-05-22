@@ -178,6 +178,12 @@ newTab="true"
         text="Plataforma de facturación / solicitud de cifrado para pagos con un clic."
         linkUrl="https://coinrequest.io"
     >}}
+    {{< merchant
+        titleText="AlwaysHODL"
+        imgSrc="/images/merchants/alwayshodl_400x400.jpg"
+        text="Ropa de lujo para el entusiasta de la criptografía de moda."
+        linkUrl="https://alwayshodl.com/search?q=nav*&type=product"
+    >}}
 {{< /item_container_section >}}
 
 {{< item_container_section

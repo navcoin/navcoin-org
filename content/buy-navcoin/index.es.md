@@ -265,6 +265,18 @@ newTab="true"
         ext="Multi moneda / NAV"
         linkUrl="https://swapspace.co/"
     >}}
+    {{< exchange
+        titleText="EasyBit"
+        imgSrc="/images/buy-navcoin/EasyBit_400x400.jpg"
+        ext="Multi moneda / NAV"
+        linkUrl="https://easybit.com/"
+    >}}
+    {{< exchange
+        titleText="sequoir"
+        imgSrc="/images/buy-navcoin/sequoir_400x400.jpg"
+        text="Multi moneda / NAV"
+        linkUrl="https://www.sequoir.com/"
+    >}}
     
 {{< /item_container_section >}}
 

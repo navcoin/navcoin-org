@@ -265,7 +265,19 @@ newTab="true"
         text="Valuta multipla / NAV"
         linkUrl="https://swapspace.co/"
     >}}
-    
+
+    {{< exchange
+        titleText="EasyBit"
+        imgSrc="/images/buy-navcoin/EasyBit_400x400.jpg"
+        text="Valuta multipla / NAV"
+        linkUrl="https://easybit.com/"
+    >}}
+    {{< exchange
+        titleText="sequoir"
+        imgSrc="/images/buy-navcoin/sequoir_400x400.jpg"
+        text="Valuta multipla / NAV"
+        linkUrl="https://www.sequoir.com/"
+    >}}
 {{< /item_container_section >}}
 
 {{< center_text_cta

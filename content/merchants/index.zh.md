@@ -176,6 +176,12 @@ newTab="true"
         text="一键付款的加密发票/请求平台。"
         linkUrl="https://coinrequest.io"
     >}}
+    {{< merchant
+        titleText="AlwaysHODL"
+        imgSrc="/images/merchants/alwayshodl_400x400.jpg"
+        text="面向时尚加密爱好者的高档服装。"
+        linkUrl="https://alwayshodl.com/search?q=nav*&type=product"
+    >}}
 
 {{< /item_container_section >}}
 
