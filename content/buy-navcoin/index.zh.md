@@ -277,6 +277,12 @@ newTab="正确的"
         text="多币种 / NAV"
         linkUrl="https://www.sequoir.com/"
     >}}
+    {{< exchange
+        titleText="Swapzone"
+        imgSrc="/images/buy-navcoin/swapzone_400x400.png"
+        text="多币种 / NAV"
+        linkUrl="https://swapzone.io/?from=nav"
+    >}}
     
 {{< /item_container_section >}}
 

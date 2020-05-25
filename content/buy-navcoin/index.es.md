@@ -277,6 +277,12 @@ newTab="true"
         text="Multi moneda / NAV"
         linkUrl="https://www.sequoir.com/"
     >}}
+    {{< exchange
+        titleText="Swapzone"
+        imgSrc="/images/buy-navcoin/swapzone_400x400.png"
+        text="Multi moneda / NAV"
+        linkUrl="https://swapzone.io/?from=nav"
+    >}}
     
 {{< /item_container_section >}}
 
