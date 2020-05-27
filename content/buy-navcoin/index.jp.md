@@ -283,6 +283,12 @@ newTab="true"
         text="フィアット / NAV"
         linkUrl="https://swapzone.io/?from=nav"
     >}}
+    {{< exchange
+        titleText="changeangel"
+        imgSrc="/images/buy-navcoin/changeangel_400x400.jpg"
+        text="フィアット / NAV"
+        linkUrl="https://changeangel.io/"
+    >}}
     
 {{< /item_container_section >}}
 

@@ -283,6 +283,12 @@ newTab="正确的"
         text="多币种 / NAV"
         linkUrl="https://swapzone.io/?from=nav"
     >}}
+    {{< exchange
+        titleText="changeangel"
+        imgSrc="/images/buy-navcoin/changeangel_400x400.jpg"
+        text="多币种 / NAV"
+        linkUrl="https://changeangel.io/"
+    >}}
     
 {{< /item_container_section >}}
 

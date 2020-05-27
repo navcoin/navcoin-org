@@ -284,6 +284,12 @@ newTab="true"
         text="Valuta multipla / NAV"
         linkUrl="https://swapzone.io/?from=nav"
     >}}
+    {{< exchange
+        titleText="changeangel"
+        imgSrc="/images/buy-navcoin/changeangel_400x400.jpg"
+        text="Valuta multipla / NAV"
+        linkUrl="https://changeangel.io/"
+    >}}
 {{< /item_container_section >}}
 
 {{< center_text_cta
