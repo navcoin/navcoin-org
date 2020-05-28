@@ -175,6 +175,12 @@ newTab="true"
         text="한 번의 클릭 지불을위한 암호화 송장 / 요청 플랫폼."
         linkUrl="https://coinrequest.io"
     >}}
+    {{< merchant
+        titleText="AlwaysHODL"
+        imgSrc="/images/merchants/alwayshodl_400x400.jpg"
+        text="최신 유행의 암호화 애호가를위한 고급 의류."
+        linkUrl="https://alwayshodl.com/search?q=nav*&type=product"
+    >}}
    
 {{< /item_container_section >}}
 

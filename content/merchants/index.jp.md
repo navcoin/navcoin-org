@@ -176,6 +176,12 @@ newTab="true"
         text="ワンクリック支払いのための暗号請求/要求プラットフォーム。"
         linkUrl="https://coinrequest.io"
     >}}
+    {{< merchant
+        titleText="AlwaysHODL"
+        imgSrc="/images/merchants/alwayshodl_400x400.jpg"
+        text="トレンディな暗号愛好家のための高級アパレル。<br>&nbsp"
+        linkUrl="https://alwayshodl.com/search?q=nav*&type=product"
+    >}}
 
 {{< /item_container_section >}}
 

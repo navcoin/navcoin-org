@@ -176,6 +176,12 @@ newTab="true"
         text="Платформа для крипто-выставления счетов / запросов на оплату одним кликом."
         linkUrl="https://coinrequest.io"
     >}}
+    {{< merchant
+        titleText="AlwaysHODL"
+        imgSrc="/images/merchants/alwayshodl_400x400.jpg"
+        text="Элитная одежда для модных крипто-энтузиастов."
+        linkUrl="https://alwayshodl.com/search?q=nav*&type=product"
+    >}}
 
 {{< /item_container_section >}}
 

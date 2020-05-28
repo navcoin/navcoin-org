@@ -176,6 +176,12 @@ newTab="true"
         text="Piattaforma di fatturazione / richiesta di criptovaluta per pagamenti con un clic."
         linkUrl="https://coinrequest.io"
     >}}
+    {{< merchant
+        titleText="AlwaysHODL"
+        imgSrc="/images/merchants/alwayshodl_400x400.jpg"
+        text="Abbigliamento esclusivo per gli appassionati di cripto alla moda."
+        linkUrl="https://alwayshodl.com/search?q=nav*&type=product"
+    >}}
 
 {{< /item_container_section >}}
 

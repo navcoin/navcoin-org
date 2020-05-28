@@ -177,6 +177,12 @@ newTab="true"
         text="Crypto invoicing/requesting platform for one click payments."
         linkUrl="https://coinrequest.io"
     >}}
+    {{< merchant
+        titleText="AlwaysHODL"
+        imgSrc="/images/merchants/alwayshodl_400x400.jpg"
+        text="Upmarket apparel for the trendy crypto enthusiast.<br>&nbsp"
+        linkUrl="https://alwayshodl.com/search?q=nav*&type=product"
+    >}}
 
 {{< /item_container_section >}}
 
