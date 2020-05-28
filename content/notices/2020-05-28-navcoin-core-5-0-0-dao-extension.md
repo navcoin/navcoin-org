@@ -26,7 +26,7 @@ For more info, check out the release notes below;
 
 <[Pull Request 530](https://github.com/navcoin/navcoin-core/pull/530)>
 
-This PR includes a serie of Deployment Proposals as described in https://www.reddit.com/r/NavCoin/comments/bs4pvn/proposal_for_the_extension_of_the_community_fund/:
+This PR includes a series of Deployment Proposals as described in https://www.reddit.com/r/NavCoin/comments/bs4pvn/proposal_for_the_extension_of_the_community_fund/:
 
 - Adds support for abstaining in the votings. (Version Bit 19) - includes functional test
 
