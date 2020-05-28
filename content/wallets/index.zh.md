@@ -97,7 +97,7 @@ newTab="正确的"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="下载NavCoin Core 4.7.3"
+    titleText="下载NavCoin Core 5.0.0"
     subtitleText="NavCoin Core钱包经过精心提炼，直观易用。它附带了一个安装向导，以及加载区块链并开始在安全环境中发送交易所需的一切。"
     bgPurple="正确的"
     anchor="download-core"
@@ -111,7 +111,7 @@ newTab="正确的"
         imgSrc="/images/wallets/wal-windows.svg"
         subtext=""
         linkText="下载"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.7.3/navcoin-4.7.3-win64-setup-unsigned.exe"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/5.0.0/navcoin-5.0.0-win64-setup-unsigned.exe"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action
@@ -119,7 +119,7 @@ newTab="正确的"
         imgSrc="/images/wallets/wal-mac.svg"
         subtext=""
         linkText="下载"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.7.3/navcoin-4.7.3-osx-unsigned.dmg"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/5.0.0/navcoin-5.0.0-osx-unsigned.dmg"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action                 
@@ -127,7 +127,7 @@ newTab="正确的"
         imgSrc="/images/wallets/wal-linux.svg"
         subtext=""
         linkText="下载"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.7.3/navcoin-4.7.3-x86_64-linux-gnu.tar.gz"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/5.0.0/navcoin-5.0.0-x86_64-linux-gnu.tar.gz"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
 {{< /item_container_section >}}
