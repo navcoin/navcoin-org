@@ -97,7 +97,7 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="Скачать NavCoin Core 4.7.3"
+    titleText="Скачать NavCoin Core 5.0.0"
     subtitleText="Кошелек NavCoin Core был тщательно переработан, чтобы быть интуитивно понятным и простым в использовании. Он идет с мастером настройки и всем необходимым для загрузки блокчейна и начала отправки транзакций в безопасной&nbsp;среде."
     bgPurple="true"
     anchor="download-core"
@@ -111,7 +111,7 @@ newTab="true"
         imgSrc="/images/wallets/wal-windows.svg"
         subtext=""
         linkText="Загрузить"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.7.3/navcoin-4.7.3-win64-setup-unsigned.exe"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/5.0.0/navcoin-5.0.0-win64-setup-unsigned.exe"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action
@@ -119,7 +119,7 @@ newTab="true"
         imgSrc="/images/wallets/wal-mac.svg"
         subtext=""
         linkText="Загрузить"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.7.3/navcoin-4.7.3-osx-unsigned.dmg"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/5.0.0/navcoin-5.0.0-osx-unsigned.dmg"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action                 
@@ -127,7 +127,7 @@ newTab="true"
         imgSrc="/images/wallets/wal-linux.svg"
         subtext=""
         linkText="Загрузить"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/4.7.3/navcoin-4.7.3-x86_64-linux-gnu.tar.gz"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/5.0.0/navcoin-5.0.0-x86_64-linux-gnu.tar.gz"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
 {{< /item_container_section >}}
