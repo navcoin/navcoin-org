@@ -36,7 +36,7 @@ newTab="true"
     >}}
     {{< wallet
         titleText="NavCash"
-        walletImgSrc="/images/wallets/wal-core.png"
+        walletImgSrc="/images/wallets/wal-navcash.png"
         text="NavCash es un monedero basado en electrum que es compatible con monederos hardware como Ledger Nano S, así como ganar recompensar por staking sin tener el ordenador encendido o participar en votaciones."
         buttonUrl="https://navcash.nav.community"
         buttonText="Download"
