@@ -198,7 +198,7 @@ newTab="true"
         imgSrc="/images/merchants/mer-for-store.svg"
         subtext="Usa il portafoglio NavPay sul tuo smartphone. I clienti scansionano semplicemente il codice QR e trasferiscono il fondo all'istante"
         linkText="Visita NavPay"
-        linkUrl="https://navhub.org/projects/nav-pay/"
+        linkUrl="https://navpay.navcoin.org"
         linkImgSrc="/images/icons/rightward-arrow.svg"
 
     >}}
