@@ -63,7 +63,7 @@ description: "Фонд Сообщества NavCoin - это пул NAV, кот�
                     <img src="/images/community-fund/cfu-submit.svg" alt="" class="item-icon">
                     <h3>Шаг 1: Подача предложения</h3>
                     <p style="margin-bottom: 10%">Придумайте улучшения, которые бы вы хотели увидеть в экосистеме NavCoin и подайте свое предложение в&nbsp;сеть.</p>
-                    <a href="https://communityfund.nav.community/create-proposal" target="_blank" class="round-btn small gradient-btn">Создать предложение        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://www.navexplorer.com/dao/proposals/pending" target="_blank" class="round-btn small gradient-btn">Создать предложение        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -72,7 +72,7 @@ description: "Фонд Сообщества NavCoin - это пул NAV, кот�
                     <img src="/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
                     <h3>Шаг 2: Голосование за предложение</h3>
                     <p style="margin-bottom: 10%">Любой, кто занимается стекингом сети NavCoin, может проголосовать «да» или «нет» за каждое&nbsp;предложение учитывая свой вес в&nbsp;сети.</p>
-                    <a href="https://communityfund.nav.community/?PENDING=on" target="_blank" class="round-btn small gradient-btn">Просмотреть все предложения        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://www.navexplorer.com/dao/proposals/pending" target="_blank" class="round-btn small gradient-btn">Просмотреть все предложения        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -81,7 +81,7 @@ description: "Фонд Сообщества NavCoin - это пул NAV, кот�
                     <img src="https://d33wubrfki0l68.cloudfront.net/6be625e8bf582732c2b66ffa1705dd083fdd6c51/f8c8a/images/community-fund/cfu-payment.svg" alt="" class="item-icon">
                     <h3>Шаг 3: Запрос оплаты</h3>
                     <p style="margin-bottom: 10%">Платежи освобождаются только после второго тура голосования, которое утверждает «доказательство&nbsp;усилия» владельца предложения.</p>
-                    <a href="https://communityfund.nav.community/create-payment-request" target="_blank" class="round-btn small gradient-btn">Создать запрос на оплату        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://www.navexplorer.com/dao/payment-requests/pending" target="_blank" class="round-btn small gradient-btn">Создать запрос на оплату        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -90,7 +90,7 @@ description: "Фонд Сообщества NavCoin - это пул NAV, кот�
                     <img src="https://d33wubrfki0l68.cloudfront.net/a6136e0554b83cc742e44f715978ee9fbd3c7791/88e3e/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
                     <h3>Шаг 4: Голосование за оплату</h3>
                     <p style="margin-bottom: 10%">Как только задача выполнена, сеть голосует, чтобы убедиться, что проект успешно выполняется, что в свою очередь, высвобождает&nbsp;средства.</p>
-                    <a href="https://communityfund.nav.community/?ACCEPTED=on&PENDING_PR=on" target="_blank" class="round-btn small gradient-btn">Просмотреть запросы на оплату        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://www.navexplorer.com/dao/payment-requests/pending" target="_blank" class="round-btn small gradient-btn">Просмотреть запросы на оплату        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -125,7 +125,7 @@ description: "Фонд Сообщества NavCoin - это пул NAV, кот�
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://communityfund.nav.community/discussion/aabb434ae2a248cbf8ffa903f9e9610e4d51ac53e507f09450b3e7ebac66ee59" target="_blank" class="round-btn small gradient-btn">Посмотреть предложение <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://www.navexplorer.com/dao/proposal/aabb434ae2a248cbf8ffa903f9e9610e4d51ac53e507f09450b3e7ebac66ee59" target="_blank" class="round-btn small gradient-btn">Посмотреть предложение <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
@@ -152,7 +152,7 @@ description: "Фонд Сообщества NavCoin - это пул NAV, кот�
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://communityfund.nav.community/discussion/0a4c915850491675e264fafacd20d14b8d9f0b165d4065ff2f53a21bbf0f72a2" target="_blank" class="round-btn small gradient-btn">Посмотреть предложение <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://www.navexplorer.com/dao/proposal/0a4c915850491675e264fafacd20d14b8d9f0b165d4065ff2f53a21bbf0f72a2" target="_blank" class="round-btn small gradient-btn">Посмотреть предложение <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
@@ -179,14 +179,14 @@ description: "Фонд Сообщества NavCoin - это пул NAV, кот�
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://communityfund.nav.community/discussion/97229d571fdade1c48fda8c1b1060820f87c1dc1c99d3a8cd498a3809537d723" target="_blank" class="round-btn small gradient-btn">Посмотреть предложение <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://www.navexplorer.com/dao/proposal/97229d571fdade1c48fda8c1b1060820f87c1dc1c99d3a8cd498a3809537d723" target="_blank" class="round-btn small gradient-btn">Посмотреть предложение <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
         </div>
       </div></div>
     <div style="display: block; max-width: 200px; margin: 0 auto; margin-top: 7%;">
-      <a href="https://communityfund.nav.community/" target="_blank" class="round-btn gradient-btn">Просмотреть все предложения        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+      <a href="https://www.navexplorer.com/dao/" target="_blank" class="round-btn gradient-btn">Просмотреть все предложения        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
     </div>
   </div>

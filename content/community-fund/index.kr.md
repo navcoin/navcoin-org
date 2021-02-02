@@ -63,7 +63,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
                     <img src="/images/community-fund/cfu-submit.svg" alt="" class="item-icon">
                     <h3>Step 1: 제안서를 제출하세요</h3>
                     <p style="margin-bottom: 10%">Nav코인 에코시스템에서 보고 싶은 개선 사항을 꿈꾸고, 제안서를 &nbsp; 네트워크에 제출합니다.</p>
-                    <a href="https://communityfund.nav.community/create-proposal" target="_blank" class="round-btn small gradient-btn">제안서를 생성합니다        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://www.navexplorer.com/dao/proposals/pending" target="_blank" class="round-btn small gradient-btn">제안서를 생성합니다        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -72,7 +72,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
                     <img src="/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
                     <h3>Step 2: 제안서에 투표하세요l</h3>
                     <p style="margin-bottom: 10%">Nav코인 네트워크를 구축하는 모든 사용자는 네트워크 &nbsp; 가중치를 적용하여 모든&nbsp;제안에 대해 '예' 또는 '아니요'로 투표할 수 있습니다.</p>
-                    <a href="https://communityfund.nav.community/?PENDING=on" target="_blank" class="round-btn small gradient-btn">제안서 보기        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://www.navexplorer.com/dao/proposals/pending" target="_blank" class="round-btn small gradient-btn">제안서 보기        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -81,7 +81,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
                     <img src="https://d33wubrfki0l68.cloudfront.net/6be625e8bf582732c2b66ffa1705dd083fdd6c51/f8c8a/images/community-fund/cfu-payment.svg" alt="" class="item-icon">
                     <h3>Step 3: 지불(페이) 요청</h3>
                     <p style="margin-bottom: 10%">지불은 제안서 소유자의&nbsp;노력 가능성을 입증하는 2차 투표 후에만 공개됩니다</p>
-                    <a href="https://communityfund.nav.community/create-payment-request" target="_blank" class="round-btn small gradient-btn">지불(페이)요청 생성        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://www.navexplorer.com/dao/payment-requests/pending" target="_blank" class="round-btn small gradient-btn">지불(페이)요청 생성        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -90,7 +90,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
                     <img src="https://d33wubrfki0l68.cloudfront.net/a6136e0554b83cc742e44f715978ee9fbd3c7791/88e3e/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
                     <h3>Step 4: 지불(페이)에 대해 투표하세요</h3>
                     <p style="margin-bottom: 10%">이정표에 도달하면, 네트워크는 프로젝트가 정상 궤도에 오르게 되고, 그러면&nbsp;자금이 풀리게 됩니다.</p>
-                    <a href="https://communityfund.nav.community/?ACCEPTED=on&PENDING_PR=on" target="_blank" class="round-btn small gradient-btn">지불(페이) 요청 보기        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://www.navexplorer.com/dao/payment-requests/pending" target="_blank" class="round-btn small gradient-btn">지불(페이) 요청 보기        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -125,7 +125,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://communityfund.nav.community/discussion/aabb434ae2a248cbf8ffa903f9e9610e4d51ac53e507f09450b3e7ebac66ee59" target="_blank" class="round-btn small gradient-btn">제안서 보기 <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://www.navexplorer.com/dao/proposal/aabb434ae2a248cbf8ffa903f9e9610e4d51ac53e507f09450b3e7ebac66ee59" target="_blank" class="round-btn small gradient-btn">제안서 보기 <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
@@ -152,7 +152,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://communityfund.nav.community/discussion/0a4c915850491675e264fafacd20d14b8d9f0b165d4065ff2f53a21bbf0f72a2" target="_blank" class="round-btn small gradient-btn">제안서 보기 <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://www.navexplorer.com/dao/proposal/0a4c915850491675e264fafacd20d14b8d9f0b165d4065ff2f53a21bbf0f72a2" target="_blank" class="round-btn small gradient-btn">제안서 보기 <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
@@ -179,14 +179,14 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://communityfund.nav.community/discussion/97229d571fdade1c48fda8c1b1060820f87c1dc1c99d3a8cd498a3809537d723" target="_blank" class="round-btn small gradient-btn">제안서 보기 <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://www.navexplorer.com/dao/proposal/97229d571fdade1c48fda8c1b1060820f87c1dc1c99d3a8cd498a3809537d723" target="_blank" class="round-btn small gradient-btn">제안서 보기 <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
         </div>
       </div></div>
     <div style="display: block; max-width: 200px; margin: 0 auto; margin-top: 7%;">
-      <a href="https://communityfund.nav.community/" target="_blank" class="round-btn gradient-btn">View all proposals        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+      <a href="https://www.navexplorer.com/dao/" target="_blank" class="round-btn gradient-btn">View all proposals        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
     </div>
   </div>
