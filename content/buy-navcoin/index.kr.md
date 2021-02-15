@@ -29,7 +29,7 @@ newTab="true"
         titleText="바이넨스"
         imgSrc="/images/buy-navcoin/buy-binance.png"
         text="BTC / NAV"
-        linkUrl="https://www.binance.com/es/trade/NAV_BTC"
+        linkUrl="https://www.binance.com/ko/trade/NAV_BTC"
     >}}
     {{< exchange
         titleText="업비트"

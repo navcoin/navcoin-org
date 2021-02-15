@@ -29,7 +29,7 @@ newTab="подлинный"
         titleText="Binance"
         imgSrc="/images/buy-navcoin/buy-binance.png"
         text="BTC / NAV"
-        linkUrl="https://www.binance.com/es/trade/NAV_BTC"
+        linkUrl="https://www.binance.com/ru/trade/NAV_BTC"
     >}}
     {{< exchange
         titleText="UPbit"
