@@ -32,12 +32,6 @@ newTab="true"
         linkUrl="https://www.binance.com/ko/trade/NAV_BTC"
     >}}
     {{< exchange
-        titleText="업비트"
-        imgSrc="/images/buy-navcoin/upbit.png"
-        text="BTC / NAV"
-        linkUrl="https://upbit.com/exchange?code=CRIX.UPBIT.BTC-NAV"
-    >}}
-    {{< exchange
         titleText="Litebit"
         imgSrc="/images/buy-navcoin/buy-litebit.png"
         text="유로로 구매가 가능한 거래소"

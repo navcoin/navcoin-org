@@ -32,12 +32,6 @@ newTab="正确的"
         linkUrl="https://www.binance.com/en/trade/NAV_BTC"
     >}}
     {{< exchange
-        titleText="UPbit"
-        imgSrc="/images/buy-navcoin/upbit.png"
-        text="BTC / NAV"
-        linkUrl="https://upbit.com/exchange?code=CRIX.UPBIT.BTC-NAV"
-    >}}
-    {{< exchange
         titleText="莱特币"
         imgSrc="/images/buy-navcoin/buy-litebit.png"
         text="欧元直接购买"
