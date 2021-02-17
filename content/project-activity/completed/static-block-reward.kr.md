@@ -8,4 +8,4 @@ status: completed
 externalUrl: https://github.com/NAVCoin/npips/blob/master/npip-0004.mediawiki
 ---
 
-Modifying the block reward from percentage based to static in an effort to increase network&nbsp;security and align NavCoin with the PoSv3&nbsp;specification.  
+Modifying the block reward from percentage based to static in an effort to increase network&nbsp;security and align Navcoin with the PoSv3&nbsp;specification.  

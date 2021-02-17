@@ -8,4 +8,4 @@ status: completed
 externalUrl: https://bitcointalk.org/index.php?topic=679791.0
 ---
 
-The NavCoin mainnet was launched in July 2014. NavCoin launched as a community driven project with no ICO or pre-mine. The community's focus was on creating a privacy centric, proof of stake cryptocurrency which was fast, cheap and secure.
+The Navcoin mainnet was launched in July 2014. Navcoin launched as a community driven project with no ICO or pre-mine. The community's focus was on creating a privacy centric, proof of stake cryptocurrency which was fast, cheap and secure.

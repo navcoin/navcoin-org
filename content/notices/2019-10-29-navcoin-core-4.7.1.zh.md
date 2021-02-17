@@ -1,6 +1,6 @@
 ---
 layout: notices
-title: NavCoin Core 4.7.1 - Community Fund Nullified Entry Patch
+title: Navcoin Core 4.7.1 - Community Fund Nullified Entry Patch
 author: Craig MacGregor
 date: '2019-10-29T10:38:29+12:00'
 feature_image: /images/uploads/navcoin-core-4.7.1-cfund-patch.png
@@ -50,4 +50,4 @@ This fix is the main purpose of the 4.7.1 patch release, while preparing this bu
 
 For the full release notes please visit the [Community Fund Nullified Entry Patch](https://github.com/NAVCoin/navcoin-core/releases/tag/4.7.1).
 
-To download the NavCoin Core 4.7.1 please visit the [Wallet Downloads](https://navcoin.org/en/wallets/#download-core) page.
+To download the Navcoin Core 4.7.1 please visit the [Wallet Downloads](https://navcoin.org/en/wallets/#download-core) page.

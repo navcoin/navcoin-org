@@ -8,4 +8,4 @@ status: completed
 externalUrl: https://www.navexplorer.com/block/1
 ---
 
-NavCoin的区块链在2016年5月被重置，作为更新区块链格式的基础的一部分。这就是为什么尽管NavCoin从2014年就已经存在，但是我们现在区块链的genisis区块是在2016年&nbsp;开采的。
+Navcoin的区块链在2016年5月被重置，作为更新区块链格式的基础的一部分。这就是为什么尽管Navcoin从2014年就已经存在，但是我们现在区块链的genisis区块是在2016年&nbsp;开采的。

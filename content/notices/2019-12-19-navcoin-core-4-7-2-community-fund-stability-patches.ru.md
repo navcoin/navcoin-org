@@ -1,13 +1,13 @@
 ---
 layout: notices
-title: NavCoin Core 4.7.2 - Community Fund Stability Patches
+title: Navcoin Core 4.7.2 - Community Fund Stability Patches
 author: Craig MacGregor
 date: '2019-12-19T14:17:04+13:00'
 feature_image: /images/uploads/navcoin-template-2-.png
 notice_categories:
   - General Notices
 ---
-This patch fixes various issues which were investigated and identified as part of the community fund stability review undertaken by the NavCoin Core developers. It considered a mandatory update due to the included stability patches and will require a reindex or full resynchronisation of the blockchain to take effect. Please read the full release notes for further instruction.
+This patch fixes various issues which were investigated and identified as part of the community fund stability review undertaken by the Navcoin Core developers. It considered a mandatory update due to the included stability patches and will require a reindex or full resynchronisation of the blockchain to take effect. Please read the full release notes for further instruction.
 <!--more-->
 ## Fix for Verify Chain
 
@@ -46,7 +46,7 @@ This PR adds extra log for all the modifications of the CFundDB and ensures entr
 <[Pull Request 628](https://github.com/navcoin/navcoin-core/pull/628)>
 <[Commit b8ed018](https://github.com/navcoin/navcoin-core/commit/b8ed0180a2deaf616c8e6b38aec42385f0a73879)>
 
-This pull request starts a new NavCoin testnet. If you're running a testnet node you will need to will need to wipe your testnet data directory and connect to the new testnet nodes. A list of some of the testnet nodes operated by NavCoin Core developers can be found on [Issue 626](https://github.com/navcoin/navcoin-core/issues/626). If you need testnet coins or want to be added to the list of nodes, please comment on the issue or join the #dev-testnet channel in [Discord](https://discord.gg/y4Vu9jw).
+This pull request starts a new Navcoin testnet. If you're running a testnet node you will need to will need to wipe your testnet data directory and connect to the new testnet nodes. A list of some of the testnet nodes operated by Navcoin Core developers can be found on [Issue 626](https://github.com/navcoin/navcoin-core/issues/626). If you need testnet coins or want to be added to the list of nodes, please comment on the issue or join the #dev-testnet channel in [Discord](https://discord.gg/y4Vu9jw).
 
 ## Full list of Merged PRs
 
@@ -74,4 +74,4 @@ This pull request starts a new NavCoin testnet. If you're running a testnet node
 
 For the full release notes please visit the [Community Fund Stability Patches](https://github.com/navcoin/navcoin-core/releases/tag/4.7.2) release tag on GitHub.
 
-To download the NavCoin Core 4.7.2 please visit the [Wallet Downloads](https://navcoin.org/en/wallets/#download-core) page.
+To download the Navcoin Core 4.7.2 please visit the [Wallet Downloads](https://navcoin.org/en/wallets/#download-core) page.

@@ -8,4 +8,4 @@ status: completed
 externalUrl: https://www.navexplorer.com/block/1
 ---
 
-NavCoin Core was upgraded to align with the Bitcoin 0.13 source code to increase NavCoin’s stability, functionality and the ability to integrate with other software including the Insight&nbsp;API.
+Navcoin Core was upgraded to align with the Bitcoin 0.13 source code to increase Navcoin’s stability, functionality and the ability to integrate with other software including the Insight&nbsp;API.

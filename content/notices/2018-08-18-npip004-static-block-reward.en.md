@@ -7,7 +7,7 @@ feature_image: /images/uploads/npip004.png
 notice_categories:
   - NPIP
 ---
-After the ClockSync fix was soft forked into the network a couple of months ago, NavCoin is now compliant with the Proof of Stake v2 protocol as published by Blackcoin.
+After the ClockSync fix was soft forked into the network a couple of months ago, Navcoin is now compliant with the Proof of Stake v2 protocol as published by Blackcoin.
 <!--more-->
 
 https://blackcoin.org/blackcoin-pos-protocol-v2-whitepaper.pdf
@@ -18,7 +18,7 @@ https://bravenewcoin.com/assets/Whitepapers/Blackcoin-POS-3.pdf
 
 The short version is that PoS v3 includes cold staking capability and a fixed block reward.
 
-We have already presented cold staking in NPIP002 and it has received unanimous support from the community. This is scheduled to be deployed after the Community Fund claims mechanism goes live and brings NavCoin half way to being compliant with PoS v3.
+We have already presented cold staking in NPIP002 and it has received unanimous support from the community. This is scheduled to be deployed after the Community Fund claims mechanism goes live and brings Navcoin half way to being compliant with PoS v3.
 
 This brings us to the second part of the PoS v3 spec, a fixed block reward.
 
@@ -112,15 +112,15 @@ I found this spreadsheet which has pretty detailed information about a bunch of 
 
 https://docs.google.com/spreadsheets/d/1-weHt0PiIZWyXs1Uzp7QIUKk9TX7aa15RtFc8JJpn7g/edit#gid=237137882
 
-From this, you can see that NavCoin would still have one of the lowest inflation rates in crypto when you include PoW coins as well. Bitcoin currently inflates at around 3.68% as example.
+From this, you can see that Navcoin would still have one of the lowest inflation rates in crypto when you include PoW coins as well. Bitcoin currently inflates at around 3.68% as example.
 
 ### Isn't low inflation like we have now better?
 
-With 4% per year and only 25% of coins staking, NavCoin currently only inflates at around 1.4% per year (including the community fund). We've seen the staking network weight roughly halve over the last 6 months, something which could be attributed the reduction of rewards when the community fund was introduced. It's possible people are switching to other, more profitable PoS coins because 4% reward is too low. At this network weight and market rate, it would only take around USD $2M worth of coins to perform a 51% attack. In reality, buying enough coins to 51% attack the network would drive the price of NAV up and therefore make it much more expensive than this to attack the network, but it's still worth noting the importance for network security to attract more people to stake.
+With 4% per year and only 25% of coins staking, Navcoin currently only inflates at around 1.4% per year (including the community fund). We've seen the staking network weight roughly halve over the last 6 months, something which could be attributed the reduction of rewards when the community fund was introduced. It's possible people are switching to other, more profitable PoS coins because 4% reward is too low. At this network weight and market rate, it would only take around USD $2M worth of coins to perform a 51% attack. In reality, buying enough coins to 51% attack the network would drive the price of NAV up and therefore make it much more expensive than this to attack the network, but it's still worth noting the importance for network security to attract more people to stake.
 
 ### Summary
 
-Changing to a static block reward of 2 NAV per block increases network security in multiple ways, the first being that it forces people to be online securing the network with their weight constantly. Secondly, it would increase potential earnings for stakers which would attract more people to stake NavCoin and increase the network weight further. Both of these factors make the network harder to 51% attack and would improve network security.
+Changing to a static block reward of 2 NAV per block increases network security in multiple ways, the first being that it forces people to be online securing the network with their weight constantly. Secondly, it would increase potential earnings for stakers which would attract more people to stake Navcoin and increase the network weight further. Both of these factors make the network harder to 51% attack and would improve network security.
 
 ### Additional suggested changes
 
@@ -146,8 +146,8 @@ Not sure what else, i haven't thought of any other ways to solve this problem ye
 
 I'm personally in favour of changing the block reward to 2 NAV and increasing the Community Fund to 0.5 NAV per block.
 
-I would suggest bundling these changes with NPIP002 and NPIP003 into NavCoin Core v4.5.0 (4.3.0 is Open Alias, 4.4.0 is Community Fund Claims) so we can reduce the number of versions released. Each individual protocol change will have its own version bit, so people can vote on each individually if they only want some of the updates rather than all of them.
+I would suggest bundling these changes with NPIP002 and NPIP003 into Navcoin Core v4.5.0 (4.3.0 is Open Alias, 4.4.0 is Community Fund Claims) so we can reduce the number of versions released. Each individual protocol change will have its own version bit, so people can vote on each individually if they only want some of the updates rather than all of them.
 
 If you have any comments or suggestions, please either post to the reddit thread or directly on the NPIP GitHub.
 
-https://www.reddit.com/r/NavCoin/comments/980eql/npip004_static_block_reward
+https://www.reddit.com/r/Navcoin/comments/980eql/npip004_static_block_reward

@@ -1,13 +1,13 @@
 ---
-title: "购买 NavCoin"
+title: "购买 Navcoin"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
-description: "是公开开采的，没有代币销售。购买NavCoin的唯一方法是从第三方或交易所购买。"
+description: "是公开开采的，没有代币销售。购买Navcoin的唯一方法是从第三方或交易所购买。"
 ---
 {{< hero_section
-titleText="购买NavCoin"
+titleText="购买Navcoin"
 imgSrc="/images/buy-navcoin/buy-hero.svg"
 paragraphText="Nav币是公开挖掘的，没有任何代币销售。 获得NAV的唯一方法是从第三方或交易所购买。 交易所提供不同程度的安全性，隐私的保障以及个性化的资金和信息的管理。 执行您可以选择一个私人钱包，在交换之前存储您的Nav币。 请点击链接查看交易量并获取更多信息。"
 buttonText="查看市场数据"
@@ -17,7 +17,7 @@ newTab="正确的"
 >}}
 {{< item_container_section
     titleText="交易所"
-    subtitleText="NavCoin在以下的交易所中找到"
+    subtitleText="Navcoin在以下的交易所中找到"
 >}}
     {{< exchange
         titleText="B网"
@@ -293,8 +293,8 @@ newTab="正确的"
 {{< /item_container_section >}}
 
 {{< center_text_cta
-    titleText="花费您的 NavCoin"
+    titleText="花费您的 Navcoin"
     buttonText="去商店看看"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/商人"
-    innerText="许多企业已经开始将NavCoin集成作为一种支付选项，使用它，您可以轻松地购买一系列产品和服务。">}}
+    innerText="许多企业已经开始将Navcoin集成作为一种支付选项，使用它，您可以轻松地购买一系列产品和服务。">}}

@@ -7,13 +7,13 @@ author: ""
 description: ""
 ---
 {{< hero_section
-titleText="NavCoin 商业"
-paragraphText="你的企业的未来准备好了吗?越来越多的人在寻找使用数字货币支付的方式。如果你想走在潮流的前面，现在是时候开始在你的商店和网上接受它了。NavCoin为您的企业提供了正确的支付解决方案。"
+titleText="Navcoin 商业"
+paragraphText="你的企业的未来准备好了吗?越来越多的人在寻找使用数字货币支付的方式。如果你想走在潮流的前面，现在是时候开始在你的商店和网上接受它了。Navcoin为您的企业提供了正确的支付解决方案。"
 imgSrc="/images/for-business/bus-hero.svg"
 >}}
 
 {{< item_container_section 
-    titleText="NavCoin为什么是一个好的商业"
+    titleText="Navcoin为什么是一个好的商业"
     subtitleText=""
 >}}
     {{< feature 
@@ -29,12 +29,12 @@ imgSrc="/images/for-business/bus-hero.svg"
     {{< feature                 
         titleText="Simple"
         imgSrc="/images/for-business/bus-simple.svg"
-        text="付款就像扫描二维码一样简单。资金自动转移到您的NavCoin钱包。"
+        text="付款就像扫描二维码一样简单。资金自动转移到您的Navcoin钱包。"
     >}}
     {{< feature                 
         titleText="低费用"
         imgSrc="/images/for-business/bus-low-fee.svg"
-        text="NavCoin是世界上最便宜的支付网络之一，收费通常低于1%。"
+        text="Navcoin是世界上最便宜的支付网络之一，收费通常低于1%。"
     >}}
     {{< feature                 
         titleText="环保"
@@ -90,4 +90,4 @@ newTab="true"
     buttonText="可以在这里参看商人"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants/"
-    innerText="许多企业已经开始将NavCoin集成为一种支付选项，使用它，您可以轻松地购买一系列产品和服务。">}}
+    innerText="许多企业已经开始将Navcoin集成为一种支付选项，使用它，您可以轻松地购买一系列产品和服务。">}}

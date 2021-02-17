@@ -8,4 +8,4 @@ status: completed
 externalUrl: https://www.navexplorer.com/block/1
 ---
 
-NavCoin Core è stato aggiornato per alinearsi al sorgente 0.13 del codice di Bitcoin ed avere così maggiore stabilità, funzionalità e maggior capacità di integrazione con altri software incluse le Insight&nbsp;API.
+Navcoin Core è stato aggiornato per alinearsi al sorgente 0.13 del codice di Bitcoin ed avere così maggiore stabilità, funzionalità e maggior capacità di integrazione con altri software incluse le Insight&nbsp;API.

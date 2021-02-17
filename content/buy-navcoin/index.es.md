@@ -4,12 +4,12 @@ date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
-description: "NavCoin es un criptoactivo generado públicamente y no ha sido pre-minado/vendido. La única manera de comprar NavCoin es a través de una casa de intercambio tercerizada."
+description: "Navcoin es un criptoactivo generado públicamente y no ha sido pre-minado/vendido. La única manera de comprar Navcoin es a través de una casa de intercambio tercerizada."
 ---
 {{< hero_section
 titleText="Comprar Navs"
 imgSrc="/images/buy-navcoin/buy-hero.svg"
-paragraphText="NavCoin es un criptoactivo generado públicamente y no ha sido pre-minado/vendido. La única manera de comprar NavCoin es a través de una casa de intercambio tercerizada. Dichas páginas de intercambio proveen distintos grados de seguridad, privacidad y control sobre sus fondos e informacion. Antes de iniciar cualquier transaccion se recomienda investigar bien donde van a hacer la transferencia. Para mayot informacion sobre páginas de intercambio ir al siguente&nbsp;enlace:"
+paragraphText="Navcoin es un criptoactivo generado públicamente y no ha sido pre-minado/vendido. La única manera de comprar Navcoin es a través de una casa de intercambio tercerizada. Dichas páginas de intercambio proveen distintos grados de seguridad, privacidad y control sobre sus fondos e informacion. Antes de iniciar cualquier transaccion se recomienda investigar bien donde van a hacer la transferencia. Para mayot informacion sobre páginas de intercambio ir al siguente&nbsp;enlace:"
 buttonText="Estadisticas del mercado"
 buttonLink="https://coinmarketcap.com/currencies/nav-coin/#markets"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -17,7 +17,7 @@ newTab="true"
 >}}
 {{< item_container_section
     titleText="Páginas de intercambio"
-    subtitleText="NavCoin está disponible en las siguientes&nbsp;páginas"
+    subtitleText="Navcoin está disponible en las siguientes&nbsp;páginas"
 >}}
     {{< exchange
         titleText="Bittrex"
@@ -293,8 +293,8 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< center_text_cta
-    titleText="Usar sus NavCoins"
-    buttonText="Chequear tiendas que aceptan NavCoin"
+    titleText="Usar sus Navcoins"
+    buttonText="Chequear tiendas que aceptan Navcoin"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants"
-    innerText="Un número considerable de tiendas online han empezado a integrar NavCoin como opción de pagos, haciendole muy fácil a nuestra comunidad comprar productos y&nbsp;servicios.">}}
+    innerText="Un número considerable de tiendas online han empezado a integrar Navcoin como opción de pagos, haciendole muy fácil a nuestra comunidad comprar productos y&nbsp;servicios.">}}

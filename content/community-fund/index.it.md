@@ -3,13 +3,13 @@ title: "Community Fund"
 date: 2018-03-20T07:41:22+13:01
 draft: false
 type: "default"
-description: "The NavCoin community fund is a pool of NAV that's set aside to help kickstart community projects and  incentivise the ongoing development of NavCoin."
+description: "The Navcoin community fund is a pool of NAV that's set aside to help kickstart community projects and  incentivise the ongoing development of Navcoin."
 ---
 <section class="cf-hero">
     <div class="grid-container">
         <div class="text-container">
             <h1 style="font-weight: 600; margin-bottom:35px;">Fondo comunitario</h1>
-            <p>NavCoin è realizzato dalla comunità, per la comunità. Essendo un progetto open source non nato da premine o ICO - il fondo comunitario di NavCoin permette a chiunque di essere remunerato dal rete per il suo contributo all'ecosistema NavCoin. </p>
+            <p>Navcoin è realizzato dalla comunità, per la comunità. Essendo un progetto open source non nato da premine o ICO - il fondo comunitario di Navcoin permette a chiunque di essere remunerato dal rete per il suo contributo all'ecosistema Navcoin. </p>
         </div>
         <img src="/images/community-fund/cfu-hero.png" alt="Hero image">
     </div>
@@ -19,7 +19,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
 
 {{< item_container_section
     titleText="Il Fondo Comunitario più avanzato al&nbsp;mondo"
-    subtitleText="I progetti sono approvati e finanziati dal rete decentralizzato senza nessuna autorità centrale o intermediari. Questo approccio assicura che la direzione di NavCoin rimanga orientata all'interesse dell'intero rete. Questo fondo ti ripaga per aver avuto una idea, averla sviluppata e costruito il team per far prendere vita al tuo&nbsp;progetto."
+    subtitleText="I progetti sono approvati e finanziati dal rete decentralizzato senza nessuna autorità centrale o intermediari. Questo approccio assicura che la direzione di Navcoin rimanga orientata all'interesse dell'intero rete. Questo fondo ti ripaga per aver avuto una idea, averla sviluppata e costruito il team per far prendere vita al tuo&nbsp;progetto."
     >}}
     {{< feature
         titleText="Consenso a doppio voto"
@@ -49,7 +49,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
     {{< feature                 
         titleText="La rete decide"
         imgSrc="/images/community-fund/cfu-network.svg"
-        text="Il fondo comunitario dà più potere alla comunità stessa - ricompensando le persone che partecipano e dando voce alla rete per decidere la direzione di&nbsp;NavCoin."
+        text="Il fondo comunitario dà più potere alla comunità stessa - ricompensando le persone che partecipano e dando voce alla rete per decidere la direzione di&nbsp;Navcoin."
     >}}
 {{< /item_container_section >}}
 
@@ -62,7 +62,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
                 <div class="feature-card">
                     <img src="/images/community-fund/cfu-submit.svg" alt="" class="item-icon">
                     <h3>Passo 1: invia una proposta<br>&nbsp;</h3>
-                    <p style="margin-bottom: 10%">Trova un modo di migliorare l'ecosistema di NavCoin, sottoponi la tua idea al&nbsp;rete.<br>&nbsp;<br><br><br></p>
+                    <p style="margin-bottom: 10%">Trova un modo di migliorare l'ecosistema di Navcoin, sottoponi la tua idea al&nbsp;rete.<br>&nbsp;<br><br><br></p>
                     <a href="https://www.navexplorer.com/dao/proposals/pending" target="_blank" class="round-btn small gradient-btn">Crea proposta        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
@@ -71,7 +71,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
                 <div class="feature-card">
                     <img src="/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
                     <h3>Passo 2: Vota la proposta<br>&nbsp;</h3>
-                    <p style="margin-bottom: 10%">Chiaunque stia facendo staking del rete di NavCoin può votare  ‘sì’ oppure ‘no’ per qualsiasi proposta utilizzando il proprio&nbsp;peso di staking nel&nbsp;rete.<br><br></p>
+                    <p style="margin-bottom: 10%">Chiaunque stia facendo staking del rete di Navcoin può votare  ‘sì’ oppure ‘no’ per qualsiasi proposta utilizzando il proprio&nbsp;peso di staking nel&nbsp;rete.<br><br></p>
                     <a href="https://www.navexplorer.com/dao/proposals/pending" target="_blank" class="round-btn small gradient-btn">Vedi le proposte        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
@@ -107,7 +107,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
         <div class="item-card">
           <div class="item-main">
             <div class="item-icon-container">
-              <h2 class="cf-proposal-title"> Creazione di adesivi NavCoin </h2>
+              <h2 class="cf-proposal-title"> Creazione di adesivi Navcoin </h2>
             </div>
             <div class="item-details-group">
               <div class="item-text">
@@ -135,11 +135,11 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
         <div class="item-card">
           <div class="item-main">
             <div class="item-icon-container">
-              <h2 class="cf-proposal-title">NavCoin a emissioni zero </h2>
+              <h2 class="cf-proposal-title">Navcoin a emissioni zero </h2>
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">Questo progetto del Fondo comunitario è progettato per compensare l'impronta di carbonio della rete NavCoin, rendendo il NAV la prima criptovaluta a emissioni zero al mondo. <br><br>Questa proposta calcola la quantità di elettricità utilizzata dalla rete e dall'ecosistema circostante e propone di acquistare crediti di carbonio delle foreste native per compensare ciò. Puoi <a href = "https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6" target = "_blank" style="color:white; text-decoration: underline">leggere di più qui.<br><br><br></a></p>
+                <p style="margin-top:0; margin-bottom: 15px;">Questo progetto del Fondo comunitario è progettato per compensare l'impronta di carbonio della rete Navcoin, rendendo il NAV la prima criptovaluta a emissioni zero al mondo. <br><br>Questa proposta calcola la quantità di elettricità utilizzata dalla rete e dall'ecosistema circostante e propone di acquistare crediti di carbonio delle foreste native per compensare ciò. Puoi <a href = "https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6" target = "_blank" style="color:white; text-decoration: underline">leggere di più qui.<br><br><br></a></p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
                     <h4>Pending</h4>
@@ -161,11 +161,11 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
         <div class="item-card">
           <div class="item-main">
             <div class="item-icon-container">
-              <h2 class="cf-proposal-title"> NavCoin NEXT Portafoglio </h2>
+              <h2 class="cf-proposal-title"> Navcoin NEXT Portafoglio </h2>
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">NEXT è un portafoglio alternativo per NavCoin. È un portafoglio NavCoin open-source e multipiattaforma. Può essere eseguito su Windows, Mac e Linux. NEXT fornisce tutte le funzionalità di base del portafoglio come l'invio / ricezione di monete e molto altro.
+                <p style="margin-top:0; margin-bottom: 15px;">NEXT è un portafoglio alternativo per Navcoin. È un portafoglio Navcoin open-source e multipiattaforma. Può essere eseguito su Windows, Mac e Linux. NEXT fornisce tutte le funzionalità di base del portafoglio come l'invio / ricezione di monete e molto altro.
                  <br> <br> Questa proposta è destinata a finanziare la ricerca e lo sviluppo in corso del portafoglio NEXT. Puoi <a href="https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10" target="_blank" style="color:white; text-decoration: underline">leggere di più qui.<br><br><br></a></p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
@@ -201,7 +201,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
   bgPurple="true"
   newTab="true"
 >}}
-Dopo che ti sarai unito ai canali della comunità, il sito NavCoin Collab è il posto ideale in cui trovare una vasta gamma di progetti sui quali sta lavorando la comunità stessa. E' un forum che rappresenta la piazza o la vetrina dei progetti e rende facile la condivisione e la partecipazione ai&nbsp;progetti.
+Dopo che ti sarai unito ai canali della comunità, il sito Navcoin Collab è il posto ideale in cui trovare una vasta gamma di progetti sui quali sta lavorando la comunità stessa. E' un forum che rappresenta la piazza o la vetrina dei progetti e rende facile la condivisione e la partecipazione ai&nbsp;progetti.
 {{< /zig_section>}}
 
 {{< accordion
@@ -210,13 +210,13 @@ Dopo che ti sarai unito ai canali della comunità, il sito NavCoin Collab è il 
   anchor="download-core"
 
   itemOneTitle="Passo 1 - Comprendi il sistema e sviluppa la tua idea."
-  itemOneText="Pensa ad un progetto che possa ispirare la comunità che ruota attorno a NavCoin, puoi farlo da solo o confrontarti con tutti i membri della comunità in <a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> oppure su <a href=\"https://collab.navcoin.org\">NavCollab website</a>.  <br><img src=\"/images/community-fund/cfu-voting.png\" alt=\"voting image\">"    
+  itemOneText="Pensa ad un progetto che possa ispirare la comunità che ruota attorno a Navcoin, puoi farlo da solo o confrontarti con tutti i membri della comunità in <a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> oppure su <a href=\"https://collab.navcoin.org\">NavCollab website</a>.  <br><img src=\"/images/community-fund/cfu-voting.png\" alt=\"voting image\">"    
 
   itemTwoTitle="Passo 2 - Crea una pagina di progetto."
   itemTwoText="Puoi crearla ovunque, ma per avere la massima visibilità nella comunità prova ad utilizzare <a href=\"\">NavCollab website</a>.<br><br>Elabora i dettagli del progetto. Ti serve inoltre comunicare il motivo per cui la comunità dovrebbe finanziare l'idea, comunicare la necessità di coinvolgimento di altre persone con altre abilità, quanto tempo ti servirà per completare il progetto. <br><br>La tua proposta può inoltre essere finanziata a piccoli passi, specialmente se il progetto prevede un tempo relativamente lungo per essere completato."
 
   itemThreeTitle="Passo 3 - Crea il tuo squadra."
-  itemThreeText="Ti servono altre abilità per dare vita al tuo progetto? Utilizza i canali social di NavCoin ed il sito NavCollab per trovare membri della comunità che possano aiutarti a completarlo."
+  itemThreeText="Ti servono altre abilità per dare vita al tuo progetto? Utilizza i canali social di Navcoin ed il sito NavCollab per trovare membri della comunità che possano aiutarti a completarlo."
 
   itemFourTitle="Passo 4 - Invia la tua proposta."
   itemFourText="Completa il form sottostante includendo anche un link alla pagina di progetto.<br><br>Per completare il processo è necessario pagare una fee per la transazione della proposta. Se il fondo contiene una piccola quantità di NAV residui, il progetto che paga le fee maggiori è anche quello che avrà il diritto di essere finanziato per primo dal rete. La fee di 50 NAV inoltre previene che idee di scarso valore vengano inviate al fondo comunitario per approvazione.<br><br><br><iframe src=\"https://nav-proposal-creator.netlify.com/proposal/create\" style=\"width:100%; height:600px;border:none;\"></iframe>"
@@ -231,12 +231,12 @@ Dopo che ti sarai unito ai canali della comunità, il sito NavCoin Collab è il 
   itemSevenText="Inizia a lavorare al progeto e fai il megio possibile per restare aderente alla&nbsp;sequenza temporale.<br><br>Aggiorna la comunità in merito a come sta andando lo sviluppo del progetto, se necessario puoi chiedere aiuto alla comunità per un supporto sul tuo progetto durante&nbsp;l'esecuzione."
 
   itemEightTitle="Passo 8 - Richiedi il pagamento."
-  itemEightText="Una volta completato il progetto puoi inviare una richiesta di pagamento al fondo comunitario. Se ci sono le pietre miliare chiare puoi anche richiedere pagamenti frazionati e schedulati secondo l'avanzamento di&nbsp;progetto.<br><br>Il pagamento è soggetto ad un ciclo di votazione della rete NavCoin e quindi dei suoi staker. Ci deve essere, come in precedenza, una partecipazione minima del 50% della rete, la votazione che termina con il 70% di ‘si’ darà luogo al pagamento, se la votazione termina con il 70% di ‘no’ la richiesta di pagamento verrà rigettata.<br><br>La richiesta di pagamento deve essere inviata prima che i termini di progetto siano scaduti, ovvero entro il tempo indicato durante la creazione della proposta di progetto inviata al fondo comunitario, prevedere un piccolo margine di tempo è consigliabile."
+  itemEightText="Una volta completato il progetto puoi inviare una richiesta di pagamento al fondo comunitario. Se ci sono le pietre miliare chiare puoi anche richiedere pagamenti frazionati e schedulati secondo l'avanzamento di&nbsp;progetto.<br><br>Il pagamento è soggetto ad un ciclo di votazione della rete Navcoin e quindi dei suoi staker. Ci deve essere, come in precedenza, una partecipazione minima del 50% della rete, la votazione che termina con il 70% di ‘si’ darà luogo al pagamento, se la votazione termina con il 70% di ‘no’ la richiesta di pagamento verrà rigettata.<br><br>La richiesta di pagamento deve essere inviata prima che i termini di progetto siano scaduti, ovvero entro il tempo indicato durante la creazione della proposta di progetto inviata al fondo comunitario, prevedere un piccolo margine di tempo è consigliabile."
 >}}
 
 {{< social_grid_section
     titleText="Unisciti alla Comunità"
-    subtitleText="Promuovi la tua proposta nel rete NavCoin, anche per ottenere reazioni, trovare collaboratori e raccogliere voti."
+    subtitleText="Promuovi la tua proposta nel rete Navcoin, anche per ottenere reazioni, trovare collaboratori e raccogliere voti."
     bgPurple="true"
 >}}
     {{< social                 
@@ -252,7 +252,7 @@ Dopo che ti sarai unito ai canali della comunità, il sito NavCoin Collab è il 
 {{< social                 
     titleText="Reddit"
     imgSrc="/images/for-beginners/beg-reddit.svg"
-    linkUrl="https://reddit.com/r/NavCoin/"
+    linkUrl="https://reddit.com/r/Navcoin/"
 >}}
 {{< social                 
     titleText="Telegram"
@@ -262,17 +262,17 @@ Dopo che ti sarai unito ai canali della comunità, il sito NavCoin Collab è il 
 {{< social                 
     titleText="Facebook"
     imgSrc="/images/for-beginners/beg-fb.svg"
-    linkUrl="https://www.facebook.com/NavCoin/"
+    linkUrl="https://www.facebook.com/Navcoin/"
 >}}
 {{< social                 
     titleText="Twitter"
     imgSrc="/images/for-beginners/beg-twitter.svg"
-    linkUrl="https://twitter.com/NavCoin"
+    linkUrl="https://twitter.com/Navcoin"
 >}}
 {{< social                 
     titleText="Youtube"
     imgSrc="/images/for-beginners/beg-yt.svg"
-    linkUrl="https://www.youtube.com/NavCoinCore"
+    linkUrl="https://www.youtube.com/NavcoinCore"
 >}}
 {{< social                 
     titleText="Medium"

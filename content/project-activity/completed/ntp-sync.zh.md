@@ -8,4 +8,4 @@ status: completed
 externalUrl: https://github.com/NAVCoin/navcoin-core/releases/tag/4.2.0/
 ---
 
-NavCoin Core现在强制在启动时对NTP服务器进行时钟同步。这是为了防止加注者创建带有错误时间戳的区块，从而导致网络的区块间距问题。
+Navcoin Core现在强制在启动时对NTP服务器进行时钟同步。这是为了防止加注者创建带有错误时间戳的区块，从而导致网络的区块间距问题。

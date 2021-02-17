@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fd773cff-cd56-4aad-842d-7aca4ff79893/deploy-status)](https://app.netlify.com/sites/navcoin/deploys)
 
-# NavCoin.org
+# Navcoin.org
 
 Maintained by the global NAV community
 
@@ -12,7 +12,7 @@ Anyone can contribute to the site by making a pull request with the changes you'
 
 There is a bounty program which you can get paid in NAV for contributing to this websites.
 
-https://www.reddit.com/r/NavCoin/comments/bttld6/websites_bounty_program
+https://www.reddit.com/r/Navcoin/comments/bttld6/websites_bounty_program
 
 To make sure you are eligible to claim a bounty please follow these simple steps;
 

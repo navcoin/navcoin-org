@@ -8,4 +8,4 @@ status: completed
 externalUrl: https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki
 ---
 
-在2016年对NavCoin协议进行了改版后，在NavCoin Core中实现了BIP32。地址现在可以从主私钥确定地生成，从而消除了频繁备份钱包的要求。
+在2016年对Navcoin协议进行了改版后，在Navcoin Core中实现了BIP32。地址现在可以从主私钥确定地生成，从而消除了频繁备份钱包的要求。

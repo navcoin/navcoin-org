@@ -31,6 +31,6 @@ The preview can be found on the pull reqeuest once it's made by clicking `show a
 ### Checklist
 
 - [ ] Have you assigned/claimed the issues you've resolved in this pull request?
-- [ ] Have the issues been moved to the QA column of the NavCoin Websites project? 
+- [ ] Have the issues been moved to the QA column of the Navcoin Websites project? 
 - [ ] Have you checked there are no merge conflicts?
 - [ ] Have you tested the changes work across both mobile and desktop?

@@ -3,11 +3,11 @@ title: "Contribute to the Protocol"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
-description: "There are several ways to contribute to the NavCoin protocol - so if you’d like to support the project, here’s some of the best ways to get involved"
+description: "There are several ways to contribute to the Navcoin protocol - so if you’d like to support the project, here’s some of the best ways to get involved"
 ---
 {{< hero_section
 titleText="Get Involved"
-paragraphText="There are several ways to contribute to the NavCoin protocol, not all of which require a high level of programming skills. If you’d like to support the NavCoin project, here’s some of the best ways to get&nbsp;involved."
+paragraphText="There are several ways to contribute to the Navcoin protocol, not all of which require a high level of programming skills. If you’d like to support the Navcoin project, here’s some of the best ways to get&nbsp;involved."
 imgSrc="/images/get-involved/con-hero.svg"
 >}}
 {{< zig_section
@@ -19,7 +19,7 @@ imgSrc="/images/get-involved/con-translate.svg"
     reversed="true"
     newTab="true"
 >}}
-NavCoin Core has been translated into over two dozen languages, with dozens more languages partially translated — but more help is always needed. NavCoin uses Transifex for translation, so you’ll need to setup an&nbsp;account.<br><br>To contribute a translation, go to the NavCoin project on Transifex: <br><a href="https://www.transifex.com/navcoin/navcoin-core" style="text-decoration:underline;">https://www.transifex.com/navcoin/navcoin-core</a><br><br>Click on the 'Join Team' button, let us know which languages you’re able to translate, and start&nbsp;translating!
+Navcoin Core has been translated into over two dozen languages, with dozens more languages partially translated — but more help is always needed. Navcoin uses Transifex for translation, so you’ll need to setup an&nbsp;account.<br><br>To contribute a translation, go to the Navcoin project on Transifex: <br><a href="https://www.transifex.com/navcoin/navcoin-core" style="text-decoration:underline;">https://www.transifex.com/navcoin/navcoin-core</a><br><br>Click on the 'Join Team' button, let us know which languages you’re able to translate, and start&nbsp;translating!
 {{< /zig_section>}}
 
 {{< zig_section
@@ -31,7 +31,7 @@ NavCoin Core has been translated into over two dozen languages, with dozens more
   bgPurple="true"
   newTab="true"
 >}}
-We are currently working to bring online an open source developer documentation resource for NavCoin Core. If you want to help get this up and running please head over to GitHub and see how you can help out. Just make sure you follow the GitHub conventions outlined on this page and submit an issue about what documentation you’re writing to reduce duplication of&nbsp;effort.
+We are currently working to bring online an open source developer documentation resource for Navcoin Core. If you want to help get this up and running please head over to GitHub and see how you can help out. Just make sure you follow the GitHub conventions outlined on this page and submit an issue about what documentation you’re writing to reduce duplication of&nbsp;effort.
 {{< /zig_section>}}
 
 {{< zig_section
@@ -43,11 +43,11 @@ buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 newTab="true"
 >}}
-For all non-critical problems with NavCoin Core please search for similar issues and if you don’t find any, submit a new issue providing the information&nbsp;below.
+For all non-critical problems with Navcoin Core please search for similar issues and if you don’t find any, submit a new issue providing the information&nbsp;below.
 <br>
 <ul class="article-ul" style="color: rgba(0, 0, 0, 0.55);">
   <li>A clear description of the problem and steps to reproduce the&nbsp;problem.</li>
-  <li>What version of NavCoin Core you use or what commit you built using.</li><li>Any relevant entries from your debug.log file. Please ensure to strip out any sensitive information before publishing your debug.log&nbsp;entries.</li>
+  <li>What version of Navcoin Core you use or what commit you built using.</li><li>Any relevant entries from your debug.log file. Please ensure to strip out any sensitive information before publishing your debug.log&nbsp;entries.</li>
 </ul>
 <p class="paragraph-text">The best strategy to get your issue fixed quickly is to make it as easy as possible for the development team to track down the problem and write a fix. Providing more information and organizing it well helps&nbsp;significantly.</p>
 {{< /zig_section>}}
@@ -61,16 +61,16 @@ For all non-critical problems with NavCoin Core please search for similar issues
   bgPurple="true"
   newTab="true"
 >}}
-The issue tracker is the best place to find a useful way to contribute to NavCoin&nbsp;Core. Before starting to write any patches for issues you find, you may want to comment on the issue to make sure nobody else is already working on it. Remember that even if you’re resolving an issue you’ve found you will need to first create an issue in the issue&nbsp;tracker.
+The issue tracker is the best place to find a useful way to contribute to Navcoin&nbsp;Core. Before starting to write any patches for issues you find, you may want to comment on the issue to make sure nobody else is already working on it. Remember that even if you’re resolving an issue you’ve found you will need to first create an issue in the issue&nbsp;tracker.
 <br><br>
 To resolve an issue follow this process:
 <br>
 <ul class="article-ul" style="color: rgba(255,255,255,0.55);">
-  <li>Fork NavCoin/navcoin-core to your own GitHub&nbsp;account.</li>
+  <li>Fork Navcoin/navcoin-core to your own GitHub&nbsp;account.</li>
   <li>Create a branch to work in to resolve the issue then get to&nbsp;work.</li>
   <li>Write or update unit and integration tests to cover any changes you’ve&nbsp;made.</li>
-  <li>Make a pull request from your branch back into the main NavCoin Core repository with the issue type and number in the title (eg. Trivial: fixes spelling mistake #145).</li>
-  <li>Talk with other NavCoin Core contributors on Discord or through GitHub to alert them to the pending Pull Request and they will review it as soon as&nbsp;possible.</li>
+  <li>Make a pull request from your branch back into the main Navcoin Core repository with the issue type and number in the title (eg. Trivial: fixes spelling mistake #145).</li>
+  <li>Talk with other Navcoin Core contributors on Discord or through GitHub to alert them to the pending Pull Request and they will review it as soon as&nbsp;possible.</li>
 </ul>
 <p class="paragraph-text">For the full contribution workflow details, please see the readme on&nbsp;GitHub.</p>
 {{< /zig_section>}}
@@ -81,7 +81,7 @@ imgSrc="/images/get-involved/con-test.svg"
 reversed="true"
 newTab="true"
 >}}
-NavCoin Core is covered by many tests, but patches that improve test coverage are always welcome and are a great way to build familiarity with the codebase.
+Navcoin Core is covered by many tests, but patches that improve test coverage are always welcome and are a great way to build familiarity with the codebase.
 <br><br>
 Developers are strongly encouraged to write <a href="https://github.com/NAVCoin/navcoin-core/blob/master/doc/unit-tests.md" target="e" style="text-decoration:underline;">unit tests</a> for new code, and to submit new unit tests for old code. Unit tests can be compiled and run (assuming they weren't disabled in configure) with: make&nbsp;check.
 <br><br>
@@ -97,7 +97,7 @@ There are also <a href="https://github.com/NAVCoin/navcoin-core/tree/master/qa" 
   bgPurple="true"
   newTab="true"
 >}}
-NavCoin Core is security software that helps protect assets worth millions of dollars, so every code change needs to be reviewed by experienced&nbsp;developers.<br><br>It can take a long time for other developers to review your pull requests. Remember that all reviewers are taking time away from their own projects to review your pull requests, so be patient and respectful of their&nbsp;time.<br><br>Please also consider helping to review other people’s pull requests. You don’t need to be an expert in NavCoin, the NavCoin Core codebase, or C++ (although all these things help). There are almost always open pull requests that any programmer can&nbsp;review.
+Navcoin Core is security software that helps protect assets worth millions of dollars, so every code change needs to be reviewed by experienced&nbsp;developers.<br><br>It can take a long time for other developers to review your pull requests. Remember that all reviewers are taking time away from their own projects to review your pull requests, so be patient and respectful of their&nbsp;time.<br><br>Please also consider helping to review other people’s pull requests. You don’t need to be an expert in Navcoin, the Navcoin Core codebase, or C++ (although all these things help). There are almost always open pull requests that any programmer can&nbsp;review.
 {{< /zig_section>}}
 
 {{< zig_section
@@ -109,13 +109,13 @@ buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 newTab="true"
 >}}
-NavCoin Core strives to continually improve the underlying protocol of NavCoin. Our aim is always to improve security, privacy and efficiency while encouraging decentralisation, uptake and usability. If you want to help us improve the NavCoin protocol, the best place to document your suggestion is on the NPIPs (NavCoin Protocol Improvement Proposals) GitHub&nbsp;repository.<br><br>People wishing to submit NPIPs, first should propose their idea or document to the NavCoin Core development community through Discord or IRC (irc.freenode.net #navcoin). After discussion, please open a PR to the NPIPs repository. After copy-editing and acceptance, it will be published&nbsp;there.<br><br>We are fairly liberal with approving NPIPs, and try not to be too involved in decision making on behalf of the community. The exception is in very rare cases of dispute resolution when a decision is contentious and cannot be agreed upon. In those cases, the conservative option will always be&nbsp;preferred.<br><br>Having a NPIP here does not make it a formally accepted standard until its status becomes Final or Active.<br><br>Those proposing changes should consider that ultimately consent may rest with the consensus of the NavCoin&nbsp;users.
+Navcoin Core strives to continually improve the underlying protocol of Navcoin. Our aim is always to improve security, privacy and efficiency while encouraging decentralisation, uptake and usability. If you want to help us improve the Navcoin protocol, the best place to document your suggestion is on the NPIPs (Navcoin Protocol Improvement Proposals) GitHub&nbsp;repository.<br><br>People wishing to submit NPIPs, first should propose their idea or document to the Navcoin Core development community through Discord or IRC (irc.freenode.net #navcoin). After discussion, please open a PR to the NPIPs repository. After copy-editing and acceptance, it will be published&nbsp;there.<br><br>We are fairly liberal with approving NPIPs, and try not to be too involved in decision making on behalf of the community. The exception is in very rare cases of dispute resolution when a decision is contentious and cannot be agreed upon. In those cases, the conservative option will always be&nbsp;preferred.<br><br>Having a NPIP here does not make it a formally accepted standard until its status becomes Final or Active.<br><br>Those proposing changes should consider that ultimately consent may rest with the consensus of the Navcoin&nbsp;users.
 {{< /zig_section>}}
 
 {{< zig_section
   titleText="Disclose a security vulnerability"
   imgSrc="/images/get-involved/con-disclosure.svg"
-  paragraphText="NavCoin is experimental technology and sometimes critical bugs are found. If you’re a researcher and you’ve found a security vulnerability head over to the Responsible Disclosure page to see how you can report&nbsp;it."
+  paragraphText="Navcoin is experimental technology and sometimes critical bugs are found. If you’re a researcher and you’ve found a security vulnerability head over to the Responsible Disclosure page to see how you can report&nbsp;it."
     buttonText="Responsible disclosure"
   buttonUrl="/responsible-disclosure/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
