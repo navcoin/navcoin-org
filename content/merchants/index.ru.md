@@ -198,7 +198,7 @@ newTab="true"
         imgSrc="/images/merchants/mer-for-store.svg"
         subtext="Используйте кошелек NavPay на вашем смартфоне. Клиенты просто сканируют ваш QR-код и мгновенно переводят&nbsp;средства"
         linkText="Посетите NavPay"
-        linkUrl="https://navhub.org/projects/nav-pay/"
+        linkUrl="https://navpay.navcoin.org"
         linkImgSrc="/images/icons/rightward-arrow.svg"
 
     >}}

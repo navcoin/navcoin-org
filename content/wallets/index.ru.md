@@ -62,7 +62,7 @@ newTab="true"
         titleText="NavPay"
         walletImgSrc="/images/wallets/wal-navpay.png"
         text="NavPay - это простой в использовании легкий кошелек, который позволяет безопасно хранить NAV. Он доступен для рабочего стола и мобильных устройств и не занимает гигабайты памяти.<br>&nbsp;"
-        buttonUrl="https://navhub.org/projects/nav-pay/"
+        buttonUrl="https://navpay.navcoin.org"
         buttonText="Загрузить"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         platformImg1Src="/images/platforms/android.png"
@@ -109,7 +109,7 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="Скачать Navcoin Core 6.0.0"
+    titleText="Скачать Navcoin Core 6.0.1"
     subtitleText="Кошелек Navcoin Core был тщательно переработан, чтобы быть интуитивно понятным и простым в использовании. Он идет с мастером настройки и всем необходимым для загрузки блокчейна и начала отправки транзакций в безопасной&nbsp;среде."
     bgPurple="true"
     anchor="download-core"
@@ -123,7 +123,7 @@ newTab="true"
         imgSrc="/images/wallets/wal-windows.svg"
         subtext=""
         linkText="Загрузить"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.0/navcoin-6.0.0-win64-setup-unsigned.exe"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.1/navcoin-6.0.1-win64-setup-unsigned.exe"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action
@@ -131,7 +131,7 @@ newTab="true"
         imgSrc="/images/wallets/wal-mac.svg"
         subtext=""
         linkText="Загрузить"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.0/navcoin-6.0.0-osx-signed.dmg"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.1/navcoin-6.0.1-osx-signed.dmg"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action                 
@@ -139,7 +139,7 @@ newTab="true"
         imgSrc="/images/wallets/wal-linux.svg"
         subtext=""
         linkText="Загрузить"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.0/navcoin-6.0.0-x86_64-linux-gnu.tar.gz"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.1/navcoin-6.0.1-x86_64-linux-gnu.tar.gz"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
 {{< /item_container_section >}}

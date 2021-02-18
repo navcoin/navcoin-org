@@ -94,9 +94,16 @@ enableRobotsTXT = true
         url = "/for-business/"
         parent="get-started"
     [[Languages.en.menu.main]]
+        name = "Knowledge Base"
+        title = "Knowledge Base"
+        weight = 70
+        url = "https://info.navcoin.org/"
+        identifier = "knowledge-base"
+        parent = "get-started"
+    [[Languages.en.menu.main]]
         name = "Buy Navcoin"
         title = "Buy Navcoin"
-        weight = 70
+        weight = 80
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"
         parent = "get-started"
@@ -214,9 +221,16 @@ enableRobotsTXT = true
         url = "/for-business/"
         parent="get-started"
     [[Languages.es.menu.main]]
+        name = "Base de conocimientos"
+        title = "Base de conocimientos"
+        weight = 70
+        url = "https://info.navcoin.org/"
+        identifier = "knowledge-base"
+        parent = "get-started"
+    [[Languages.es.menu.main]]
         name = "Comprar Navcoin"
         title = "Comprar Navcoin"
-        weight = 70
+        weight = 80
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"
         parent = "get-started"
@@ -335,9 +349,16 @@ enableRobotsTXT = true
         url = "/for-business/"
         parent="get-started"
     [[Languages.ru.menu.main]]
+        name = "Knowledge Base"
+        title = "Knowledge Base"
+        weight = 70
+        url = "https://info.navcoin.org/"
+        identifier = "knowledge-base"
+        parent = "get-started"
+    [[Languages.ru.menu.main]]
         name = "Купить Navcoin"
         title = "Купить Navcoin"
-        weight = 70
+        weight = 80
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"
         parent = "get-started"
@@ -456,9 +477,16 @@ enableRobotsTXT = true
         url = "/for-business/"
         parent="get-started"
     [[Languages.zh.menu.main]]
+        name = "Knowledge Base"
+        title = "Knowledge Base"
+        weight = 70
+        url = "https://info.navcoin.org/"
+        identifier = "knowledge-base"
+        parent = "get-started"
+    [[Languages.zh.menu.main]]
         name = "购买Navcoin"
         title = "购买Navcoin"
-        weight = 70
+        weight = 80
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"
         parent = "get-started"
@@ -577,9 +605,16 @@ enableRobotsTXT = true
         url = "/for-business/"
         parent="get-started"
     [[Languages.kr.menu.main]]
+        name = "Knowledge Base"
+        title = "Knowledge Base"
+        weight = 70
+        url = "https://info.navcoin.org/"
+        identifier = "knowledge-base"
+        parent = "get-started"
+    [[Languages.kr.menu.main]]
         name = "Navcoin 구입"
         title = "Navcoin 구입"
-        weight = 70
+        weight = 80
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"
         parent = "get-started"
@@ -699,9 +734,16 @@ enableRobotsTXT = true
         url = "/for-business/"
         parent="get-started"
     [[Languages.jp.menu.main]]
+        name = "Knowledge Base"
+        title = "Knowledge Base"
+        weight = 70
+        url = "https://info.navcoin.org/"
+        identifier = "knowledge-base"
+        parent = "get-started"
+    [[Languages.jp.menu.main]]
         name = "Navcoinを購入する"
         title = "Navcoinを購入する"
-        weight = 70
+        weight = 80
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"
         parent = "get-started"
@@ -819,9 +861,16 @@ enableRobotsTXT = true
         url = "/for-business/"
         parent="get-started"
     [[Languages.it.menu.main]]
+        name = "Knowledge Base"
+        title = "Knowledge Base"
+        weight = 70
+        url = "https://info.navcoin.org/"
+        identifier = "knowledge-base"
+        parent = "get-started"
+    [[Languages.it.menu.main]]
         name = "Compra Navcoin"
         title = "Compra Navcoin"
-        weight = 70
+        weight = 80
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"
         parent = "get-started"

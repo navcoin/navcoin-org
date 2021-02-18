@@ -199,7 +199,7 @@ newTab="true"
         imgSrc="/images/merchants/mer-for-store.svg"
         subtext="Usando NavPay en el teléfono, los usuarios pueden escanear un código QR y transferir fondos&nbsp;automáticamente."
         linkText="Visitar NavPay"
-        linkUrl="https://navhub.org/projects/nav-pay/"
+        linkUrl="https://navpay.navcoin.org"
         linkImgSrc="/images/icons/rightward-arrow.svg"
 
     >}}

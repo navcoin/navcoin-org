@@ -62,7 +62,7 @@ newTab="正确的"
         titleText="NavPay"
         walletImgSrc="/images/wallets/wal-navpay.png"
         text="NavPay是一个易于使用的轻钱包，它可以让你安全地储存你的导航。它可以在台式机和手机上使用，而且不占用gb的存储空间。"
-        buttonUrl="https://navhub.org/projects/nav-pay/"
+        buttonUrl="https://navpay.navcoin.org"
         buttonText="下载"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         platformImg1Src="/images/platforms/android.png"
@@ -109,7 +109,7 @@ newTab="正确的"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="下载Navcoin Core 6.0.0"
+    titleText="下载Navcoin Core 6.0.1"
     subtitleText="Navcoin Core钱包经过精心提炼，直观易用。它附带了一个安装向导，以及加载区块链并开始在安全环境中发送交易所需的一切。"
     bgPurple="正确的"
     anchor="download-core"
@@ -123,7 +123,7 @@ newTab="正确的"
         imgSrc="/images/wallets/wal-windows.svg"
         subtext=""
         linkText="下载"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.0/navcoin-6.0.0-win64-setup-unsigned.exe"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.1/navcoin-6.0.1-win64-setup-unsigned.exe"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action
@@ -131,7 +131,7 @@ newTab="正确的"
         imgSrc="/images/wallets/wal-mac.svg"
         subtext=""
         linkText="下载"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.0/navcoin-6.0.0-osx-signed.dmg"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.1/navcoin-6.0.1-osx-signed.dmg"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action                 
@@ -139,7 +139,7 @@ newTab="正确的"
         imgSrc="/images/wallets/wal-linux.svg"
         subtext=""
         linkText="下载"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.0/navcoin-6.0.0-x86_64-linux-gnu.tar.gz"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.1/navcoin-6.0.1-x86_64-linux-gnu.tar.gz"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
 {{< /item_container_section >}}

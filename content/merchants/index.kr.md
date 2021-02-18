@@ -197,7 +197,7 @@ newTab="true"
         imgSrc="/images/merchants/mer-for-store.svg"
         subtext="스마트폰에서 Nav페이 지갑을 사용하십시오. 고객은 QR 코드를 스캔하여 즉시 자금을 이전할 수&nbsp;있습니다"
         linkText="Nav페이에 방문하세요"
-        linkUrl="https://navhub.org/projects/nav-pay/"
+        linkUrl="https://navpay.navcoin.org"
         linkImgSrc="/images/icons/rightward-arrow.svg"
     >}}
     {{< action

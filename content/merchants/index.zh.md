@@ -198,7 +198,7 @@ newTab="true"
         imgSrc="/images/merchants/mer-for-store.svg"
         subtext="在你的智能手机上使用NavPay钱包。客户只需扫描二维码即可立即转账。"
         linkText="访问NavPay"
-        linkUrl="https://navhub.org/projects/nav-pay/"
+        linkUrl="https://navpay.navcoin.org"
         linkImgSrc="/images/icons/rightward-arrow.svg"
 
     >}}
