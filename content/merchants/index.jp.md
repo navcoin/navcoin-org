@@ -198,7 +198,7 @@ newTab="true"
         imgSrc="/images/merchants/mer-for-store.svg"
         subtext="NavPay ウォレットを、貴方のスマートフォン上で使いましょう。お客様はただ貴方の QRコードをスキャンするだけで、即座に支払いを行う&nbsp;事ができます。"
         linkText="NavPayへ"
-        linkUrl="https://navhub.org/projects/nav-pay/"
+        linkUrl="https://navpay.navcoin.org"
         linkImgSrc="/images/icons/rightward-arrow.svg"
 
     >}}

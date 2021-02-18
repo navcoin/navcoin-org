@@ -199,7 +199,7 @@ newTab="true"
         imgSrc="/images/merchants/mer-for-store.svg"
         subtext="Use NavPay wallet on your smartphone. Customers just scan your QR code and transfer the fund&nbsp;instantly<br>&nbsp;"
         linkText="Visit NavPay"
-        linkUrl="https://navhub.org/projects/nav-pay/"
+        linkUrl="https://navpay.navcoin.org"
         linkImgSrc="/images/icons/rightward-arrow.svg"
 
     >}}
