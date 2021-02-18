@@ -110,7 +110,7 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-titleText="Descargar NavCoin Core 6.0.0"
+titleText="Descargar NavCoin Core 6.0.1"
 subtitleText="El monedero NavCoin Core ha sido cuidadosamente diseñado para que sea intuitivo y fácil de usar. Viene con un asistente de configuración y todo lo que necesita para cargar la cadena de bloques y comenzar a enviar transacciones de forma&nbsp;segura."
 bgPurple="true"
 anchor="download-core"
@@ -126,7 +126,7 @@ newTab="true"
         imgSrc="/images/wallets/wal-windows.svg"
         subtext=""
         linkText="Descargar"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.0/navcoin-6.0.0-win64-setup-unsigned.exe"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.1/navcoin-6.0.1-win64-setup-unsigned.exe"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action
@@ -134,7 +134,7 @@ newTab="true"
         imgSrc="/images/wallets/wal-mac.svg"
         subtext=""
         linkText="Descargar"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.0/navcoin-6.0.0-osx-signed.dmg"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.1/navcoin-6.0.1-osx-signed.dmg"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action
@@ -142,7 +142,7 @@ newTab="true"
         imgSrc="/images/wallets/wal-linux.svg"
         subtext=""
         linkText="Descargar"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.0/navcoin-6.0.0-x86_64-linux-gnu.tar.gz"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.1/navcoin-6.0.1-x86_64-linux-gnu.tar.gz"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
 
