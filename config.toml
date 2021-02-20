@@ -20,31 +20,31 @@ enableRobotsTXT = true
 
 [Languages]
     [Languages.en]
-        title = "NavCoin - An Easy To Use Decentralized Cryptocurrency"
+        title = "Navcoin - An Easy To Use Decentralized Cryptocurrency"
         weight = 1
         languageName = "English"
     [Languages.es]
-        title = "NavCoin - Una Criptomoneda descentralizada fácil de usar "
+        title = "Navcoin - Una Criptomoneda descentralizada fácil de usar "
         weight = 2
         languageName = "Español"
     [Languages.ru]
-        title = "NavCoin - простая в использовании децентрализованная криптовалюта "
+        title = "Navcoin - простая в использовании децентрализованная криптовалюта "
         weight = 3
         languageName = "По-русски"
     [Languages.zh]
-        title = "NavCoin - 种便捷的去中心化加密货币 "
+        title = "Navcoin - 种便捷的去中心化加密货币 "
         weight = 4
         languageName = "中文"
     [Languages.kr]
-        title = "NavCoin - Una Criptomoneda descentralizada fácil de usar "
+        title = "Navcoin - Una Criptomoneda descentralizada fácil de usar "
         weight = 5
         languageName = "Korean"
     [Languages.jp]
-        title = "NavCoin - An Easy To Use Decentralized Cryptocurrency"
+        title = "Navcoin - An Easy To Use Decentralized Cryptocurrency"
         weight = 6
         languageName = "日本語"
     [Languages.it]
-        title = "NavCoin - Una criptovaluta facile da utilizzare "
+        title = "Navcoin - Una criptovaluta facile da utilizzare "
         weight = 8
         languageName = "Italian"
 
@@ -59,8 +59,8 @@ enableRobotsTXT = true
     identifier = "get-started"
     depth = 1
     [[Languages.en.menu.main]]
-        name = "Why NavCoin"
-        title = "Why NavCoin"
+        name = "Why Navcoin"
+        title = "Why Navcoin"
         weight = 20
         url = "/why-navcoin/"
         identifier = "why-navcoin"
@@ -101,8 +101,8 @@ enableRobotsTXT = true
         identifier = "knowledge-base"
         parent = "get-started"
     [[Languages.en.menu.main]]
-        name = "Buy NavCoin"
-        title = "Buy NavCoin"
+        name = "Buy Navcoin"
+        title = "Buy Navcoin"
         weight = 80
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"
@@ -186,8 +186,8 @@ enableRobotsTXT = true
     identifier = "get-started"
     depth = 1
     [[Languages.es.menu.main]]
-        name = "¿Por qué NavCoin?"
-        title = "¿Por qué NavCoin?"
+        name = "¿Por qué Navcoin?"
+        title = "¿Por qué Navcoin?"
         weight = 20
         url = "/why-navcoin/"
         identifier = "why-navcoin"
@@ -228,8 +228,8 @@ enableRobotsTXT = true
         identifier = "knowledge-base"
         parent = "get-started"
     [[Languages.es.menu.main]]
-        name = "Comprar NavCoin"
-        title = "Comprar NavCoin"
+        name = "Comprar Navcoin"
+        title = "Comprar Navcoin"
         weight = 80
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"
@@ -314,8 +314,8 @@ enableRobotsTXT = true
     identifier = "get-started"
     depth = 1
     [[Languages.ru.menu.main]]
-        name = "Почему NavCoin?"
-        title = "Почему NavCoin?"
+        name = "Почему Navcoin?"
+        title = "Почему Navcoin?"
         weight = 20
         url = "/why-navcoin/"
         identifier = "why-navcoin"
@@ -356,8 +356,8 @@ enableRobotsTXT = true
         identifier = "knowledge-base"
         parent = "get-started"
     [[Languages.ru.menu.main]]
-        name = "Купить NavCoin"
-        title = "Купить NavCoin"
+        name = "Купить Navcoin"
+        title = "Купить Navcoin"
         weight = 80
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"
@@ -442,8 +442,8 @@ enableRobotsTXT = true
     identifier = "get-started"
     depth = 1
     [[Languages.zh.menu.main]]
-        name = "为什么选择NavCoin?"
-        title = "为什么选择NavCoin?"
+        name = "为什么选择Navcoin?"
+        title = "为什么选择Navcoin?"
         weight = 20
         url = "/why-navcoin/"
         identifier = "why-navcoin"
@@ -484,8 +484,8 @@ enableRobotsTXT = true
         identifier = "knowledge-base"
         parent = "get-started"
     [[Languages.zh.menu.main]]
-        name = "购买NavCoin"
-        title = "购买NavCoin"
+        name = "购买Navcoin"
+        title = "购买Navcoin"
         weight = 80
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"
@@ -570,8 +570,8 @@ enableRobotsTXT = true
     identifier = "get-started"
     depth = 1
     [[Languages.kr.menu.main]]
-        name = "왜 NavCoin인가?"
-        title = "왜 NavCoin인가?"
+        name = "왜 Navcoin인가?"
+        title = "왜 Navcoin인가?"
         weight = 20
         url = "/why-navcoin/"
         identifier = "why-navcoin"
@@ -612,8 +612,8 @@ enableRobotsTXT = true
         identifier = "knowledge-base"
         parent = "get-started"
     [[Languages.kr.menu.main]]
-        name = "NavCoin 구입"
-        title = "NavCoin 구입"
+        name = "Navcoin 구입"
+        title = "Navcoin 구입"
         weight = 80
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"
@@ -699,8 +699,8 @@ enableRobotsTXT = true
     identifier = "get-started"
     depth = 1
     [[Languages.jp.menu.main]]
-        name = "なぜNavCoin"
-        title = "なぜNavCoin"
+        name = "なぜNavcoin"
+        title = "なぜNavcoin"
         weight = 20
         url = "/why-navcoin/"
         identifier = "why-navcoin"
@@ -741,8 +741,8 @@ enableRobotsTXT = true
         identifier = "knowledge-base"
         parent = "get-started"
     [[Languages.jp.menu.main]]
-        name = "NavCoinを購入する"
-        title = "NavCoinを購入する"
+        name = "Navcoinを購入する"
+        title = "Navcoinを購入する"
         weight = 80
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"
@@ -826,8 +826,8 @@ enableRobotsTXT = true
     identifier = "get-started"
     depth = 1
     [[Languages.it.menu.main]]
-        name = "Perchè NavCoin"
-        title = "Perchè NavCoin"
+        name = "Perchè Navcoin"
+        title = "Perchè Navcoin"
         weight = 20
         url = "/why-navcoin/"
         identifier = "why-navcoin"
@@ -868,8 +868,8 @@ enableRobotsTXT = true
         identifier = "knowledge-base"
         parent = "get-started"
     [[Languages.it.menu.main]]
-        name = "Compra NavCoin"
-        title = "Compra NavCoin"
+        name = "Compra Navcoin"
+        title = "Compra Navcoin"
         weight = 80
         url = "/buy-navcoin/"
         identifier = "buy-navcoin"

@@ -4,7 +4,7 @@ date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "디폴트"
 author: ""
-description: "NavCoin은 오픈 소스 블록체인 기반의 Stake 암호화 통화 증명입니다. 사용자와 사용자에 의해 운영되는 플랫폼입니다."
+description: "Navcoin은 오픈 소스 블록체인 기반의 Stake 암호화 통화 증명입니다. 사용자와 사용자에 의해 운영되는 플랫폼입니다."
 ---
 {{< hero_section
 titleText="Nav코인은 무엇인가?"
@@ -12,7 +12,7 @@ paragraphText="Nav코인은 오픈 소스 블록체인 기반의 스테이크 �
 imgSrc="/images/why-navcoin/why-hero.svg"
 buttonText="프로젝트 개요"
 buttonImgSrc="/images/icons/downward-arrow.svg"
-buttonLink="/assets/NavCoinOverview_September2019.pdf"
+buttonLink="/assets/NavcoinOverview_September2019.pdf"
 newTab="true"
 >}}
 
@@ -129,7 +129,7 @@ Nav코인은 2014년에 시작된 커뮤니티 운영 네트워크입니다. 처
     {{< feature                 
         titleText="적극적인 연구 및 개발"
         imgSrc="/images/why-navcoin/why-research.svg"
-        text="NPIP(NavCoin Protocol Environment Propositions)는 암호학자, 경제학자 및 개발자가 협업하는 연구의&nbsp;장입니다."
+        text="NPIP(Navcoin Protocol Environment Propositions)는 암호학자, 경제학자 및 개발자가 협업하는 연구의&nbsp;장입니다."
     >}}
     {{< feature                 
         titleText="프로그래밍한 돈"

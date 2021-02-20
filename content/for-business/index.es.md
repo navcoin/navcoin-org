@@ -7,14 +7,14 @@ author: ""
 description: ""
 ---
 {{< hero_section
-titleText="NavCoin Para Empresas"
-paragraphText="¿Está tu empresa lista para el &#34;futuro&#34;? Cada vez más usuarios están buscando maneras de usar sus criptomonedas para pagos de bienes y servicios en la vida cotidiana. Hoy en dia es necesario estar actualizado dentro de las tendencias tecnologicas. Es el momento de aceptar NavCoin en su negocio físico o en linea. NavCoin provee las herramientas necesarias para ser una solución de pagos para&nbsp;empresas."
+titleText="Navcoin Para Empresas"
+paragraphText="¿Está tu empresa lista para el &#34;futuro&#34;? Cada vez más usuarios están buscando maneras de usar sus criptomonedas para pagos de bienes y servicios en la vida cotidiana. Hoy en dia es necesario estar actualizado dentro de las tendencias tecnologicas. Es el momento de aceptar Navcoin en su negocio físico o en linea. Navcoin provee las herramientas necesarias para ser una solución de pagos para&nbsp;empresas."
 
 imgSrc="/images/for-business/bus-hero.svg"
 >}}
 
 {{< item_container_section 
-    titleText="Razones por las cuales NavCoin es buena para los negocios"
+    titleText="Razones por las cuales Navcoin es buena para los negocios"
     subtitleText=""
 >}}
     {{< feature 
@@ -35,7 +35,7 @@ imgSrc="/images/for-business/bus-hero.svg"
     {{< feature                 
         titleText="Tasas de transferencia bajas"
         imgSrc="/images/for-business/bus-low-fee.svg"
-        text="NavCoin es una de las criptomonedas con menos tasas en el mercado, con costos menores al&nbsp;1%"
+        text="Navcoin es una de las criptomonedas con menos tasas en el mercado, con costos menores al&nbsp;1%"
     >}}
     {{< feature                 
         titleText="Ecologica"
@@ -88,7 +88,7 @@ La integración de los &#34;NavButtons&#34; para pagos rápidos es una manera f�
 {{< center_text_cta
     lightStyle="true"
     titleText="Participantes aceptando NAV"
-    buttonText="Encuentre los negocios e individuos aceptando NavCoin"
+    buttonText="Encuentre los negocios e individuos aceptando Navcoin"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants/"
-    innerText="Una cantidad de empresas han comenzado la integración de NavCoin como método de pago, donde comprar artículos y servivios resulta extremandamente&nbsp;fácil.">}}
+    innerText="Una cantidad de empresas han comenzado la integración de Navcoin como método de pago, donde comprar artículos y servivios resulta extremandamente&nbsp;fácil.">}}

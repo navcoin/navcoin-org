@@ -8,7 +8,7 @@ description: ""
 ---
 {{< hero_section
 titleText="Nav코인 비즈니스"
-paragraphText="비즈니스가 '미래 준비'되었는가? 점점 더 많은 사람들이 그들의 디지털 통화를 사용하여 지불하는 방법을 찾고 있다. 만약 당신이 트렌드를 앞서고 싶다면, 지금이 당신의 상점과 온라인에서 그것을 받아들이기 시작할 시간이다. NavCoin은 귀사의 비즈니스에 적합한 결제 솔루션&nbsp;제공합니다."
+paragraphText="비즈니스가 '미래 준비'되었는가? 점점 더 많은 사람들이 그들의 디지털 통화를 사용하여 지불하는 방법을 찾고 있다. 만약 당신이 트렌드를 앞서고 싶다면, 지금이 당신의 상점과 온라인에서 그것을 받아들이기 시작할 시간이다. Navcoin은 귀사의 비즈니스에 적합한 결제 솔루션&nbsp;제공합니다."
 
 imgSrc="/images/for-business/bus-hero.svg"
 >}}
@@ -35,7 +35,7 @@ imgSrc="/images/for-business/bus-hero.svg"
     {{< feature                 
         titleText="저렴한 가격"
         imgSrc="/images/for-business/bus-low-fee.svg"
-        text="NavCoin은 일반적으로 수수료가 1% 미만인 세계에서 가장 저렴한 결제 네트워크 중&nbsp;하나입니다"
+        text="Navcoin은 일반적으로 수수료가 1% 미만인 세계에서 가장 저렴한 결제 네트워크 중&nbsp;하나입니다"
     >}}
     {{< feature                 
         titleText="에코친화적"

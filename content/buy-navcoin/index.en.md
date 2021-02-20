@@ -1,15 +1,15 @@
 ---
-title: "Buy NavCoin"
+title: "Buy Navcoin"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
-description: "NavCoin is publicly mined and ran no token sale. The only way to buy NavCoin is to purchase it from a third party or exchange."
+description: "Navcoin is publicly mined and ran no token sale. The only way to buy Navcoin is to purchase it from a third party or exchange."
 ---
 {{< hero_section
-titleText="Buy NavCoin"
+titleText="Buy Navcoin"
 imgSrc="/images/buy-navcoin/buy-hero.svg"
-paragraphText="NavCoin is publicly mined and ran no token sale. The only way to get NAV is to purchase it from a third party or exchange. Exchanges provide highly varying degrees of safety, security, privacy, and control over your funds and information. Perform your own due diligence and choose a wallet where you will keep your NavCoin before selecting an exchange. Please follow the link to check exchange volumes for more&nbsp;information."
+paragraphText="Navcoin is publicly mined and ran no token sale. The only way to get NAV is to purchase it from a third party or exchange. Exchanges provide highly varying degrees of safety, security, privacy, and control over your funds and information. Perform your own due diligence and choose a wallet where you will keep your Navcoin before selecting an exchange. Please follow the link to check exchange volumes for more&nbsp;information."
 buttonText="See market statistics"
 buttonLink="https://coinmarketcap.com/currencies/nav-coin/#markets"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -17,7 +17,7 @@ newTab="true"
 >}}
 {{< item_container_section
     titleText="Exchanges"
-    subtitleText="NavCoin is available at the following&nbsp;exchanges"
+    subtitleText="Navcoin is available at the following&nbsp;exchanges"
 >}}
     {{< exchange
         titleText="Bittrex"
@@ -197,8 +197,8 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< center_text_cta
-    titleText="Spend Your NavCoin"
+    titleText="Spend Your Navcoin"
     buttonText="Check out the stores"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants"
-    innerText="A number of businesses have already begun to integrate NavCoin as a payment option, and with them you can easily purchase a range of products and&nbsp;services.">}}
+    innerText="A number of businesses have already begun to integrate Navcoin as a payment option, and with them you can easily purchase a range of products and&nbsp;services.">}}

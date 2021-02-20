@@ -9,4 +9,4 @@ externalUrl: https://navcoin.org/community-fund/
 
 ---
 
-NavCoin’s Community Fund enables anyone to get paid by the network for their contributions to the NavCoin ecosystem. Projects are funded and approved by the decentralized network with no central&nbsp;authority.
+Navcoin’s Community Fund enables anyone to get paid by the network for their contributions to the Navcoin ecosystem. Projects are funded and approved by the decentralized network with no central&nbsp;authority.

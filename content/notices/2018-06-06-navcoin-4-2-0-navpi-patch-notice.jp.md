@@ -1,18 +1,18 @@
 ---
 layout: notices
-title: NavCoin 4.2.0 NavPi Patch Notice
+title: Navcoin 4.2.0 NavPi Patch Notice
 author: Craig MacGregor
 date: '2018-06-06T17:07:30+12:00'
 feature_image: /images/uploads/navpi-patch.jpg
 notice_categories:
   - NavPi
 ---
-NavCoin Core 4.2.0 was released today which includes the NTP server check to make sure every device has their system clock synced correctly when minting blocks. An unforeseen issue has been found when updating the NavPi using the updater script.
+Navcoin Core 4.2.0 was released today which includes the NTP server check to make sure every device has their system clock synced correctly when minting blocks. An unforeseen issue has been found when updating the NavPi using the updater script.
 <!--more-->
 
 ## The Bug
 
-The NavPi uses a cron job to start the NavCoin daemon on reboot. When the device first boots the network port for the NTP server check is unavailable. This causes the NavCoin daemon to exit and the NavPi interface will report that it can not connect to the NavCoin daemon.
+The NavPi uses a cron job to start the Navcoin daemon on reboot. When the device first boots the network port for the NTP server check is unavailable. This causes the Navcoin daemon to exit and the NavPi interface will report that it can not connect to the Navcoin daemon.
 
 ## Intermediate Solution
 
@@ -28,13 +28,13 @@ Please note that you do reboot you will need to unlock your device for staking a
 
 In either case, please make sure your wallet remains **unlocked for staking** to support the network until the 4.2.1 patch is available.
 
-## NavCoin Core Patch 4.2.1
+## Navcoin Core Patch 4.2.1
 
-We are already working on a patch to fix this issue. Instead of addressing it only for the NavPi, we are adding some checks into the NavCoin daemon so that this issue is averted for any system that is setup to auto start the NavCoin daemon on boot. We will be pushing this patch out as soon as possible.
+We are already working on a patch to fix this issue. Instead of addressing it only for the NavPi, we are adding some checks into the Navcoin daemon so that this issue is averted for any system that is setup to auto start the Navcoin daemon on boot. We will be pushing this patch out as soon as possible.
 
 ## Unaffected Users
 
-This issue only effects users who are automatically starting their NavCoin daemon before the network adapter is ready which is predominately NavPi users. Everyone else should continue with the update and upgrade to NavCoin 4.2.0 as planned.
+This issue only effects users who are automatically starting their Navcoin daemon before the network adapter is ready which is predominately NavPi users. Everyone else should continue with the update and upgrade to Navcoin 4.2.0 as planned.
 
 If you're unsure what to do, please join the community on Discord for further assistance.
 

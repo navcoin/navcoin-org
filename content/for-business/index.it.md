@@ -7,13 +7,13 @@ author: ""
 description: ""
 ---
 {{< hero_section
-titleText="NavCoin per Aziende"
-paragraphText="Il tuo azienda è pronto per il futuro? Sempre più persone stanno cercando il modo di pagare beni e servizi utilizzando le proprie valute digitali. Se desideri rimanere al passo con questo tendenza, questo è il momento di iniziare ad accettarle nel tuo store o nel tuo negozio on-line. NavCoin ha la soluzione ideale per il tuo&nbsp;azienda."
+titleText="Navcoin per Aziende"
+paragraphText="Il tuo azienda è pronto per il futuro? Sempre più persone stanno cercando il modo di pagare beni e servizi utilizzando le proprie valute digitali. Se desideri rimanere al passo con questo tendenza, questo è il momento di iniziare ad accettarle nel tuo store o nel tuo negozio on-line. Navcoin ha la soluzione ideale per il tuo&nbsp;azienda."
 imgSrc="/images/for-business/bus-hero.svg"
 >}}
 
 {{< item_container_section 
-    titleText="Perchè NavCoin è ideale per le&nbsp;Aziende"
+    titleText="Perchè Navcoin è ideale per le&nbsp;Aziende"
     subtitleText=""
 >}}
     {{< feature 
@@ -29,12 +29,12 @@ imgSrc="/images/for-business/bus-hero.svg"
     {{< feature                 
         titleText="Semplice"
         imgSrc="/images/for-business/bus-simple.svg"
-        text="Il pagamento è semplice come la scansione di un codice QR. I fondi vengono trasferiti automaticamente sul tuo portafoglio&nbsp;NavCoin."
+        text="Il pagamento è semplice come la scansione di un codice QR. I fondi vengono trasferiti automaticamente sul tuo portafoglio&nbsp;Navcoin."
     >}}
     {{< feature                 
         titleText="Commissioni economiche"
         imgSrc="/images/for-business/bus-low-fee.svg"
-        text="NavCoin è una delle reti di pagamento più economiche al mondo, con commissioni generalmente inferiori all'uno&nbsp;percento."
+        text="Navcoin è una delle reti di pagamento più economiche al mondo, con commissioni generalmente inferiori all'uno&nbsp;percento."
     >}}
     {{< feature                 
         titleText="Amichevole per l'ambiente"
@@ -90,4 +90,4 @@ L'integrazione di NavButtons per pagamenti rapidi è un'opzione facile da implem
     buttonText="Trova commercianti"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants/"
-    innerText="Numerose aziende hanno già iniziato a integrare NavCoin come opzione di pagamento e con esse è possibile acquistare facilmente una gamma di prodotti e&nbsp;servizi.">}}
+    innerText="Numerose aziende hanno già iniziato a integrare Navcoin come opzione di pagamento e con esse è possibile acquistare facilmente una gamma di prodotti e&nbsp;servizi.">}}

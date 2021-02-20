@@ -19,7 +19,7 @@ imgSrc="/images/get-involved/con-traaccountnslate.svg"
     reversed="true"
     newTab="true"
 >}}
-Nav코인 코어는 수십 개 이상의 언어로 번역되었고, 부분적으로 번역되었습니다. 하지만 항상 더 많은 도움이&nbsp;필요합니다. Nav코인은 번역에 Transifex를 사용하므로, 당신은 계정을 설정해야 할 것입니다.<br><br>번역에 기여하려면 Transifx의 NavCoin 프로젝트를&nbsp;방문하십시오.: <br><a href="https://www.transifex.com/navcoin/navcoin-core" style="text-decoration:underline;">https://www.transifex.com/navcoin/navcoin-core</a><br><br>'팀 참여' 버튼을 클릭하여 어떤 언어를 번역할 수 있는지 선택하시고 번역 작업을&nbsp;시작하세요"
+Nav코인 코어는 수십 개 이상의 언어로 번역되었고, 부분적으로 번역되었습니다. 하지만 항상 더 많은 도움이&nbsp;필요합니다. Nav코인은 번역에 Transifex를 사용하므로, 당신은 계정을 설정해야 할 것입니다.<br><br>번역에 기여하려면 Transifx의 Navcoin 프로젝트를&nbsp;방문하십시오.: <br><a href="https://www.transifex.com/navcoin/navcoin-core" style="text-decoration:underline;">https://www.transifex.com/navcoin/navcoin-core</a><br><br>'팀 참여' 버튼을 클릭하여 어떤 언어를 번역할 수 있는지 선택하시고 번역 작업을&nbsp;시작하세요"
 {{< /zig_section>}}
 
 {{< zig_section
@@ -109,7 +109,7 @@ buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 newTab="true"
 >}}
-Nav코인 코어는 Nav코인의 기본 프로토콜을 지속적으로 향상시키기 위해 노력합니다. 우리의 목표는 항상 보안, 프라이버시 및 효율성을 향상시키는 동시에 지방분권, 수용 및 사용성을 장려하는 것이다. NAT이 NavCoin 프로토콜을 개선하는 데 도움을 주고 싶다면, 제안서를 문서화할 가장 좋은 장소는 NPIP(NavCoin Protocol 개선 제안서) GitHub 리포지토리에&nbsp;있습니다.<br><br>NPIP를 제출하고자 하는 사람들은 먼저 그들의 아이디어나 문서를 Discord 또는 IRC(irc.freenode)를 통해 Nav코인 코어 개발 커뮤니티에 제안해야 합니다.순 #Nav코인). 토론 후 NPIP 저장소에 PR을 여십시오. 카피 편집 및 수락 후, 거기서 출판될&nbsp;것입니다.<br><br>우리는 NPIP를 승인하는데 있어서 상당히 자유롭고, 커뮤니티를 대신하여 의사결정에 너무 관여하지 않도록 노력합니다. 예외는 결정이 논쟁적이고 합의될 수 없는 사례는 매우 드문 경우입니다. 그러한 경우, 보수적 옵션이 항상 선호될&nbsp;것입니다.<br><br>여기에 NPIP를 보유하는 것은 그것의 상태가 최종 또는 활성 상태가 될 때까지 공식적으로 받아들여지는 표준이 되지 않습니다.<Br><br>변경을 제안하는 사람들은 궁극적으로 동의가 Nav코인 사용자의 합의에 따라 결정될 수 있음을 고려해야&nbsp;합니다.
+Nav코인 코어는 Nav코인의 기본 프로토콜을 지속적으로 향상시키기 위해 노력합니다. 우리의 목표는 항상 보안, 프라이버시 및 효율성을 향상시키는 동시에 지방분권, 수용 및 사용성을 장려하는 것이다. NAT이 Navcoin 프로토콜을 개선하는 데 도움을 주고 싶다면, 제안서를 문서화할 가장 좋은 장소는 NPIP(Navcoin Protocol 개선 제안서) GitHub 리포지토리에&nbsp;있습니다.<br><br>NPIP를 제출하고자 하는 사람들은 먼저 그들의 아이디어나 문서를 Discord 또는 IRC(irc.freenode)를 통해 Nav코인 코어 개발 커뮤니티에 제안해야 합니다.순 #Nav코인). 토론 후 NPIP 저장소에 PR을 여십시오. 카피 편집 및 수락 후, 거기서 출판될&nbsp;것입니다.<br><br>우리는 NPIP를 승인하는데 있어서 상당히 자유롭고, 커뮤니티를 대신하여 의사결정에 너무 관여하지 않도록 노력합니다. 예외는 결정이 논쟁적이고 합의될 수 없는 사례는 매우 드문 경우입니다. 그러한 경우, 보수적 옵션이 항상 선호될&nbsp;것입니다.<br><br>여기에 NPIP를 보유하는 것은 그것의 상태가 최종 또는 활성 상태가 될 때까지 공식적으로 받아들여지는 표준이 되지 않습니다.<Br><br>변경을 제안하는 사람들은 궁극적으로 동의가 Nav코인 사용자의 합의에 따라 결정될 수 있음을 고려해야&nbsp;합니다.
 {{< /zig_section>}}
 
 {{< zig_section

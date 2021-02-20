@@ -1,13 +1,13 @@
 ---
 layout: notices
-title: NavCoin Core 4.7.0 - Purple Zebra
+title: Navcoin Core 4.7.0 - Purple Zebra
 author: Craig MacGregor
 date: '2019-09-12T10:38:29+12:00'
 feature_image: /images/uploads/navcoin-core-4.7.0.png
 notice_categories:
   - General Notices
 ---
-Purple Zebra is the culmination of the last few months of work on NavCoin Core and includes 40 closed pull requests, many new features and important security updates & stability fixes. Due to the security patches, upgrading to Purple Zebra should be considered mandatory and performed as soon as possible, especially if you are staking.
+Purple Zebra is the culmination of the last few months of work on Navcoin Core and includes 40 closed pull requests, many new features and important security updates & stability fixes. Due to the security patches, upgrading to Purple Zebra should be considered mandatory and performed as soon as possible, especially if you are staking.
 <!--more-->
 
 
@@ -52,4 +52,4 @@ When the wallet starts and detects it is still catching up to the latest block a
 
 For the full release notes please visit the [Purple Zebra Release on GitHub](https://github.com/NAVCoin/navcoin-core/releases/tag/4.7.0).
 
-To download the NavCoin Purple Zebra please visit the [Wallet Downloads](https://navcoin.org/en/wallets/#download-core) page.
+To download the Navcoin Purple Zebra please visit the [Wallet Downloads](https://navcoin.org/en/wallets/#download-core) page.

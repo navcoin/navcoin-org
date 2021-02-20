@@ -3,11 +3,11 @@ title: "Responsible Disclosure"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
-description: "If you’re a researcher and you’ve found a critical vulnerability here’s how you can talk securely with the NavCoin Core developers."
+description: "If you’re a researcher and you’ve found a critical vulnerability here’s how you can talk securely with the Navcoin Core developers."
 ---
 {{< hero_section
 titleText="Responsible Disclosure"
-paragraphText="NavCoin is experimental technology and sometimes critical bugs are found. If you’re a researcher and you’ve found a critical vulnerability here’s how you can talk securely with the NavCoin Core developers."
+paragraphText="Navcoin is experimental technology and sometimes critical bugs are found. If you’re a researcher and you’ve found a critical vulnerability here’s how you can talk securely with the Navcoin Core developers."
 imgSrc="/images/responsible-disclosure/dis-hero.svg"
 >}}
 
@@ -17,8 +17,8 @@ imgSrc="/images/responsible-disclosure/dis-hero.svg"
         <h2 class="article-title">
             Disclosure Procedure
         </h2>
-        <p>If you think you’ve found a critical vulnerability in NavCoin’s protocol, please don’t hesitate to contact the NavCoin Core developers. We are committed to coordinating with you and any other affected parties to ensure any disclosure is handled discreetly and in a timely manner.</p>
-        <p>The best place to report the vulnerability is to <a href="#">disclosure@navcoin.org</a>. You can encrypt your message with the GPG key found on the NavCoin GitHub.</p>
+        <p>If you think you’ve found a critical vulnerability in Navcoin’s protocol, please don’t hesitate to contact the Navcoin Core developers. We are committed to coordinating with you and any other affected parties to ensure any disclosure is handled discreetly and in a timely manner.</p>
+        <p>The best place to report the vulnerability is to <a href="#">disclosure@navcoin.org</a>. You can encrypt your message with the GPG key found on the Navcoin GitHub.</p>
         <h3 class="article-sml-title">Disclosure GPG Key</h3>
         <p>
             <a href="https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub" target="_blank">
@@ -32,7 +32,7 @@ imgSrc="/images/responsible-disclosure/dis-hero.svg"
             <li>Suggested mitigation strategies.</li>
             <li>Your GPG public key so we can securely reply to you.</li>
         </ul>
-        <p>If you’re unable to communicate with this way please reach out any of the admins on the NavCoin Discord channel and we will setup a secure private channel with you.</p>
+        <p>If you’re unable to communicate with this way please reach out any of the admins on the Navcoin Discord channel and we will setup a secure private channel with you.</p>
     </div>
 </div>
 

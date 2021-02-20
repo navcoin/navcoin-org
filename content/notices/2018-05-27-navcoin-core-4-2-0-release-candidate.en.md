@@ -1,25 +1,25 @@
 ---
 layout: notices
-title: NavCoin Core 4.2.0 Release Candidate
+title: Navcoin Core 4.2.0 Release Candidate
 author: Craig MacGregor
 date: '2018-05-27T12:46:15+12:00'
 feature_image: /images/uploads/4.2.0-rc-hero.png
 notice_categories:
   - Release Candidates
 ---
-The NavCoin Core developers have enacted a policy to create a release candidate and publicly notify all interested parties of any important updates prior to merging the changes into the master branch. This release schedule will be formalised into a process document to be published on the NavCoin.org website in the near future as reference.
+The Navcoin Core developers have enacted a policy to create a release candidate and publicly notify all interested parties of any important updates prior to merging the changes into the master branch. This release schedule will be formalised into a process document to be published on the Navcoin.org website in the near future as reference.
 <!--more-->
 There are two reasons for this update:
 
-## 1. To begin accumulating NAV in the NavCoin Community Fund.
+## 1. To begin accumulating NAV in the Navcoin Community Fund.
 
-The Community Fund was endorsed by the NavCoin network early in 2018. NavCoin Core 4.2.0 is the first step in enabling the Community Fund. It contains a soft fork to reduce the staking rewards from 5% to 4%, with 0.25 NAV per block being accumulated to the Community Fund. The Community Fund proposal system is live on the testnet, but there is still more unit tests and network testing to do before the proposal system itself is launched on the mainnet. When the fund is live you’ll be able to vote on and submit proposals to the network to apply for project funding. More information on the proposal process will be available on NavCoin.org as its release approaches.
+The Community Fund was endorsed by the Navcoin network early in 2018. Navcoin Core 4.2.0 is the first step in enabling the Community Fund. It contains a soft fork to reduce the staking rewards from 5% to 4%, with 0.25 NAV per block being accumulated to the Community Fund. The Community Fund proposal system is live on the testnet, but there is still more unit tests and network testing to do before the proposal system itself is launched on the mainnet. When the fund is live you’ll be able to vote on and submit proposals to the network to apply for project funding. More information on the proposal process will be available on Navcoin.org as its release approaches.
 
 ## 2. To fix the Clock Sync bug.
 
-The NavCoin blockchain has been seeing some intermittent difficulty and block spacing issues. NavCoin Core 4.2.0 contains a soft fork to fix this problem by disallowing blocks too far in the future or past and dropping connections to users with out of sync system clocks. The users system clock is now checked against global NTP servers to confirm it’s correct. If your clock is wrong you’ll get a message to adjust it, otherwise you’ll be bumped off the network until it’s properly synced.
+The Navcoin blockchain has been seeing some intermittent difficulty and block spacing issues. Navcoin Core 4.2.0 contains a soft fork to fix this problem by disallowing blocks too far in the future or past and dropping connections to users with out of sync system clocks. The users system clock is now checked against global NTP servers to confirm it’s correct. If your clock is wrong you’ll get a message to adjust it, otherwise you’ll be bumped off the network until it’s properly synced.
 
-Reviewing the NavCoin Core 4.2.0 release candidate The pull request (PR) into the master branch can be viewed here:
+Reviewing the Navcoin Core 4.2.0 release candidate The pull request (PR) into the master branch can be viewed here:
 
 <https://github.com/NAVCoin/navcoin-core/pull/209>
 

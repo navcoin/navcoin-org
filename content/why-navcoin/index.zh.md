@@ -1,47 +1,47 @@
 ---
-title: "为什么是NavCoin"
+title: "为什么是Navcoin"
 date: 2018-03-20T08:09:08+13:00
 draft: 错误的
 type: "默认值"
 author: ""
-description: "NavCoin是一个开源的，基于股权证明的区块链加密货币。它是一个由它的用户为它的用户运行的平台。"
+description: "Navcoin是一个开源的，基于股权证明的区块链加密货币。它是一个由它的用户为它的用户运行的平台。"
 ---
 {{< hero_section
-titleText="NavCoin是什么"
-paragraphText="NavCoin是一个开源的，基于股权证明的区块链加密货币。它的设计是公开的，没有人拥有或控制NavCoin，每个人都可以参与。这是一个由其用户运营的平台，为其用户服务——拥有一个激励网络节点，在世界各地验证支付。"
+titleText="Navcoin是什么"
+paragraphText="Navcoin是一个开源的，基于股权证明的区块链加密货币。它的设计是公开的，没有人拥有或控制Navcoin，每个人都可以参与。这是一个由其用户运营的平台，为其用户服务——拥有一个激励网络节点，在世界各地验证支付。"
 imgSrc="/images/why-navcoin/why-hero.svg"
 buttonText="项目概况"
 buttonImgSrc="/images/icons/downward-arrow.svg"
-buttonLink="/assets/NavCoinOverview_September2019.pdf"
+buttonLink="/assets/NavcoinOverview_September2019.pdf"
 newTab="true"
 >}}
 
 {{< item_container_section
-    titleText="为什么人们使用NavCoin?"
+    titleText="为什么人们使用Navcoin?"
     subtitleText="它便宜、快捷、环保、注重隐私。"
 >}}
     {{< long_text
         titleText="做你自己的银行"
         imgSrc="/images/why-navcoin/why-own-bank.svg"
-        text="不存在运营NavCoin的银行或中介机构，你也不需要向任何人存钱。所有的支付都是对等的，由您的钱包管理。不像现在的系统，你可以完全控制你的钱，并且对网络的运行具有发言权。"
+        text="不存在运营Navcoin的银行或中介机构，你也不需要向任何人存钱。所有的支付都是对等的，由您的钱包管理。不像现在的系统，你可以完全控制你的钱，并且对网络的运行具有发言权。"
 
     >}}
     {{< long_text
         titleText="隐私"
         imgSrc="/images/why-navcoin/why-privacy.svg"
-        text="区块链本质上是公共账本，任何人都可以查看每一笔交易，这给隐私带来了挑战。NavCoin致力于为用户提供隐私，您的信息只能在您同意的情况下提供，不能被窃取。"
+        text="区块链本质上是公共账本，任何人都可以查看每一笔交易，这给隐私带来了挑战。Navcoin致力于为用户提供隐私，您的信息只能在您同意的情况下提供，不能被窃取。"
 
     >}}
     {{< long_text
         titleText="冷加注"
         imgSrc="/images/why-navcoin/why-peer.svg"
-        text="安全是NavCoin的首要任务，这使得冷加注成为即将实现的一个重要特性。而不是让你所有的硬币连接到互联网上-这让你参与加注的网络，同时也保持你的硬币离线，这样可以增加保护性。"
+        text="安全是Navcoin的首要任务，这使得冷加注成为即将实现的一个重要特性。而不是让你所有的硬币连接到互联网上-这让你参与加注的网络，同时也保持你的硬币离线，这样可以增加保护性。"
 
     >}}
     {{< long_text
         titleText="永不停息的网络"
         imgSrc="/images/why-navcoin/why-247.svg"
-        text="有了遍布世界各地的节点，NavCoin网络全天候运行。只要你连接上互联网，你就可以在世界任何地方、任何时间发送和接收支付，没有停机时间——这使它成为数字商务的理想选择。"
+        text="有了遍布世界各地的节点，Navcoin网络全天候运行。只要你连接上互联网，你就可以在世界任何地方、任何时间发送和接收支付，没有停机时间——这使它成为数字商务的理想选择。"
 
     >}}
     {{< long_text
@@ -53,24 +53,24 @@ newTab="true"
     {{< long_text
         titleText="无冲突支付"
         imgSrc="/images/why-navcoin/why-low-fee.svg"
-        text="在数字经济中，向世界各地发送支付应该是快速、便宜和便捷的。NavCoin可以以不到一美分的价格发送，会在几秒钟内显示(30秒内确认)，还有一系列钱包可以让发送导航变得轻松。"
+        text="在数字经济中，向世界各地发送支付应该是快速、便宜和便捷的。Navcoin可以以不到一美分的价格发送，会在几秒钟内显示(30秒内确认)，还有一系列钱包可以让发送导航变得轻松。"
 
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
-  titleText="NavCoin历史"
+  titleText="Navcoin历史"
   imgSrc="/images/why-navcoin/why-history.svg"
   buttonUrl="/governance/"
   buttonText="了解更多关于治理的内容"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="正确的"
 >}}
-NavCoin是一个社区运营的网络，成立于2014年。它最初使用的是工作量证明，但很快就转向了股权证明。在没有ICO或premine的情况下，NavCoin一直是自筹资金，以确保公平分发，确保每个人都有机会参与进来。
+Navcoin是一个社区运营的网络，成立于2014年。它最初使用的是工作量证明，但很快就转向了股权证明。在没有ICO或premine的情况下，Navcoin一直是自筹资金，以确保公平分发，确保每个人都有机会参与进来。
 {{< /zig_section>}}
 
 {{< item_container_section
-    titleText="如何使用NavCoin"
+    titleText="如何使用Navcoin"
     subtitleText="一个web3时代的拥有一系列的用例的可编程的货币。"
 >}}
     {{< feature
@@ -101,7 +101,7 @@ NavCoin是一个社区运营的网络，成立于2014年。它最初使用的是
     {{< feature                 
         titleText="储存财富"
         imgSrc="/images/why-navcoin/why-wealth.svg"
-        text="NavCoin不需要任何中央权威机构来运行——这意味着你的钱在你的掌控之中。"
+        text="Navcoin不需要任何中央权威机构来运行——这意味着你的钱在你的掌控之中。"
     >}}
 {{< /item_container_section >}}
 
@@ -114,7 +114,7 @@ NavCoin是一个社区运营的网络，成立于2014年。它最初使用的是
     {{< feature
         titleText="很多可以参与进来的方式"
         imgSrc="/images/why-navcoin/why-decentralised-dev.svg"
-        text="NavCoin是一个由不同团队和项目组成的生态系统，允许多种方式参与其中。"
+        text="Navcoin是一个由不同团队和项目组成的生态系统，允许多种方式参与其中。"
     >}}
     {{< feature
         titleText="社区资金"
@@ -129,7 +129,7 @@ NavCoin是一个社区运营的网络，成立于2014年。它最初使用的是
     {{< feature                 
         titleText="积极研发"
         imgSrc="/images/why-navcoin/why-research.svg"
-        text="NavCoin协议改进建议是(NPIPs)属于密码学家、经济学家和开发人员合作的研究领域。"
+        text="Navcoin协议改进建议是(NPIPs)属于密码学家、经济学家和开发人员合作的研究领域。"
     >}}
     {{< feature                 
         titleText="可编程的钱"
@@ -151,5 +151,5 @@ buttonText="看看我们以后如何发展"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="正确的"
 >}}
-有一个活跃的社区致力于NavCoin协议，请查看路线图，看看接下来会发生什么。
+有一个活跃的社区致力于Navcoin协议，请查看路线图，看看接下来会发生什么。
 {{< /zig_section>}}

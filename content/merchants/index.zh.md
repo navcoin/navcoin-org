@@ -3,11 +3,11 @@ title: "商人"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
-description: "任何人都可以在自己的网站或店内接受NavCoin，以低费用获得即时的全球支付。"
+description: "任何人都可以在自己的网站或店内接受Navcoin，以低费用获得即时的全球支付。"
 ---
 {{< hero_section
 titleText="Merchants"
-paragraphText="任何人都可以在自己的网站或商店里接受NavCoin，以低廉的费用获得即时的全球支付。本页面不是一个详尽的列表，不需要注册就可以接受NavCoin。如果您接受NavCoin并希望您的商店列在这里，请创建一个pull request或在GitHub上打开一个问题。"
+paragraphText="任何人都可以在自己的网站或商店里接受Navcoin，以低廉的费用获得即时的全球支付。本页面不是一个详尽的列表，不需要注册就可以接受Navcoin。如果您接受Navcoin并希望您的商店列在这里，请创建一个pull request或在GitHub上打开一个问题。"
 imgSrc="/images/merchants/mer-hero.svg"
 buttonText="添加你的商店"
 buttonLink="https://github.com/NAVCoin/navcoin-org/issues/new"
@@ -18,7 +18,7 @@ newTab="true"
 
 {{< item_container_section
     titleText="商店"
-    subtitleText="商人和服务的选择，让您花费自己的NavCoin"
+    subtitleText="商人和服务的选择，让您花费自己的Navcoin"
 >}}
     {{< merchant
         titleText="硬币支付"
@@ -27,9 +27,9 @@ newTab="true"
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}}
     {{< merchant
-        titleText="NavCoin营销店"
+        titleText="Navcoin营销店"
         imgSrc="/images/merchants/mer-nav.png"
-        text="以我们的品牌高品质加密商品为荣，让NavCoin自豪。"
+        text="以我们的品牌高品质加密商品为荣，让Navcoin自豪。"
         linkUrl="https://navcoinstore.com/"
     >}}
     {{< merchant
@@ -47,13 +47,13 @@ newTab="true"
     {{< merchant
         titleText="Mile High Ambulance"
         imgSrc="/images/merchants/mer-mile-high.png"
-        text="全面服务的救护车公司，接受NavCoin的账单支付。"
+        text="全面服务的救护车公司，接受Navcoin的账单支付。"
         linkUrl="https://milehighambulance.com/now-accepting-navcoin"
     >}}
     {{< merchant
         titleText="HODL营销店 "
         imgSrc="/images/merchants/mer-hodl.png"
-        text="拥有一系列NavCoin服装和配件的密码商人的主页。"
+        text="拥有一系列Navcoin服装和配件的密码商人的主页。"
         linkUrl="https://alwayshodl.com/pages/official-nav-collection"
     >}}
     {{< merchant
@@ -186,8 +186,8 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="接受NavCoin很容易!"
-    subtitleText="NavCoin为您的企业提供了正确的支付解决方案。"
+    titleText="接受Navcoin很容易!"
+    subtitleText="Navcoin为您的企业提供了正确的支付解决方案。"
     bgPurple="true"
     buttonUrl="/for-business/"
     buttonText="更多信息"
@@ -205,7 +205,7 @@ newTab="true"
     {{< action
         titleText="您的网上业务"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="集成了NavCoin支付网关，为shopify和WooCommerce等所有流行的网络购物车提供插件。"
+        subtext="集成了Navcoin支付网关，为shopify和WooCommerce等所有流行的网络购物车提供插件。"
         linkText="访问CoinPayments"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"

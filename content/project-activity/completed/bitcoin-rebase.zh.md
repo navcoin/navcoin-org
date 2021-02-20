@@ -8,4 +8,4 @@ status: completed
 externalUrl: https://www.navexplorer.com/block/1
 ---
 
-升级后的NavCoin Core与Bitcoin 0.13源代码保持一致，增加了NavCoin的稳定性、功能性以及与Insight API等其他软件集成的功能。
+升级后的Navcoin Core与Bitcoin 0.13源代码保持一致，增加了Navcoin的稳定性、功能性以及与Insight API等其他软件集成的功能。

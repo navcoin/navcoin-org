@@ -102,7 +102,7 @@ class GitHubProject extends React.Component {
       return (
         <div className="status-container">
           <h3>Something went wrong</h3>
-          <p>We were unable to fetch the project activity from GitHub, you can try viewing it directly on the the NavCoin Core GitHub Project.</p>
+          <p>We were unable to fetch the project activity from GitHub, you can try viewing it directly on the the Navcoin Core GitHub Project.</p>
           <a href="https://github.com/orgs/navcoin/projects/3">GitHub Project &nbsp;&nbsp;
                 <span className="fa fa-chevron-right"></span>
             </a>

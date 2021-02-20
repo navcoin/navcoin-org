@@ -80,7 +80,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
 {{< social                 
     titleText="Reddit"
     imgSrc="/images/for-beginners/beg-reddit.svg"
-    linkUrl="https://reddit.com/r/NavCoin/"
+    linkUrl="https://reddit.com/r/Navcoin/"
 >}}
 {{< social                 
     titleText="텔레그램"
@@ -90,17 +90,17 @@ imgSrc="/images/for-beginners/beg-hero.svg"
 {{< social                 
     titleText="페이스북"
     imgSrc="/images/for-beginners/beg-fb.svg"
-    linkUrl="https://www.facebook.com/NavCoin/"
+    linkUrl="https://www.facebook.com/Navcoin/"
 >}}
 {{< social                 
     titleText="트위터"
     imgSrc="/images/for-beginners/beg-twitter.svg"
-    linkUrl="https://twitter.com/NavCoin"
+    linkUrl="https://twitter.com/Navcoin"
 >}}
 {{< social                 
     titleText="유투브"
     imgSrc="/images/for-beginners/beg-yt.svg"
-    linkUrl="https://www.youtube.com/NavCoinCore"
+    linkUrl="https://www.youtube.com/NavcoinCore"
 >}}
 {{< social                 
     titleText="미디엄"

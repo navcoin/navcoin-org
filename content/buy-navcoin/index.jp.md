@@ -1,15 +1,15 @@
 ---
-title: "NavCoinの購入"
+title: "Navcoinの購入"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
-description: "NavCoin は、一般公開でマイニングされ、トークン販売を行わなかったコインです。NavCoinを購入する事ができる唯一の方法は、サードパーティー又は取引所を通じての方法になります。"
+description: "Navcoin は、一般公開でマイニングされ、トークン販売を行わなかったコインです。Navcoinを購入する事ができる唯一の方法は、サードパーティー又は取引所を通じての方法になります。"
 ---
 {{< hero_section
-titleText="NavCoinの購入"
+titleText="Navcoinの購入"
 imgSrc="/images/buy-navcoin/buy-hero.svg"
-paragraphText="NavCoin は、一般公開でマイニングされ、トークン販売を行わなかったコインです。NAVを購入する事ができる唯一の方法は、サードパーティー又は取引所を通じての方法になります。取引所はそれぞれ、安全性、プライバシー、貴方の資産や情報に対するコントロール性などについて異なる条件を持っています。利用する取引所を選ぶ前に、まずはご自身で調査を行い、ご自身のNavCoin を保有する為のウォレットを選ぶようにして下さい。 以下のリンクで、取引ボリュームや、さらなる情報を調べる事が&nbsp;できます。"
+paragraphText="Navcoin は、一般公開でマイニングされ、トークン販売を行わなかったコインです。NAVを購入する事ができる唯一の方法は、サードパーティー又は取引所を通じての方法になります。取引所はそれぞれ、安全性、プライバシー、貴方の資産や情報に対するコントロール性などについて異なる条件を持っています。利用する取引所を選ぶ前に、まずはご自身で調査を行い、ご自身のNavcoin を保有する為のウォレットを選ぶようにして下さい。 以下のリンクで、取引ボリュームや、さらなる情報を調べる事が&nbsp;できます。"
 buttonText="マーケットの統計を見る"
 buttonLink="https://coinmarketcap.com/currencies/nav-coin/#markets"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -17,7 +17,7 @@ newTab="true"
 >}}
 {{< item_container_section
     titleText="取引所"
-    subtitleText="NavCoin は、以下の取引所で取引&nbsp;可能です"
+    subtitleText="Navcoin は、以下の取引所で取引&nbsp;可能です"
 >}}
     {{< exchange
         titleText="Bittrex"
@@ -198,8 +198,8 @@ newTab="true"
 
 
 {{< center_text_cta
-    titleText="NavCoinを使う"
+    titleText="Navcoinを使う"
     buttonText="店舗を見る"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants"
-    innerText="多くのビジネスが、支払いのオプションとしてすでにNavCoinを取り入れ始めています。それらを利用して様々な商品やサービスを購入する事が&nbsp;できます。">}}
+    innerText="多くのビジネスが、支払いのオプションとしてすでにNavcoinを取り入れ始めています。それらを利用して様々な商品やサービスを購入する事が&nbsp;できます。">}}

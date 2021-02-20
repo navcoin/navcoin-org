@@ -8,4 +8,4 @@ status: completed
 externalUrl: https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki
 ---
 
-After rebasing the NavCoin protocol in 2016, BIP32 was implemented in NavCoin Core. Addresses are now generated deterministically from a master private key, removing the requirement to frequently back up your wallet.
+After rebasing the Navcoin protocol in 2016, BIP32 was implemented in Navcoin Core. Addresses are now generated deterministically from a master private key, removing the requirement to frequently back up your wallet.

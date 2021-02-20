@@ -19,7 +19,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
 
 {{< item_container_section
     titleText="세계에서 가장 발전된 커뮤니티&nbsp;펀드"
-    subtitleText="프로젝트는 중앙 권한 없이 분산된 네트워크에 의해 자금 지원 및 승인을 받습니다. 이렇게 하면 NavCoin의 방향이 전체 네트워크에 가장 큰 영향을 미칠 수 있습니다. 이 펀드는 아이디어를 가져가고, 육성하고, 팀을 만들어&nbsp;생명을 불어넣는 데 돈을 줍니다.."
+    subtitleText="프로젝트는 중앙 권한 없이 분산된 네트워크에 의해 자금 지원 및 승인을 받습니다. 이렇게 하면 Navcoin의 방향이 전체 네트워크에 가장 큰 영향을 미칠 수 있습니다. 이 펀드는 아이디어를 가져가고, 육성하고, 팀을 만들어&nbsp;생명을 불어넣는 데 돈을 줍니다.."
     >}}
     {{< feature
         titleText="이중 투표 컨센서스"
@@ -135,7 +135,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
         <div class="item-card">
           <div class="item-main">
             <div class="item-icon-container">
-              <h2 class="cf-proposal-title">Carbon Neutral&nbsp;NavCoin </h2>
+              <h2 class="cf-proposal-title">Carbon Neutral&nbsp;Navcoin </h2>
             </div>
             <div class="item-details-group">
               <div class="item-text">
@@ -231,7 +231,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
   itemSevenText="일을 시작하고 당신의 &nbsp; 타임라인을 고수하기 위해 최선을 다하세요.[Br><br]프로젝트에서 상황이 어떻게 진행되고 있는지 커뮤니티를 계속 업데이트합니다. &nbsp; 도중에 도움을 청하는 것은 괜찮습니다."
 
   itemEightTitle="Step 8 - 대금을 신청하세요."
-  itemEightText="프로젝트가 완료되면 커뮤니티에서 대금 지급을 신청할 수 있습니다. 제안서에 명확한 &nbsp; 이정표가 있는 경우 시간 표시 막대의 예약된 시점에 지급을 받기 위해 신청할 수 있습니다.<br><br>지불은 NavCoin 스테이커의 두 번째 합의 투표의 대상이 됩니다. 최소 50%의 참여가 있어야 하며, 70%의 '예' 투표와 70%의 '아니요' 투표는 지불이 &nbsp; 거부됩니다.<br><br>프로젝트 만료일 전에 결제 요청을 제출해야 합니다. (제안서를 작성할 때 설정합니다.- &nbsp; 버퍼(buffer)도 포함해야 합니다.)."
+  itemEightText="프로젝트가 완료되면 커뮤니티에서 대금 지급을 신청할 수 있습니다. 제안서에 명확한 &nbsp; 이정표가 있는 경우 시간 표시 막대의 예약된 시점에 지급을 받기 위해 신청할 수 있습니다.<br><br>지불은 Navcoin 스테이커의 두 번째 합의 투표의 대상이 됩니다. 최소 50%의 참여가 있어야 하며, 70%의 '예' 투표와 70%의 '아니요' 투표는 지불이 &nbsp; 거부됩니다.<br><br>프로젝트 만료일 전에 결제 요청을 제출해야 합니다. (제안서를 작성할 때 설정합니다.- &nbsp; 버퍼(buffer)도 포함해야 합니다.)."
 >}}
 
 {{< social_grid_section
@@ -252,7 +252,7 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
 {{< social                 
     titleText="Reddit"
     imgSrc="/images/for-beginners/beg-reddit.svg"
-    linkUrl="https://reddit.com/r/NavCoin/"
+    linkUrl="https://reddit.com/r/Navcoin/"
 >}}
 {{< social                 
     titleText="Telegram"
@@ -262,17 +262,17 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
 {{< social                 
     titleText="Facebook"
     imgSrc="/images/for-beginners/beg-fb.svg"
-    linkUrl="https://www.facebook.com/NavCoin/"
+    linkUrl="https://www.facebook.com/Navcoin/"
 >}}
 {{< social                 
     titleText="Twitter"
     imgSrc="/images/for-beginners/beg-twitter.svg"
-    linkUrl="https://twitter.com/NavCoin"
+    linkUrl="https://twitter.com/Navcoin"
 >}}
 {{< social                 
     titleText="Youtube"
     imgSrc="/images/for-beginners/beg-yt.svg"
-    linkUrl="https://www.youtube.com/NavCoinCore"
+    linkUrl="https://www.youtube.com/NavcoinCore"
 >}}
 {{< social                 
     titleText="Medium"

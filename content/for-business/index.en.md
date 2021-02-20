@@ -7,13 +7,13 @@ author: ""
 description: ""
 ---
 {{< hero_section
-titleText="NavCoin For Business"
-paragraphText="Is your business ‘future ready?’ More and more people are looking for ways to pay using their digital currency. If you want to stay ahead of the trend, now’s the time to start accepting it at your store and online. NavCoin has the right payment solution for your&nbsp;business."
+titleText="Navcoin For Business"
+paragraphText="Is your business ‘future ready?’ More and more people are looking for ways to pay using their digital currency. If you want to stay ahead of the trend, now’s the time to start accepting it at your store and online. Navcoin has the right payment solution for your&nbsp;business."
 imgSrc="/images/for-business/bus-hero.svg"
 >}}
 
 {{< item_container_section 
-    titleText="Why NavCoin Is Good For&nbsp;Business"
+    titleText="Why Navcoin Is Good For&nbsp;Business"
     subtitleText=""
 >}}
     {{< feature 
@@ -29,12 +29,12 @@ imgSrc="/images/for-business/bus-hero.svg"
     {{< feature                 
         titleText="Simple"
         imgSrc="/images/for-business/bus-simple.svg"
-        text="Payment is easy as scanning a QR code. Funds automatically transfer to your NavCoin&nbsp;wallet."
+        text="Payment is easy as scanning a QR code. Funds automatically transfer to your Navcoin&nbsp;wallet."
     >}}
     {{< feature                 
         titleText="Low fees"
         imgSrc="/images/for-business/bus-low-fee.svg"
-        text="NavCoin is one of world's cheapest payment networks in the world, with fees typically under one&nbsp;percent."
+        text="Navcoin is one of world's cheapest payment networks in the world, with fees typically under one&nbsp;percent."
     >}}
     {{< feature                 
         titleText="Eco-friendly"
@@ -90,4 +90,4 @@ Integrating NavButtons for quick payments is an easy to implement option that su
     buttonText="Find merchants here"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants/"
-    innerText="A number of businesses have already begun to integrate NavCoin as a payment option, and with them you can easily purchase a range of products and&nbsp;services.">}}
+    innerText="A number of businesses have already begun to integrate Navcoin as a payment option, and with them you can easily purchase a range of products and&nbsp;services.">}}
