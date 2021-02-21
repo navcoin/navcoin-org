@@ -4,14 +4,14 @@ date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
-description: "NavCoin is an open source protocol, which means that wallets are maintained by a range of organizations and individuals"
+description: "Navcoin is an open source protocol, which means that wallets are maintained by a range of organizations and individuals"
 ---
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 {{< hero_section
 titleText="Wallets"
 imgSrc="/images/wallets/wal-hero.svg"
-paragraphText="NavCoin is an open source protocol, which means that wallets are maintained by a range of organizations and individuals. There are different types of wallets - from ‘full’ wallets that give you complete control and allow you to participate in the NavCoin network, to 'light' wallets that are easier to use. Always remember that it is your responsibility to choose your wallet carefully and adopt good practices in order to protect your&nbsp;money."
+paragraphText="Navcoin is an open source protocol, which means that wallets are maintained by a range of organizations and individuals. There are different types of wallets - from ‘full’ wallets that give you complete control and allow you to participate in the Navcoin network, to 'light' wallets that are easier to use. Always remember that it is your responsibility to choose your wallet carefully and adopt good practices in order to protect your&nbsp;money."
 buttonText="Ask community for assistance"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 buttonLink="https://discord.gg/y4Vu9jw"
@@ -19,13 +19,13 @@ newTab="true"
 >}}
 
 {{< item_container_section
-    titleText="NavCoin Wallets"
+    titleText="Navcoin Wallets"
     subtitleText="Make sure to do your own research or ask community for&nbsp;assistance."
     >}}
     {{< wallet
-        titleText="NavCoin Core"
+        titleText="Navcoin Core"
         walletImgSrc="/images/wallets/wal-core.png"
-        text="NavCoin Core wallet is a full NavCoin client that allows users to participate in network staking. This is the official reference implementation published by the NavCoin Core&nbsp;developers."
+        text="Navcoin Core wallet is a full Navcoin client that allows users to participate in network staking. This is the official reference implementation published by the Navcoin Core&nbsp;developers."
         buttonUrl="#download-core"
         buttonText="Download"
         buttonImgSrc="/images/icons/downward-arrow.svg"
@@ -48,7 +48,7 @@ newTab="true"
     {{< wallet
         titleText="NEXT"
         walletImgSrc="/images/wallets/wal-next.png"
-        text="A modern and stylish next generation wallet for NavCoin. As well as staking, NEXT offers a simple interface to create and vote on community fund proposals."
+        text="A modern and stylish next generation wallet for Navcoin. As well as staking, NEXT offers a simple interface to create and vote on community fund proposals."
         buttonUrl="https://nextwallet.org/"
         buttonText="Download"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -62,7 +62,7 @@ newTab="true"
         titleText="NavPay"
         walletImgSrc="/images/wallets/wal-navpay.png"
         text="NavPay is an easy to use light wallet, that allows you to securely store your NAV. It's available across desktop and mobile, and doesn't take up gigabytes of storage."
-        buttonUrl="https://navhub.org/projects/nav-pay/"
+        buttonUrl="https://navpay.navcoin.org"
         buttonText="Download"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
         platformImg1Src="/images/platforms/android.png"

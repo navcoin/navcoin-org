@@ -3,11 +3,11 @@ title: "Comercios"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
-description: "Cualquiera puede aceptar NavCoin en su sitio web o en la tienda para recibir pagos instantáneos con tarifas bajas."
+description: "Cualquiera puede aceptar Navcoin en su sitio web o en la tienda para recibir pagos instantáneos con tarifas bajas."
 ---
 {{< hero_section
 titleText="Comercios"
-paragraphText="Cualquiera puede aceptar NavCoin en su sitio web o tiendas para recibir pagos instantáneos con bajo&nbsp;costo. Esta página no es una lista exhaustiva, no es necesario registrarse para aceptar NavCoin. Si aceptan NavCoin y quieren que sus comercios aparezcan nuestra página, solo hay que crear una solicitud de extracción o abrir un problema en GitHub."
+paragraphText="Cualquiera puede aceptar Navcoin en su sitio web o tiendas para recibir pagos instantáneos con bajo&nbsp;costo. Esta página no es una lista exhaustiva, no es necesario registrarse para aceptar Navcoin. Si aceptan Navcoin y quieren que sus comercios aparezcan nuestra página, solo hay que crear una solicitud de extracción o abrir un problema en GitHub."
 
 
 imgSrc="/images/merchants/mer-hero.svg"
@@ -20,7 +20,7 @@ newTab="true"
 
 {{< item_container_section
     titleText="Comercios"
-    subtitleText="Una seleccioón de comercios y servicios que aceptan&nbsp;NavCoin"
+    subtitleText="Una seleccioón de comercios y servicios que aceptan&nbsp;Navcoin"
 >}}
     {{< merchant
         titleText="CoinPayments"
@@ -29,9 +29,9 @@ newTab="true"
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}} 
     {{< merchant
-        titleText="Tienda de NavCoin oficial"
+        titleText="Tienda de Navcoin oficial"
         imgSrc="/images/merchants/mer-nav.png"
-        text="Use NavCoin con orgullo con esta gama de productos de marca."
+        text="Use Navcoin con orgullo con esta gama de productos de marca."
         linkUrl="https://navcoinstore.com/"
     >}}
     {{< merchant
@@ -49,13 +49,13 @@ newTab="true"
     {{< merchant
         titleText="Ambulancias Mile High"
         imgSrc="/images/merchants/mer-mile-high.png"
-        text="Compañía de ambulancia de servicio completo que acepta NavCoin para pagos de facturas."
+        text="Compañía de ambulancia de servicio completo que acepta Navcoin para pagos de facturas."
         linkUrl="https://milehighambulance.com/now-accepting-navcoin"
     >}}
     {{< merchant
         titleText="HODL negocio de mercaderia "
         imgSrc="/images/merchants/mer-hodl.png"
-        text="El hogar de los comerciantes de cripto con una amplia gama de ropa y accesorios NavCoin."
+        text="El hogar de los comerciantes de cripto con una amplia gama de ropa y accesorios Navcoin."
         linkUrl="https://alwayshodl.com/pages/official-nav-collection"
     >}}
     {{< merchant
@@ -187,8 +187,8 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="Aceptar NavCoin es muy fácil"
-    subtitleText="NavCoin tiene la solución de pagos por excelencia para hacer&nbsp;negocios."
+    titleText="Aceptar Navcoin es muy fácil"
+    subtitleText="Navcoin tiene la solución de pagos por excelencia para hacer&nbsp;negocios."
     bgPurple="true"
     buttonUrl="/for-business/"
     buttonText="More Info"
@@ -199,14 +199,14 @@ newTab="true"
         imgSrc="/images/merchants/mer-for-store.svg"
         subtext="Usando NavPay en el teléfono, los usuarios pueden escanear un código QR y transferir fondos&nbsp;automáticamente."
         linkText="Visitar NavPay"
-        linkUrl="https://navhub.org/projects/nav-pay/"
+        linkUrl="https://navpay.navcoin.org"
         linkImgSrc="/images/icons/rightward-arrow.svg"
 
     >}}
     {{< action
         titleText="Para comerciantes en linea"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="Sistema de pago con NavCoin integrada, ofrece complementos para todos los carros populares como Shopify y&nbsp;WooCommerce NavCoin payment gateway, offering plugins for all the popular webcarts like Shopify and&nbsp;WooCommerce."
+        subtext="Sistema de pago con Navcoin integrada, ofrece complementos para todos los carros populares como Shopify y&nbsp;WooCommerce Navcoin payment gateway, offering plugins for all the popular webcarts like Shopify and&nbsp;WooCommerce."
         linkText="Visitar CoinPayments"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"
@@ -214,8 +214,8 @@ newTab="true"
     {{< action                 
         titleText="Para proyectos personales"
         imgSrc="/images/merchants/mer-for-blog.svg"
-        subtext="Integrar botones de NavCoin para pagos rápidos es una opción fácil de implementar para individuous o&nbsp;comerciantes."
-        linkText="Acceder a botonos NavCoin de pagos"
+        subtext="Integrar botones de Navcoin para pagos rápidos es una opción fácil de implementar para individuous o&nbsp;comerciantes."
+        linkText="Acceder a botonos Navcoin de pagos"
         linkUrl="https://brianium.github.io/nav-button/"
         linkImgSrc="/images/icons/rightward-arrow.svg"
     >}}

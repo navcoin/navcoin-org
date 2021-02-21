@@ -1,13 +1,13 @@
 ---
 layout: notices
-title: NavCoin Core 5.0.0 - DAO Extension
+title: Navcoin Core 5.0.0 - DAO Extension
 author: Craig MacGregor
 date: '2020-05-28T16:17:48+12:00'
 feature_image: /images/uploads/navcoin-core-5.0.0-dao-extension.png
 notice_categories:
   - General Notices
 ---
-This major release includes multiple soft forks which will extend the NavCoin DAO and enable the community to not only vote on the allocation of the decentralised fund, but also vote on the network consensus parameters changes as well as a non binding onchain voting mechanism called consultations.
+This major release includes multiple soft forks which will extend the Navcoin DAO and enable the community to not only vote on the allocation of the decentralised fund, but also vote on the network consensus parameters changes as well as a non binding onchain voting mechanism called consultations.
 <!--more-->
 
 By downloading and installing this new version of software you will be automatically voting "yes" for the included soft forks. To vote "no" you can set `rejectversionbit=X` in your config file, replacing `X` with the version bit number you wish to reject.
@@ -18,7 +18,7 @@ You can keep track of the soft fork voting progress on the block explorer.
 
 https://www.navexplorer.com/soft-forks
 
-On top of the DAO Extensions, there are some interesting upgrades including Dandelion++ which is one of the components of NavCoin's new privacy protocol [BLS Confidential Transactions](https://medium.com/@NAVCoin/who-will-watch-the-watchmen-why-privacy-matters-to-navcoin-and-why-we-are-bringing-it-back-e4c8f2cd2cc3).
+On top of the DAO Extensions, there are some interesting upgrades including Dandelion++ which is one of the components of Navcoin's new privacy protocol [BLS Confidential Transactions](https://medium.com/@NAVCoin/who-will-watch-the-watchmen-why-privacy-matters-to-navcoin-and-why-we-are-bringing-it-back-e4c8f2cd2cc3).
 
 For more info, check out the release notes below;
 
@@ -26,7 +26,7 @@ For more info, check out the release notes below;
 
 <[Pull Request 530](https://github.com/navcoin/navcoin-core/pull/530)>
 
-This PR includes a series of Deployment Proposals as described in https://www.reddit.com/r/NavCoin/comments/bs4pvn/proposal_for_the_extension_of_the_community_fund/:
+This PR includes a series of Deployment Proposals as described in https://www.reddit.com/r/Navcoin/comments/bs4pvn/proposal_for_the_extension_of_the_community_fund/:
 
 - Adds support for abstaining in the votings. (Version Bit 19) - includes functional test
 
@@ -58,4 +58,4 @@ This PR adds a Startup GUI which allows for the ability to restore and create wa
 
 For the full release notes please visit the [Community Fund Stability Patches](https://github.com/navcoin/navcoin-core/releases/tag/5.0.0) release tag on GitHub.
 
-To download the NavCoin Core 5.0.0 please visit the [Wallet Downloads](https://navcoin.org/en/wallets/#download-core) page.
+To download the Navcoin Core 5.0.0 please visit the [Wallet Downloads](https://navcoin.org/en/wallets/#download-core) page.

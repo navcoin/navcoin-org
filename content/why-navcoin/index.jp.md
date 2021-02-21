@@ -1,47 +1,47 @@
 ---
-title: "なぜNavCoinなのか"
+title: "なぜNavcoinなのか"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
-description: "NavCoinは、オープンソースで、ブロックチェーンに基づいたプルーフ・オブ・ステークの仮想通貨です。そして、ユーザーによって運営される、ユーザーの為のプラットフォームです。"
+description: "Navcoinは、オープンソースで、ブロックチェーンに基づいたプルーフ・オブ・ステークの仮想通貨です。そして、ユーザーによって運営される、ユーザーの為のプラットフォームです。"
 ---
 {{< hero_section
-titleText="NavCoinとは何か"
-paragraphText="NavCoinは、オープンソースの、プロックチェーンベースのプルーフ・オブ・ステーク仮想通貨です。そのデザインは公開されており、NavCoinを所有したり管理する存在は無く、誰もが参加する事ができます。そしてこれは、ユーザーによって運営される、ユーザーの為のプラットフォームです。 世界中で支払いの承認を行う事ができるノードの&nbsp;インセンティブ&nbsp;ネットワークです。"
+titleText="Navcoinとは何か"
+paragraphText="Navcoinは、オープンソースの、プロックチェーンベースのプルーフ・オブ・ステーク仮想通貨です。そのデザインは公開されており、Navcoinを所有したり管理する存在は無く、誰もが参加する事ができます。そしてこれは、ユーザーによって運営される、ユーザーの為のプラットフォームです。 世界中で支払いの承認を行う事ができるノードの&nbsp;インセンティブ&nbsp;ネットワークです。"
 imgSrc="/images/why-navcoin/why-hero.svg"
 buttonText="プロジェクト概要"
 buttonImgSrc="/images/icons/downward-arrow.svg"
-buttonLink="/assets/NavCoinOverview_September2019.pdf"
+buttonLink="/assets/NavcoinOverview_September2019.pdf"
 newTab="true"
 >}}
 
 {{< item_container_section
-    titleText="なぜ人々は&nbsp;NavCoinを使うのか?"
+    titleText="なぜ人々は&nbsp;Navcoinを使うのか?"
     subtitleText="安くて、速くて、エコフレンドリーで、プライバシーに着目したコインだから"
 >}}
     {{< long_text
         titleText="自分自身の銀行になりましょう"
         imgSrc="/images/why-navcoin/why-own-bank.svg"
-        text="NavCoinはいかなる銀行や仲介者によっても運営されていません。また、貴方は誰にお金を預ける必要もありません。全ての支払いはピアツーピアで行われ、貴方のウォレットによって管理されています。現在のシステムとは異なり、 貴方が貴方のお金に関する全ての権限を持ち、どのようにしてネットワークが運営されるかについての発言権&nbsp;を&nbsp;持つのです。"
+        text="Navcoinはいかなる銀行や仲介者によっても運営されていません。また、貴方は誰にお金を預ける必要もありません。全ての支払いはピアツーピアで行われ、貴方のウォレットによって管理されています。現在のシステムとは異なり、 貴方が貴方のお金に関する全ての権限を持ち、どのようにしてネットワークが運営されるかについての発言権&nbsp;を&nbsp;持つのです。"
 
     >}}
     {{< long_text
         titleText="プライバシー"
         imgSrc="/images/why-navcoin/why-privacy.svg"
-        text="ブロックチェーンはその性質上、誰もがこれまでに送信された全てのトランザクションを見る事ができる公的帳簿であり、これによってプライバシーの保護が困難とされていました。NavCoin は、ユーザーにプライバシーを与える事に専念している為、貴方の情報は、貴方の同意がある場合にのみ&nbsp;提供&nbsp;されます。"
+        text="ブロックチェーンはその性質上、誰もがこれまでに送信された全てのトランザクションを見る事ができる公的帳簿であり、これによってプライバシーの保護が困難とされていました。Navcoin は、ユーザーにプライバシーを与える事に専念している為、貴方の情報は、貴方の同意がある場合にのみ&nbsp;提供&nbsp;されます。"
 
     >}}
     {{< long_text
         titleText="コールドステーキング"
         imgSrc="/images/why-navcoin/why-peer.svg"
-        text="セキュリティはNavCoinの最優先事項であり、その為、ネットワーク上でのコールドステーキングが重要な機能となります。貴方のコイン全てをインターネットに接続する代わりに、コインをオフラインに維持しておきながら、ネットワークのステーキングに参加する事を可能にし、保有コインのさらなる&nbsp;保護が&nbsp;可能になったのです。"
+        text="セキュリティはNavcoinの最優先事項であり、その為、ネットワーク上でのコールドステーキングが重要な機能となります。貴方のコイン全てをインターネットに接続する代わりに、コインをオフラインに維持しておきながら、ネットワークのステーキングに参加する事を可能にし、保有コインのさらなる&nbsp;保護が&nbsp;可能になったのです。"
 
     >}}
     {{< long_text
         titleText="休む事のないネットワーク"
         imgSrc="/images/why-navcoin/why-247.svg"
-        text="世界中にノードを持つ NavCoinのネットワークは、毎日２４時間休みなく動いています。貴方がインターネットに接続している限り、世界のどこにいても、何時でも、ダウンタイム無しで支払いを送ったり受けたりする事が可能です。だからこそ、デジタルコマースにおいての理想的な&nbsp;支払い&nbsp;システムなのです。"
+        text="世界中にノードを持つ Navcoinのネットワークは、毎日２４時間休みなく動いています。貴方がインターネットに接続している限り、世界のどこにいても、何時でも、ダウンタイム無しで支払いを送ったり受けたりする事が可能です。だからこそ、デジタルコマースにおいての理想的な&nbsp;支払い&nbsp;システムなのです。"
 
     >}}
     {{< long_text
@@ -53,24 +53,24 @@ newTab="true"
     {{< long_text
         titleText="スムーズな支払い"
         imgSrc="/images/why-navcoin/why-low-fee.svg"
-        text="デジタル経済の世界では、世界に向けて支払いを送金するには、速さ、安さ、簡単である事が求められます。NavCoinは、 １円にも満たない僅かな手数料で世界中に送金する事ができ、何秒かの間に送金が表示され（３０秒以内で承認される）、さらに、様々な種類のウォレットによって、NAV の送金を&nbsp;簡単に&nbsp;行う事ができるのです。"
+        text="デジタル経済の世界では、世界に向けて支払いを送金するには、速さ、安さ、簡単である事が求められます。Navcoinは、 １円にも満たない僅かな手数料で世界中に送金する事ができ、何秒かの間に送金が表示され（３０秒以内で承認される）、さらに、様々な種類のウォレットによって、NAV の送金を&nbsp;簡単に&nbsp;行う事ができるのです。"
 
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
-  titleText="NavCoinの歴史"
+  titleText="Navcoinの歴史"
   imgSrc="/images/why-navcoin/why-history.svg"
   buttonUrl="/governance/"
   buttonText="ガバナンスについてもっと詳しく読む"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
 >}}
-NavCoinは、2014年に設立された、コミュニティーによって運営されるネットワークです。当初はプルーフ・オブ・ワークを使用していましたが、すぐにプルーフ・オブ・ステークへと移行しました。ICOや先行マイニングを行わず、NavCoinは常に自己資金による運営を行う事で、公平な分配を確保し、また、全ての人が、運営に関わる&nbsp;チャンスを&nbsp;持つのです。
+Navcoinは、2014年に設立された、コミュニティーによって運営されるネットワークです。当初はプルーフ・オブ・ワークを使用していましたが、すぐにプルーフ・オブ・ステークへと移行しました。ICOや先行マイニングを行わず、Navcoinは常に自己資金による運営を行う事で、公平な分配を確保し、また、全ての人が、運営に関わる&nbsp;チャンスを&nbsp;持つのです。
 {{< /zig_section>}}
 
 {{< item_container_section
-    titleText="NavCoin の&nbsp;使い方"
+    titleText="Navcoin の&nbsp;使い方"
     subtitleText="様々な使用方法を持つ、web3時代の為の、プログラム&nbsp;可能な&nbsp;通貨"
 >}}
     {{< feature
@@ -101,7 +101,7 @@ NavCoinは、2014年に設立された、コミュニティーによって運営
     {{< feature                 
         titleText="財産の保管"
         imgSrc="/images/why-navcoin/why-wealth.svg"
-        text="NavCoin は、運営に中心となる権力を必要としません。つまり、貴方のお金は &nbsp;貴方が&nbsp;コントロールするのです。"
+        text="Navcoin は、運営に中心となる権力を必要としません。つまり、貴方のお金は &nbsp;貴方が&nbsp;コントロールするのです。"
     >}}
 {{< /item_container_section >}}
 
@@ -114,12 +114,12 @@ NavCoinは、2014年に設立された、コミュニティーによって運営
     {{< feature
         titleText="様々な形で関わる事ができます"
         imgSrc="/images/why-navcoin/why-decentralised-dev.svg"
-        text="NavCoinは、様々なチームやプロジェクトによって成るエコシステムです。様々な形で、&nbsp;関わる&nbsp;事ができます。"
+        text="Navcoinは、様々なチームやプロジェクトによって成るエコシステムです。様々な形で、&nbsp;関わる&nbsp;事ができます。"
     >}}
     {{< feature
         titleText="コミュニティの資金"
         imgSrc="/images/why-navcoin/why-cfund.svg"
-        text="NavCoinのコミュニティ資金により、貢献者はその努力に対してネットワークから報酬を&nbsp;得る事が&nbsp;できます。"
+        text="Navcoinのコミュニティ資金により、貢献者はその努力に対してネットワークから報酬を&nbsp;得る事が&nbsp;できます。"
     >}}
     {{< feature                 
         titleText="プルーフ・オブ・ステークアライアンスのメンバーです"
@@ -129,7 +129,7 @@ NavCoinは、2014年に設立された、コミュニティーによって運営
     {{< feature                 
         titleText="アクティブなリサーチと開発"
         imgSrc="/images/why-navcoin/why-research.svg"
-        text="NavCoin Protocol Improvement Proposals (NPIPs)は、暗号学者、エコノミスト、そしてデベロッパーが協力し合う&nbsp;研究の場です。"
+        text="Navcoin Protocol Improvement Proposals (NPIPs)は、暗号学者、エコノミスト、そしてデベロッパーが協力し合う&nbsp;研究の場です。"
     >}}
     {{< feature                 
         titleText="プログラム可能なお金"
@@ -151,5 +151,5 @@ buttonText="私達の方向性を知って下さい。"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 >}}
-アクティブなコミュニティがNavCoinプロトコルに取り組んでいます。ぜひロードマップをチェックして、次に何が来るのか&nbsp;見て&nbsp;下さい。
+アクティブなコミュニティがNavcoinプロトコルに取り組んでいます。ぜひロードマップをチェックして、次に何が来るのか&nbsp;見て&nbsp;下さい。
 {{< /zig_section>}}

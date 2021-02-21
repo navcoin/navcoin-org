@@ -6,15 +6,15 @@ An `accordion` looks like this:
 
 {{< accordion
   titleText="Accordion"
-  subtitleText="NavCoin is an open source protocol and NavCoin wallets"
+  subtitleText="Navcoin is an open source protocol and Navcoin wallets"
   itemOneTitle="Step 1 - Develop your ideas."
-  itemOneText="Think of things that could inspire the NavCoin network. You can go it alone or discuss it with the community in <a href=\"https://reddit.com/r/navcoin\">Reddit</a> or <a href=\"https://discord.gg/dRyhDjm\">Discord</a>."
+  itemOneText="Think of things that could inspire the Navcoin network. You can go it alone or discuss it with the community in <a href=\"https://reddit.com/r/navcoin\">Reddit</a> or <a href=\"https://discord.gg/dRyhDjm\">Discord</a>."
 
   itemTwoTitle="Step 2 - Create a project page."
-  itemTwoText="It can be anywhere, but to give your project maximum visibility in the community consider using the <a href=\"\">Collab website</a>.<br>Work out the details of the project. You need to communicate why the NavCoin community should fund it, if you need to tap into other people’s skills, and how long it will take from start to finish. Your proposal might suiting being funded in stages, especially if it’s long term devising a roadmap will help."
+  itemTwoText="It can be anywhere, but to give your project maximum visibility in the community consider using the <a href=\"\">Collab website</a>.<br>Work out the details of the project. You need to communicate why the Navcoin community should fund it, if you need to tap into other people’s skills, and how long it will take from start to finish. Your proposal might suiting being funded in stages, especially if it’s long term devising a roadmap will help."
 
   itemThreeTitle="Step 3 - Create your team."
-  itemThreeText="Do you need other skills to bring your project to life? Use NavCoin’s social channels and the Collab website to find community members who can help you complete your project."
+  itemThreeText="Do you need other skills to bring your project to life? Use Navcoin’s social channels and the Collab website to find community members who can help you complete your project."
   
   itemFourTitle="Step 4 - Submit your proposal."
   itemFourText="Complete the proposal form, including a link to your project page.<br>Pay the proposal fee. The projects that pay the highest fees to the network will be accepted first. A fee is necessary to stop people spamming the Community Fund with weak proposals."
@@ -23,13 +23,13 @@ An `accordion` looks like this:
   itemFiveText="Once you’ve submitted your proposal, promote your project using the community channels. Communicate why you think it’s worth funding what benefits will it bring? Why should the community support it?"
   
   itemSixTitle="Step 6 - Voting begins."
-  itemSixText="To be eligible to vote you must be staking NavCoin.<br>Each voting period lasts 20,000 blocks.<br>The minimum number of stakers voting yes/no needs to be 50%<br>Of that 50%, a proposal must receive 75% ‘yes’ votes to be accepted<br>67.5% ‘no’ votes will result in it being rejected."
+  itemSixText="To be eligible to vote you must be staking Navcoin.<br>Each voting period lasts 20,000 blocks.<br>The minimum number of stakers voting yes/no needs to be 50%<br>Of that 50%, a proposal must receive 75% ‘yes’ votes to be accepted<br>67.5% ‘no’ votes will result in it being rejected."
   
   itemSevenTitle="Step 7 - Begin the work."
   itemSevenText="Start work and do your best to stick to your timeline.<br>Keep the community updated with how things are progressing in your project. It’s OK to ask for help along the way."
   
   itemEightTitle="Step 8 - Apply for payment."
-  itemEightText="Once your project is complete you can apply for payment from the Community Fund. If there are clear milestones in your proposal you can apply to receive payments at scheduled points in the timeline.<br>Payment is subject to a second consensus vote among NavCoin stakers. There must be a 50% minimum participation, with 50% ‘yes’ vote to be paid and 50% ‘no’ for payment to be rejected."
+  itemEightText="Once your project is complete you can apply for payment from the Community Fund. If there are clear milestones in your proposal you can apply to receive payments at scheduled points in the timeline.<br>Payment is subject to a second consensus vote among Navcoin stakers. There must be a 50% minimum participation, with 50% ‘yes’ vote to be paid and 50% ‘no’ for payment to be rejected."
 >}}
 
 There are eight sections you can fill, they're optional so if you leave them out they won't render anything.
@@ -108,7 +108,7 @@ A `step_container_section` looks like this:
   {{< step 
       titleText="1. Download your wallet"
       imgSrc="/images/logos/wallet-navpi-logo.png"
-      text="This will allow you to send/receive transactions, take ownership of your private keys, and if you use the NavCoin core wallet you can contribute to transaction validation on the network."
+      text="This will allow you to send/receive transactions, take ownership of your private keys, and if you use the Navcoin core wallet you can contribute to transaction validation on the network."
       buttonText="Click me"
       buttonUrl="www.navcoin.org"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -138,7 +138,7 @@ The `step` shortcode looks like this:
 {{< step 
     titleText="1. Download your wallet"
     imgSrc="/images/logos/wallet-navpi-logo.png"
-    text="This will allow you to send/receive transactions, take ownership of your private keys, and if you use the NavCoin core wallet you can contribute to transaction validation on the network."
+    text="This will allow you to send/receive transactions, take ownership of your private keys, and if you use the Navcoin core wallet you can contribute to transaction validation on the network."
     buttonText="Click me"
     buttonUrl="www.navcoin.org"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -217,7 +217,7 @@ The `contrib_list` shortcode looks like this:
 
 ```
 {{< contrib_list
-    title="NavCoin Protocol Contributors"
+    title="Navcoin Protocol Contributors"
     subtitle="We would like to thank our contributors who have made this protocol awesome!"
     buttonUrl="https://github.com/NAVCoin/navcoin-core/graphs/contributors"
     buttonTxt="View on Github"
@@ -292,11 +292,11 @@ A `item_container_section` looks like this:
 ```
 {{< item_container_section 
     titleText="Long text no buttons"
-    subtitleText="NavCoin is an open source protocol and NavCoin Wallets are cool"
+    subtitleText="Navcoin is an open source protocol and Navcoin Wallets are cool"
     
 >}}
     {{< wallet 
-        titleText="NavCoin Core Wallet v4.3.0"
+        titleText="Navcoin Core Wallet v4.3.0"
         walletImgSrc="/images/logos/wallet-navcoincore-logo.png"
         text="These wallets run the blockchain & participate in validating transactions."
         buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -409,7 +409,7 @@ The `merchant` shortcode looks like this:
 {{< merchant 
     titleText="Crypto Garden"
     imgSrc="/images/logos/wallet-navcoincore-logo.png"
-    text="Spend your NavCoin on exotic potplants and shrubs"
+    text="Spend your Navcoin on exotic potplants and shrubs"
     linkUrl="https://navcoin.org/en/navcoin-core/#links"
 >}}
 ```
@@ -453,7 +453,7 @@ The `wallet` shortcode looks like this:
 
 ```
 {{< wallet 
-    titleText="NavCoin Core Wallet v4.3.0"
+    titleText="Navcoin Core Wallet v4.3.0"
     walletImgSrc="/images/logos/wallet-navcoincore-logo.png"
     text="These wallets run the blockchain & participate in validating transactions."
     buttonUrl="https://navcoin.org/en/navcoin-core/#links"
@@ -486,7 +486,7 @@ A `hero_section` looks like this:
 ```
 {{< hero_section
 titleText="Standard hero_section"
-paragraphText="NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a NavCoin is a."
+paragraphText="Navcoin is a Navcoin is a Navcoin is a Navcoin is a Navcoin is a Navcoin is a Navcoin is a Navcoin is a Navcoin is a Navcoin is a Navcoin is a Navcoin is a Navcoin is a Navcoin is a Navcoin is a Navcoin is a Navcoin is a Navcoin is a."
 imgSrc="/images/hero-icon.svg"
 >}}
 ```

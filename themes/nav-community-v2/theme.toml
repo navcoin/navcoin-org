@@ -10,7 +10,7 @@ features = []
 min_version = "0.1"
 
 [author]
-  name = "NavCoin Core Team"
+  name = "Navcoin Core Team"
   homepage = ""
 
 # If porting an existing theme

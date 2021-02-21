@@ -1,6 +1,6 @@
 ---
 layout: 通知
-title: NavCoin 4.2.1 - 32Bit NTP Sync Hotfix
+title: Navcoin 4.2.1 - 32Bit NTP Sync Hotfix
 author: Craig MacGregor
 date: '2018-06-11T12:15:16+12:00'
 feature_image: /images/uploads/2018-06-06.jpg

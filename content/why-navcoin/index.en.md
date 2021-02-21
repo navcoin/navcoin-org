@@ -1,47 +1,47 @@
 ---
-title: "Why NavCoin"
+title: "Why Navcoin"
 date: 2018-03-20T08:09:08+13:00
 draft: false
 type: "default"
 author: ""
-description: "NavCoin is an open-source, blockchain based Proof of Stake cryptocurrency. It’s a platform that’s run by its users, for its users."
+description: "Navcoin is an open-source, blockchain based Proof of Stake cryptocurrency. It’s a platform that’s run by its users, for its users."
 ---
 {{< hero_section
-titleText="What Is NavCoin"
-paragraphText="NavCoin is an open-source, blockchain based Proof of Stake cryptocurrency. Its design is public, nobody owns or controls NavCoin, and everyone can take part. It’s a platform that’s run by its users, for its users - with an incentivised network of nodes verifying payments all around&nbsp;the&nbsp;world."
+titleText="What Is Navcoin"
+paragraphText="Navcoin is an open-source, blockchain based Proof of Stake cryptocurrency. Its design is public, nobody owns or controls Navcoin, and everyone can take part. It’s a platform that’s run by its users, for its users - with an incentivised network of nodes verifying payments all around&nbsp;the&nbsp;world."
 imgSrc="/images/why-navcoin/why-hero.svg"
 buttonText="Project Overview"
 buttonImgSrc="/images/icons/downward-arrow.svg"
-buttonLink="/assets/NavCoinOverview_September2019.pdf"
+buttonLink="/assets/NavcoinOverview_September2019.pdf"
 newTab="true"
 >}}
 
 {{< item_container_section
-    titleText="Why Are People Using&nbsp;NavCoin?"
+    titleText="Why Are People Using&nbsp;Navcoin?"
     subtitleText="It's cheap, fast, eco-friendly and privacy focused."
 >}}
     {{< long_text
         titleText="Be your own bank"
         imgSrc="/images/why-navcoin/why-own-bank.svg"
-        text="There are no banks or intermediaries that run NavCoin, and no one you need to deposit your money with. All payments are peer to peer, and managed by your wallet. Unlike the current system, you have total control of your money, and a say in how the network&nbsp;is&nbsp;run."
+        text="There are no banks or intermediaries that run Navcoin, and no one you need to deposit your money with. All payments are peer to peer, and managed by your wallet. Unlike the current system, you have total control of your money, and a say in how the network&nbsp;is&nbsp;run."
 
     >}}
     {{< long_text
         titleText="Privacy"
         imgSrc="/images/why-navcoin/why-privacy.svg"
-        text="Blockchains by their nature are public ledgers that allows anyone to view every transaction ever sent, which makes privacy a challenge. NavCoin is dedicated to providing privacy for users, so that your information can only be given with your consent,&nbsp;not&nbsp;taken."
+        text="Blockchains by their nature are public ledgers that allows anyone to view every transaction ever sent, which makes privacy a challenge. Navcoin is dedicated to providing privacy for users, so that your information can only be given with your consent,&nbsp;not&nbsp;taken."
 
     >}}
     {{< long_text
         titleText="Cold staking"
         imgSrc="/images/why-navcoin/why-peer.svg"
-        text="Security is the number one priority for NavCoin, which makes cold staking an important feature on the network. Instead of having all your coins connected to the internet - this allows you to participate in staking the network, while also keeping your coins offline for&nbsp;added&nbsp;protection."
+        text="Security is the number one priority for Navcoin, which makes cold staking an important feature on the network. Instead of having all your coins connected to the internet - this allows you to participate in staking the network, while also keeping your coins offline for&nbsp;added&nbsp;protection."
 
     >}}
     {{< long_text
         titleText="Carbon neutral network"
         imgSrc="/images/why-navcoin/why-low-energy.svg"
-        text="NavCoin uses Proof of Stake which is an energy efficient form of blockchain validation. With sponsorship from the Community Fund, NavCoin has offset the estimated annual carbon footprint of the network to become the world’s first carbon neutral&nbsp;cryptocurrency."
+        text="Navcoin uses Proof of Stake which is an energy efficient form of blockchain validation. With sponsorship from the Community Fund, Navcoin has offset the estimated annual carbon footprint of the network to become the world’s first carbon neutral&nbsp;cryptocurrency."
         buttonText="Read More"
         buttonUrl="https://navhub.org/news/2019-03-08-navcoin-is-now-carbon-neutral/"
         buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -54,24 +54,24 @@ newTab="true"
     {{< long_text
         titleText="Frictionless payments"
         imgSrc="/images/why-navcoin/why-low-fee.svg"
-        text="In the digital economy, sending payments around the world should be fast, cheap, and easy to do. NavCoin can be sent for a fraction of a cent, will show up within seconds (confirmed in 30 seconds), and there are a range of wallets designed to make sending&nbsp;NAV&nbsp;effortless."
+        text="In the digital economy, sending payments around the world should be fast, cheap, and easy to do. Navcoin can be sent for a fraction of a cent, will show up within seconds (confirmed in 30 seconds), and there are a range of wallets designed to make sending&nbsp;NAV&nbsp;effortless."
 
     >}}
 {{< /item_container_section >}}
 
 {{< zig_section
-  titleText="History Of NavCoin"
+  titleText="History Of Navcoin"
   imgSrc="/images/why-navcoin/why-history.svg"
   buttonUrl="/governance/"
   buttonText="Read more about governance"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
 >}}
-NavCoin is a community-run network that was started in 2014. It initially used Proof of Work, but quickly made the shift to Proof of Stake. With no ICO or premine, NavCoin has always been self-funded to ensure a fair distribution and that everyone has a chance to&nbsp;get&nbsp;involved.
+Navcoin is a community-run network that was started in 2014. It initially used Proof of Work, but quickly made the shift to Proof of Stake. With no ICO or premine, Navcoin has always been self-funded to ensure a fair distribution and that everyone has a chance to&nbsp;get&nbsp;involved.
 {{< /zig_section>}}
 
 {{< item_container_section
-    titleText="How To Use&nbsp;NavCoin"
+    titleText="How To Use&nbsp;Navcoin"
     subtitleText="A programmable currency for the web3 era, with a range of&nbsp;use&nbsp;cases."
 >}}
     {{< feature
@@ -102,7 +102,7 @@ NavCoin is a community-run network that was started in 2014. It initially used P
     {{< feature                 
         titleText="Store of wealth"
         imgSrc="/images/why-navcoin/why-wealth.svg"
-        text="NavCoin doesn’t require any central authority to run - meaning your money is in&nbsp;your&nbsp;control."
+        text="Navcoin doesn’t require any central authority to run - meaning your money is in&nbsp;your&nbsp;control."
     >}}
 {{< /item_container_section >}}
 
@@ -115,12 +115,12 @@ NavCoin is a community-run network that was started in 2014. It initially used P
     {{< feature
         titleText="Lots of ways to get involved"
         imgSrc="/images/why-navcoin/why-decentralised-dev.svg"
-        text="NavCoin is an ecosystem of different teams and projects - allowing for a number of ways to&nbsp;get&nbsp;involved."
+        text="Navcoin is an ecosystem of different teams and projects - allowing for a number of ways to&nbsp;get&nbsp;involved."
     >}}
     {{< feature
         titleText="Community fund"
         imgSrc="/images/why-navcoin/why-cfund.svg"
-        text="NavCoin’s Community Fund allows contributors to get paid by the network for&nbsp;their&nbsp;efforts."
+        text="Navcoin’s Community Fund allows contributors to get paid by the network for&nbsp;their&nbsp;efforts."
     >}}
     {{< feature                 
         titleText="Proof of Stake Alliance member"
@@ -130,7 +130,7 @@ NavCoin is a community-run network that was started in 2014. It initially used P
     {{< feature                 
         titleText="Active research & development"
         imgSrc="/images/why-navcoin/why-research.svg"
-        text="NavCoin Protocol Improvement Proposals (NPIPs) are the research playground where cryptographers, economists, and developers&nbsp;collaborate."
+        text="Navcoin Protocol Improvement Proposals (NPIPs) are the research playground where cryptographers, economists, and developers&nbsp;collaborate."
     >}}
     {{< feature                 
         titleText="Programmable money"
@@ -152,5 +152,5 @@ buttonText="Check out where we're going"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 >}}
-With an active community working on the NavCoin protocol, check out the roadmap to see what's&nbsp;coming&nbsp;next.
+With an active community working on the Navcoin protocol, check out the roadmap to see what's&nbsp;coming&nbsp;next.
 {{< /zig_section>}}

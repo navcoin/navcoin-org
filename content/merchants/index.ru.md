@@ -3,11 +3,11 @@ title: "Торговцы"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
-description: "Любой может принимать NavCoin на своем веб-сайте или в магазине, чтобы получать мгновенные, международные платежи с низкой комиссией.."
+description: "Любой может принимать Navcoin на своем веб-сайте или в магазине, чтобы получать мгновенные, международные платежи с низкой комиссией.."
 ---
 {{< hero_section
 titleText="Merchants"
-paragraphText="Любой может принимать NavCoin на своем веб-сайте или в магазине, чтобы получать мгновенные, международные платежи с низкой&nbsp;комиссией. Эта страница не является исчерпывающим списком, и для принятия NavCoin регистрация не требуется. Если вы принимаете NavCoin и хотите, чтобы ваш магазин был здесь указан, пожалуйста, создайте запрос на добавление или откройте запрос на GitHub."
+paragraphText="Любой может принимать Navcoin на своем веб-сайте или в магазине, чтобы получать мгновенные, международные платежи с низкой&nbsp;комиссией. Эта страница не является исчерпывающим списком, и для принятия Navcoin регистрация не требуется. Если вы принимаете Navcoin и хотите, чтобы ваш магазин был здесь указан, пожалуйста, создайте запрос на добавление или откройте запрос на GitHub."
 imgSrc="/images/merchants/mer-hero.svg"
 buttonText="Добавить свой магазин"
 buttonLink="https://github.com/NAVCoin/navcoin-org/issues/new"
@@ -18,7 +18,7 @@ newTab="true"
 
 {{< item_container_section
     titleText="Магазины"
-    subtitleText="Список торговцев и сервисов, которые позволяют вам тратить ваши&nbsp;NavCoin"
+    subtitleText="Список торговцев и сервисов, которые позволяют вам тратить ваши&nbsp;Navcoin"
 >}}
     {{< merchant
         titleText="CoinPayments"
@@ -27,9 +27,9 @@ newTab="true"
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}}
      {{< merchant
-        titleText="NavCoin Merch Store"
+        titleText="Navcoin Merch Store"
         imgSrc="/images/merchants/mer-nav.png"
-        text="Носите NavCoin с гордостью с этим ассортиментом фирменных товаров."
+        text="Носите Navcoin с гордостью с этим ассортиментом фирменных товаров."
         linkUrl="https://navcoinstore.com/"
     >}}
     {{< merchant
@@ -47,13 +47,13 @@ newTab="true"
     {{< merchant
         titleText="Скорая помощь Mile High"
         imgSrc="/images/merchants/mer-mile-high.png"
-        text="Скорая помощь, которая принимает NavCoin для оплаты&nbsp;счетов."
+        text="Скорая помощь, которая принимает Navcoin для оплаты&nbsp;счетов."
         linkUrl="https://milehighambulance.com/now-accepting-navcoin"
     >}}
     {{< merchant
         titleText="Магазин товаров HODL"
         imgSrc="/images/merchants/mer-hodl.png"
-        text="Дом для криптоторговцев торгующих одеждой и аксессуарами&nbsp;NavCoin."
+        text="Дом для криптоторговцев торгующих одеждой и аксессуарами&nbsp;Navcoin."
         linkUrl="https://alwayshodl.com/pages/official-nav-collection"
     >}}
     {{< merchant
@@ -186,8 +186,8 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="Принимать NavCoin просто!"
-    subtitleText="У NavCoin есть подходящее платежное решение для вашего&nbsp;бизнеса."
+    titleText="Принимать Navcoin просто!"
+    subtitleText="У Navcoin есть подходящее платежное решение для вашего&nbsp;бизнеса."
     bgPurple="true"
     buttonUrl="/for-business/"
     buttonText="Подробнее"
@@ -198,14 +198,14 @@ newTab="true"
         imgSrc="/images/merchants/mer-for-store.svg"
         subtext="Используйте кошелек NavPay на вашем смартфоне. Клиенты просто сканируют ваш QR-код и мгновенно переводят&nbsp;средства"
         linkText="Посетите NavPay"
-        linkUrl="https://navhub.org/projects/nav-pay/"
+        linkUrl="https://navpay.navcoin.org"
         linkImgSrc="/images/icons/rightward-arrow.svg"
 
     >}}
     {{< action
         titleText="Для вашего интернет-бизнеса"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="Интегрированный платежный шлюз NavCoin, предлагающий плагины для всех популярных веб-карт, таких как Shopify и&nbsp;Woocommerce."
+        subtext="Интегрированный платежный шлюз Navcoin, предлагающий плагины для всех популярных веб-карт, таких как Shopify и&nbsp;Woocommerce."
         linkText="Посетите CoinPayments"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"

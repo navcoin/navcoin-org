@@ -3,13 +3,13 @@ title: "Fondo Comunitario"
 date: 2018-03-20T07:41:22+13:01
 draft: false
 type: "default"
-description: "El fondo comunitario de NavCoin es un sistema de incentivación descentralizado con el fin de recompensar de manera democrática a proyectos comunitarios relacionados con el desarrollo de NavCoin"
+description: "El fondo comunitario de Navcoin es un sistema de incentivación descentralizado con el fin de recompensar de manera democrática a proyectos comunitarios relacionados con el desarrollo de Navcoin"
 ---
 <section class="cf-hero">
     <div class="grid-container">
       <div class="text-container">
         <h1>Fondo comunitario</h1>
-        <p>NavCoin se construye gracias a su comunidad. Es un proyecto de código abierto que no ha sido ni preminado ni pertenece al formato "ICO". El fondo comunitario de NavCoin permite a los contribuyentes del ecosistema ser remunerados por la red. Los protyectos son aprobados y los fondos son liberados de una manera descentralizada sin autoridad central. De esta manera nos aseguramos que la dirección de NAV es un fiel reflejo del interés de la comunidad autonoma.</p>
+        <p>Navcoin se construye gracias a su comunidad. Es un proyecto de código abierto que no ha sido ni preminado ni pertenece al formato "ICO". El fondo comunitario de Navcoin permite a los contribuyentes del ecosistema ser remunerados por la red. Los protyectos son aprobados y los fondos son liberados de una manera descentralizada sin autoridad central. De esta manera nos aseguramos que la dirección de NAV es un fiel reflejo del interés de la comunidad autonoma.</p>
       </div>
       <img src="/images/community-fund/cfu-hero.png" alt="Hero image">
     </div>
@@ -23,7 +23,7 @@ description: "El fondo comunitario de NavCoin es un sistema de incentivación de
     {{< feature
         titleText="1: Presentación"
         imgSrc="/images/community-fund/cfu-submit.svg"
-        text="Imaginen las mejoras que quisieran ver dentro del ecosistema de NavCoin y envien su propuesta a la&nbsp;red"
+        text="Imaginen las mejoras que quisieran ver dentro del ecosistema de Navcoin y envien su propuesta a la&nbsp;red"
     >}}
     {{< feature
         titleText="2: Voto"
@@ -44,7 +44,7 @@ description: "El fondo comunitario de NavCoin es un sistema de incentivación de
     {{< feature
         titleText="Consenso basado en un Doble-Voto"
         imgSrc="/images/community-fund/cfu-dual-vote.svg"
-        text="NavCoin es el primer fondo comunitario en implementer un doble voto, para asegurar que si el trabajo nunca es finalizado, los fondos estén a&nbsp;salvo."
+        text="Navcoin es el primer fondo comunitario en implementer un doble voto, para asegurar que si el trabajo nunca es finalizado, los fondos estén a&nbsp;salvo."
     >}}
     {{< feature
         titleText="Disponible para todos"
@@ -82,14 +82,14 @@ description: "El fondo comunitario de NavCoin es un sistema de incentivación de
   bgPurple="true"
   newTab="true"
 >}}
-El portal de "NavCoin Collab" es el espacio donde la comunidad puede encontrar el espectro de proyectos en los que se está trabajando. Funciona como un "centro de operaciones" y es la manera más fácil y practica de colaborar y discutir proyectos en&nbsp;conjunto.
+El portal de "Navcoin Collab" es el espacio donde la comunidad puede encontrar el espectro de proyectos en los que se está trabajando. Funciona como un "centro de operaciones" y es la manera más fácil y practica de colaborar y discutir proyectos en&nbsp;conjunto.
 {{< /zig_section>}}
 
 {{< accordion
   titleText="Instrucciones para crear una&nbsp;propuesta"
   subtitleText="Hemos diseñado un proceso para ayudar para ayudar a que las propuestas tengan mayores posibilidades de ser aceptadas por nuestra&nbsp;comunidad."
   itemOneTitle="Paso 1 - Desarrollo de la idea principal del proyecto."
-  itemOneText="Traer la idea a la comunidad de NavCoin para discutirla en nuestros canales de comunicación<a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> or on the <a href=\"https://collab.navcoin.org\">NavCollab</a>."
+  itemOneText="Traer la idea a la comunidad de Navcoin para discutirla en nuestros canales de comunicación<a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> or on the <a href=\"https://collab.navcoin.org\">NavCollab</a>."
 
   itemTwoTitle="Paso 2 - Crear la página del proyecto."
   itemTwoText="Puede ser en cualquier lado, para mayor visibilidad recomendamos usar la página de <a href=\"\">NavCollab</a>.<br><br>Es importante especificar en detalle el proyecto. Lo más importante es explicar a la comunidad las razones por las cuales deberian financiarlo. Si es necesaria la ayuda externa y el tiempo que tomará desde el principio hasta la entrega final. <br><br>La propuesta puede ser financiada en distintas etapas, especialmente si es un proyecto largo."
@@ -101,7 +101,7 @@ El portal de "NavCoin Collab" es el espacio donde la comunidad puede encontrar e
   itemFourText="Solo basta completar el formulario del proyecto incluyendo un enlace a la página del proyecto.<br><br>Luego para finalizarlo hará falta pagar la tasa de la propuesta unos 50 NAVs. Dicha tasa es necesaria para que usuarios no presentes proyectos innecesarios o malout&nbsp;ejecutados."
   
   itemFiveTitle="Paso 5 - Promover el proyecto a la comunidad."
-  itemFiveText="Una vez entregado el proyecto, el siguien paso es usar los canales sociales de la comunidad para promocionarlo. Es necesario comunicar porqué son necesarios los fondos y los beneficios que el proyecto traerá a la comunidad de&nbsp;itNavCoin."
+  itemFiveText="Una vez entregado el proyecto, el siguien paso es usar los canales sociales de la comunidad para promocionarlo. Es necesario comunicar porqué son necesarios los fondos y los beneficios que el proyecto traerá a la comunidad de&nbsp;itNavcoin."
 
   itemSixTitle="Paso 6 - Comienzo de la votacion."
   itemSixText="Para poder votar en el fondo comunitario es necesario hacer &#34;stakes&#34; de NAV. Cada generación de bloques, equivale a 1 voto. Cada ronda de votacioóón dura 20,000 blocks (Alrededor de 7 días).<br><br><ul><li>La participación mínima de &#34;Stakers&#34; debe exceder el 50%</li><br><li>De dichos 50%, una propuesta debe recibir el 75% de votos positivos para ser aceptada</li><br><li>Un porcentaje del 70% de votos negativos resultará en un rechazo de la propuesta.</li><br><li> Si no llegan al umbral del 50% de votación, habrán 6 rondas más hasta que el proyecto necesite ser re-enviado."
@@ -115,7 +115,7 @@ El portal de "NavCoin Collab" es el espacio donde la comunidad puede encontrar e
 
 {{< social_grid_section
     titleText="Únanse a nuestra comunidad"
-    subtitleText="Promote your proposal ideas to the NavCoin community to get feedback, find collaborators and get votes."
+    subtitleText="Promote your proposal ideas to the Navcoin community to get feedback, find collaborators and get votes."
     bgPurple="true"
 >}}
     {{< social                 
@@ -131,7 +131,7 @@ El portal de "NavCoin Collab" es el espacio donde la comunidad puede encontrar e
 {{< social                 
     titleText="Reddit"
     imgSrc="/images/for-beginners/beg-reddit.svg"
-    linkUrl="https://reddit.com/r/NavCoin/"
+    linkUrl="https://reddit.com/r/Navcoin/"
 >}}
 {{< social                 
     titleText="Telegram"
@@ -141,17 +141,17 @@ El portal de "NavCoin Collab" es el espacio donde la comunidad puede encontrar e
 {{< social                 
     titleText="Facebook"
     imgSrc="/images/for-beginners/beg-fb.svg"
-    linkUrl="https://www.facebook.com/NavCoin/"
+    linkUrl="https://www.facebook.com/Navcoin/"
 >}}
 {{< social                 
     titleText="Twitter"
     imgSrc="/images/for-beginners/beg-twitter.svg"
-    linkUrl="https://twitter.com/NavCoin"
+    linkUrl="https://twitter.com/Navcoin"
 >}}
 {{< social                 
     titleText="Youtube"
     imgSrc="/images/for-beginners/beg-yt.svg"
-    linkUrl="https://www.youtube.com/NavCoinCore"
+    linkUrl="https://www.youtube.com/NavcoinCore"
 >}}
 {{< social                 
     titleText="Medium"

@@ -9,4 +9,4 @@ externalUrl: https://navcoin.org/community-fund/
 
 ---
 
-NavCoin的社区资金允许任何人通过网络对NavCoin生态系统的做贡献而获取回报。项目通过去中心化的、没有中央权力的网络提供资金和批准的。
+Navcoin的社区资金允许任何人通过网络对Navcoin生态系统的做贡献而获取回报。项目通过去中心化的、没有中央权力的网络提供资金和批准的。

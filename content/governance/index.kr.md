@@ -72,7 +72,7 @@ Nav코인은 모든 사람이 다양한 방식으로 기여할 수 있도록 하
         imgSrc="/images/governance/gov-dev-manifesto.svg"
         subtext="Nav코인의 오픈 소스 코드에 기여하고 싶은 모든 사람을 위한 필수로&nbsp;읽어보세요."
         linkText="성명서를 받으세요"
-        linkUrl="/assets/NavCoinDeveloperManifesto.pdf"
+        linkUrl="/assets/NavcoinDeveloperManifesto.pdf"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action
@@ -80,7 +80,7 @@ Nav코인은 모든 사람이 다양한 방식으로 기여할 수 있도록 하
         imgSrc="/images/governance/gov-content-manifesto.svg"
         subtext="Nav코인 커뮤니티 컨텐츠 기여자의 공유 가치 및 목표에 대한&nbsp;가이드."
         linkText="성명서를 받으세요"
-        linkUrl="/assets/NavCoinContentManifesto.pdf"
+        linkUrl="/assets/NavcoinContentManifesto.pdf"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action
@@ -88,7 +88,7 @@ Nav코인은 모든 사람이 다양한 방식으로 기여할 수 있도록 하
         imgSrc="/images/governance/gov-brand.svg"
         subtext="생성한 컨텐츠를 Nav코인 브랜드의 모양과 느낌과 일치시키는 데 도움이 되는&nbsp;핸드북입니다."
         linkText="가이드를 받으세요"
-        linkUrl="/assets/NavCoinBrandGuidelines.pdf"
+        linkUrl="/assets/NavcoinBrandGuidelines.pdf"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
 {{< /item_container_section >}}

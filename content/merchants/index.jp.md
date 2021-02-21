@@ -3,11 +3,11 @@ title: "小売店"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
-description: "世界中の誰でも、どこでも、NavCoin をウェブサイトや店内で使用し、少ない手数料で迅速な支払いを受け取る事ができます。"
+description: "世界中の誰でも、どこでも、Navcoin をウェブサイトや店内で使用し、少ない手数料で迅速な支払いを受け取る事ができます。"
 ---
 {{< hero_section
 titleText="小売店"
-paragraphText="世界中の誰でも、どこでも、NavCoin をウェブサイトや店内で使用し、少ない手数料で迅速な支払いを受け取る事が&nbsp;できます。 このページは、全てが網羅されたリストではありません。 NavCoinによる支払いを受け付けるには登録などは一切必要ありません。もし貴方がNavCoinの受付を始めようと考えていて、 貴方のお店をこのリストに載せたいと考えるのであれば、GitHubにてプルリクエストを作成するか、議題を開いて下さい。"
+paragraphText="世界中の誰でも、どこでも、Navcoin をウェブサイトや店内で使用し、少ない手数料で迅速な支払いを受け取る事が&nbsp;できます。 このページは、全てが網羅されたリストではありません。 Navcoinによる支払いを受け付けるには登録などは一切必要ありません。もし貴方がNavcoinの受付を始めようと考えていて、 貴方のお店をこのリストに載せたいと考えるのであれば、GitHubにてプルリクエストを作成するか、議題を開いて下さい。"
 imgSrc="/images/merchants/mer-hero.svg"
 buttonText="あなたのお店をリストに追加する"
 buttonLink="https://github.com/NAVCoin/navcoin-org/issues/new"
@@ -18,7 +18,7 @@ newTab="true"
 
 {{< item_container_section
     titleText="店舗"
-    subtitleText="NavCoinが使用可能な小売店やサービスの&nbsp;リスト"
+    subtitleText="Navcoinが使用可能な小売店やサービスの&nbsp;リスト"
 >}}
     {{< merchant
         titleText="CoinPayments"
@@ -27,9 +27,9 @@ newTab="true"
         linkUrl="https://www.coinpayments.net/store-directory-coin-NAV"
     >}}
     {{< merchant
-        titleText="NavCoin オリジナルグッズ販売"
+        titleText="Navcoin オリジナルグッズ販売"
         imgSrc="/images/merchants/mer-nav.png"
-        text="当社の高品質ブランド商品を誇りを持ってNavCoinを着用してください。"
+        text="当社の高品質ブランド商品を誇りを持ってNavcoinを着用してください。"
         linkUrl="https://navcoinstore.com/"
     >}}
     {{< merchant
@@ -47,13 +47,13 @@ newTab="true"
     {{< merchant
         titleText="Mile High Ambulance"
         imgSrc="/images/merchants/mer-mile-high.png"
-        text="NavCoin による支払いを受け付ける、フルサービスの救急車&nbsp;サービスです。"
+        text="Navcoin による支払いを受け付ける、フルサービスの救急車&nbsp;サービスです。"
         linkUrl="https://milehighambulance.com/now-accepting-navcoin"
     >}}
     {{< merchant
         titleText="HODL グッズストア"
         imgSrc="/images/merchants/mer-hodl.png"
-        text="NavCoinのさまざまな衣類やアクセサリーが並ぶ暗号商人の本拠地。"
+        text="Navcoinのさまざまな衣類やアクセサリーが並ぶ暗号商人の本拠地。"
         linkUrl="https://alwayshodl.com/pages/official-nav-collection"
     >}}
     {{< merchant
@@ -186,8 +186,8 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="NavCoinの取扱い開始は簡単です！"
-    subtitleText="NavCoin は、貴方のビジネスに最適な支払いのソリューション&nbsp;です。"
+    titleText="Navcoinの取扱い開始は簡単です！"
+    subtitleText="Navcoin は、貴方のビジネスに最適な支払いのソリューション&nbsp;です。"
     bgPurple="true"
     buttonUrl="/for-business/"
     buttonText="より詳しく知る"
@@ -198,14 +198,14 @@ newTab="true"
         imgSrc="/images/merchants/mer-for-store.svg"
         subtext="NavPay ウォレットを、貴方のスマートフォン上で使いましょう。お客様はただ貴方の QRコードをスキャンするだけで、即座に支払いを行う&nbsp;事ができます。"
         linkText="NavPayへ"
-        linkUrl="https://navhub.org/projects/nav-pay/"
+        linkUrl="https://navpay.navcoin.org"
         linkImgSrc="/images/icons/rightward-arrow.svg"
 
     >}}
     {{< action
         titleText="貴方のオンラインビジネスで使う"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="Shopify やWooCommerceなどを始めとする多くのポピュラーなウェブショッピングサイトに対するプラグインを提供する、NavCoin の統合された支払い&nbsp;ゲートウェイ。"
+        subtext="Shopify やWooCommerceなどを始めとする多くのポピュラーなウェブショッピングサイトに対するプラグインを提供する、Navcoin の統合された支払い&nbsp;ゲートウェイ。"
         linkText="CoinPaymentsへ"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"

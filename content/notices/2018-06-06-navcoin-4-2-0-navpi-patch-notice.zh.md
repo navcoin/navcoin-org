@@ -1,18 +1,18 @@
 ---
 layout: 通知
-title: NavCoin 4.2.0 NavPi补丁通知
+title: Navcoin 4.2.0 NavPi补丁通知
 author: Craig MacGregor
 date: '2018-06-06T17:07:30+12:00'
 feature_image: /images/uploads/navpi-patch.jpg
 notice_categories:
   - NavPi
 ---
-今天发布了NavCoin Core 4.2.0，其中包括NTP服务器检查，以确保每个设备在生成块时系统时钟同步正确。使用更新脚本更新NavPi时发现了一个未预料到的问题。
+今天发布了Navcoin Core 4.2.0，其中包括NTP服务器检查，以确保每个设备在生成块时系统时钟同步正确。使用更新脚本更新NavPi时发现了一个未预料到的问题。
 <!--more-->
 
 ## 这个错误
 
-NavPi在重启时使用cron作业启动NavCoin守护进程。当设备首次启动用于NTP服务器检查的网络端口时不可用。这将导致NavCoin守护进程退出，NavPi接口将报告它不能连接到NavCoin守护进程。
+NavPi在重启时使用cron作业启动Navcoin守护进程。当设备首次启动用于NTP服务器检查的网络端口时不可用。这将导致Navcoin守护进程退出，NavPi接口将报告它不能连接到Navcoin守护进程。
 
 ## 折中的解决方案
 
@@ -28,13 +28,13 @@ NavPi在重启时使用cron作业启动NavCoin守护进程。当设备首次启�
 
 在这两种情况下，请确保您的钱包保持**无锁，以便标记**以支持网络，直到4.2.1补丁可用。
 
-## NavCoin Core 补丁4.2.1
+## Navcoin Core 补丁4.2.1
 
-我们已经在做一个补丁来修复这个问题。我们将在NavCoin守护进程中添加一些检查，以避免任何在引导时自动启动NavCoin守护进程的系统出现这个问题，而不是仅针对NavPi来解决这个问题。我们会尽快推出这个补丁。
+我们已经在做一个补丁来修复这个问题。我们将在Navcoin守护进程中添加一些检查，以避免任何在引导时自动启动Navcoin守护进程的系统出现这个问题，而不是仅针对NavPi来解决这个问题。我们会尽快推出这个补丁。
 
 ## 不受影响的用户
 
-这个问题只影响那些在网络适配器准备好之前自动启动NavCoin守护进程的用户，这些用户主要是NavPi用户。其他人应该按照计划继续更新和升级到NavCoin 4.2.0。
+这个问题只影响那些在网络适配器准备好之前自动启动Navcoin守护进程的用户，这些用户主要是NavPi用户。其他人应该按照计划继续更新和升级到Navcoin 4.2.0。
 
 如果你不知道该做些什么，请加入Discord 社区，寻求更多的帮助。
 

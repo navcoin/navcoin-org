@@ -7,13 +7,13 @@ author: ""
 description: ""
 ---
 {{< hero_section
-titleText="ビジネスの為のNavCoin"
-paragraphText="貴方のビジネスは、未来に対応していますか？現在、デジタル通貨による支払い方法を探し求める人々は、日々増え続けています。時代の流れの先端を行きたいのなら、今こそが、貴方の店舗やオンラインでの支払い方法にNavCoinを取り入れる時です。NavCoin は、貴方のビジネスの支払い方法のソリューションを提供&nbsp;します。"
+titleText="ビジネスの為のNavcoin"
+paragraphText="貴方のビジネスは、未来に対応していますか？現在、デジタル通貨による支払い方法を探し求める人々は、日々増え続けています。時代の流れの先端を行きたいのなら、今こそが、貴方の店舗やオンラインでの支払い方法にNavcoinを取り入れる時です。Navcoin は、貴方のビジネスの支払い方法のソリューションを提供&nbsp;します。"
 imgSrc="/images/for-business/bus-hero.svg"
 >}}
 
 {{< item_container_section 
-    titleText="なぜNavCoin が貴方のビジネスにとって&nbsp;良いのか"
+    titleText="なぜNavcoin が貴方のビジネスにとって&nbsp;良いのか"
     subtitleText=""
 >}}
     {{< feature 
@@ -29,12 +29,12 @@ imgSrc="/images/for-business/bus-hero.svg"
     {{< feature                 
         titleText="簡単"
         imgSrc="/images/for-business/bus-simple.svg"
-        text="支払いは、QRコードのスキャンのように簡単です。資金は自動的に貴方のNavCoinウォレットに転送&nbsp;されます。"
+        text="支払いは、QRコードのスキャンのように簡単です。資金は自動的に貴方のNavcoinウォレットに転送&nbsp;されます。"
     >}}
     {{< feature                 
         titleText="少ない手数料"
         imgSrc="/images/for-business/bus-low-fee.svg"
-        text="NavCoinは、世界で最も手数料の低いネットワークのうちの１つです。手数料は大概１％&nbsp;以下です。"
+        text="Navcoinは、世界で最も手数料の低いネットワークのうちの１つです。手数料は大概１％&nbsp;以下です。"
     >}}
     {{< feature                 
         titleText="エコフレンドリー"
@@ -52,7 +52,7 @@ imgSrc="/images/for-business/bus-hero.svg"
   titleText="個人による支払いの受け取り"
   imgSrc="/images/for-business/bus-for-store.svg"
   buttonText="NavPayへ"
-  buttonUrl="https://navhub.org/projects/nav-pay/"
+  buttonUrl="https://navpay.navcoin.org"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
@@ -90,4 +90,4 @@ CoinPayments は、デジタル通貨用のPayPalのようなものです。 プ
     buttonText="小売店を検索する"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants/"
-    innerText="多くのビジネスが既にNavCoinを支払い方法に 取り入れ始めています。それらのビジネスで様々な商品やサービスをとても簡単に購入する事が&nbsp;できます。">}}
+    innerText="多くのビジネスが既にNavcoinを支払い方法に 取り入れ始めています。それらのビジネスで様々な商品やサービスをとても簡単に購入する事が&nbsp;できます。">}}

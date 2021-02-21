@@ -1,6 +1,6 @@
 ---
 layout: notices
-title: NavCoin Core 5.0.1 - Hotfixes
+title: Navcoin Core 5.0.1 - Hotfixes
 author: alex v
 date: '2020-06-09T10:52:33+01:00'
 feature_image: /images/uploads/navcoin-core-5.0.1-hotfixes.png
@@ -10,7 +10,7 @@ notice_categories:
 This minor release contains a small set of patches for our last major release. Upgrade is not mandatory but recommended, specially if you use the mnemonic backup feature.
 <!--more-->
 
-# NavCoin v5.0.1 Release Notes
+# Navcoin v5.0.1 Release Notes
 
 ### Fix getaddressbalance for address reuse
 
@@ -54,4 +54,4 @@ This minor release contains a small set of patches for our last major release. U
 
 For additional information about new features, check [https://navcoin.org/en/notices/](https://navcoin.org/en/notices/) 
 
-To download the NavCoin Core 5.0.1 please visit the [Wallet Downloads](https://navcoin.org/en/wallets/#download-core) page.
+To download the Navcoin Core 5.0.1 please visit the [Wallet Downloads](https://navcoin.org/en/wallets/#download-core) page.

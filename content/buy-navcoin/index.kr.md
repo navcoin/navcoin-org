@@ -29,25 +29,7 @@ newTab="true"
         titleText="바이넨스"
         imgSrc="/images/buy-navcoin/buy-binance.png"
         text="BTC / NAV"
-        linkUrl="https://www.binance.com/trade.html?symbol=NAV_BTC"
-    >}}
-    {{< exchange
-        titleText="업비트"
-        imgSrc="/images/buy-navcoin/upbit.png"
-        text="BTC / NAV"
-        linkUrl="https://upbit.com/exchange?code=CRIX.UPBIT.BTC-NAV"
-    >}}
-    {{< exchange
-        titleText="Equicex"
-        imgSrc="/images/buy-navcoin/equicex.png"
-        text="Exchange + 직불 카드"
-        linkUrl="https://www.equicex.com/"
-    >}}
-    {{< exchange
-        titleText="Changelly"
-        imgSrc="/images/buy-navcoin/buy-changelly.png"
-        text="인스턴트 거래소"
-        linkUrl="https://changelly.com/"
+        linkUrl="https://www.binance.com/ko/trade/NAV_BTC"
     >}}
     {{< exchange
         titleText="Litebit"
@@ -68,18 +50,6 @@ newTab="true"
         linkUrl="https://www.bitprime.co.nz/product/navcoin-nav"
     >}}
     {{< exchange
-        titleText="Bisq"
-        imgSrc="/images/buy-navcoin/buy-bisq.png"
-        text="탈중화 거래소"
-        linkUrl="https://bitsquare.io/"
-    >}}
-    {{< exchange
-        titleText="Best Rate"
-        imgSrc="/images/buy-navcoin/buy-bestrate.png"
-        text="인스턴트 거래소"
-        linkUrl="https://bestrate.org/"
-    >}}
-    {{< exchange
         titleText="Godex"
         imgSrc="/images/buy-navcoin/buy-godex.png"
         text="탈중화 거래소"
@@ -92,22 +62,10 @@ newTab="true"
         linkUrl="https://changenow.io/"
     >}}
     {{< exchange
-        titleText="Coindirect"
-        imgSrc="/images/buy-navcoin/buy-coindirect.png"
-        text="다이렉트로 구매가능한 거래소"
-        linkUrl="https://www.coindirect.com/buy/navcoin"
-    >}}
-    {{< exchange
         titleText="Crex24"
         imgSrc="/images/buy-navcoin/buy-crex-24.png"
         text="멀티 거래소 플랫폼"
         linkUrl="https://crex24.com/exchange/NAV-BTC"
-    >}}
-    {{< exchange
-        titleText="Crytrex"
-        imgSrc="/images/buy-navcoin/buy-crytrex.png"
-        text="BTC / NAV"
-        linkUrl="https://crytrex.com/"
     >}}
     {{< exchange
         titleText="Bitexlive"
@@ -116,34 +74,10 @@ newTab="true"
         linkUrl="https://bitexlive.com/exchange/BTC-NAV"
      >}}
     {{< exchange
-        titleText="Bitqist"
-        imgSrc="/images/buy-navcoin/bitqist.png"
-        text="BTC + ETH / NAV"
-        linkUrl="https://bitqist.com/exchange/nav-coin"
-    >}}
-    {{< exchange
-        titleText="Vertbase"
-        imgSrc="/images/buy-navcoin/vertbase.jpg"
-        text="GBP/USD/EU/Swap"
-        linkUrl="https://www.vertbase.com/"
-    >}}
-    {{< exchange
-        titleText="Altilly"
-        imgSrc="/images/buy-navcoin/altilly.jpg"
-        text="BTC / NAV"
-        linkUrl="https://www.altilly.com/asset/NAV"
-    >}}
-    {{< exchange
         titleText="Coinmerce"
         imgSrc="/images/buy-navcoin/coinmerce.jpg"
         text="EUR / NAV"
         linkUrl="https://coinmerce.io/uk/buy/nav/"
-    >}}
-    {{< exchange
-        titleText="CoinXtr"
-        imgSrc="/images/buy-navcoin/coinxtr.jpg"
-        text="터키어 교환"
-        linkUrl="https://www.coinxtr.com/"
     >}}
     {{< exchange
         titleText="Simple Swap"
@@ -168,30 +102,6 @@ newTab="true"
         imgSrc="/images/buy-navcoin/coinswitch_400x400.jpg"
         text="복수 통화 / NAV"
         linkUrl="https://coinswitch.co"
-    >}}
-    {{< exchange
-        titleText="CoinZark"
-        imgSrc="/images/buy-navcoin/coinzark_400x400.png"
-        text="복수 통화 / NAV"
-        linkUrl="https://www.coinzark.com/nav"
-    >}}
-    {{< exchange
-        titleText="Zwaply"
-        imgSrc="/images/buy-navcoin/zwaply.png"
-        text="복수 통화 / NAV"
-        linkUrl="https://zwaply.com/"
-    >}}
-    {{< exchange
-        titleText="Crypto Wolf"
-        imgSrc="/images/buy-navcoin/cryptowolf.png"
-        text="복수 통화 / NAV"
-        linkUrl="https://cryptowolf.eu/"
-    >}}
-    {{< exchange
-        titleText="사토 지갑 교환"
-        imgSrc="/images/buy-navcoin/sato-wallet_400x400.png"
-        text="Doge / NAV"
-        linkUrl="https://satowallet.com/"
     >}}
     {{< exchange
         titleText="Bitladon 교환"
@@ -222,12 +132,6 @@ newTab="true"
         imgSrc="/images/buy-navcoin/swap4me.png"
         text="복수 통화 / NAV"
         linkUrl="https://swap4.me/"
-    >}}
-    {{< exchange
-        titleText="Exscudo"
-        imgSrc="/images/buy-navcoin/buy-exscudo.png"
-        text="복수 통화 / NAV"
-        linkUrl="https://exscudo.com"
     >}}
     {{< exchange
         titleText="HitBTC"

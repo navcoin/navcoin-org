@@ -15,7 +15,7 @@ buttonImgSrc="/images/icons/rightward-arrow.svg"
 >}}
 
 {{< zig_section
-titleText="NavCoin 네트워크에서 자금 지원 받으세요"
+titleText="Navcoin 네트워크에서 자금 지원 받으세요"
 imgSrc="/images/for-developers/dev-get-involved.svg"
 buttonText="더 알아보기"
 buttonUrl="/community-fund"

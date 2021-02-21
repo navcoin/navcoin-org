@@ -3,11 +3,11 @@ title: "Merchants"
 date: 2018-03-20T07:41:22+13:00
 draft: false
 type: "default"
-description: "Anyone can accept NavCoin on their website or in-store to receive instant global payments with low fees."
+description: "Anyone can accept Navcoin on their website or in-store to receive instant global payments with low fees."
 ---
 {{< hero_section
 titleText="Merchants"
-paragraphText="Anyone can accept NavCoin on their website or in-store to receive instant global payments with low&nbsp;fees. This page is not an exhaustive list, there is no registration required to accept NavCoin. If you accept NavCoin and want your store listed here, please create a pull request or open an issue on GitHub."
+paragraphText="Anyone can accept Navcoin on their website or in-store to receive instant global payments with low&nbsp;fees. This page is not an exhaustive list, there is no registration required to accept Navcoin. If you accept Navcoin and want your store listed here, please create a pull request or open an issue on GitHub."
 imgSrc="/images/merchants/mer-hero.svg"
 buttonText="Add your store"
 buttonLink="https://github.com/NAVCoin/navcoin-org/issues/new"
@@ -18,7 +18,7 @@ newTab="true"
 
 {{< item_container_section
     titleText="Stores"
-    subtitleText="A selection of merchants & services that allow you to spend your&nbsp;NavCoin"
+    subtitleText="A selection of merchants & services that allow you to spend your&nbsp;Navcoin"
 >}}
     {{< merchant
         titleText="CoinPayments"
@@ -28,9 +28,9 @@ newTab="true"
     >}}
 
     {{< merchant
-        titleText="NavCoin Merch Store"
+        titleText="Navcoin Merch Store"
         imgSrc="/images/merchants/mer-nav.png"
-        text="Wear NavCoin with pride with this range of branded&nbsp;merchandise."
+        text="Wear Navcoin with pride with this range of branded&nbsp;merchandise."
         linkUrl="https://navcoinstore.com/"
     >}}
     {{< merchant
@@ -48,13 +48,13 @@ newTab="true"
     {{< merchant
         titleText="Mile High Ambulance"
         imgSrc="/images/merchants/mer-mile-high.png"
-        text="Full service ambulance company which accepts NavCoin for bill&nbsp;payments."
+        text="Full service ambulance company which accepts Navcoin for bill&nbsp;payments."
         linkUrl="https://milehighambulance.com/now-accepting-navcoin"
     >}}
     {{< merchant
         titleText="HODL Merch Store "
         imgSrc="/images/merchants/mer-hodl.png"
-        text="The home of crypto merchants with range of NavCoin clothing and&nbsp;accessories."
+        text="The home of crypto merchants with range of Navcoin clothing and&nbsp;accessories."
         linkUrl="https://alwayshodl.com/pages/official-nav-collection"
     >}}
     {{< merchant
@@ -187,8 +187,8 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="Accepting NavCoin is easy!"
-    subtitleText="NavCoin has the right payment solution for your&nbsp;business."
+    titleText="Accepting Navcoin is easy!"
+    subtitleText="Navcoin has the right payment solution for your&nbsp;business."
     bgPurple="true"
     buttonUrl="/for-business/"
     buttonText="More Info"
@@ -199,14 +199,14 @@ newTab="true"
         imgSrc="/images/merchants/mer-for-store.svg"
         subtext="Use NavPay wallet on your smartphone. Customers just scan your QR code and transfer the fund&nbsp;instantly<br>&nbsp;"
         linkText="Visit NavPay"
-        linkUrl="https://navhub.org/projects/nav-pay/"
+        linkUrl="https://navpay.navcoin.org"
         linkImgSrc="/images/icons/rightward-arrow.svg"
 
     >}}
     {{< action
         titleText="For your online business"
         imgSrc="/images/merchants/mer-for-bus.svg"
-        subtext="Integrated NavCoin payment gateway, offering plugins for all the popular webcarts like Shopify and WooCommerce."
+        subtext="Integrated Navcoin payment gateway, offering plugins for all the popular webcarts like Shopify and WooCommerce."
         linkText="Visit CoinPayments"
         linkUrl="https://www.coinpayments.net/"
         linkImgSrc="/images/icons/rightward-arrow.svg"

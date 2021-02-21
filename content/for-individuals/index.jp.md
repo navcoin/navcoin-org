@@ -7,7 +7,7 @@ author: ""
 description: ""
 ---
 {{< hero_section
-titleText="NavCoinへようこそ"
+titleText="Navcoinへようこそ"
 paragraphText="もし貴方がこのプロジェクトに参加したばかりで、何から始めたら良いのか分からない状態なら、こちらの手順を&nbsp;ご覧ください。"
 imgSrc="/images/for-beginners/beg-hero.svg"
 >}}
@@ -16,9 +16,9 @@ imgSrc="/images/for-beginners/beg-hero.svg"
     subtitleText=""
 >}}
   {{< step 
-      titleText="Step 1:  NavCoinについて"
+      titleText="Step 1:  Navcoinについて"
       imgSrc="/images/for-beginners/beg-learn.svg"
-      text=" NavCoinは、安くて、迅速で、エコフレンドリーな仮想通貨です。2014年以来、NavCoin周辺の全てのエコシステムが開発され、簡単に使えるモバイルウォレットから、シンプルでプライベートな支払いのソリューションとして展開しました。全てが、アクティブでインターナショナルなコミュニ亭によって開発・維持されていて、中心となるガバナンスの権力は&nbsp;存在しません。"
+      text=" Navcoinは、安くて、迅速で、エコフレンドリーな仮想通貨です。2014年以来、Navcoin周辺の全てのエコシステムが開発され、簡単に使えるモバイルウォレットから、シンプルでプライベートな支払いのソリューションとして展開しました。全てが、アクティブでインターナショナルなコミュニ亭によって開発・維持されていて、中心となるガバナンスの権力は&nbsp;存在しません。"
       buttonText="もっと詳しく知る"
       buttonUrl="/why-navcoin"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -26,7 +26,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
   {{< step 
       titleText="Step 2: ウォレットを選ぶ"
       imgSrc="/images/for-beginners/beg-wallets.svg"
-      text="貴方が持つウォレットは、デジタル通貨を使うにあたってのメインツールになります。ウォレットを使って、NAVを送金したり受け取ったりします。ウォレットには様々な種類があります。貴方が完全にコントロールできて、NavCoinネットワークにも参加する事ができるフルウォレットと、より簡単に使う事ができるライトウォレットが&nbsp;あります。"
+      text="貴方が持つウォレットは、デジタル通貨を使うにあたってのメインツールになります。ウォレットを使って、NAVを送金したり受け取ったりします。ウォレットには様々な種類があります。貴方が完全にコントロールできて、Navcoinネットワークにも参加する事ができるフルウォレットと、より簡単に使う事ができるライトウォレットが&nbsp;あります。"
       buttonText="財布"
       buttonUrl="/wallets"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -35,27 +35,27 @@ imgSrc="/images/for-beginners/beg-hero.svg"
       titleText="Step 3: NAVを入手しよう"
       imgSrc="/images/for-beginners/beg-get-nav.svg"
       text="ウォレットを選んだら、NAVを入手してみましょう。入手の仕方はいくつかありますう。最も早いのは、仮想通貨の取引所を通じて購入する方法です。基本的にはBTCを取引所に送金して、それをNAVに変換します。NAVはいくつかの主要取引所で取り扱われています。例えば、Binanceや Bittrex、 Poloniex &nbsp;などです。"
-      buttonText="NavCoinを買う"
+      buttonText="Navcoinを買う"
       buttonUrl="/buy-navcoin"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
   >}}
   {{< step
       titleText="Step 4: ネットワークを保護する"
       imgSrc="/images/for-beginners/beg-secure-network.svg"
-      text="もし貴方がNavCoin コアウォレットを持っているならば、貴方はコインのステーキングを行う事で、年間4%の報酬を受ける事ができます。ステーキングを簡単にする為のデバイスもいくつかあります。ステーキングを始めるに当たって必要な情報はコミュニティによって&nbsp;まとめてあります。"
+      text="もし貴方がNavcoin コアウォレットを持っているならば、貴方はコインのステーキングを行う事で、年間4%の報酬を受ける事ができます。ステーキングを簡単にする為のデバイスもいくつかあります。ステーキングを始めるに当たって必要な情報はコミュニティによって&nbsp;まとめてあります。"
   >}}
   {{< step
-      titleText="Step 5: NavCoinを送金する"
+      titleText="Step 5: Navcoinを送金する"
       imgSrc="/images/for-beginners/beg-spend.svg"
-      text="NavCoinを使って、オンラインやお店で様々なものを購入する事ができます。NAV を使って支払いができる小売店は以下で見つける事ができます。ぜひサポートを&nbsp;お願いします。"
+      text="Navcoinを使って、オンラインやお店で様々なものを購入する事ができます。NAV を使って支払いができる小売店は以下で見つける事ができます。ぜひサポートを&nbsp;お願いします。"
       buttonText="Merchants"
       buttonUrl="/merchants"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
   >}}
   {{< step
-      titleText="Step 6: NavCoin プロジェクトに参加しよう"
+      titleText="Step 6: Navcoin プロジェクトに参加しよう"
       imgSrc="/images/for-beginners/beg-get-involved.svg"
-      text="NavCoin は単なる仮想通貨ではありません。NavCoin は、貨幣に対する新しいビジョンを信じるコミュニティです。 そして、このコミュニティは、コミュニティに貢献する個人個人の力を超える事はありません。また、コミュニティの資金によって、貴方もNavCoinプロジェクトに関わり、報酬を得る事ができるのです。 私達のコミュニティチャンネルに参加して、ぜひプロジェクトに参加&nbsp;して下さい。"
+      text="Navcoin は単なる仮想通貨ではありません。Navcoin は、貨幣に対する新しいビジョンを信じるコミュニティです。 そして、このコミュニティは、コミュニティに貢献する個人個人の力を超える事はありません。また、コミュニティの資金によって、貴方もNavcoinプロジェクトに関わり、報酬を得る事ができるのです。 私達のコミュニティチャンネルに参加して、ぜひプロジェクトに参加&nbsp;して下さい。"
       buttonText="コミュニティ資金"
       buttonUrl="/community-fund"
       buttonImgSrc="/images/icons/rightward-arrow.svg"
@@ -80,7 +80,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
 {{< social                 
     titleText="Reddit"
     imgSrc="/images/for-beginners/beg-reddit.svg"
-    linkUrl="https://reddit.com/r/NavCoin/"
+    linkUrl="https://reddit.com/r/Navcoin/"
 >}}
 {{< social                 
     titleText="Telegram"
@@ -90,17 +90,17 @@ imgSrc="/images/for-beginners/beg-hero.svg"
 {{< social                 
     titleText="Facebook"
     imgSrc="/images/for-beginners/beg-fb.svg"
-    linkUrl="https://www.facebook.com/NavCoin/"
+    linkUrl="https://www.facebook.com/Navcoin/"
 >}}
 {{< social                 
     titleText="Twitter"
     imgSrc="/images/for-beginners/beg-twitter.svg"
-    linkUrl="https://twitter.com/NavCoin"
+    linkUrl="https://twitter.com/Navcoin"
 >}}
 {{< social                 
     titleText="Youtube"
     imgSrc="/images/for-beginners/beg-yt.svg"
-    linkUrl="https://www.youtube.com/NavCoinCore"
+    linkUrl="https://www.youtube.com/NavcoinCore"
 >}}
 {{< social                 
     titleText="Medium"
