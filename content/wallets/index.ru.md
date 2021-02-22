@@ -109,8 +109,8 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="Скачать NavCoin Core 6.0.2"
-    subtitleText="Кошелек NavCoin Core был тщательно переработан, чтобы быть интуитивно понятным и простым в использовании. Он идет с мастером настройки и всем необходимым для загрузки блокчейна и начала отправки транзакций в безопасной&nbsp;среде."
+    titleText="Скачать Navcoin Core 6.0.2"
+    subtitleText="Кошелек Navcoin Core был тщательно переработан, чтобы быть интуитивно понятным и простым в использовании. Он идет с мастером настройки и всем необходимым для загрузки блокчейна и начала отправки транзакций в безопасной&nbsp;среде."
     bgPurple="true"
     anchor="download-core"
     buttonUrl="https://github.com/NAVCoin/navcoin-core/releases/latest"
