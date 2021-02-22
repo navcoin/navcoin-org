@@ -109,8 +109,8 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="NavCoin Core 6.0.2のダウンロード"
-    subtitleText="NavCoin Core ウォレットは、直感的で簡単な使い方になるよう何度も見直されて来ました。これにはセットアップウィザードと、ブロックチェーンの読み込み、安全な環境でそして送金を始めるに当たって必要なもの全てが付いて&nbsp;きます。"
+    titleText="Navcoin Core 6.0.2のダウンロード"
+    subtitleText="Navcoin Core ウォレットは、直感的で簡単な使い方になるよう何度も見直されて来ました。これにはセットアップウィザードと、ブロックチェーンの読み込み、安全な環境でそして送金を始めるに当たって必要なもの全てが付いて&nbsp;きます。"
     bgPurple="true"
     anchor="download-core"
     buttonUrl="https://github.com/NAVCoin/navcoin-core/releases/latest"

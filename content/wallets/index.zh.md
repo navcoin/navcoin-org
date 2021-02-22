@@ -109,8 +109,8 @@ newTab="正确的"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="下载NavCoin Core 6.0.2"
-    subtitleText="NavCoin Core钱包经过精心提炼，直观易用。它附带了一个安装向导，以及加载区块链并开始在安全环境中发送交易所需的一切。"
+    titleText="下载Navcoin Core 6.0.2"
+    subtitleText="Navcoin Core钱包经过精心提炼，直观易用。它附带了一个安装向导，以及加载区块链并开始在安全环境中发送交易所需的一切。"
     bgPurple="正确的"
     anchor="download-core"
     buttonUrl="https://github.com/NAVCoin/navcoin-core/releases/latest"

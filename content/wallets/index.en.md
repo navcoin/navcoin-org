@@ -109,8 +109,8 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="Download NavCoin Core 6.0.2"
-    subtitleText="The NavCoin Core wallet has been carefully refined to be intuitive and easy to use. It comes with a setup wizard and everything you need to load the blockchain and start sending transactions in a secure&nbsp;environment."
+    titleText="Download Navcoin Core 6.0.2"
+    subtitleText="The Navcoin Core wallet has been carefully refined to be intuitive and easy to use. It comes with a setup wizard and everything you need to load the blockchain and start sending transactions in a secure&nbsp;environment."
     bgPurple="true"
     anchor="download-core"
     buttonUrl="https://github.com/NAVCoin/navcoin-core/releases/latest"
