@@ -110,8 +110,8 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-titleText="Descargar NavCoin Core 6.0.2"
-subtitleText="El monedero NavCoin Core ha sido cuidadosamente diseñado para que sea intuitivo y fácil de usar. Viene con un asistente de configuración y todo lo que necesita para cargar la cadena de bloques y comenzar a enviar transacciones de forma&nbsp;segura."
+titleText="Descargar Navcoin Core 6.0.2"
+subtitleText="El monedero Navcoin Core ha sido cuidadosamente diseñado para que sea intuitivo y fácil de usar. Viene con un asistente de configuración y todo lo que necesita para cargar la cadena de bloques y comenzar a enviar transacciones de forma&nbsp;segura."
 bgPurple="true"
 anchor="download-core"
 buttonUrl="https://github.com/NAVCoin/navcoin-core/releases/latest"
