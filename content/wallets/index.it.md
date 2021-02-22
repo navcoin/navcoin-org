@@ -109,8 +109,8 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="Scarica NavCoin Core 6.0.2"
-    subtitleText="Il portafoglio NavCoin Core è stato accuratamente rifinito per essere intuitivo e facile da usare. Viene fornito con una procedura guidata di installazione e tutto il necessario per caricare la blockchain e iniziare a inviare transazioni in un ambiente&nbsp;sicuro."
+    titleText="Scarica Navcoin Core 6.0.2"
+    subtitleText="Il portafoglio Navcoin Core è stato accuratamente rifinito per essere intuitivo e facile da usare. Viene fornito con una procedura guidata di installazione e tutto il necessario per caricare la blockchain e iniziare a inviare transazioni in un ambiente&nbsp;sicuro."
     bgPurple="true"
     anchor="download-core"
     buttonUrl="https://github.com/NAVCoin/navcoin-core/releases/latest"
