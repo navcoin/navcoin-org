@@ -74,16 +74,6 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
-        titleText="Magnum Wallet"
-        walletImgSrc="/images/wallets/SVGLogo.svg"
-        text="Легкий и универсальный кошелек, не связанный с хранением, для управления более 1000&nbsp;криптоактивами.<br>&nbsp;"
-        buttonUrl="https://magnumwallet.co/"
-        buttonText="Дополнительная информация"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg6Src="/images/platforms/web.png"
-        newTab="true"
-    >}}
-    {{< wallet
         titleText="Coinomi"
         walletImgSrc="/images/wallets/wal-coinomi.png"
         text="Coinomi - это первый защищенный кошелек, позволяющий хранить многочисленное число с активов, в том числе биткойн, альткойны и&nbsp;токены."
