@@ -195,10 +195,3 @@ newTab="正确的"
     >}}
     
 {{< /item_container_section >}}
-
-{{< center_text_cta
-    titleText="花费您的 Navcoin"
-    buttonText="去商店看看"
-    buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/商人"
-    innerText="许多企业已经开始将Navcoin集成作为一种支付选项，使用它，您可以轻松地购买一系列产品和服务。">}}

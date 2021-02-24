@@ -195,11 +195,3 @@ newTab="true"
     >}}
     
 {{< /item_container_section >}}
-
-
-{{< center_text_cta
-    titleText="Navcoinを使う"
-    buttonText="店舗を見る"
-    buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/merchants"
-    innerText="多くのビジネスが、支払いのオプションとしてすでにNavcoinを取り入れ始めています。それらを利用して様々な商品やサービスを購入する事が&nbsp;できます。">}}

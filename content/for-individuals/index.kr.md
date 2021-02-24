@@ -45,15 +45,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
       text="만약 당신이 Nav코인 코어 지갑을 운영하고 있다면, 당신은 동전을 넣고 매년 4%의 엄청난 보상금을 받을 수 있습니다. 스테이킹을 더 쉽게 할 수 있는 다양한 장치와 커뮤니티가 여러분을 설치하도록 돕기 위해 만든 많은 정보가&nbsp;있습니다."
   >}}
   {{< step
-      titleText="Step 5: Nav코인을 사용하세요"
-      imgSrc="/images/for-beginners/beg-spend.svg"
-      text="당신은 Nav코인을 사용하여 온라인과 상점에서 모든 종류의 물건을 살 수 있습니다. NAV를 수락하는 상인들을 확인하고 여러분의 지지를&nbsp;표시하십시오."
-      buttonText="상점"
-      buttonUrl="/merchants"
-      buttonImgSrc="/images/icons/rightward-arrow.svg"
-  >}}
-  {{< step
-      titleText="Step 6: Nav코인 프로젝트에 참여하세요"
+      titleText="Step 5: Nav코인 프로젝트에 참여하세요"
       imgSrc="/images/for-beginners/beg-get-involved.svg"
       text="Nav코인은 단순한 암호화폐가 아니라 돈에 대한 새로운 비전을 믿는 공동체 입니다. 그리고 공동체는 그것에 기여하는 개인들만큼만 강인함을 가집니다. 커뮤니티 기금으로, 당신은 Nav코인 프로젝트에 참여하게 되면 돈을 벌 수 있게 됩니다. 커뮤니티 채널에 참여하여 프로젝트에 조인하세요."
       buttonText="커뮤니티 펀드"

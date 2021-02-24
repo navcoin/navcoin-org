@@ -61,33 +61,13 @@ NavPay è un portafoglio leggero che funziona con il tuo smartphone o computer d
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="Accetta pagamenti online"
-imgSrc="/images/for-business/bus-for-bus.svg"
-buttonText="Visita CoinPayments"
-buttonUrl="https://www.coinpayments.net/"
-buttonImgSrc="/images/icons/rightward-arrow.svg"
-reversed="true"
-newTab="true"
->}}
-CoinPayments è un po 'come PayPal, ma per le valute digitali. I plug-in includono un carrello della spesa, un pulsante di pagamento, la fatturazione e un'interfaccia del punto vendita. Se la tua attività è in EuroZone o negli Stati Uniti, puoi prelevare fondi in EURO o&nbsp;USD.
-{{< /zig_section>}}
-
-{{< zig_section
   titleText="Acceta pagamenti personali"
   imgSrc="/images/for-business/bus-for-blog.svg"
   buttonText="Vedi i pulsanti qui"
   buttonUrl="https://brianium.github.io/nav-button/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="true"
+  reversed="true"
   newTab="true"
 >}}
 L'integrazione di NavButtons per pagamenti rapidi è un'opzione facile da implementare adatta alle persone o alle attività secondarie. È facile come incollare un po 'di codice sul tuo sito web. È possibile scegliere tra pulsanti incorporabili o codici QR per una condivisione ancora più&nbsp;semplice.
 {{< /zig_section>}}
-
-{{< center_text_cta
-    lightStyle="true"
-    titleText="Chi accetta NAV?"
-    buttonText="Trova commercianti"
-    buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/merchants/"
-    innerText="Numerose aziende hanno già iniziato a integrare Navcoin come opzione di pagamento e con esse è possibile acquistare facilmente una gamma di prodotti e&nbsp;servizi.">}}

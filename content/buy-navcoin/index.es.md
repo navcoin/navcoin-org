@@ -195,10 +195,3 @@ newTab="true"
     >}}
     
 {{< /item_container_section >}}
-
-{{< center_text_cta
-    titleText="Usar sus Navcoins"
-    buttonText="Chequear tiendas que aceptan Navcoin"
-    buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/merchants"
-    innerText="Un número considerable de tiendas online han empezado a integrar Navcoin como opción de pagos, haciendole muy fácil a nuestra comunidad comprar productos y&nbsp;servicios.">}}

@@ -111,11 +111,11 @@ command = "gulp sass && hugo"
   status = 301
   force = true
 
-  [[redirects]]
-  from = "/merchants"
-  to = "/en/merchants"
-  status = 301
-  force = true
+  # [[redirects]]
+  # from = "/merchants"
+  # to = "/en/merchants"
+  # status = 301
+  # force = true
 
   [[redirects]]
   from = "/get-involved"

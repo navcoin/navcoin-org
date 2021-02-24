@@ -134,13 +134,13 @@ enableRobotsTXT = true
         url = "https://navhub.org"
         identifier = "navhub"
         parent = "explore"
-    [[Languages.en.menu.main]]
-        name = "Merchants"
-        title = "Merchants"
-        weight = 50
-        url = "/merchants/"
-        identifier = "merchants"
-        parent = "explore"
+    # [[Languages.en.menu.main]]
+    #     name = "Merchants"
+    #     title = "Merchants"
+    #     weight = 50
+    #     url = "/merchants/"
+    #     identifier = "merchants"
+    #     parent = "explore"
     [[Languages.en.menu.main]]
         name = "Get Involved"
         title = "Get Involved"
@@ -261,13 +261,13 @@ enableRobotsTXT = true
         url = "https://navhub.org"
         identifier = "navhub"
         parent = "explore"
-    [[Languages.es.menu.main]]
-        name = "Tiendas"
-        title = "Tiendas"
-        weight = 50
-        url = "/merchants/"
-        identifier = "merchants"
-        parent = "explore"
+    # [[Languages.es.menu.main]]
+    #     name = "Tiendas"
+    #     title = "Tiendas"
+    #     weight = 50
+    #     url = "/merchants/"
+    #     identifier = "merchants"
+    #     parent = "explore"
     [[Languages.es.menu.main]]
         name = "Involucrarse"
         title = "Involucrarse"
@@ -389,13 +389,13 @@ enableRobotsTXT = true
         url = "https://navhub.org"
         identifier = "navhub"
         parent = "explore"
-    [[Languages.ru.menu.main]]
-        name = "Торговцы"
-        title = "Торговцы"
-        weight = 50
-        url = "/merchants/"
-        identifier = "merchants"
-        parent = "explore"
+    # [[Languages.ru.menu.main]]
+    #     name = "Торговцы"
+    #     title = "Торговцы"
+    #     weight = 50
+    #     url = "/merchants/"
+    #     identifier = "merchants"
+    #     parent = "explore"
     [[Languages.ru.menu.main]]
         name = "Принять участие"
         title = "Принять участие"
@@ -517,13 +517,13 @@ enableRobotsTXT = true
         url = "https://navhub.org"
         identifier = "navhub"
         parent = "explore"
-    [[Languages.zh.menu.main]]
-        name = "商人"
-        title = "商人"
-        weight = 50
-        url = "/merchants/"
-        identifier = "merchants"
-        parent = "explore"
+    # [[Languages.zh.menu.main]]
+    #     name = "商人"
+    #     title = "商人"
+    #     weight = 50
+    #     url = "/merchants/"
+    #     identifier = "merchants"
+    #     parent = "explore"
     [[Languages.zh.menu.main]]
         name = "参与进来"
         title = "参与进来"
@@ -645,13 +645,13 @@ enableRobotsTXT = true
         url = "https://navhub.org"
         identifier = "navhub"
         parent = "explore"
-    [[Languages.kr.menu.main]]
-        name = "상인"
-        title = "상인"
-        weight = 50
-        url = "/merchants/"
-        identifier = "merchants"
-        parent = "explore"
+    # [[Languages.kr.menu.main]]
+    #     name = "상인"
+    #     title = "상인"
+    #     weight = 50
+    #     url = "/merchants/"
+    #     identifier = "merchants"
+    #     parent = "explore"
     [[Languages.kr.menu.main]]
         name = "참여하다"
         title = "참여하다"
@@ -774,13 +774,13 @@ enableRobotsTXT = true
         url = "https://navhub.org"
         identifier = "navhub"
         parent = "explore"
-    [[Languages.jp.menu.main]]
-        name = "商人"
-        title = "商人"
-        weight = 50
-        url = "/merchants/"
-        identifier = "merchants"
-        parent = "explore"
+    # [[Languages.jp.menu.main]]
+    #     name = "商人"
+    #     title = "商人"
+    #     weight = 50
+    #     url = "/merchants/"
+    #     identifier = "merchants"
+    #     parent = "explore"
     [[Languages.jp.menu.main]]
         name = "参加する"
         title = "参加する"
@@ -901,13 +901,13 @@ enableRobotsTXT = true
         url = "https://navhub.org"
         identifier = "navhub"
         parent = "explore"
-    [[Languages.it.menu.main]]
-        name = "Commercianti"
-        title = "Commercianti"
-        weight = 50
-        url = "/merchants/"
-        identifier = "merchants"
-        parent = "explore"
+    # [[Languages.it.menu.main]]
+    #     name = "Commercianti"
+    #     title = "Commercianti"
+    #     weight = 50
+    #     url = "/merchants/"
+    #     identifier = "merchants"
+    #     parent = "explore"
     [[Languages.it.menu.main]]
         name = "Partecipa"
         title = "Partecipa"

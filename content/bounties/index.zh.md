@@ -1,4 +1,4 @@
----
+k--
 title: "Bounties"
 date: 2018-03-20T07:41:22+13:01
 draft: false
@@ -146,7 +146,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
     <p class="paragraph-text">Webistes that are covered by this bounty program:</p>
     <h3>1. Navcoin Org</h3>
     <p class="paragraph-text">This is the main public facing site for Navcoin. It contains information about what Navcoin is, where to buy it, how to store it, where to spend it and how the protocol works.</p>
-    <p class="paragraph-text"><b>Bounty Ideas:</b> New merchants, new exchanges, new translations, updating existing translations, updating the roadmap, reviewing and refining content, adding pagination on list pages, improving the content management system and more.</p>
+    <p class="paragraph-text"><b>Bounty Ideas:</b> New exchanges, new translations, updating existing translations, updating the roadmap, reviewing and refining content, adding pagination on list pages, improving the content management system and more.</p>
     <h3>2. NavHub</h3>
     <p class="paragraph-text">This is the website dedicated to all the layer two applications of Navcoin and the wider community beyond the core protocol.</p>
     <p class="paragraph-text"><b>Bounty Ideas:</b> Writing news articles, updating community projects, adding new community projects, adding new events, adding community assets, adding navcoin heroes, adding or updating guides, adding pagination to list pages, adding search or category filters to the projects listing and more.</p>

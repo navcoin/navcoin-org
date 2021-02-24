@@ -61,33 +61,13 @@ NavPay is a light wallet that works with your smartphone or desktop computer. Cu
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="Accept Online Payments"
-imgSrc="/images/for-business/bus-for-bus.svg"
-buttonText="Visit CoinPayments"
-buttonUrl="https://www.coinpayments.net/"
-buttonImgSrc="/images/icons/rightward-arrow.svg"
-reversed="true"
-newTab="true"
->}}
-CoinPayments is a little like PayPal, but for digital currencies. Plug-ins include a shopping cart, payment button, invoicing, and point-of-sale interface. If your business is in the EuroZone or USA, you can withdraw funds in EURO or&nbsp;USD.
-{{< /zig_section>}}
-
-{{< zig_section
   titleText="Accept Personal Payments"
   imgSrc="/images/for-business/bus-for-blog.svg"
   buttonText="View buttons here"
   buttonUrl="https://brianium.github.io/nav-button/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="true"
+  reversed="true"
   newTab="true"
 >}}
 Integrating NavButtons for quick payments is an easy to implement option that suits individuals or side businesses. It’s as easy as copy-pasting some code onto your website. There is a choice of embeddable buttons, or QR codes for even easier&nbsp;sharing.
 {{< /zig_section>}}
-
-{{< center_text_cta
-    lightStyle="true"
-    titleText="Who's Accepting NAV?"
-    buttonText="Find merchants here"
-    buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/merchants/"
-    innerText="A number of businesses have already begun to integrate Navcoin as a payment option, and with them you can easily purchase a range of products and&nbsp;services.">}}

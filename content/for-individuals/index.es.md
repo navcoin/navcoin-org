@@ -47,15 +47,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
       text="Si estás corriendo el monedero Navcoin Core, tienes la opción de generar bloques y ganar hasta un 10% por año en recompensas por la prueba de&nbsp;participación."
   >}}
   {{< step
-      titleText="Paso 5: Usar Navcoins"
-      imgSrc="/images/for-beginners/beg-spend.svg"
-      text="Hay varias maneras de usar Navcoins en distintas tiendas en linea e inclusive en negocios físicos. En el siguiente enlace se pueden ver parte de las entidades que aceptan&nbsp;NAV."
-      buttonText="Comercios"
-      buttonUrl="/comercios"
-      buttonImgSrc="/images/icons/rightward-arrow.svg"
-  >}}
-  {{< step
-      titleText="Paso 6: Involucrarse en proyectos relacionados con Navcoin"
+      titleText="Paso 5: Involucrarse en proyectos relacionados con Navcoin"
       imgSrc="/images/for-beginners/beg-get-involved.svg"
       text="Navcoin no es sólo una criptomoneda: Es una comunidad con una visión para el la forma en que se debe distribuir-usar el dinero. Una comunidad es tan fuerte como los miembros individuales que contribuyen en ella. Con el &#34;Fondo Comunitario&#34;, usuarios pueden presentar proyectos y ser remunerados en Nav. Únanse a nuestros canales e&nbsp;involucrense."
       buttonText="Fondo Comunitario"

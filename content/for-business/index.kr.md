@@ -62,35 +62,13 @@ Nav페이는 스마트폰이나 데스크탑 컴퓨터에서 작동하는 가벼
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="온라인 페이 시스템을 수락합니다"
-imgSrc="/images/for-business/bus-for-bus.svg"
-buttonText="코인페이먼트에 접속하세요"
-buttonUrl="https://www.coinpayments.net/"
-buttonImgSrc="/images/icons/rightward-arrow.svg"
-reversed="true"
-newTab="true"
->}}
-CoinPayments는 PayPal과 약간 비슷하지만, 디지털 통화에 대해서는 약간 비슷하다. 플러그인은 쇼핑 카트, 결제 버튼, 송장 처리 및 판매 시점 인터페이스를 포함한다. 만약 당신의 사업이 유로존이나 미국에 있다면, 당신은 유로나 미국 달러로 자금을 인출할 수&nbsp;있습니다.
-{{< /zig_section>}}
-
-{{< zig_section
   titleText="개인 페이 시스템을 수락합니다"
   imgSrc="/images/for-business/bus-for-blog.svg"
   buttonText="여기 버튼을 확인하세요"
   buttonUrl="https://brianium.github.io/nav-button/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="true"
+  reversed="true"
   newTab="true"
 >}}
 신속한 결제를 위해 Nav버튼을 통합하면 개인 또는 사이드 비즈니스에 적합한 구현하기 쉬운 옵션이 됩니다. 웹 사이트에 코드를 복사하여 붙여 넣기 만하면됩니다. 더 쉬운 공유를 위해 삽입 가능한 단추 또는 QR 코드를 선택할 수&nbsp;있습니다.
 {{< /zig_section>}}
-
-{{< center_text_cta
-    lightStyle="true"
-    titleText="누가 Nav를 받을까요?"
-    buttonText="여기서 상인을 찾으세요"
-    buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/merchants/"
-    innerText="이미 많은 사업체가 Nav코인을 결제 옵션으로 통합하기 시작했으며, 그것들과 함께 당신은 다양한 제품과 서비스를 쉽게 구입할 수&nbsp;있습니다.">}}
-    buttonText="여기서 상인을 찾으세요."
-    buttonText="Find merchants here"
