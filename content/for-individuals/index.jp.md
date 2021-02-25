@@ -45,15 +45,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
       text="もし貴方がNavcoin コアウォレットを持っているならば、貴方はコインのステーキングを行う事で、年間4%の報酬を受ける事ができます。ステーキングを簡単にする為のデバイスもいくつかあります。ステーキングを始めるに当たって必要な情報はコミュニティによって&nbsp;まとめてあります。"
   >}}
   {{< step
-      titleText="Step 5: Navcoinを送金する"
-      imgSrc="/images/for-beginners/beg-spend.svg"
-      text="Navcoinを使って、オンラインやお店で様々なものを購入する事ができます。NAV を使って支払いができる小売店は以下で見つける事ができます。ぜひサポートを&nbsp;お願いします。"
-      buttonText="Merchants"
-      buttonUrl="/merchants"
-      buttonImgSrc="/images/icons/rightward-arrow.svg"
-  >}}
-  {{< step
-      titleText="Step 6: Navcoin プロジェクトに参加しよう"
+      titleText="Step 5: Navcoin プロジェクトに参加しよう"
       imgSrc="/images/for-beginners/beg-get-involved.svg"
       text="Navcoin は単なる仮想通貨ではありません。Navcoin は、貨幣に対する新しいビジョンを信じるコミュニティです。 そして、このコミュニティは、コミュニティに貢献する個人個人の力を超える事はありません。また、コミュニティの資金によって、貴方もNavcoinプロジェクトに関わり、報酬を得る事ができるのです。 私達のコミュニティチャンネルに参加して、ぜひプロジェクトに参加&nbsp;して下さい。"
       buttonText="コミュニティ資金"

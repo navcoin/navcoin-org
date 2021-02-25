@@ -45,15 +45,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
       text="If you’re running the Navcoin Core wallet, then you have the option to stake your coins and receive staking rewards at 4% per annum. There are a range of devices to make staking easier and lots of information created by the community to help get you set&nbsp;up."
   >}}
   {{< step
-      titleText="Step 5: Spend Navcoin"
-      imgSrc="/images/for-beginners/beg-spend.svg"
-      text="You can use your Navcoin to buy all sorts of things online and in stores. Check out these merchants that accept NAV and show your&nbsp;support."
-      buttonText="Merchants"
-      buttonUrl="/merchants"
-      buttonImgSrc="/images/icons/rightward-arrow.svg"
-  >}}
-  {{< step
-      titleText="Step 6: Get involved in Navcoin projects"
+      titleText="Step 5: Get involved in Navcoin projects"
       imgSrc="/images/for-beginners/beg-get-involved.svg"
       text="Navcoin isn’t just a cryptocurrency - it’s a community who believe in a new vision for money. And a community is only as strong as the individuals that contribute to it. With the Community Fund, you can get paid for getting involved in Navcoin projects. Join our community channels and get&nbsp;involved."
       buttonText="Community Fund"

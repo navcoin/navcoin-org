@@ -45,15 +45,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
       text="如果您正在运行Navcoin核心钱包，那么您可以选择加注您的硬币，并获得每年4%的加注奖励。有一系列的设备可以使标记变得更容易，并且社区创建了许多信息来帮助您设置。"
   >}}
   {{< step
-      titleText="第5步：花费 Navcoin"
-      imgSrc="/images/for-beginners/beg-spend.svg"
-      text="您可以使用您的Nav币在线和商店购买各种商品。 查看这些接受NAV币的商家并展示您的支持。"
-      buttonText="商人"
-      buttonUrl="/merchants"
-      buttonImgSrc="/images/icons/rightward-arrow.svg"
-  >}}
-  {{< step
-      titleText="第6步: 参与到 Navcoin 项目"
+      titleText="第5步: 参与到 Navcoin 项目"
       imgSrc="/images/for-beginners/beg-get-involved.svg"
       text="Navcoin不仅仅是一种加密货币，它还是一个相信新的货币愿景的社区。一个社区的强大程度取决于为其做出贡献的个人。有了社区基金，你就可以获得参与Navcoin项目的奖励。加入我们的社区渠道并参与其中。"
       buttonText="社区资金"

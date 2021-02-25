@@ -62,33 +62,13 @@ NavPay es un monedero que funciona con teléfonos y ordenadores. Solo hace falta
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="Aceptar pagos en linea"
-imgSrc="/images/for-business/bus-for-bus.svg"
-buttonText="Visitar CoinPayments"
-buttonUrl="https://www.coinpayments.net/"
-buttonImgSrc="/images/icons/rightward-arrow.svg"
-reversed="true"
-newTab="true"
->}}
-CoinPayments funciona de manera similar a PayPal, se incluyen &#34;plug-ins&#34; como un carrito de compras, un botón de pagos, facturas y puntos de venta. Si su negocio se encuentra en la Eurozona o en USA, pueden retirar EUR o USD directamente desde su&nbsp;plataforma.
-{{< /zig_section>}}
-
-{{< zig_section
   titleText="Acceptar pagos personales"
   imgSrc="/images/for-business/bus-for-blog.svg"
   buttonText="Botones de pagos"
   buttonUrl="https://brianium.github.io/nav-button/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="true"
+  reversed="true"
   newTab="true"
 >}}
 La integración de los &#34;NavButtons&#34; para pagos rápidos es una manera fácil de aceptar pagos individuales o de negocios secundarios. Es tan simple como "copiar-pegar" una linea de código a su página de&nbsp;internet.
 {{< /zig_section>}}
-
-{{< center_text_cta
-    lightStyle="true"
-    titleText="Participantes aceptando NAV"
-    buttonText="Encuentre los negocios e individuos aceptando Navcoin"
-    buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/merchants/"
-    innerText="Una cantidad de empresas han comenzado la integración de Navcoin como método de pago, donde comprar artículos y servivios resulta extremandamente&nbsp;fácil.">}}

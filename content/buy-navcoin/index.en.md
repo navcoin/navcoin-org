@@ -195,10 +195,3 @@ newTab="true"
     >}}
     	 
 {{< /item_container_section >}}
-
-{{< center_text_cta
-    titleText="Spend Your Navcoin"
-    buttonText="Check out the stores"
-    buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/merchants"
-    innerText="A number of businesses have already begun to integrate Navcoin as a payment option, and with them you can easily purchase a range of products and&nbsp;services.">}}

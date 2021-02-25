@@ -195,11 +195,3 @@ newTab="true"
     >}}
     
     {{< /item_container_section >}}
-
-
-{{< center_text_cta
-    titleText="Nav코인을 사용하세요"
-    buttonText="모든 스토어를 확인하세요"
-    buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/merchants"
-    innerText= "이미 많은 기업이 Nav코인을 결제 옵션으로 통합하기 시작했으며, 이 옵션을 사용하면 다양한 제품과 &nbsp; 서비스를 쉽게 구입할 수 있습니다.">}}

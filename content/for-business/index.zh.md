@@ -61,33 +61,13 @@ NavPay是一款与智能手机或台式电脑兼容的轻型钱包。顾客只�
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="接受在线支付"
-imgSrc="/images/for-business/bus-for-bus.svg"
-buttonText="访问硬币支付"
-buttonUrl="https://www.coinpayments.net/"
-buttonImgSrc="/images/icons/rightward-arrow.svg"
-reversed="true"
-newTab="true"
->}}
-硬币支付有点像PayPal，不过是数字货币。插件包括购物车、付款按钮、结账和销售点界面。如果您的业务在欧元区或美国，您可以提取欧元或美元的资金。
-{{< /zig_section>}}
-
-{{< zig_section
   titleText="接受个人支付"
   imgSrc="/images/for-business/bus-for-blog.svg"
   buttonText="访问视图按钮"
   buttonUrl="https://brianium.github.io/nav-button/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="true"
+  reversed="true"
   newTab="true"
 >}}
 集成导航按钮进行快速支付是一个很容易实现的选项，适合个人或副业。这就像复制粘贴一些代码到你的网站上一样简单。你可以选择嵌入按钮，或者二维码，这样更容易分享。
 {{< /zig_section>}}
-
-{{< center_text_cta
-    lightStyle="true"
-    titleText="哪些人在接受 NAV?"
-    buttonText="可以在这里参看商人"
-    buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/merchants/"
-    innerText="许多企业已经开始将Navcoin集成为一种支付选项，使用它，您可以轻松地购买一系列产品和服务。">}}

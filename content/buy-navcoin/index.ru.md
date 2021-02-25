@@ -195,10 +195,3 @@ newTab="подлинный"
     >}}
     
 {{< /item_container_section >}}
-
-{{< center_text_cta
-    titleText="Тратьте свои Navcoin"
-    buttonText="Ознакомьтесь со списком магазинов"
-    buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/продавцы"
-    innerText="Некоторые предприятия уже начали интегрировать Navcoin в качестве способа оплаты, и с их помощью вы можете легко приобрести ряд продуктов и&nbsp;услуг.">}}

@@ -195,10 +195,3 @@ newTab="true"
         linkUrl="https://changeangel.io/"
     >}}
 {{< /item_container_section >}}
-
-{{< center_text_cta
-    titleText="Utilizzare Navcoin"
-    buttonText="Fare acquisti nei negozi"
-    buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/merchants"
-    innerText="Molte aziende hanno già iniziato ad integrare Navcoin come opzione di pagamento e quindi potete acquistare una vasta gamma di prodotti e&nbsp;servizi.">}}

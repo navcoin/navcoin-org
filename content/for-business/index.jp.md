@@ -60,17 +60,6 @@ imgSrc="/images/for-business/bus-hero.svg"
 NavPay は、貴方のスマートフォンやデスクトップコンピューター上で使えるライトウォレットです。利用者がブロックチェーンのダウンロードをする必要は無く、ただ  QRコードをスキャンするだけで資金を貴方のウォレットに、ほぼ瞬時に送金する事ができます。これから始める方に&nbsp;ピッタリです。
 {{< /zig_section>}}
 
-{{< zig_section
-titleText="オンラインの支払いを受ける"
-imgSrc="/images/for-business/bus-for-bus.svg"
-buttonText="CoinPaymentsへ"
-buttonUrl="https://www.coinpayments.net/"
-buttonImgSrc="/images/icons/rightward-arrow.svg"
-reversed="true"
-newTab="true"
->}}
-CoinPayments は、デジタル通貨用のPayPalのようなものです。 プラグインには、ショッピングカート、支払いボタン、請求書、そしてPOSのインターフェイスがあります。もし貴方がユーロ圏またはアメリカでビジネスを行っているのであれば、ここからEUROやUSDを引き出す&nbsp;事ができます。
-{{< /zig_section>}}
 
 {{< zig_section
   titleText="個人からの支払いを受ける"
@@ -78,16 +67,8 @@ CoinPayments は、デジタル通貨用のPayPalのようなものです。 プ
   buttonText="View buttons here"
   buttonUrl="https://brianium.github.io/nav-button/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="true"
+  reversed="true"
   newTab="true"
 >}}
 迅速な支払いの為にNavButtonsを取り入れる事はとても簡単で、個人やサイドビジネスを行っている方にピッタリの方法です。やり方はとても簡単で、貴方のウェブサイトにコードをコピペするだけです。埋め込みボタンやQRコードなどの、さらに簡単なシェア方法を選ぶ事も&nbsp;できます。
 {{< /zig_section>}}
-
-{{< center_text_cta
-    lightStyle="true"
-    titleText="誰がNAVを使っているの？"
-    buttonText="小売店を検索する"
-    buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/merchants/"
-    innerText="多くのビジネスが既にNavcoinを支払い方法に 取り入れ始めています。それらのビジネスで様々な商品やサービスをとても簡単に購入する事が&nbsp;できます。">}}
