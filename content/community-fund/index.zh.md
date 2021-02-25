@@ -192,28 +192,16 @@ description: "Navcoin社区基金是一个NAV池，用来帮助kickstart社区�
   </div>
 </section>
 
-{{< zig_section
-  titleText="我应该从哪里开始?"
-  imgSrc="/images/community-fund/cfu-get-involved.svg"
-  buttonText="加入 Collab"
-  buttonUrl="https://collab.navcoin.org/"
-  buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="正确的"
-  newTab="正确的"
->}}
-一旦您加入了社区频道，Navcoin Collab网站是找到社区正在进行的项目范围的地方之一。这是一个充当“town square”的论坛，使社区更容易互相分享他们的项目想法。
-{{< /zig_section>}}
-
 {{< accordion
   titleText="如果创建一个提案"
   subtitleText="我们有一个程序可以帮助您确保您的提案获得通过。"
   anchor="download-core"
 
   itemOneTitle="第1步 - 理解系统并实现你的想法。"
-  itemOneText="想想能激发Navcoin网络灵感的项目。你可以选择自己做，也可以和社区的人一起讨论进行 <a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> or on the <a href=\"https://collab.navcoin.org\">NavCollab website</a>.  <br><img src=\"/images/community-fund/cfu-voting.png\" alt=\"voting image\">"    
+  itemOneText="想想能激发Navcoin网络灵感的项目。你可以选择自己做，也可以和社区的人一起讨论进行 <a href=\"https://reddit.com/r/navcoin\">Reddit</a> or on <a href=\"https://discord.gg/dRyhDjm\">Discord</a>.  <br><img src=\"/images/community-fund/cfu-voting.png\" alt=\"voting image\">"    
 
   itemTwoTitle="第2步 - 创建一个项目主页"
-  itemTwoText="它可以在任何地方，但是要使您的项目在社区中具有最大的可见性，请考虑使用 <a href=\"\">NavCollab website</a>.<br><br>定项目的细节。你需要交流为什么Navcoin社区应该资助它，如果你需要利用其他人的技能，以及从开始到结束需要多长时间。<br><br>你的建议可能适合分阶段资助，特别是如果它需要一些时间来完成。"
+  itemTwoText="它可以在任何地方，但是要使您的项目在社区中具有最大的可见性，请考虑使用 <a href=\"https://reddit.com/r/navcoin\">Reddit</a>.<br><br>定项目的细节。你需要交流为什么Navcoin社区应该资助它，如果你需要利用其他人的技能，以及从开始到结束需要多长时间。<br><br>你的建议可能适合分阶段资助，特别是如果它需要一些时间来完成。"
 
   itemThreeTitle="第3步 - 创建你的团队"
   itemThreeText="你还需要其他技能来实现你的项目吗?使用Navcoin的社交渠道和NavCollab网站，找到可以帮助你完成项目的社区成员。"
@@ -243,11 +231,6 @@ description: "Navcoin社区基金是一个NAV池，用来帮助kickstart社区�
     titleText="Discord"
     imgSrc="/images/for-beginners/beg-discord.svg"
     linkUrl="https://discordapp.com/invite/y4Vu9jw"
->}}
-{{< social                 
-    titleText="Collab"
-    imgSrc="/images/for-beginners/beg-collab.svg"
-    linkUrl="https://collab.navcoin.org/dashboard"
 >}}
 {{< social                 
     titleText="Reddit"

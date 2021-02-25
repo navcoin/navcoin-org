@@ -192,31 +192,19 @@ description: "The Navcoin community fund is a pool of NAV that's set aside to he
   </div>
 </section>
 
-{{< zig_section
-  titleText="Da dove posso iniziare?"
-  imgSrc="/images/community-fund/cfu-get-involved.svg"
-  buttonText="Unisciti al Collab"
-  buttonUrl="https://collab.navcoin.org/"
-  buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="true"
-  newTab="true"
->}}
-Dopo che ti sarai unito ai canali della comunità, il sito Navcoin Collab è il posto ideale in cui trovare una vasta gamma di progetti sui quali sta lavorando la comunità stessa. E' un forum che rappresenta la piazza o la vetrina dei progetti e rende facile la condivisione e la partecipazione ai&nbsp;progetti.
-{{< /zig_section>}}
-
 {{< accordion
   titleText="Come creare una&nbsp;proposta"
   subtitleText="Abbiamo creato un processo semplice per assicurarti che la tua proposta abbia le adeguate possibilità di essere&nbsp;aprovata."
   anchor="download-core"
 
   itemOneTitle="Passo 1 - Comprendi il sistema e sviluppa la tua idea."
-  itemOneText="Pensa ad un progetto che possa ispirare la comunità che ruota attorno a Navcoin, puoi farlo da solo o confrontarti con tutti i membri della comunità in <a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> oppure su <a href=\"https://collab.navcoin.org\">NavCollab website</a>.  <br><img src=\"/images/community-fund/cfu-voting.png\" alt=\"voting image\">"    
+  itemOneText="Pensa ad un progetto che possa ispirare la comunità che ruota attorno a Navcoin, puoi farlo da solo o confrontarti con tutti i membri della comunità in <a href=\"https://reddit.com/r/navcoin\">Reddit</a> oppure su <a href=\"https://discord.gg/dRyhDjm\">Discord</a>.  <br><img src=\"/images/community-fund/cfu-voting.png\" alt=\"voting image\">"    
 
   itemTwoTitle="Passo 2 - Crea una pagina di progetto."
-  itemTwoText="Puoi crearla ovunque, ma per avere la massima visibilità nella comunità prova ad utilizzare <a href=\"\">NavCollab website</a>.<br><br>Elabora i dettagli del progetto. Ti serve inoltre comunicare il motivo per cui la comunità dovrebbe finanziare l'idea, comunicare la necessità di coinvolgimento di altre persone con altre abilità, quanto tempo ti servirà per completare il progetto. <br><br>La tua proposta può inoltre essere finanziata a piccoli passi, specialmente se il progetto prevede un tempo relativamente lungo per essere completato."
+  itemTwoText="Puoi crearla ovunque, ma per avere la massima visibilità nella comunità prova ad utilizzare <a href=\"https://reddit.com/r/navcoin\">Reddit</a>.<br><br>Elabora i dettagli del progetto. Ti serve inoltre comunicare il motivo per cui la comunità dovrebbe finanziare l'idea, comunicare la necessità di coinvolgimento di altre persone con altre abilità, quanto tempo ti servirà per completare il progetto. <br><br>La tua proposta può inoltre essere finanziata a piccoli passi, specialmente se il progetto prevede un tempo relativamente lungo per essere completato."
 
   itemThreeTitle="Passo 3 - Crea il tuo squadra."
-  itemThreeText="Ti servono altre abilità per dare vita al tuo progetto? Utilizza i canali social di Navcoin ed il sito NavCollab per trovare membri della comunità che possano aiutarti a completarlo."
+  itemThreeText="Ti servono altre abilità per dare vita al tuo progetto? Utilizza i canali social di Navcoin ed il sito <a href=\"https://reddit.com/r/navcoin\">Reddit</a> o <a href=\"https://discord.gg/dRyhDjm\">Discord</a> per trovare membri della comunità che possano aiutarti a completarlo."
 
   itemFourTitle="Passo 4 - Invia la tua proposta."
   itemFourText="Completa il form sottostante includendo anche un link alla pagina di progetto.<br><br>Per completare il processo è necessario pagare una fee per la transazione della proposta. Se il fondo contiene una piccola quantità di NAV residui, il progetto che paga le fee maggiori è anche quello che avrà il diritto di essere finanziato per primo dal rete. La fee di 50 NAV inoltre previene che idee di scarso valore vengano inviate al fondo comunitario per approvazione.<br><br><br><iframe src=\"https://nav-proposal-creator.netlify.com/proposal/create\" style=\"width:100%; height:600px;border:none;\"></iframe>"
@@ -243,11 +231,6 @@ Dopo che ti sarai unito ai canali della comunità, il sito Navcoin Collab è il 
     titleText="Discord"
     imgSrc="/images/for-beginners/beg-discord.svg"
     linkUrl="https://discordapp.com/invite/y4Vu9jw"
->}}
-{{< social                 
-    titleText="Collab"
-    imgSrc="/images/for-beginners/beg-collab.svg"
-    linkUrl="https://collab.navcoin.org/dashboard"
 >}}
 {{< social                 
     titleText="Reddit"

@@ -192,31 +192,19 @@ description: "The Navcoin community fund is a pool of NAV that's set aside to he
   </div>
 </section>
 
-{{< zig_section
-  titleText="Where should I start?"
-  imgSrc="/images/community-fund/cfu-get-involved.svg"
-  buttonText="Join the Collab"
-  buttonUrl="https://collab.navcoin.org/"
-  buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="true"
-  newTab="true"
->}}
-Once you've joined the community channels, the Navcoin Collab website is one of the places to find the range of projects that the community is working on. It's a forum that acts as the ‘town square’, and makes it easier for the community to share their project ideas with each&nbsp;other.
-{{< /zig_section>}}
-
 {{< accordion
   titleText="How To Create A&nbsp;Proposal"
   subtitleText="We’ve got a process to help you ensure your proposal has the best chance of&nbsp;passing."
   anchor="download-core"
 
   itemOneTitle="Step 1 - Understand the system and develop your ideas."
-  itemOneText="Think of project that could inspire the Navcoin network. You can go it alone or discuss it with the community in <a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> or on the <a href=\"https://collab.navcoin.org\">NavCollab website</a>.  <br><img src=\"/images/community-fund/cfu-voting.png\" alt=\"voting image\">"    
+  itemOneText="Think of project that could inspire the Navcoin network. You can go it alone or discuss it with the community in <a href=\"https://reddit.com/r/navcoin\">Reddit</a> or <a href=\"https://discord.gg/dRyhDjm\">Discord</a>.  <br><img src=\"/images/community-fund/cfu-voting.png\" alt=\"voting image\">"    
 
   itemTwoTitle="Step 2 - Create a project page."
-  itemTwoText="It can be anywhere, but to give your project maximum visibility in the community consider using the <a href=\"\">NavCollab website</a>.<br><br>Work out the details of the project. You need to communicate why the Navcoin community should fund it, if you need to tap into other people’s skills, and how long it will take from start to finish. <br><br>Your proposal might suit being funded in stages, especially if it’ll take some time to complete."
+  itemTwoText="It can be anywhere, but to give your project maximum visibility in the community consider using <a href=\"https://reddit.com/r/navcoin\">Reddit</a>.<br><br>Work out the details of the project. You need to communicate why the Navcoin community should fund it, if you need to tap into other people’s skills, and how long it will take from start to finish. <br><br>Your proposal might suit being funded in stages, especially if it’ll take some time to complete."
 
   itemThreeTitle="Step 3 - Create your team."
-  itemThreeText="Do you need other skills to bring your project to life? Use Navcoin’s social channels and the NavCollab website to find community members who can help you complete your project."
+  itemThreeText="Do you need other skills to bring your project to life? Use Navcoin’s social channels, <a href=\"https://reddit.com/r/navcoin\">Reddit</a> or <a href=\"https://discord.gg/dRyhDjm\">Discord</a> to find community members who can help you complete your project."
 
   itemFourTitle="Step 4 - Submit your proposal."
   itemFourText="Complete the proposal form below, including a link to your project page.<br><br>To complete the process, you will need to pay a proposal fee. If the fund has only a small amount of NAV left, then the projects that pay the highest fees to the network will be accepted first. A fee of 50 Nav is necessary to stop people submitting poorly thought out proposals.<br><br><br><iframe src=\"https://nav-proposal-creator.netlify.com/proposal/create\" style=\"width:100%; height:600px;border:none;\"></iframe>"
@@ -243,11 +231,6 @@ Once you've joined the community channels, the Navcoin Collab website is one of 
     titleText="Discord"
     imgSrc="/images/for-beginners/beg-discord.svg"
     linkUrl="https://discordapp.com/invite/y4Vu9jw"
->}}
-{{< social                 
-    titleText="Collab"
-    imgSrc="/images/for-beginners/beg-collab.svg"
-    linkUrl="https://collab.navcoin.org/dashboard"
 >}}
 {{< social                 
     titleText="Reddit"

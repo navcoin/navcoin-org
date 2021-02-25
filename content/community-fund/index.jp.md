@@ -190,18 +190,6 @@ description: "Navcoinコミュニティの資金は、コミュニティプロ�
   </div>
 </section>
 
-{{< zig_section
-  titleText="どこから始めれば良いの？"
-  imgSrc="/images/community-fund/cfu-get-involved.svg"
-  buttonText="Collabに参加する"
-  buttonUrl="https://collab.navcoin.org/"
-  buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="true"
-  newTab="true"
->}}
-コミュニティチャンネルに参加すると、Navcoin Collabのサイトを使って、今コミュニティが取り組んでいるプロジェクトの範囲を探す事ができます。これは、「タウンスクエア」のように機能するフォーラムで、コミュニティにとって、プロジェクトのアイデアを互いに共有する為の&nbsp;場所です。
-{{< /zig_section>}}
-
 {{< accordion
   titleText="議案作成の&nbsp;方法"
   subtitleText="私達が、貴方の議案が採決される為の最善の方法を&nbsp;教えます。"
@@ -241,11 +229,6 @@ description: "Navcoinコミュニティの資金は、コミュニティプロ�
     titleText="Discord"
     imgSrc="/images/for-beginners/beg-discord.svg"
     linkUrl="https://discordapp.com/invite/y4Vu9jw"
->}}
-{{< social                 
-    titleText="Collab"
-    imgSrc="/images/for-beginners/beg-collab.svg"
-    linkUrl="https://collab.navcoin.org/dashboard"
 >}}
 {{< social                 
     titleText="Reddit"
