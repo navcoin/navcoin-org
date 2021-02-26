@@ -192,28 +192,16 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
   </div>
 </section>
 
-{{< zig_section
-  titleText="어디서 부터 시작하나요?"
-  imgSrc="/images/community-fund/cfu-get-involved.svg"
-  buttonText="Collab에 참여하세요"
-  buttonUrl="https://collab.navcoin.org/"
-  buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="true"
-  newTab="true"
->}}
-커뮤니티 채널에 가입했으면, Nav코인 Collab 웹 사이트를 볼수 있는데 이 웹은 커뮤니티에서 작업 중인 프로젝트의 범위를 찾을 수 있는 장소 중 하나입니다. '타운 광장' 역할을 하며, 커뮤니티의 프로젝트 아이디어를 서로 쉽게 공유할 수 있도록 하는 포럼입니다.
-{{< /zig_section>}}
-
 {{< accordion
   titleText="&nbsp; 제안서를 작성하는 방법"
   subtitleText="당신의 제안이&nbsp;통과될 가능성이 가장 높은지 확인할 수 있는 절차가 있습니다."
   anchor="download-core"
 
   itemOneTitle="Step 1 - 시스템을 이해하고 아이디어를 개발하세요."
-  itemOneText="Nav코인 네트워크에 영감을 줄 수 있는 프로젝트를 생각해 보세요. 혼자 참여할 수 있고, 커뮤니티와 토론할 수도 있습니다.<a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> or on the <a href=\"https://collab.navcoin.org\">NavCollab website</a>.  <br><img src=\"/images/community-fund/cfu-voting.png\" alt=\"voting image\">"    
+  itemOneText="Nav코인 네트워크에 영감을 줄 수 있는 프로젝트를 생각해 보세요. 혼자 참여할 수 있고, 커뮤니티와 토론할 수도 있습니다.<a href=\"https://reddit.com/r/navcoin\">Reddit</a> or <a href=\"https://discord.gg/dRyhDjm\">Discord</a>.  <br><img src=\"/images/community-fund/cfu-voting.png\" alt=\"voting image\">"    
 
   itemTwoTitle="Step 2 - 프로젝트 페이지를 만들어보세요."
-  itemTwoText="어디에나 있을 수 있지만 커뮤니티에서 프로젝트를 최대한 파악할 수 있도록 <a href=\"\">NavCollab website</a>.<br><br> 프로젝트 세부 정보 워크아웃을 사용하는 것을 고려합니다. Nav코인 커뮤니티가 왜 자금을 지원해야 하는지, 다른 사람의 기술을 활용해야 하는지, 처음부터 끝까지 얼마나 걸릴지 알려야 합니다. <Br><br>당신의 제안은 단계별로 자금 지원을 받는 것이 적합할 수도 있는데, 특히 완성하는 데 시간이 좀 걸릴 경우에는 더욱 그렇습니다."
+  itemTwoText="어디에나 있을 수 있지만 커뮤니티에서 프로젝트를 최대한 파악할 수 있도록 <a href=\"https://reddit.com/r/navcoin\">Reddit</a>. <br><br> 프로젝트 세부 정보 워크아웃을 사용하는 것을 고려합니다. Nav코인 커뮤니티가 왜 자금을 지원해야 하는지, 다른 사람의 기술을 활용해야 하는지, 처음부터 끝까지 얼마나 걸릴지 알려야 합니다. <Br><br>당신의 제안은 단계별로 자금 지원을 받는 것이 적합할 수도 있는데, 특히 완성하는 데 시간이 좀 걸릴 경우에는 더욱 그렇습니다."
 
   itemThreeTitle="Step 3 - 자신만의 팀을 만들어보세요."
   itemThreeText="프로젝트를 되살리기 위해 다른 기술이 필요합니까? Nav코인의 소셜 채널과 NavCollab 웹 사이트를 사용하여 프로젝트를 완료하는 데 도움이 되는 커뮤니티 구성원을 찾을 수 있습니다."
@@ -243,11 +231,6 @@ description: "Nav코인 커뮤니티 펀드는 커뮤니티 프로젝트를 시�
     titleText="Discord"
     imgSrc="/images/for-beginners/beg-discord.svg"
     linkUrl="https://discordapp.com/invite/y4Vu9jw"
->}}
-{{< social                 
-    titleText="Collab"
-    imgSrc="/images/for-beginners/beg-collab.svg"
-    linkUrl="https://collab.navcoin.org/dashboard"
 >}}
 {{< social                 
     titleText="Reddit"

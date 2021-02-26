@@ -67,11 +67,6 @@ imgSrc="/images/for-beginners/beg-hero.svg"
     linkUrl="https://discordapp.com/invite/y4Vu9jw"
 >}}
 {{< social                 
-    titleText="Collab"
-    imgSrc="/images/for-beginners/beg-collab.svg"
-    linkUrl="https://collab.navcoin.org/dashboard"
->}}
-{{< social                 
     titleText="Reddit"
     imgSrc="/images/for-beginners/beg-reddit.svg"
     linkUrl="https://reddit.com/r/Navcoin/"

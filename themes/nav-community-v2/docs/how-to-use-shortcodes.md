@@ -14,7 +14,7 @@ An `accordion` looks like this:
   itemTwoText="It can be anywhere, but to give your project maximum visibility in the community consider using the <a href=\"\">Collab website</a>.<br>Work out the details of the project. You need to communicate why the Navcoin community should fund it, if you need to tap into other people’s skills, and how long it will take from start to finish. Your proposal might suiting being funded in stages, especially if it’s long term devising a roadmap will help."
 
   itemThreeTitle="Step 3 - Create your team."
-  itemThreeText="Do you need other skills to bring your project to life? Use Navcoin’s social channels and the Collab website to find community members who can help you complete your project."
+  itemThreeText="Do you need other skills to bring your project to life? Use Navcoin’s social channels to find community members who can help you complete your project."
   
   itemFourTitle="Step 4 - Submit your proposal."
   itemFourText="Complete the proposal form, including a link to your project page.<br>Pay the proposal fee. The projects that pay the highest fees to the network will be accepted first. A fee is necessary to stop people spamming the Community Fund with weak proposals."

@@ -73,26 +73,14 @@ description: "El fondo comunitario de Navcoin es un sistema de incentivación de
     >}}
 {{< /item_container_section >}}
 
-{{< zig_section
-  titleText="Como involucrarse"
-  imgSrc="/images/community-fund/cfu-get-involved.svg"
-  buttonText="Unirse a Collab"
-  buttonUrl="https://collab.navcoin.org/"
-  buttonImgSrc="/images/icons/rightward-arrow.svg"
-  bgPurple="true"
-  newTab="true"
->}}
-El portal de "Navcoin Collab" es el espacio donde la comunidad puede encontrar el espectro de proyectos en los que se está trabajando. Funciona como un "centro de operaciones" y es la manera más fácil y practica de colaborar y discutir proyectos en&nbsp;conjunto.
-{{< /zig_section>}}
-
 {{< accordion
   titleText="Instrucciones para crear una&nbsp;propuesta"
   subtitleText="Hemos diseñado un proceso para ayudar para ayudar a que las propuestas tengan mayores posibilidades de ser aceptadas por nuestra&nbsp;comunidad."
   itemOneTitle="Paso 1 - Desarrollo de la idea principal del proyecto."
-  itemOneText="Traer la idea a la comunidad de Navcoin para discutirla en nuestros canales de comunicación<a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> or on the <a href=\"https://collab.navcoin.org\">NavCollab</a>."
+  itemOneText="Traer la idea a la comunidad de Navcoin para discutirla en nuestros canales de comunicación<a href=\"https://reddit.com/r/navcoin\">Reddit</a> o <a href=\"https://discord.gg/dRyhDjm\">Discord</a>."
 
   itemTwoTitle="Paso 2 - Crear la página del proyecto."
-  itemTwoText="Puede ser en cualquier lado, para mayor visibilidad recomendamos usar la página de <a href=\"\">NavCollab</a>.<br><br>Es importante especificar en detalle el proyecto. Lo más importante es explicar a la comunidad las razones por las cuales deberian financiarlo. Si es necesaria la ayuda externa y el tiempo que tomará desde el principio hasta la entrega final. <br><br>La propuesta puede ser financiada en distintas etapas, especialmente si es un proyecto largo."
+  itemTwoText="Puede ser en cualquier lado, para mayor visibilidad recomendamos usar la página de <a href=\"https://reddit.com/r/navcoin\">Reddit</a>.<br><br>Es importante especificar en detalle el proyecto. Lo más importante es explicar a la comunidad las razones por las cuales deberian financiarlo. Si es necesaria la ayuda externa y el tiempo que tomará desde el principio hasta la entrega final. <br><br>La propuesta puede ser financiada en distintas etapas, especialmente si es un proyecto largo."
 
   itemThreeTitle="Paso 3 - Crear el equipo."
   itemThreeText="Si es necesaria ayuda externa para llevar a cabo el proyecto. No dudar en buscar colaborados en nuestros canales sociales para afianzar las posibilidades de completarlo en tiempo y forma."
@@ -122,11 +110,6 @@ El portal de "Navcoin Collab" es el espacio donde la comunidad puede encontrar e
     titleText="Discord"
     imgSrc="/images/for-beginners/beg-discord.svg"
     linkUrl="https://discordapp.com/invite/y4Vu9jw"
->}}
-{{< social                 
-    titleText="Collab"
-    imgSrc="/images/for-beginners/beg-collab.svg"
-    linkUrl="https://collab.navcoin.org/dashboard"
 >}}
 {{< social                 
     titleText="Reddit"
