@@ -32,12 +32,6 @@ newTab="true"
         linkUrl="https://www.binance.com/es/trade/NAV_BTC"
     >}}
     {{< exchange
-        titleText="Litebit"
-        imgSrc="/images/buy-navcoin/buy-litebit.png"
-        text="Euro Direct Purchase"
-        linkUrl="https://www.litebit.eu/en/buy/navcoin"
-    >}}
-    {{< exchange
         titleText="Easy Crypto"
         imgSrc="/images/buy-navcoin/buy-easy-crypto.png"
         text="NZD Direct Purchase"
@@ -66,12 +60,6 @@ newTab="true"
         imgSrc="/images/buy-navcoin/buy-crex-24.png"
         text="Multi Exchange Platform"
         linkUrl="https://crex24.com/exchange/NAV-BTC"
-    >}}
-    {{< exchange
-        titleText="Bitexlive"
-        imgSrc="/images/buy-navcoin/bitexlive.png"
-        text="BTC / NAV"
-        linkUrl="https://bitexlive.com/exchange/BTC-NAV"
     >}}
     {{< exchange
         titleText="Coinmerce"
