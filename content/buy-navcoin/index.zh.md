@@ -32,12 +32,6 @@ newTab="正确的"
         linkUrl="https://www.binance.com/en/trade/NAV_BTC"
     >}}
     {{< exchange
-        titleText="莱特币"
-        imgSrc="/images/buy-navcoin/buy-litebit.png"
-        text="欧元直接购买"
-        linkUrl="https://www.litebit.eu/en/buy/navcoin"
-    >}}
-    {{< exchange
         titleText="Easy Crypto"
         imgSrc="/images/buy-navcoin/buy-easy-crypto.png"
         text="NZD 直接购买"
@@ -66,12 +60,6 @@ newTab="正确的"
         imgSrc="/images/buy-navcoin/buy-crex-24.png"
         text="复合交易平台"
         linkUrl="https://crex24.com/exchange/NAV-BTC"
-    >}}
-    {{< exchange
-        titleText="Bitexlive"
-        imgSrc="/images/buy-navcoin/bitexlive.png"
-        text="BTC / NAV"
-        linkUrl="https://bitexlive.com/exchange/BTC-NAV"
     >}}
     {{< exchange
         titleText="Coinmerce"
