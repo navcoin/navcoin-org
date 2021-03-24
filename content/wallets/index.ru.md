@@ -59,21 +59,6 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
-        titleText="NavPay"
-        walletImgSrc="/images/wallets/wal-navpay.png"
-        text="NavPay - это простой в использовании легкий кошелек, который позволяет безопасно хранить NAV. Он доступен для рабочего стола и мобильных устройств и не занимает гигабайты памяти.<br>&nbsp;"
-        buttonUrl="https://navpay.navcoin.org"
-        buttonText="Загрузить"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg1Src="/images/platforms/android.png"
-        platformImg2Src="/images/platforms/mac.png"
-        platformImg3Src="/images/platforms/windows.png"
-        platformImg4Src="/images/platforms/linux.png"
-        platformImg5Src="/images/platforms/pwa.png"
-        platformImg6Src="/images/platforms/web.png"
-        newTab="true"
-    >}}
-    {{< wallet
         titleText="Coinomi"
         walletImgSrc="/images/wallets/wal-coinomi.png"
         text="Coinomi - это первый защищенный кошелек, позволяющий хранить многочисленное число с активов, в том числе биткойн, альткойны и&nbsp;токены."
