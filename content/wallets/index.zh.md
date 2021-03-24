@@ -59,21 +59,6 @@ newTab="正确的"
         newTab="正确的"
     >}}
     {{< wallet
-        titleText="NavPay"
-        walletImgSrc="/images/wallets/wal-navpay.png"
-        text="NavPay是一个易于使用的轻钱包，它可以让你安全地储存你的导航。它可以在台式机和手机上使用，而且不占用gb的存储空间。"
-        buttonUrl="https://navpay.navcoin.org"
-        buttonText="下载"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg1Src="/images/platforms/android.png"
-        platformImg2Src="/images/platforms/mac.png"
-        platformImg3Src="/images/platforms/windows.png"
-        platformImg4Src="/images/platforms/linux.png"
-        platformImg5Src="/images/platforms/pwa.png"
-        platformImg6Src="/images/platforms/web.png"
-        newTab="正确的"
-    >}}
-    {{< wallet
         titleText="Coinomi"
         walletImgSrc="/images/wallets/wal-coinomi.png"
         text="Coinomi是一个安全第一的多重资产钱包，用于比特币、替代币和代币."
