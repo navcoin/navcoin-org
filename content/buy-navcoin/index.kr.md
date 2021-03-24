@@ -32,12 +32,6 @@ newTab="true"
         linkUrl="https://www.binance.com/ko/trade/NAV_BTC"
     >}}
     {{< exchange
-        titleText="Litebit"
-        imgSrc="/images/buy-navcoin/buy-litebit.png"
-        text="유로로 구매가 가능한 거래소"
-        linkUrl="https://www.litebit.eu/en/buy/navcoin"
-    >}}
-    {{< exchange
         titleText="Easy Crypto"
         imgSrc="/images/buy-navcoin/buy-easy-crypto.png"
         text="NZD 직접 구매"
@@ -67,12 +61,6 @@ newTab="true"
         text="멀티 거래소 플랫폼"
         linkUrl="https://crex24.com/exchange/NAV-BTC"
     >}}
-    {{< exchange
-        titleText="Bitexlive"
-        imgSrc="/images/buy-navcoin/bitexlive.png"
-        text="BTC / NAV"
-        linkUrl="https://bitexlive.com/exchange/BTC-NAV"
-     >}}
     {{< exchange
         titleText="Coinmerce"
         imgSrc="/images/buy-navcoin/coinmerce.jpg"
