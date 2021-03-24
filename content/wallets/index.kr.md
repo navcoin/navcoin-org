@@ -59,21 +59,6 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
-        titleText="Nav페이"
-        walletImgSrc="/images/wallets/wal-navpay.png"
-        text="Nav코인 코어 지갑은 사용자가 네트워크 고정 작업에 참여할 수 있는 완전한 Nav코인 클라이언트입니다. Nav코인 코어 개발자가 발행한 공식 참조&nbsp;구현입니다."
-        buttonUrl="https://navpay.navcoin.org"
-        buttonText="다운로드"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg1Src="/images/platforms/android.png"
-        platformImg2Src="/images/platforms/mac.png"
-        platformImg3Src="/images/platforms/windows.png"
-        platformImg4Src="/images/platforms/linux.png"
-        platformImg5Src="/images/platforms/pwa.png"
-        platformImg6Src="/images/platforms/web.png"
-        newTab="true"
-    >}}
-    {{< wallet
         titleText="Coinomi"
         walletImgSrc="/images/wallets/wal-coinomi.png"
         text="코이노미(Coinomi)는 비트코인, 알토킨, 토큰을 위한 시큐리티 최초의 멀티 에셋&nbsp;지갑입니다."
