@@ -60,21 +60,6 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
-        titleText="NavPay"
-        walletImgSrc="/images/wallets/wal-navpay.png"
-        text="NavPay es un monedero ligero fácil de usar que le permite almacenar su NAV de forma segura. Está disponible para computadoras de escritorio y dispositivos móviles, y no ocupa gigabytes de almacenamiento.<br>&nbsp;"
-        buttonUrl="https://navpay.navcoin.org"
-        buttonText="Descargar"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg1Src="/images/platforms/android.png"
-        platformImg2Src="/images/platforms/mac.png"
-        platformImg3Src="/images/platforms/windows.png"
-        platformImg4Src="/images/platforms/linux.png"
-        platformImg5Src="/images/platforms/pwa.png"
-        platformImg6Src="/images/platforms/web.png"
-        newTab="true"
-    >}}
-    {{< wallet
         titleText="Coinomi"
         walletImgSrc="/images/wallets/wal-coinomi.png"
         text="Coinomi es un monedero con multiples activos para Bitcoin, Altcoins y&nbsp;Tokens."
