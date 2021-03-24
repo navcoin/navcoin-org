@@ -133,7 +133,7 @@ a {
         float: none;
       }
       .header-img {
-        height: 32px;
+        height: 64px;
         @media (max-width: 1200px) {
           height: 28px;
         }
@@ -161,7 +161,7 @@ a {
     .nav-top-item, .sub-menu-item {
       display: block;
       padding: 8px 20px;
-      font-size: 20px;
+      font-size: 18px;
       font-weight: 400;
       line-height: 20px;
       color: #7b47b4;
