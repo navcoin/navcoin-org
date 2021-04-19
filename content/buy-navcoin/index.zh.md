@@ -68,6 +68,12 @@ newTab="正确的"
         linkUrl="https://coinmerce.io/uk/buy/nav/"
     >}}
     {{< exchange
+        titleText="SwapSwop"
+        imgSrc="/images/buy-navcoin/buy-swapswop.png"
+        text="多币种 / NAV"
+        linkUrl="https://swapswop.io/"
+    >}}
+    {{< exchange
         titleText="Simple Swap"
         imgSrc="/images/buy-navcoin/simpleswap_400x400.jpg"
         text="多币种 / NAV"
