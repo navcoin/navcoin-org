@@ -21,7 +21,7 @@ imgSrc="/images/responsible-disclosure/dis-hero.svg"
         <p>报告该漏洞的最佳位置是<a href="#"> discoversure@navcoin.org </a>。您可以使用在Navcoin GitHub上找到的GPG密钥加密您的消息。</p>
         <h3 class="article-sml-title">Disclosure GPG Key</h3>
         <p>
-            <a href="https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub" target="_blank">
+            <a href="https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub" target="_blank" rel="nofollow noopener noreferrer">
                 https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub
             </a>
         </p>

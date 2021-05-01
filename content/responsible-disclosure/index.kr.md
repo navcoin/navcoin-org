@@ -21,7 +21,7 @@ imgSrc="/images/responsible-disclosure/dis-hero.svg"
         <p>취약성을 보고하는 가장 좋은 장소는 <a href="#">disclosure@navcoin.org</a>. Nav코인 GitHub에 있는 GPG 키를 사용하여 메시지를 암호화할 수 있습니다.</p>
         <h3 class="article-sml-title">GPG 키를 공개</h3>
         <p>
-            <a href="https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub" target="_blank">
+            <a href="https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub" target="_blank" rel="nofollow noopener noreferrer">
                 https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub
             </a>
         </p>

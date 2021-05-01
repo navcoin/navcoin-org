@@ -63,7 +63,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
     <h2 class="article-title">
         Dettagli del programma Bounty
     </h2>
-    <p class = "paragraph-text"> Il programma di ricompensa di Navcoin Core Developer è stato avviato da Navcoin Developer <a href="https://github.com/aguycalled" target="_blank"> Alex V </a> per incoraggiare il decentramento dello sviluppo di Navcoin Core. </p>
+    <p class = "paragraph-text"> Il programma di ricompensa di Navcoin Core Developer è stato avviato da Navcoin Developer <a href="https://github.com/aguycalled" target="_blank" rel="nofollow noopener noreferrer"> Alex V </a> per incoraggiare il decentramento dello sviluppo di Navcoin Core. </p>
      <p class = "paragraph-text"> Esistono due modi principali per richiedere monete attraverso il programma di taglie: </a>
      <H3> 1. Risolvere i problemi di GitHub </h3>
      <p class = "paragraph-text"> I problemi che possono essere elaborati per rivendicare le monete saranno etichettati con un tag speciale. Le problematiche verranno assegnate ai candidati in base all'ordine di arrivo e l'assegnazione deve essere gestita sulla questione GitHub. Se vuoi lavorare su una taglia, assicurati di commentarla e che il tuo reclamo sia stato riconosciuto. </p>
@@ -113,7 +113,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
     </p>
     <br />
     <div>
-        <a href="https://www.reddit.com/r/Navcoin/comments/bd1mku/navcoincore_dev_bounty_fund/" class="round-btn gradient-btn" target="_blank">
+        <a href="https://www.reddit.com/r/Navcoin/comments/bd1mku/navcoincore_dev_bounty_fund/" class="round-btn gradient-btn" target="_blank" rel="nofollow noopener noreferrer">
           Informazioni Aggiuntive <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
         </a>
     </div>
@@ -141,7 +141,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
     <h2 class="article-title">
         Dettagli del programma Bounty
     </h2>
-    <p class="paragraph-text">Il programma di bounty dei siti Web Navcoin è stato avviato dallo sviluppatore Navcoin <a href="https://github.com/proletesseract" target="_blank"> Craig M </a> per incoraggiare il decentramento della responsabilità per i principali siti Web Navcoin open source . </ p>
+    <p class="paragraph-text">Il programma di bounty dei siti Web Navcoin è stato avviato dallo sviluppatore Navcoin <a href="https://github.com/proletesseract" target="_blank" rel="nofollow noopener noreferrer"> Craig M </a> per incoraggiare il decentramento della responsabilità per i principali siti Web Navcoin open source . </ p>
     <p class = "paragraph-text"> I numeri che possono essere elaborati per rivendicare le monete saranno etichettati con un tag speciale. Le problematiche verranno assegnate ai candidati in base all'ordine di arrivo e l'assegnazione deve essere gestita sulla questione GitHub. Se vuoi lavorare su una taglia, assicurati di commentarla e che il tuo reclamo sia stato riconosciuto. </p>
     <p class = "paragraph-text"> Webist che sono coperti da questo programma di bounty: </p>
     <H3> 1. Navcoin Org </h3>
@@ -176,7 +176,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
      <p class = "paragraph-text"> Se hai notato qualcosa che potrebbe essere migliorato su uno dei tre siti Web coperti da questo programma di ricompensa che non è già presente nell'elenco dei problemi, puoi anche creare tu stesso un problema e chiedere per essere rivisto e assegnato un premio.</p>
     <br />
     <div>
-        <a href="https://www.reddit.com/r/Navcoin/comments/bttld6/websites_bounty_program/" class="round-btn gradient-btn" target="_blank">
+        <a href="https://www.reddit.com/r/Navcoin/comments/bttld6/websites_bounty_program/" class="round-btn gradient-btn" target="_blank" rel="nofollow noopener noreferrer">
           Informazioni Aggiuntive <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
         </a>
     </div>

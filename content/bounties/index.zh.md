@@ -63,7 +63,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
     <h2 class="article-title">
         Bounty Program Details
     </h2>
-    <p class="paragraph-text">The Navcoin Core Developer bounty program was initiated by Navcoin Developer <a href="https://github.com/aguycalled" target="_blank">Alex V</a> to encourage the decentralisation of Navcoin Core development.</p>
+    <p class="paragraph-text">The Navcoin Core Developer bounty program was initiated by Navcoin Developer <a href="https://github.com/aguycalled" target="_blank" rel="nofollow noopener noreferrer">Alex V</a> to encourage the decentralisation of Navcoin Core development.</p>
     <p class="paragraph-text">There are two main ways to claim coins through the bounty program:</a>
     <h3>1. Solving GitHub Issues</h3>
     <p class="paragraph-text">The issues which can be worked to claim coins will be labelled with a special tag. Issues will be assigned to candidates on a first-come-first-served basis and the assignment should be handled on the GitHub issue. If&nbsp;you want to work on a bounty, make sure you comment on it and your claim has been&nbsp;acknowledged.</p>
@@ -113,7 +113,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
     </p>
     <br />
     <div>
-        <a href="https://www.reddit.com/r/Navcoin/comments/bd1mku/navcoincore_dev_bounty_fund/" class="round-btn gradient-btn" target="_blank">
+        <a href="https://www.reddit.com/r/Navcoin/comments/bd1mku/navcoincore_dev_bounty_fund/" class="round-btn gradient-btn" target="_blank" rel="nofollow noopener noreferrer">
           More Information <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
         </a>
     </div>
@@ -141,7 +141,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
     <h2 class="article-title">
         Bounty Program Details
     </h2>
-    <p class="paragraph-text">The Navcoin Websites bounty program was initiated by Navcoin Developer <a href="https://github.com/proletesseract" target="_blank">Craig M</a> to encourage the decentralisation of reponsibility for the main open source Navcoin Websites.</p>
+    <p class="paragraph-text">The Navcoin Websites bounty program was initiated by Navcoin Developer <a href="https://github.com/proletesseract" target="_blank" rel="nofollow noopener noreferrer">Craig M</a> to encourage the decentralisation of reponsibility for the main open source Navcoin Websites.</p>
     <p class="paragraph-text">The issues which can be worked to claim coins will be labelled with a special tag. Issues will be assigned to candidates on a first-come-first-served basis and the assignment should be handled on the GitHub issue. If&nbsp;you want to work on a bounty, make sure you comment on it and your claim has been&nbsp;acknowledged.</p>
     <p class="paragraph-text">Webistes that are covered by this bounty program:</p>
     <h3>1. Navcoin Org</h3>
@@ -176,7 +176,7 @@ buttonImgSrc="/images/icons/downward-arrow.svg"
     <p class="paragraph-text">If you've noticed something that could be improved on any of the three websites covered by this bounty program which isn't already on the issues list, you can also create an issue yourself and ask for it to be reviewed and assigned a bounty.</p>
     <br />
     <div>
-        <a href="https://www.reddit.com/r/Navcoin/comments/bttld6/websites_bounty_program/" class="round-btn gradient-btn" target="_blank">
+        <a href="https://www.reddit.com/r/Navcoin/comments/bttld6/websites_bounty_program/" class="round-btn gradient-btn" target="_blank" rel="nofollow noopener noreferrer">
           More Information <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
         </a>
     </div>
