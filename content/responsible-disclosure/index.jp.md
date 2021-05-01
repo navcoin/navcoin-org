@@ -21,7 +21,7 @@ imgSrc="/images/responsible-disclosure/dis-hero.svg"
         <p>脆弱性についての報告を行うにあたり最適な場所は<a href="#">disclosure@navcoin.org</a>. です。あなたはメッセージをNavcoin GitHub 上にあるGPG キーを使って暗号化する事ができます。</p>
         <h3 class="article-sml-title">Disclosure GPG Key</h3>
         <p>
-            <a href="https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub" target="_blank">
+            <a href="https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub" target="_blank" rel="nofollow noopener noreferrer">
                 https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub
             </a>
         </p>

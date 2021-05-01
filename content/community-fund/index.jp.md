@@ -61,7 +61,7 @@ description: "Navcoinコミュニティの資金は、コミュニティプロ�
                     <img src="/images/community-fund/cfu-submit.svg" alt="" class="item-icon">
                     <h3>Step 1: 議案の提出</h3>
                     <p style="margin-bottom: 10%"Navcoin のエコシステムにどのような進化を遂げてもらいたいかを考え、貴方の考えを議案としてネットワークに提出&nbsp;しましょう。</p>
-                    <a href="https://www.navexplorer.com/dao/proposals/pending" target="_blank" class="round-btn small gradient-btn">議案を作成する        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://www.navexplorer.com/dao/proposals/pending" target="_blank" rel="nofollow noopener noreferrer" class="round-btn small gradient-btn">議案を作成する        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -70,7 +70,7 @@ description: "Navcoinコミュニティの資金は、コミュニティプロ�
                     <img src="/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
                     <h3>Step 2: 議案に対して投票する</h3>
                     <p style="margin-bottom: 10%">Navcoin ネットワーク内でステーキングを行っている人なら誰もが、全ての議案に対して、自分の持つネットワークの比重を用いて「yes」又は「no」を投票する &nbsp;事ができます。</p>
-                    <a href="https://www.navexplorer.com/dao/proposals/pending" target="_blank" class="round-btn small gradient-btn">全ての議案を見る        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://www.navexplorer.com/dao/proposals/pending" target="_blank" rel="nofollow noopener noreferrer" class="round-btn small gradient-btn">全ての議案を見る        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -79,7 +79,7 @@ description: "Navcoinコミュニティの資金は、コミュニティプロ�
                     <img src="https://d33wubrfki0l68.cloudfront.net/6be625e8bf582732c2b66ffa1705dd083fdd6c51/f8c8a/images/community-fund/cfu-payment.svg" alt="" class="item-icon">
                     <h3>Step 3: 支払いのリクエスト</h3>
                     <p style="margin-bottom: 10%">支払いが行われるのは、２回目の投票によって、議案の提出者による ‘proof&nbsp;of&nbsp;effort’ が承認された後になります。</p>
-                    <a href="https://www.navexplorer.com/dao/payment-requests/pending" target="_blank" class="round-btn small gradient-btn">支払いリクエストを作成する        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://www.navexplorer.com/dao/payment-requests/pending" target="_blank" rel="nofollow noopener noreferrer" class="round-btn small gradient-btn">支払いリクエストを作成する        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -88,7 +88,7 @@ description: "Navcoinコミュニティの資金は、コミュニティプロ�
                     <img src="https://d33wubrfki0l68.cloudfront.net/a6136e0554b83cc742e44f715978ee9fbd3c7791/88e3e/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
                     <h3>Step 4: 支払いに対して投票する</h3>
                     <p style="margin-bottom: 10%">目標が１つ達成されると、ネットワークは投票を行い、プロジェクトが横道に逸れていないか、方向性を確認します。投票の後に資金がリリースされる&nbsp;事になります。</p>
-                    <a href="https://www.navexplorer.com/dao/payment-requests/pending" target="_blank" class="round-btn small gradient-btn">支払いリクエストを見る        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://www.navexplorer.com/dao/payment-requests/pending" target="_blank" rel="nofollow noopener noreferrer" class="round-btn small gradient-btn">支払いリクエストを見る        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -110,7 +110,7 @@ description: "Navcoinコミュニティの資金は、コミュニティプロ�
             <div class="item-details-group">
               <div class="item-text">
                 <p style="margin-top:0; margin-bottom: 15px;">知名度を上げる事は、全ての仮想通貨にとって重要な事です。そして、その為に有効な手段の１つとして、車や自分のお店など、様々な場所に張り付ける事ができるステッカーの作成があります。<br><br>
-                の議案は、 NAVステッカーを作成（印刷し、カットする）し、コミュニティ内で興味を持つ人に送る為に必要な資金を必要とします。詳しくはこちらを参照して下さい。 <a href="https://collab.navcoin.org/s/navcoin-sticker-creation/custom_pages/container/view?id=12" target="_blank" style="color:white; text-decoration: underline">こちら</a></p>
+                の議案は、 NAVステッカーを作成（印刷し、カットする）し、コミュニティ内で興味を持つ人に送る為に必要な資金を必要とします。詳しくはこちらを参照して下さい。 <a href="https://collab.navcoin.org/s/navcoin-sticker-creation/custom_pages/container/view?id=12" target="_blank" rel="nofollow noopener noreferrer" style="color:white; text-decoration: underline">こちら</a></p>
                 <div class="cf-proposal-stat">
                     <h4>ステータス</h4>
                     <h4>保留中</h4>
@@ -123,7 +123,7 @@ description: "Navcoinコミュニティの資金は、コミュニティプロ�
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://www.navexplorer.com/dao/proposal/aabb434ae2a248cbf8ffa903f9e9610e4d51ac53e507f09450b3e7ebac66ee59" target="_blank" class="round-btn small gradient-btn">議案を見る <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://www.navexplorer.com/dao/proposal/aabb434ae2a248cbf8ffa903f9e9610e4d51ac53e507f09450b3e7ebac66ee59" target="_blank" rel="nofollow noopener noreferrer" class="round-btn small gradient-btn">議案を見る <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
@@ -137,7 +137,7 @@ description: "Navcoinコミュニティの資金は、コミュニティプロ�
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">このコミュニティ資金プロジェクトは、Navcoin ネットワークのカーボンフットプリントを相殺する為にデザインされており、このプロジェクトによって、NAVが世界で初めてのカーボンニュートラルな仮想通貨になる事ができるのです。 <br><br>この議案は、ネットワークとその周辺のエコシステムによって使われる電力を計算します。そして、自然森林の炭素排出権を購入する事によってこれを相殺する事を推奨する考えです。詳しくはこちらをご覧下さい。 <a href="https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6" target="_blank" style="color:white; text-decoration: underline">こちら</a></p>
+                <p style="margin-top:0; margin-bottom: 15px;">このコミュニティ資金プロジェクトは、Navcoin ネットワークのカーボンフットプリントを相殺する為にデザインされており、このプロジェクトによって、NAVが世界で初めてのカーボンニュートラルな仮想通貨になる事ができるのです。 <br><br>この議案は、ネットワークとその周辺のエコシステムによって使われる電力を計算します。そして、自然森林の炭素排出権を購入する事によってこれを相殺する事を推奨する考えです。詳しくはこちらをご覧下さい。 <a href="https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6" target="_blank" rel="nofollow noopener noreferrer" style="color:white; text-decoration: underline">こちら</a></p>
                 <div class="cf-proposal-stat">
                     <h4>ステータス</h4>
                     <h4>保留中</h4>
@@ -150,7 +150,7 @@ description: "Navcoinコミュニティの資金は、コミュニティプロ�
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://www.navexplorer.com/dao/proposal/0a4c915850491675e264fafacd20d14b8d9f0b165d4065ff2f53a21bbf0f72a2" target="_blank" class="round-btn small gradient-btn">議案を見る <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://www.navexplorer.com/dao/proposal/0a4c915850491675e264fafacd20d14b8d9f0b165d4065ff2f53a21bbf0f72a2" target="_blank" rel="nofollow noopener noreferrer" class="round-btn small gradient-btn">議案を見る <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
@@ -164,7 +164,7 @@ description: "Navcoinコミュニティの資金は、コミュニティプロ�
             <div class="item-details-group">
               <div class="item-text">
                 <p style="margin-top:0; margin-bottom: 15px;">NEXT は、 Navcoinのもう１つのウォレットであり、 オープンソースで、クロスプラットフォームで、フルノードの Navcoinウォレットです。このウォレットはWindows、 MacそしてLinuxで使用する事ができます。 NEXTは、コインの送金や受取りを含む、全ての基本的なウォレット機能を持ち、さらに沢山の機能を&nbsp;持ちます。
-                <br><br>この議案は、現在進んでいるNEXTウォレットのリサーチと開発の資金を集める為のものです。詳しくはこちらをご覧ください。 <a href="https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10" target="_blank" style="color:white; text-decoration: underline">こちら</a><br></p>
+                <br><br>この議案は、現在進んでいるNEXTウォレットのリサーチと開発の資金を集める為のものです。詳しくはこちらをご覧ください。 <a href="https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10" target="_blank" rel="nofollow noopener noreferrer" style="color:white; text-decoration: underline">こちら</a><br></p>
                 <div class="cf-proposal-stat">
                     <h4>ステータス</h4>
                     <h4>保留中</h4>
@@ -177,14 +177,14 @@ description: "Navcoinコミュニティの資金は、コミュニティプロ�
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://www.navexplorer.com/dao/proposal/97229d571fdade1c48fda8c1b1060820f87c1dc1c99d3a8cd498a3809537d723" target="_blank" class="round-btn small gradient-btn">議案を見る <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://www.navexplorer.com/dao/proposal/97229d571fdade1c48fda8c1b1060820f87c1dc1c99d3a8cd498a3809537d723" target="_blank" rel="nofollow noopener noreferrer" class="round-btn small gradient-btn">議案を見る <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
         </div>
       </div></div>
     <div style="display: block; max-width: 200px; margin: 0 auto; margin-top: 7%;">
-      <a href="https://www.navexplorer.com/dao/" target="_blank" class="round-btn gradient-btn">全ての議案を見る        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+      <a href="https://www.navexplorer.com/dao/" target="_blank" rel="nofollow noopener noreferrer" class="round-btn gradient-btn">全ての議案を見る        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
     </div>
   </div>

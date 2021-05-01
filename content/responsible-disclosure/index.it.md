@@ -21,7 +21,7 @@ imgSrc="/images/responsible-disclosure/dis-hero.svg"
         <p>Il miglior modo di segnalare tali eventuali vulnerabilità è scrivendo a <a href="#">disclosure@navcoin.org</a>. Puoi inoltre criptare il tuo messaggio attraverso la chiave GPG disponibile sullo spazio GitHub di Navcoin.</p>
         <h3 class="article-sml-title">Disclosure GPG Key</h3>
         <p>
-            <a href="https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub" target="_blank">
+            <a href="https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub" target="_blank" rel="nofollow noopener noreferrer">
                 https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub
             </a>
         </p>

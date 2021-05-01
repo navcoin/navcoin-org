@@ -63,7 +63,7 @@ description: "The Navcoin community fund is a pool of NAV that's set aside to he
                     <img src="/images/community-fund/cfu-submit.svg" alt="" class="item-icon">
                     <h3>Step 1: Submit Proposal</h3>
                     <p style="margin-bottom: 10%">Dream up the improvements you would like to see in the Navcoin ecosystem, and submit your proposal to the&nbsp;network.</p>
-                    <a href="https://www.navexplorer.com/dao/proposals/pending" target="_blank" class="round-btn small gradient-btn">Create proposal        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://www.navexplorer.com/dao/proposals/pending" target="_blank" rel="nofollow noopener noreferrer" class="round-btn small gradient-btn">Create proposal        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -72,7 +72,7 @@ description: "The Navcoin community fund is a pool of NAV that's set aside to he
                     <img src="/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
                     <h3>Step 2: Vote for Proposal</h3>
                     <p style="margin-bottom: 10%">Anyone who is staking the Navcoin network can vote ‘yes’ or ‘no’ for every&nbsp;proposal with their network&nbsp;weight.</p>
-                    <a href="https://www.navexplorer.com/dao/proposals/pending" target="_blank" class="round-btn small gradient-btn">View all proposals        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://www.navexplorer.com/dao/proposals/pending" target="_blank" rel="nofollow noopener noreferrer" class="round-btn small gradient-btn">View all proposals        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -81,7 +81,7 @@ description: "The Navcoin community fund is a pool of NAV that's set aside to he
                     <img src="https://d33wubrfki0l68.cloudfront.net/6be625e8bf582732c2b66ffa1705dd083fdd6c51/f8c8a/images/community-fund/cfu-payment.svg" alt="" class="item-icon">
                     <h3>Step 3: Payment Request</h3>
                     <p style="margin-bottom: 10%">Payments are only released after a second round of voting validating ‘proof&nbsp;of&nbsp;effort’ by the proposal owner.</p>
-                    <a href="https://www.navexplorer.com/dao/payment-requests/pending" target="_blank" class="round-btn small gradient-btn">Create payment request        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://www.navexplorer.com/dao/payment-requests/pending" target="_blank" rel="nofollow noopener noreferrer" class="round-btn small gradient-btn">Create payment request        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -90,7 +90,7 @@ description: "The Navcoin community fund is a pool of NAV that's set aside to he
                     <img src="https://d33wubrfki0l68.cloudfront.net/a6136e0554b83cc742e44f715978ee9fbd3c7791/88e3e/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
                     <h3>Step 4: Vote for Payment</h3>
                     <p style="margin-bottom: 10%">Once a milestone is reached, the network votes to ensure that the project is on track, which releases the&nbsp;funds.</p>
-                    <a href="https://www.navexplorer.com/dao/payment-requests/pending" target="_blank" class="round-btn small gradient-btn">View payment requests        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <a href="https://www.navexplorer.com/dao/payment-requests/pending" target="_blank" rel="nofollow noopener noreferrer" class="round-btn small gradient-btn">View payment requests        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -112,7 +112,7 @@ description: "The Navcoin community fund is a pool of NAV that's set aside to he
             <div class="item-details-group">
               <div class="item-text">
                 <p style="margin-top:0; margin-bottom: 15px;">Public awareness is one of the most important things to achieve for any cryptocurrency, and one way to achieve this is by creating stickers which you can post to different places like your car, the window of your store, etc.<br><br>
-                This proposal is to get the things needed to print and cut NAV stickers and send them out to the people interested in the community. You can <a href="https://collab.navcoin.org/s/navcoin-sticker-creation/custom_pages/container/view?id=12" target="_blank" style="color:white; text-decoration: underline">read more about it here.</a></p>
+                This proposal is to get the things needed to print and cut NAV stickers and send them out to the people interested in the community. You can <a href="https://collab.navcoin.org/s/navcoin-sticker-creation/custom_pages/container/view?id=12" target="_blank" rel="nofollow noopener noreferrer" style="color:white; text-decoration: underline">read more about it here.</a></p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
                     <h4>Pending</h4>
@@ -125,7 +125,7 @@ description: "The Navcoin community fund is a pool of NAV that's set aside to he
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://www.navexplorer.com/dao/proposal/aabb434ae2a248cbf8ffa903f9e9610e4d51ac53e507f09450b3e7ebac66ee59" target="_blank" class="round-btn small gradient-btn">View proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://www.navexplorer.com/dao/proposal/aabb434ae2a248cbf8ffa903f9e9610e4d51ac53e507f09450b3e7ebac66ee59" target="_blank" rel="nofollow noopener noreferrer" class="round-btn small gradient-btn">View proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
@@ -139,7 +139,7 @@ description: "The Navcoin community fund is a pool of NAV that's set aside to he
             </div>
             <div class="item-details-group">
               <div class="item-text">
-                <p style="margin-top:0; margin-bottom: 15px;">This Community Fund project is designed to offset the carbon footprint of the Navcoin network, making NAV the world's first carbon neutral cryptocurrency. <br><br>This proposal calculates the amount of electricity used by the network and the ecosystem around it - and proposes to purchase native forest carbon credits to offset this. You can <a href="https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6" target="_blank" style="color:white; text-decoration: underline">read more about it here.</a></p>
+                <p style="margin-top:0; margin-bottom: 15px;">This Community Fund project is designed to offset the carbon footprint of the Navcoin network, making NAV the world's first carbon neutral cryptocurrency. <br><br>This proposal calculates the amount of electricity used by the network and the ecosystem around it - and proposes to purchase native forest carbon credits to offset this. You can <a href="https://collab.navcoin.org/s/carbon-neutral-navcoin/custom_pages/container/view?id=6" target="_blank" rel="nofollow noopener noreferrer" style="color:white; text-decoration: underline">read more about it here.</a></p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
                     <h4>Pending</h4>
@@ -152,7 +152,7 @@ description: "The Navcoin community fund is a pool of NAV that's set aside to he
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://www.navexplorer.com/dao/proposal/0a4c915850491675e264fafacd20d14b8d9f0b165d4065ff2f53a21bbf0f72a2" target="_blank" class="round-btn small gradient-btn">View proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://www.navexplorer.com/dao/proposal/0a4c915850491675e264fafacd20d14b8d9f0b165d4065ff2f53a21bbf0f72a2" target="_blank" rel="nofollow noopener noreferrer" class="round-btn small gradient-btn">View proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
@@ -166,7 +166,7 @@ description: "The Navcoin community fund is a pool of NAV that's set aside to he
             <div class="item-details-group">
               <div class="item-text">
                 <p style="margin-top:0; margin-bottom: 15px;">NEXT is an alternative wallet for Navcoin. It's an open source, cross-platform full node Navcoin wallet. It can be run on Windows, Mac and Linux. NEXT provides all the basic wallet features like sending/receiving coins, and much&nbsp;more. 
-                <br><br>This proposal is to fund the ongoing research & development of the NEXT wallet. You can <a href="https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10" target="_blank" style="color:white; text-decoration: underline">read more about it here.</a><br></p>
+                <br><br>This proposal is to fund the ongoing research & development of the NEXT wallet. You can <a href="https://collab.navcoin.org/s/next-wallet/custom_pages/container/view?id=10" target="_blank" rel="nofollow noopener noreferrer" style="color:white; text-decoration: underline">read more about it here.</a><br></p>
                 <div class="cf-proposal-stat">
                     <h4>Status</h4>
                     <h4>Pending</h4>
@@ -179,14 +179,14 @@ description: "The Navcoin community fund is a pool of NAV that's set aside to he
                 <hr style="margin: 5px 0; opacity: 0.4;">
                 <div style="margin-buttom: 40px"></div>
                 <br>
-                <a href="https://www.navexplorer.com/dao/proposal/97229d571fdade1c48fda8c1b1060820f87c1dc1c99d3a8cd498a3809537d723" target="_blank" class="round-btn small gradient-btn">View proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
+                <a href="https://www.navexplorer.com/dao/proposal/97229d571fdade1c48fda8c1b1060820f87c1dc1c99d3a8cd498a3809537d723" target="_blank" rel="nofollow noopener noreferrer" class="round-btn small gradient-btn">View proposal <img src="/images/icons/rightward-arrow.svg" class="btn-img"> </a>
               </div>    
             </div>
           </div>
         </div>
       </div></div>
     <div style="display: block; max-width: 200px; margin: 0 auto; margin-top: 7%;">
-      <a href="https://www.navexplorer.com/dao/" target="_blank" class="round-btn gradient-btn">View all proposals        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+      <a href="https://www.navexplorer.com/dao/" target="_blank" rel="nofollow noopener noreferrer" class="round-btn gradient-btn">View all proposals        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
     </div>
   </div>

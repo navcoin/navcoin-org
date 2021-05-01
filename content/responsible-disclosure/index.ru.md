@@ -21,7 +21,7 @@ imgSrc="/images/responsible-disclosure/dis-hero.svg"
         <p>Наилучшим местом для сообщении об уязвимости является <a href="#">disclosure@navcoin.org</a>. Вы можете зашифровать свое сообщение с помощью ключа GPG, который может быть найден на GitHub Navcoin.</p>
         <h3 class="article-sml-title">Раскрытие GPG Key</h3>
         <p>
-            <a href="https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub" target="_blank">
+            <a href="https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub" target="_blank" rel="nofollow noopener noreferrer">
                 https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub
             </a>
         </p>
