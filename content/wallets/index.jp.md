@@ -84,7 +84,7 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="Navcoin Core 6.0.2のダウンロード"
+    titleText="Navcoin Core 6.1.0のダウンロード"
     subtitleText="Navcoin Core ウォレットは、直感的で簡単な使い方になるよう何度も見直されて来ました。これにはセットアップウィザードと、ブロックチェーンの読み込み、安全な環境でそして送金を始めるに当たって必要なもの全てが付いて&nbsp;きます。"
     bgPurple="true"
     anchor="download-core"
@@ -98,7 +98,7 @@ newTab="true"
         imgSrc="/images/wallets/wal-windows.svg"
         subtext=""
         linkText="ダウンロード"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.2/navcoin-6.0.2-win64-setup-unsigned.exe"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.1.0/navcoin-6.1.0-win64-setup-unsigned.exe"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action
@@ -106,7 +106,7 @@ newTab="true"
         imgSrc="/images/wallets/wal-mac.svg"
         subtext=""
         linkText="ダウンロード"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.2/navcoin-6.0.2-osx-signed.dmg"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.1.0/navcoin-6.1.0-osx-signed.dmg"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
     {{< action                 
@@ -114,7 +114,7 @@ newTab="true"
         imgSrc="/images/wallets/wal-linux.svg"
         subtext=""
         linkText="ダウンロード"
-        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.0.2/navcoin-6.0.2-x86_64-linux-gnu.tar.gz"
+        linkUrl="https://github.com/NAVCoin/navcoin-core/releases/download/6.1.0/navcoin-6.1.0-x86_64-linux-gnu.tar.gz"
         linkImgSrc="/images/icons/downward-arrow.svg"
     >}}
 {{< /item_container_section >}}
