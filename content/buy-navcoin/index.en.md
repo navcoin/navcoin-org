@@ -20,6 +20,12 @@ newTab="true"
     subtitleText="Navcoin is available at the following&nbsp;exchanges"
 >}}
     {{< exchange
+        titleText="7b crypto trading"
+        imgSrc="/images/buy-navcoin/7b.png"
+        text="Multi Currency / NAV"
+        linkUrl="https://sevenb.io/?utm_source=navcoin.org&utm_medium=coin&utm_campaign=web-listing&utm_content=buy-navcoin"
+    >}}
+    {{< exchange
         titleText="Bittrex"
         imgSrc="/images/buy-navcoin/buy-bittrex.png"
         text="BTC / NAV"
