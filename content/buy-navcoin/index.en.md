@@ -20,6 +20,12 @@ newTab="true"
     subtitleText="Navcoin is available at the following&nbsp;exchanges"
 >}}
     {{< exchange
+        titleText="Guardarian"
+        imgSrc="/images/buy-navcoin/buy-guardarian.png"
+        text="Multi Currency / NAV"
+        linkUrl="https://guardarian.com"
+    >}}
+    {{< exchange
         titleText="7b crypto trading"
         imgSrc="/images/buy-navcoin/7b.png"
         text="Multi Currency / NAV"
