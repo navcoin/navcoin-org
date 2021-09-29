@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="116px" viewBox="0 0 100 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>easy-crypto-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="2.5809%" y1="9.68054211%" x2="54.7754217%" y2="81.60697%" id="linearGradient-1">
+            <stop stop-color="#8A66CC" offset="0%"></stop>
+            <stop stop-color="#9F83D2" offset="92%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="49.9515973%" x2="100%" y2="49.9515973%" id="linearGradient-2">
+            <stop stop-color="#280864" offset="0%"></stop>
+            <stop stop-color="#4810AF" offset="84%"></stop>
+        </linearGradient>
+        <linearGradient x1="47.4028408%" y1="91.7715392%" x2="62.231782%" y2="-5.13068732%" id="linearGradient-3">
+            <stop stop-color="#9F83D2" offset="22%"></stop>
+            <stop stop-color="#8A66CC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="12.5506401%" y1="100%" x2="50%" y2="24.9757986%" id="linearGradient-4">
+            <stop stop-color="#9D80D1" offset="21%"></stop>
+            <stop stop-color="#8A66CC" offset="95%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="easy-crypto-logo" fill-rule="nonzero">
+            <polygon id="Path" fill="#8A66CC" points="74.6111111 43.6944444 75.1111111 43.9722222 99.6944444 29.6388889 99.6388889 29.5"></polygon>
+            <polygon id="Path" fill="#4106AC" points="0.361111111 58.1944444 25.1944444 43.8611111 25.1944444 72.5277778"></polygon>
+            <polygon id="Path" fill="#4106AC" points="0.388888889 86.8611111 25.2222222 72.5277778 25.2222222 101.222222"></polygon>
+            <polygon id="Path" fill="#521CB3" points="25.2222222 72.5277778 0.388888889 86.8611111 0.388888889 58.1944444"></polygon>
+            <polygon id="Path" fill="#A58AD8" points="25.2222222 101.222222 50.0555556 86.8611111 50.0555556 115.555556"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-1)" points="50.0555556 86.8611111 25.2222222 101.222222 25.2222222 72.5277778"></polygon>
+            <polygon id="Path" fill="#7045C4" points="25.1944444 15.1666667 50.0277778 0.833333333 50.0277778 29.5"></polygon>
+            <polygon id="Path" fill="#7045C4" points="0.361111111 29.5 25.1944444 15.1666667 25.1944444 43.8611111"></polygon>
+            <polygon id="Path" fill="#A678EF" points="50.0277778 29.5 25.1944444 43.8611111 25.1944444 15.1666667"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-2)" points="50.0277778 29.5 74.8611111 15.1666667 74.8611111 43.8611111"></polygon>
+            <polygon id="Path" fill="#9473D0" points="74.8611111 15.1666667 50.0277778 29.5 50.0277778 0.833333333"></polygon>
+            <polygon id="Path" fill="#8A66CC" points="74.8888889 43.8611111 99.7222222 29.5 99.7222222 58.1944444"></polygon>
+            <polygon id="Path" fill="#4E18B2" points="99.6944444 29.5 74.8611111 43.8333333 74.8611111 15.1666667"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-3)" points="50.0555556 86.8611111 74.8888889 72.5277778 74.8888889 101.222222"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-4)" points="99.7222222 86.8611111 74.8888889 101.222222 74.8888889 72.5277778"></polygon>
+            <polygon id="Path" fill="#A68AD8" points="50.0555556 58.1944444 74.8888889 43.8611111 74.8888889 72.5277778"></polygon>
+            <polygon id="Path" fill="#916ECF" points="99.7222222 58.1944444 74.8888889 72.5277778 74.8888889 43.8611111"></polygon>
+            <polygon id="Path" fill="#A88CD8" points="74.8888889 101.222222 50.0555556 115.555556 50.0555556 86.8611111"></polygon>
+            <polygon id="Path" fill="#330066" points="25.1944444 43.8611111 0.361111111 58.1944444 0.361111111 29.5"></polygon>
+            <polygon id="Path" fill="#916FCF" points="25.1944444 15.1666667 50.0277778 0.833333333 50.0277778 29.5"></polygon>
+            <polygon id="Path" fill="#521CB3" points="25.1944444 43.8611111 0.361111111 58.1944444 0.361111111 29.5"></polygon>
+            <polygon id="Path" fill="#9A7BD3" points="50.0277778 29.5 25.1944444 43.8611111 25.1944444 15.1666667"></polygon>
+            <polygon id="Path" fill="#916FCF" points="0.361111111 29.5 25.1944444 15.1666667 25.1944444 43.8611111"></polygon>
+        </g>
+    </g>
+</svg>

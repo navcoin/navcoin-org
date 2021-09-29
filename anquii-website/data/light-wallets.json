@@ -1,0 +1,17 @@
+[
+  {
+    "id": "navcash-staking",
+    "title": "Use NavCash to stake your coins",
+    "descriptionURL": "https://raw.githubusercontent.com/anquii/KnowledgeBase/anquii-website-content/content/support/new/light-wallets/navcash-staking.md"
+  },
+  {
+    "id": "navcash-ledger-nano-s",
+    "title": "Use NavCash with Ledger Nano S",
+    "descriptionURL": "https://raw.githubusercontent.com/anquii/KnowledgeBase/anquii-website-content/content/support/new/light-wallets/navcash-ledger-nano-s.md"
+  },
+  {
+    "id": "navcash-server",
+    "title": "Set up your own NavCash server",
+    "descriptionURL": "https://raw.githubusercontent.com/anquii/KnowledgeBase/anquii-website-content/content/support/new/light-wallets/navcash-server.md"
+  }
+]

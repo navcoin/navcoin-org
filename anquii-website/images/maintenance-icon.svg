@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="213px" height="205px" viewBox="0 0 213 205" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>maintenance-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="maintenance-icon" transform="translate(3.000000, 3.000000)">
+            <g id="Group_3592" stroke-linecap="round" transform="translate(0.000000, 0.072000)" stroke="#686868" stroke-width="6">
+                <g id="Group_3590">
+                    <path d="M38.607,19.123 L60.228,28.651 C60.228,28.651 63.528,38.545 65.358,42.576 C67.0199953,45.9663738 68.8557677,49.2687614 70.858,52.47" id="Path_15911"></path>
+                    <path d="M48.199,0 C66.155,0.733 85.576,8.795 87.775,10.261 C89.974,11.727 95.475,24.185 95.475,24.185" id="Path_15912"></path>
+                    <polyline id="Path_15913" points="0 88.681 35.544 92.345 49.103 75.123 65.227 75.123"></polyline>
+                    <polyline id="Path_15914" points="11.786 181.046 50.08 165.655 50.08 145.134 66.154 133.773"></polyline>
+                    <path d="M106.829,69.258 C106.829,69.258 86.674,68.891 77.513,71.09 C68.352,73.289 66.886,77.69 66.886,77.69 L66.886,170.396 C66.886,186.523 91.816,198.928 106.829,198.246" id="Path_15915"></path>
+                    <path d="M105.363,21.986 C105.363,21.986 98.035,19.421 89.606,28.586 C81.177,37.751 68.352,50.939 70.917,57.535 C73.482,64.131 79.346,70.36 79.346,70.36" id="Path_15916"></path>
+                </g>
+                <g id="Group_3591" transform="translate(100.040000, 0.000000)">
+                    <path d="M68.224,19.123 L46.603,28.651 C46.603,28.651 43.303,38.545 41.474,42.576 C39.8117768,45.9662547 37.9760109,49.2686307 35.974,52.47" id="Path_15911-2"></path>
+                    <path d="M58.632,0 C40.676,0.733 21.254,8.795 19.056,10.261 C16.858,11.727 11.356,24.185 11.356,24.185" id="Path_15912-2"></path>
+                    <polyline id="Path_15913-2" points="106.832 88.681 71.286 92.345 57.727 75.123 41.603 75.123"></polyline>
+                    <path d="M0,69.258 C0,69.258 20.155,68.891 29.316,71.09 C38.477,73.289 39.944,77.69 39.944,77.69 L39.944,81.798" id="Path_15915-2"></path>
+                    <path d="M1.466,21.986 C1.466,21.986 8.795,19.421 17.224,28.586 C25.653,37.751 38.478,50.939 35.913,57.535 C33.348,64.131 27.485,70.36 27.485,70.36" id="Path_15916-2"></path>
+                </g>
+            </g>
+            <g id="Ellipse_2055" transform="translate(78.571000, 85.139000)">
+                <circle id="Oval" cx="51.82" cy="51.82" r="51.82"></circle>
+                <circle id="Oval" stroke="#686868" stroke-width="7" cx="51.82" cy="51.82" r="44.32"></circle>
+            </g>
+            <line x1="161.893" y1="171.401" x2="182.047" y2="191.354" id="Line_7923" stroke="#686868" stroke-width="7" stroke-linecap="round"></line>
+            <path d="M134.236,183.645 C126.236,192.724 110.636,198.801 100.008,198.319" id="Path_15917" stroke="#686868" stroke-width="6" stroke-linecap="round"></path>
+            <line x1="114.339" y1="120.42" x2="155.155" y2="120.42" id="Line_7924" stroke="#686868" stroke-width="4" stroke-linejoin="round"></line>
+            <line x1="101.971" y1="135.439" x2="155.156" y2="135.439" id="Line_7925" stroke="#686868" stroke-width="4" stroke-linejoin="round"></line>
+            <line x1="121.935" y1="150.658" x2="135.894" y2="150.658" id="Line_7926" stroke="#686868" stroke-width="4" stroke-linejoin="round"></line>
+            <line x1="141.26" y1="150.658" x2="155.219" y2="150.658" id="Line_7927" stroke="#686868" stroke-width="4" stroke-linejoin="round"></line>
+            <line x1="102.61" y1="150.658" x2="116.569" y2="150.658" id="Line_7928" stroke="#686868" stroke-width="4" stroke-linejoin="round"></line>
+        </g>
+    </g>
+</svg>

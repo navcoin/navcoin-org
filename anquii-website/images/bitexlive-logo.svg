@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>bitexlive-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="100%" id="radialGradient-1">
+            <stop stop-color="#1A1546" offset="0%"></stop>
+            <stop stop-color="#0D0A2A" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#00FFB9" offset="0%"></stop>
+            <stop stop-color="#004734" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bitexlive-logo" fill-rule="nonzero">
+            <circle id="Oval" fill="url(#radialGradient-1)" cx="50" cy="50" r="50"></circle>
+            <path d="M50,0 C77.614,0 100,22.386 100,50 C100,77.614 77.614,100 50,100 C22.386,100 0,77.614 0,50 C0,22.386 22.386,0 50,0 Z M50,3.572 C24.36,3.572 3.572,24.358 3.572,50 C3.572,75.64 24.358,96.428 50,96.428 C75.64,96.428 96.428,75.642 96.428,50 C96.428,24.36 75.642,3.572 50,3.572 Z" id="Shape" fill="url(#linearGradient-2)"></path>
+            <g id="Group" transform="translate(24.000000, 32.000000)">
+                <polygon id="Path" fill="#00FFB9" points="52.64 35.156 52.64 28.664 37.988 28.664 37.988 0.142 29.572 0.142 29.572 35.156"></polygon>
+                <path d="M14.28,35.156 C18.532,35.124 21.74,34.246 23.906,32.524 C26.072,30.8 27.156,28.224 27.156,24.792 C27.156,22.9 26.668,21.296 25.692,19.982 C24.718,18.668 23.318,17.77 21.496,17.288 C23.11,16.68 24.334,15.734 25.166,14.45 C25.996,13.17 26.412,11.622 26.412,9.81 C26.412,6.668 25.242,4.27 22.9,2.618 C20.558,0.968 17.14,0.142 12.648,0.142 L0.108,0.142 L0.108,35.156 L14.28,35.156 Z M12.912,14.742 L8.524,14.742 L8.524,6.662 L12.648,6.662 C14.534,6.662 15.902,6.986 16.748,7.636 C17.596,8.284 18.02,9.346 18.02,10.822 C18.02,12.104 17.628,13.074 16.844,13.732 C16.062,14.388 14.75,14.726 12.912,14.742 Z M14.04,28.666 L8.524,28.666 L8.524,20.272 L14.424,20.272 C17.316,20.288 18.764,21.756 18.764,24.672 C18.764,25.94 18.356,26.922 17.54,27.62 C16.724,28.316 15.558,28.666 14.04,28.666 L14.04,28.666 Z" id="Shape" fill="#FFFFFF" transform="translate(13.632000, 17.649000) scale(-1, 1) translate(-13.632000, -17.649000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

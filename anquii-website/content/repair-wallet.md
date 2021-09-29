@@ -1,0 +1,3 @@
+Before trying to repair your wallet, you should make sure to [keep a backup of it](#backup-wallet). Furthermore, you should ensure that your node is running the [latest version](#update-node) of the *Navcoin Core* application, and that it's syncronized with the blockchain. If your node isn't syncronized with the blockchain, then you may either wait for it to syncronize by itself, or bootstrap it by following [this](#bootstrap-node) guide.
+
+To repair your wallet, open the *Navcoin Core* application and choose *Repair wallet* under *File* from within the toolbar. If this doesn't resolve the issue that you're having, feel free to reach out to the community through the *#navcoin-support* channel on [Discord](https://discord.gg/y4Vu9jw).

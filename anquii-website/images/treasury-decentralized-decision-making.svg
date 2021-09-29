@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="103px" height="100px" viewBox="0 0 103 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>treasury-decentralized-decision-making</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="treasury-decentralized-decision-making" transform="translate(0.000000, 1.000000)">
+            <g id="Group_3099" transform="translate(73.184000, 34.326000)">
+                <g id="Ellipse_231">
+                    <circle id="Oval" cx="14.834" cy="14.834" r="14.834"></circle>
+                    <circle id="Oval" stroke="#686868" stroke-width="3" cx="14.834" cy="14.834" r="13.334"></circle>
+                </g>
+                <g id="Ellipse_232" transform="translate(5.160000, 5.160000)">
+                    <circle id="Oval" cx="9.674" cy="9.674" r="9.674"></circle>
+                    <circle id="Oval" stroke="#686868" stroke-width="1.5" cx="9.674" cy="9.674" r="8.924"></circle>
+                </g>
+            </g>
+            <g id="Group_3560" transform="translate(0.052000, 34.326000)">
+                <g id="Ellipse_231-2">
+                    <circle id="Oval" cx="14.834" cy="14.834" r="14.834"></circle>
+                    <circle id="Oval" stroke="#686868" stroke-width="3" cx="14.834" cy="14.834" r="13.334"></circle>
+                </g>
+                <g id="Ellipse_232-2" transform="translate(5.160000, 5.160000)">
+                    <circle id="Oval" cx="9.674" cy="9.674" r="9.674"></circle>
+                    <circle id="Oval" stroke="#686868" stroke-width="1.5" cx="9.674" cy="9.674" r="8.924"></circle>
+                </g>
+            </g>
+            <g id="Group_1013" stroke-linecap="round" stroke-linejoin="round" transform="translate(50.940000, 10.535000) rotate(90.000000) translate(-50.940000, -10.535000) translate(40.940000, -22.965000)" stroke="#686868" stroke-width="2.5">
+                <g id="Group_1012" transform="translate(0.699000, 0.000000)">
+                    <path d="M12.3,0 C-2.3159392,19.4270824 -4.03479296,45.6672813 7.922,66.835" id="Path_1266"></path>
+                </g>
+                <polyline id="Path_1267" points="19.659 11.014 13.524 0 0 0.976"></polyline>
+            </g>
+            <g id="Group_3562" stroke-linecap="round" stroke-linejoin="round" transform="translate(51.106000, 87.692000) rotate(-90.000000) translate(-51.106000, -87.692000) translate(41.106000, 54.192000)" stroke="#686868" stroke-width="2.5">
+                <g id="Group_1012-2" transform="translate(0.699000, 0.000000)">
+                    <path d="M12.3,0 C-2.3159392,19.4270824 -4.03479296,45.6672813 7.922,66.835" id="Path_1266-2"></path>
+                </g>
+                <polyline id="Path_1267-2" points="19.659 11.014 13.524 0 0 0.976"></polyline>
+            </g>
+            <g id="Group_3561" stroke-linejoin="round" transform="translate(40.624000, 30.513000)" stroke="#686868" stroke-width="2.5">
+                <g id="Group_897">
+                    <path d="M21.166,8.263 L1.7,8.263 C0.770231146,8.28464968 0.0216496756,9.03323115 0,9.963 L0,28.526 C0.0216496756,29.4557689 0.770231146,30.2043503 1.7,30.226 L21.281,30.226 C22.2107689,30.2043503 22.9593503,29.4557689 22.981,28.526 L22.981,9.963 C22.8730955,9.02875059 22.1053046,8.30960759 21.166,8.263 L21.166,8.263 Z" id="Path_1183"></path>
+                    <path d="M18.336,1.471 C18.336,0.679 17.883,0 17.317,0 L5.317,0 C4.751,0 4.298,0.679 4.298,1.471 L4.298,8.262 L18.333,8.262 L18.336,1.471 Z" id="Path_1184"></path>
+                </g>
+                <line x1="8.037" y1="15.28" x2="15.737" y2="15.28" id="Path_1185" stroke-linecap="round"></line>
+                <line x1="11.885" y1="23.09" x2="11.885" y2="15.28" id="Line_534" stroke-linecap="round"></line>
+            </g>
+            <line x1="27.829" y1="49.062" x2="40.5" y2="49.062" id="Line_7910" stroke="#686868" stroke-width="3"></line>
+            <line x1="63.5" y1="49.062" x2="73.674" y2="49.062" id="Line_7911" stroke="#686868" stroke-width="3"></line>
+        </g>
+    </g>
+</svg>

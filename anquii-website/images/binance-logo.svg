@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>binance-logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="binance-logo" fill="#F3BA2F" fill-rule="nonzero">
+            <path d="M30.5792,42.0208 L50,22.6 L69.43,42.0292 L80.73,30.7292 L50,0 L19.28,30.72 L30.5796,42.02 M0,50 L11.3004,38.698 L22.6,49.9976 L11.2996,61.298 L0,50 Z M30.5792,57.9804 L50,77.4 L69.4296,57.9712 L80.7356,69.2652 L80.73,69.2712 L50,100 L19.28,69.28 L19.264,69.264 L30.5804,57.9792 M77.4,50.0048 L88.7004,38.7044 L100,50.004 L88.7,61.3044 L77.4,50.0048 Z" id="Shape"></path>
+            <polyline id="Path" points="61.4608 49.994 61.4656 49.994 50 38.5276 41.5252 47 41.5252 47 40.5516 47.974 38.5436 49.9824 38.5276 49.998 38.5436 50.0144 50 61.4724 61.4664 50.006 61.472 49.9996 61.4616 49.994"></polyline>
+        </g>
+    </g>
+</svg>
