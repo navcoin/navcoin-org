@@ -1,0 +1,83 @@
+h4 {
+	margin-top: 25px;
+}
+p {
+  font-family: 'Gotham Rounded', sans-serif;
+}
+a {
+ 	color: #0a87f5;
+ 	text-decoration: underline;
+}
+a:hover {
+ 	color: #0a87f5;
+ 	text-decoration: underline;
+}
+em {
+  color: #686868;
+  font-style: italic;
+}
+strong {
+  color: #686868;
+  font-weight: 700;
+}
+@media screen and (min-width: 992px) {
+  img[alt=support-image] {
+    max-width: 75%;
+  }
+}
+img[alt=support-image] {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #686868;
+}
+table {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+table tr {
+  background-color: white;
+  border-top: 1px solid #686868;
+}
+table tr th {
+  background-color: #f8f8f8;
+  padding: 6px 13px;
+  border: 1px solid #686868;
+  font-weight: bold;
+  text-align: left;
+}
+table tr td {
+  padding: 6px 13px;
+  border: 1px solid #686868;
+  text-align: left;
+}
+pre code {
+	display: block;
+  overflow: auto;
+}
+code {
+  padding: .2em .4em;
+  font-size: 85%;
+  background-color: #ECEDEF;
+  border-radius: 3px;
+}
+.navigation-bar-menu-link:hover {
+	text-decoration: none;
+}
+.navigation-bar-link-block:hover {
+	text-decoration: none;
+}
+.footer-link:hover {
+	text-decoration: none;
+}
+.accordion-content:nth-child(n + 2) {
+	margin-top: 25px;
+}
+.accordion-content:focus {
+  outline: none;
+}
+.accordion-bottom-block {
+	max-height: 0;
+	overflow: hidden;
+	will-change: max-height;
+	transition: all 0.3s ease-out;
+}
