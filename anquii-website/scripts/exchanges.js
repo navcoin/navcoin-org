@@ -1,4 +1,4 @@
-fetch('https://raw.githubusercontent.com/anquii/KnowledgeBase/anquii-website-content/content/exchanges/exchanges.json')
+fetch('https://raw.githubusercontent.com/anquii/navcoin-org/anquii-website/anquii-website/data/exchanges.json')
 	.then((result) => result.json())
   .then((data) => {
 	const grid = document.getElementsByClassName('exchange-grid')[0];
