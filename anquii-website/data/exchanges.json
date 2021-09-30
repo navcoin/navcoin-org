@@ -135,7 +135,7 @@
     "name": "Bittrex",
     "description": "Requires KYC",
     "url": "https://bittrex.com",
-    "imageURL": "https://raw.githubusercontent.com/anquii/navcoin-org/anquii-website/anquii-website/images/bittrex-logo.png"
+    "imageURL": "https://raw.githubusercontent.com/anquii/navcoin-org/anquii-website/anquii-website/images/bittrex-small-logo.png"
   },
   {
     "name": "HitBTC",
