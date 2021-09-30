@@ -318,22 +318,6 @@
   <script src="scripts/webflow.js" type="text/javascript"></script>
   <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js" integrity="sha512-qTXRIMyZIFb8iQcfjXWCO8+M5Tbc38Qi5WzdPOYZHIlZpzBHG3L3by84BBBOiRGiEb7KKtAOAs5qYdUiZiQNNQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-  <script type="text/javascript">
-fetch('https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@navcoin')
-	.then((result) => result.json())
- 	.then((data) => {
-  for (let i = 0; i < Math.min(3, data.items.length); i++) {
-  	const entry = data.items[i];
-    const format = /<img[^>]+src="([^">]+)/g
-    const results = format.exec(entry.content);
-    if (results.length >= 2 && results[1].substr(0,14) != 'https://medium') {
-    	document.getElementById('news-image-'+(i+1)).src = results[1];
-      document.getElementById('news-date-'+(i+1)).innerHTML = moment(entry.pubDate).format('LL');
-      document.getElementById('news-title-'+(i+1)).innerHTML = entry.title;
-      document.getElementById('news-button-'+(i+1)).href = entry.link;
-    }
-	}
-});
-</script>
+  <script src="scripts/index.js" type="text/javascript"></script>
 </body>
 </html>
