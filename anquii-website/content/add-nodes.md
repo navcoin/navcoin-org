@@ -6,6 +6,6 @@ Next, go to your web browser and visit [chainz.cryptoid.info/nav/#!network](http
 
 Now, copy all the `addnode` lines from the pop-up window, paste it into your `navcoin.conf` file and save it.
 
-![support-image](https://github.com/anquii/KnowledgeBase/blob/anquii-website-content/content/support/new/full-nodes/images/node-list.png?raw=true)
+![support-image](images/node-list.png)
 
 After adding the nodes, close and re-open your wallet. It should now try to connect to all of the nodes that you've added to your `navcoin.conf` file.
