@@ -1,9 +1,3 @@
 _site/
-.sass-cache/
-.jekyll-metadata
-.idea
-.vscode
 .DS_Store
-node_modules
 public
-themes/nav-community-v2/static/css/nav.css
