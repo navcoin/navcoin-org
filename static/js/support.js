@@ -35,10 +35,10 @@ function populateGrid(id, contentTemplateId, url) {
 populateGrid(
 	'light-wallets-grid',
   'light-wallets-content',
-  'https://raw.githubusercontent.com/anquii/navcoin-org/anquii-website/anquii-website/data/light-wallets.json'
+  'data/light-wallets.json'
 );
 populateGrid(
 	'full-nodes-grid',
   'full-nodes-content',
-  'https://raw.githubusercontent.com/anquii/navcoin-org/anquii-website/anquii-website/data/full-nodes.json'
+  'data/full-nodes.json'
 );

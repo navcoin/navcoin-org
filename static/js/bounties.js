@@ -36,5 +36,5 @@ function populateGrid(id, contentTemplateId, url) {
 populateGrid(
 	'bounty-programs-grid',
   'bounty-programs-content',
-  'https://raw.githubusercontent.com/anquii/navcoin-org/anquii-website/anquii-website/data/bounty-programs.json'
+  'data/bounty-programs.json'
 );
