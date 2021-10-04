@@ -316,7 +316,7 @@ figcaption {
   align-items: center;
 }
 
-.part-2 {
+.navigation-bar-trailing-content {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -336,7 +336,7 @@ figcaption {
   text-align: right;
 }
 
-.part-1 {
+.navigation-bar-leading-content {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -3259,7 +3259,7 @@ figcaption {
     width: 100%;
   }
 
-  .part-2 {
+  .navigation-bar-trailing-content {
     -webkit-box-align: center;
     -webkit-align-items: center;
     -ms-flex-align: center;
