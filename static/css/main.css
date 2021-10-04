@@ -2598,6 +2598,10 @@ figcaption {
   line-height: 24px;
   font-weight: 700;
   text-align: center;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
 }
 
 .roadmap-paragraph {
