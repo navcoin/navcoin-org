@@ -4,3 +4,9 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 twitter_username = "navcoin"
 enableRobotsTXT = true
+disableKinds = [
+  "home"
+  "section",
+  "taxonomy"
+  "term"
+]
