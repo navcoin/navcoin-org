@@ -3,7 +3,7 @@
   src: url('../fonts/gotham-rounded-bold-italic.otf') format('opentype');
   font-weight: 700;
   font-style: italic;
-  font-display: optional;
+  font-display: auto;
 }
 
 @font-face {
@@ -11,7 +11,7 @@
   src: url('../fonts/gotham-rounded-bold.otf') format('opentype');
   font-weight: 700;
   font-style: normal;
-  font-display: optional;
+  font-display: auto;
 }
 
 @font-face {
@@ -19,7 +19,7 @@
   src: url('../fonts/gotham-rounded-light.otf') format('opentype');
   font-weight: 300;
   font-style: normal;
-  font-display: optional;
+  font-display: auto;
 }
 
 @font-face {
@@ -27,7 +27,7 @@
   src: url('../fonts/gotham-rounded-light-italic.otf') format('opentype');
   font-weight: 300;
   font-style: italic;
-  font-display: optional;
+  font-display: auto;
 }
 
 @font-face {
@@ -35,7 +35,7 @@
   src: url('../fonts/gotham-rounded-book-italic.otf') format('opentype');
   font-weight: 400;
   font-style: italic;
-  font-display: optional;
+  font-display: auto;
 }
 
 @font-face {
@@ -43,7 +43,7 @@
   src: url('../fonts/gotham-rounded-book.otf') format('opentype');
   font-weight: 400;
   font-style: normal;
-  font-display: optional;
+  font-display: auto;
 }
 
 @font-face {
@@ -51,7 +51,7 @@
   src: url('../fonts/gotham-rounded-medium-italic.otf') format('opentype');
   font-weight: 500;
   font-style: italic;
-  font-display: optional;
+  font-display: auto;
 }
 
 @font-face {
@@ -59,7 +59,7 @@
   src: url('../fonts/gotham-rounded-medium.otf') format('opentype');
   font-weight: 500;
   font-style: normal;
-  font-display: optional;
+  font-display: auto;
 }
 
 body {
