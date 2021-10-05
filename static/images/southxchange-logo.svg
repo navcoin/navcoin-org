@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>southxchange-logo</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="southxchange-logo" fill-rule="nonzero">
-            <polygon id="Path" fill="#428BCA" points="0 0 30.7727273 0 65.3818182 50 30.7727273 100 0 100 34.6181818 50"></polygon>
-            <g id="Group" transform="translate(52.727273, 0.000000)" fill="#E2E2E2">
-                <polygon id="Path" points="0.772727273 77.2727273 16.5 100 47.2727273 100 16.5 53.8454545"></polygon>
-                <polygon id="Path" points="16.5 0 47.2727273 0 16.5 46.1545455 1.11818182 23.0818182"></polygon>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg height="100" viewBox="0 0 100 100" width="100" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path d="m0 0h30.7727273l34.6090909 50-34.6090909 50h-30.7727273l34.6181818-50z" fill="#428bca"/><g fill="#e2e2e2" transform="translate(52.727273)"><path d="m.77272727 77.2727273 15.72727273 22.7272727h30.7727273l-30.7727273-46.1545455z"/><path d="m16.5 0h30.7727273l-30.7727273 46.1545455-15.38181818-23.0727273z"/></g></g></svg>

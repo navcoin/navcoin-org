@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>windows-logo</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="windows-logo" fill-rule="nonzero">
-            <polygon id="Path" fill="#F8682C" points="0 14.0931818 40.5534091 8.57022727 40.5711364 47.6872727 0.0370454545 47.9181023"></polygon>
-            <polygon id="Path" fill="#91C300" points="45.45 7.84761364 99.2204545 -0.000113636364 99.2204545 47.1896591 45.45 47.6165341"></polygon>
-            <polygon id="Path" fill="#00B4F1" points="40.5340909 52.1943182 40.5655682 91.3454545 0.0314772727 85.7726136 0.0292045455 51.9317045"></polygon>
-            <polygon id="Path" fill="#FFC300" points="99.2340909 52.5625 99.2214773 99.5397727 45.4510227 91.9506818 45.3756818 52.4745455"></polygon>
-        </g>
-    </g>
-</svg>
+<svg height="100" viewBox="0 0 100 100" width="100" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path d="m0 14.0931818 40.5534091-5.52295453.0177273 39.11704543-40.53409095.2308296z" fill="#f8682c"/><path d="m45.45 7.84761364 53.7704545-7.84772728v47.18977274l-53.7704545.426875z" fill="#91c300"/><path d="m40.5340909 52.1943182.0314773 39.1511363-40.53409093-5.5728409-.00227272-33.8409091z" fill="#00b4f1"/><path d="m99.2340909 52.5625-.0126136 46.9772727-53.7704546-7.5890909-.0753409-39.4761363z" fill="#ffc300"/></g></svg>
