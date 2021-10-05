@@ -93,7 +93,7 @@ command = "hugo"
   force = true
 
 [[redirects]]
-  from = "/*"
+  from = "/404.html"
   to = "/404"
   status = 301
   force = true
