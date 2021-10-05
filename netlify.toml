@@ -91,9 +91,3 @@ command = "hugo"
   to = "/terms-of-use"
   status = 301
   force = true
-
-[[redirects]]
-  from = "/404.html"
-  to = "/404"
-  status = 301
-  force = true
