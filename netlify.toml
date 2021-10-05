@@ -17,3 +17,4 @@ command = "hugo"
 [[redirects]]
   from = "/get-started.html"
   to = "/get-started"
+  status = 301
