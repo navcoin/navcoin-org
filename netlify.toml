@@ -15,7 +15,85 @@ command = "hugo"
     X-XSS-Protection = "1; mode=block"
 
 [[redirects]]
+  from = "/index.html"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/get-started.html"
   to = "/get-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/exchanges.html"
+  to = "/exchanges"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ecosystem.html"
+  to = "/ecosystem"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/grants.html"
+  to = "/grants"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/developers.html"
+  to = "/developers"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/responsible-disclosure.html"
+  to = "/responsible-disclosure"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/support.html"
+  to = "/support"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/roadmap.html"
+  to = "/roadmap"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/bounties.html"
+  to = "/bounties"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/assets.html"
+  to = "/assets"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/privacy-policy.html"
+  to = "/privacy-policy"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/terms-of-use.html"
+  to = "/terms-of-use"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/404.html"
+  to = "/404"
   status = 301
   force = true
