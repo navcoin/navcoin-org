@@ -18,3 +18,4 @@ command = "hugo"
   from = "/get-started.html"
   to = "/get-started"
   status = 301
+  force = true
