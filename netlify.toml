@@ -91,3 +91,4 @@ command = "hugo"
   to = "/terms-of-use"
   status = 301
   force = true
+
