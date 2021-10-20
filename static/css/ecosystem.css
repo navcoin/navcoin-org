@@ -1,0 +1,3 @@
+a[disable-focus-outline]:focus {
+  outline: none;
+}
