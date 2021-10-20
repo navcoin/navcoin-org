@@ -92,3 +92,8 @@ command = "hugo"
   status = 301
   force = true
 
+[[redirects]]
+  from = "/en"
+  to = "/"
+  status = 301
+  force = true
