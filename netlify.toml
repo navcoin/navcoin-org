@@ -93,7 +93,7 @@ command = "hugo"
   force = true
 
 [[redirects]]
-  from = "/en"
+  from = "/:lang"
   to = "/"
   status = 301
   force = true
