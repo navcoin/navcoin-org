@@ -93,13 +93,181 @@ command = "hugo"
   force = true
 
 [[redirects]]
-  from = "/:lang"
+  from = "/en"
   to = "/"
   status = 301
   force = true
 
 [[redirects]]
-  from = "/:lang/getting-started"
+  from = "/es"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ru"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/zh"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/kr"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/jp"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/it"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/downloads"
+  to = "/get-started#light-wallets"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/navpay"
+  to = "/get-started#light-wallets"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/manifestos"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/getting-started"
   to = "/get-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/about-this-website"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/about-navcoin"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/buying-navcoin"
+  to = "/get-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/how-to-accept-navcoin"
+  to = "/get-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/why-navcoin"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/governance"
+  to = "/ecosystem"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/for-individuals"
+  to = "/get-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/for-developers"
+  to = "/developers"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/responsible-disclosure"
+  to = "/responsible-disclosure"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/for-business"
+  to = "/get-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/buy-navcoin"
+  to = "/get-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/roadmap"
+  to = "/roadmap"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/merchants"
+  to = "/get-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/get-involved"
+  to = "/get-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/notices"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/community-fund"
+  to = "/grants"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/wallets"
+  to = "/get-started#light-wallets"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/privacy-policy"
+  to = "/privacy-policy"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/terms-of-use"
+  to = "/terms-of-use"
   status = 301
   force = true
