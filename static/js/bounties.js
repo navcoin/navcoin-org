@@ -36,5 +36,5 @@ function populateGrid(id, contentTemplateId, url) {
 populateGrid(
 	'bounty-programs-grid',
   'bounty-programs-content',
-  'data/bounty-programs.json'
+  '/data/bounty-programs.json'
 );

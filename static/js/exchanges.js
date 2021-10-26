@@ -1,4 +1,4 @@
-fetch('data/exchanges.json')
+fetch('/data/exchanges.json')
 	.then((result) => result.json())
   .then((data) => {
 	const grid = document.getElementsByClassName('exchange-grid')[0];

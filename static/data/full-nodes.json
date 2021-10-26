@@ -2,61 +2,61 @@
   {
     "id": "node-setup",
     "title": "Set up your own node",
-    "descriptionURL": "markdown/node-setup.md"
+    "descriptionURL": "/markdown/node-setup.md"
   },
   {
     "id": "locate-data",
     "title": "Locate your data directory",
-    "descriptionURL": "markdown/locate-data.md"
+    "descriptionURL": "/markdown/locate-data.md"
   },
   {
     "id": "add-nodes",
     "title": "Add custom nodes",
-    "descriptionURL": "markdown/add-nodes.md"
+    "descriptionURL": "/markdown/add-nodes.md"
   },
   {
     "id": "bootstrap-node",
     "title": "Bootstrap your node",
-    "descriptionURL": "markdown/bootstrap-node.md"
+    "descriptionURL": "/markdown/bootstrap-node.md"
   },
   {
     "id": "encrypt-wallet",
     "title": "Encrypt your wallet",
-    "descriptionURL": "markdown/encrypt-wallet.md"
+    "descriptionURL": "/markdown/encrypt-wallet.md"
   },
   {
     "id": "backup-wallet",
     "title": "Back up your wallet",
-    "descriptionURL": "markdown/backup-wallet.md"
+    "descriptionURL": "/markdown/backup-wallet.md"
   },
   {
     "id": "restore-wallet",
     "title": "Restore your wallet from a backup",
-    "descriptionURL": "markdown/restore-wallet.md"
+    "descriptionURL": "/markdown/restore-wallet.md"
   },
   {
     "id": "update-node",
     "title": "Update your node to the latest version",
-    "descriptionURL": "markdown/update-node.md"
+    "descriptionURL": "/markdown/update-node.md"
   },
   {
     "id": "balance-and-sync-issues",
     "title": "Fix balance and sync issues",
-    "descriptionURL": "markdown/balance-and-sync-issues.md"
+    "descriptionURL": "/markdown/balance-and-sync-issues.md"
   },
   {
     "id": "repair-wallet",
     "title": "Repair your wallet",
-    "descriptionURL": "markdown/repair-wallet.md"
+    "descriptionURL": "/markdown/repair-wallet.md"
   },
   {
     "id": "unlock-wallet-staking",
     "title": "Unlock your wallet for staking",
-    "descriptionURL": "markdown/unlock-wallet-staking.md"
+    "descriptionURL": "/markdown/unlock-wallet-staking.md"
   },
   {
     "id": "redirect-stakes",
     "title": "Redirect your stakes",
-    "descriptionURL": "markdown/redirect-stakes.md"
+    "descriptionURL": "/markdown/redirect-stakes.md"
   }
 ]
