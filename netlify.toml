@@ -97,3 +97,9 @@ command = "hugo"
   to = "/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/:lang/getting-started"
+  to = "/get-started"
+  status = 301
+  force = true
