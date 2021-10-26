@@ -35,10 +35,10 @@ function populateGrid(id, contentTemplateId, url) {
 populateGrid(
 	'light-wallets-grid',
   'light-wallets-content',
-  'data/light-wallets.json'
+  '/data/light-wallets.json'
 );
 populateGrid(
 	'full-nodes-grid',
   'full-nodes-content',
-  'data/full-nodes.json'
+  '/data/full-nodes.json'
 );
