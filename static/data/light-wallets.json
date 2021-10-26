@@ -2,16 +2,16 @@
   {
     "id": "navcash-staking",
     "title": "Use NavCash to stake your coins",
-    "descriptionURL": "markdown/navcash-staking.md"
+    "descriptionURL": "/markdown/navcash-staking.md"
   },
   {
     "id": "navcash-ledger-nano-s",
     "title": "Use NavCash with Ledger Nano S",
-    "descriptionURL": "markdown/navcash-ledger-nano-s.md"
+    "descriptionURL": "/markdown/navcash-ledger-nano-s.md"
   },
   {
     "id": "navcash-server",
     "title": "Set up your own NavCash server",
-    "descriptionURL": "markdown/navcash-server.md"
+    "descriptionURL": "/markdown/navcash-server.md"
   }
 ]
