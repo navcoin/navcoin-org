@@ -93,7 +93,145 @@ command = "hugo"
   force = true
 
 [[redirects]]
-  from = "/en"
+  from = "/:lang"
   to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/downloads"
+  to = "/get-started#light-wallets"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/navpay"
+  to = "/get-started#light-wallets"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/manifestos"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/getting-started"
+  to = "/get-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/about-this-website"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/about-navcoin"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/buying-navcoin"
+  to = "/get-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/how-to-accept-navcoin"
+  to = "/get-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/why-navcoin"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/governance"
+  to = "/ecosystem"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/for-individuals"
+  to = "/get-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/for-developers"
+  to = "/developers"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/responsible-disclosure"
+  to = "/responsible-disclosure"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/for-business"
+  to = "/get-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/buy-navcoin"
+  to = "/get-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/roadmap"
+  to = "/roadmap"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/merchants"
+  to = "/get-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/get-involved"
+  to = "/get-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/notices"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/community-fund"
+  to = "/grants"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/wallets"
+  to = "/get-started#light-wallets"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/privacy-policy"
+  to = "/privacy-policy"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/:lang/terms-of-use"
+  to = "/terms-of-use"
   status = 301
   force = true
