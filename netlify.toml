@@ -14,6 +14,8 @@ command = "hugo"
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
 
+# Redirect to remove the .html extension.
+
 [[redirects]]
   from = "/index.html"
   to = "/"
@@ -92,6 +94,82 @@ command = "hugo"
   status = 301
   force = true
 
+# Redirect from language code if used.
+
+[[redirects]]
+  from = "/*/get-started"
+  to = "/get-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/exchanges"
+  to = "/exchanges"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/ecosystem"
+  to = "/ecosystem"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/grants"
+  to = "/grants"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/developers"
+  to = "/developers"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/responsible-disclosure"
+  to = "/responsible-disclosure"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/support"
+  to = "/support"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/roadmap"
+  to = "/roadmap"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/bounties"
+  to = "/bounties"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/assets"
+  to = "/assets"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/privacy-policy"
+  to = "/privacy-policy"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/terms-of-use"
+  to = "/terms-of-use"
+  status = 301
+  force = true
+
+# Redirect from legacy language code.
+
 [[redirects]]
   from = "/en"
   to = "/"
@@ -133,6 +211,8 @@ command = "hugo"
   to = "/"
   status = 301
   force = true
+
+# Redirect from legacy sites.
 
 [[redirects]]
   from = "/*/downloads"
@@ -207,12 +287,6 @@ command = "hugo"
   force = true
 
 [[redirects]]
-  from = "/*/responsible-disclosure"
-  to = "/responsible-disclosure"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/*/for-business"
   to = "/get-started"
   status = 301
@@ -221,12 +295,6 @@ command = "hugo"
 [[redirects]]
   from = "/*/buy-navcoin"
   to = "/get-started"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/*/roadmap"
-  to = "/roadmap"
   status = 301
   force = true
 
@@ -257,17 +325,5 @@ command = "hugo"
 [[redirects]]
   from = "/*/wallets"
   to = "/get-started#light-wallets"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/*/privacy-policy"
-  to = "/privacy-policy"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/*/terms-of-use"
-  to = "/terms-of-use"
   status = 301
   force = true
