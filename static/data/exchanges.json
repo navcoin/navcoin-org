@@ -14,13 +14,13 @@
   {
     "name": "SouthXchange",
     "description": "No KYC required",
-    "url": "https://main.southxchange.com",
+    "url": "https://main.southxchange.com/Market/Book/NAV/BTC",
     "imageURL": "images/southxchange-logo.svg"
   },
   {
     "name": "Bisq",
     "description": "No KYC required",
-    "url": "https://bisq.network",
+    "url": "https://bisq.markets/market/nav_btc",
     "imageURL": "images/bisq-logo.svg"
   },
   {
@@ -32,7 +32,7 @@
   {
     "name": "Bitexlive",
     "description": "No KYC required",
-    "url": "https://bitexlive.com",
+    "url": "https://bitexlive.com/exchange/BTC-NAV",
     "imageURL": "images/bitexlive-logo.svg"
   },
   {
@@ -44,7 +44,7 @@
   {
     "name": "7b",
     "description": "No KYC required",
-    "url": "https://sevenb.io",
+    "url": "https://sevenb.io/currencies/nav-coin",
     "imageURL": "images/7b-logo.svg"
   },
   {
@@ -128,19 +128,19 @@
   {
     "name": "Binance",
     "description": "Requires KYC",
-    "url": "https://binance.com",
+    "url": "https://www.binance.com/en/trade/NAV_BTC",
     "imageURL": "images/binance-logo.svg"
   },
   {
     "name": "Bittrex",
     "description": "Requires KYC",
-    "url": "https://bittrex.com",
+    "url": "https://global.bittrex.com/Market/Index?MarketName=BTC-NAV",
     "imageURL": "images/bittrex-small-logo.png"
   },
   {
     "name": "HitBTC",
     "description": "Requires KYC",
-    "url": "https://hitbtc.com",
+    "url": "https://hitbtc.com/nav-to-btc",
     "imageURL": "images/hitbtc-logo.jpg"
   },
   {
@@ -158,19 +158,19 @@
   {
     "name": "BitPrime",
     "description": "Requires KYC",
-    "url": "https://www.bitprime.co.nz",
+    "url": "https://www.bitprime.co.nz/product/navcoin-nav/",
     "imageURL": "images/bitprime-logo.png"
   },
   {
     "name": "Crex24",
     "description": "Requires KYC",
-    "url": "https://crex24.com",
+    "url": "https://crex24.com/de/exchange/NAV-BTC",
     "imageURL": "images/crex24-logo.svg"
   },
   {
     "name": "Coinmerce",
     "description": "Requires KYC",
-    "url": "https://coinmerce.io",
+    "url": "https://coinmerce.io/en/navcoin/",
     "imageURL": "images/coinmerce-logo.png"
   },
   {
