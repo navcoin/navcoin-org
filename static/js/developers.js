@@ -3,7 +3,7 @@ fetch('https://api.github.com/repos/navcoin/navcoin-core/contributors?anon=true'
 .then((data) => {
     const grid = document.getElementsByClassName('protocol-contributors-grid')[0];
     const template = document.getElementsByClassName('protocol-contributor-content')[0];
-    
+
     for (let i = 0; i < data.length; i++) {
         const item = data[i];
         if (item.type == 'User') {
@@ -15,6 +15,6 @@ fetch('https://api.github.com/repos/navcoin/navcoin-core/contributors?anon=true'
             grid.append(content);
         }
     }
-    
+
     template.remove();
 });

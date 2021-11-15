@@ -5,7 +5,7 @@ fetch('https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@nav
         const entry = data.items[i];
         const format = /<img[^>]+src="([^">]+)/g
         const results = format.exec(entry.content);
-    
+
         if (results.length >= 2 && results[1].substr(0,14) != 'https://medium') {
             document.getElementById('news-image-'+(i+1)).src = results[1];
             document.getElementById('news-date-'+(i+1)).innerHTML = moment(entry.pubDate).format('LL');

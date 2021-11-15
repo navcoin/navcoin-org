@@ -3,7 +3,7 @@ fetch('/data/exchanges.json')
 .then((data) => {
     const grid = document.getElementsByClassName('exchange-grid')[0];
     const template = document.getElementsByClassName('exchange-content')[0];
-    
+
     for (let i = 0; i < data.length; i++) {
         const item = data[i];
         const content = template.cloneNode(true);
@@ -14,6 +14,6 @@ fetch('/data/exchanges.json')
         content.style.opacity = '100%';
         grid.append(content);
     }
-  
+
     template.remove();
 });
