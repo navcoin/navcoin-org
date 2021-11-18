@@ -138,12 +138,6 @@
     "imageURL": "images/bittrex-small-logo.png"
   },
   {
-    "name": "HitBTC",
-    "description": "Requires KYC",
-    "url": "https://hitbtc.com",
-    "imageURL": "images/hitbtc-logo.jpg"
-  },
-  {
     "name": "Guardarian",
     "description": "Requires KYC",
     "url": "https://guardarian.com",
