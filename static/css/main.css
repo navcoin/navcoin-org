@@ -2567,6 +2567,8 @@ figcaption {
 .protocol-contributor-repos {
   max-height: 56px;
   overflow: hidden;
+  transition: max-height 0.5s;
+  -webkit-transition: max-height 0.5s;
 }
 
 .protocol-contributor-repos:hover {
