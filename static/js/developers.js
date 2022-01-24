@@ -48,8 +48,6 @@ for (let i = 0; i < repos.length; i++) {
 }
 
 Promise.all(promises).then(() => {
-	console.log(contributors)
-
 	let sortedList = Object.values(contributors).sort((a, b) => {
 		if (a.contributions_total > b.contributions_total) {
 			return -1
@@ -62,14 +60,11 @@ Promise.all(promises).then(() => {
 		return 0
 	})
 
-	console.log(sortedList)
-
 	const grid = document.getElementsByClassName('protocol-contributors-grid')[0]
 	const template = document.getElementsByClassName('protocol-contributor-content')[0]
 
 	for (let i = 0; i < sortedList.length; i++) {
 		const user = sortedList[i]
-		console.log(user)
 		const content = template.cloneNode(true)
 		let repoListHTML = ''
 		content.querySelector('.protocol-contributor-image').src = user.avatar_url
