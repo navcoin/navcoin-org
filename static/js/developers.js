@@ -9,7 +9,8 @@ let repos = [
 
 	'agucyalled/nav-react',
 	'aguycalled/bitcore-lib',
-	'aguycalled/electrum aguycalled/electrumx',
+	'aguycalled/electrum',
+	'aguycalled/electrumx',
 	'aguycalled/electrum-client-js',
 	'aguycalled/ledger-app-nav',
 	'aguycalled/nav-ledger-loader',
@@ -75,18 +76,6 @@ Promise.all(promises).then(() => {
 		content.querySelector('.protocol-contributor-title').innerHTML = user.login
 		content.querySelector('.protocol-contributor-button').href = user.html_url
 		content.querySelector('.protocol-contributor-contributions').innerHTML = `${user.contributions_total}`
-
-		user.repos.sort((a, b) => {
-			if (a.contributions > b.contributions) {
-				return -1
-			}
-
-			if (a.contributions < b.contributions) {
-				return 1
-			}
-
-			return 0
-		})
 
 		for (let j = 0; j < user.repos.length; j++) {
 			const repo = user.repos[j]
