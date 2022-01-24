@@ -2575,6 +2575,7 @@ figcaption {
 
 .protocol-contributor-paragraph {
   font-family: 'Gotham Rounded', sans-serif;
+  margin-bottom: 0;
 }
 
 .protocol-contributor-button-repo {
