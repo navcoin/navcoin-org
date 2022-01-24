@@ -72,6 +72,12 @@ Promise.all(promises).then(() => {
 		content.querySelector('.protocol-contributor-button').href = user.html_url
 		content.querySelector('.protocol-contributor-contributions').innerHTML = `${user.contributions_total}`
 
+		user.repos.sort((a, b) => {
+			if(a.name < b.name) { return -1; }
+			if(a.name > b.name) { return 1; }
+			return 0;
+		})
+
 		for (let j = 0; j < user.repos.length; j++) {
 			const repo = user.repos[j]
 			let color1 = '46b1e8'
