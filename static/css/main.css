@@ -2564,6 +2564,20 @@ figcaption {
   background-color: #f0f0f0;
 }
 
+.protocol-contributor-repos {
+  max-height: 56px;
+  overflow: hidden;
+  transition: max-height 0.5s;
+  -webkit-transition: max-height 0.5s;
+}
+
+.protocol-contributor-repos:hover {
+  max-height: 1000px;
+}
+
+.protocol-contributor-contributions-label {
+  font-family: 'Gotham Rounded', sans-serif;
+}
 
 .protocol-contributor-button-repo {
   margin: 3px;
