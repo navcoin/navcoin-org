@@ -102,6 +102,29 @@ Promise.all(promises).then(() => {
 		content.style.opacity = '100%'
 		grid.append(content)
 
+		let el = content.querySelector('.protocol-contributor-repos')
+
+		if (el.scrollHeight > el.clientHeight) {
+			let showHide = content.querySelector('.protocol-contributor-showhide')
+			let showHideBtn = content.querySelector('.protocol-contributor-showhide-btn')
+			showHide.style.display = 'block'
+
+			let expanded = false
+			showHideBtn.onclick = () => {
+				// Switch it up
+				expanded = expanded ? false : true
+
+				// Add our class
+				if (expanded) {
+					content.querySelector('.protocol-contributor-repos').classList.add('protocol-contributor-repos-expanded')
+					content.querySelector('.protocol-contributor-showhide-btn').innerHTML = 'Show less'
+				} else {
+					content.querySelector('.protocol-contributor-repos').classList.remove('protocol-contributor-repos-expanded')
+					content.querySelector('.protocol-contributor-showhide-btn').innerHTML = 'Show more'
+				}
+			}
+		}
+
 		template.remove();
 	}
 })
