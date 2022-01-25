@@ -2603,6 +2603,11 @@ figcaption {
 .protocol-contributor-paragraph {
   font-family: 'Gotham Rounded', sans-serif;
   margin-bottom: 0;
+  margin-top: 0px;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  text-align: center;
 }
 
 .protocol-contributor-button-repo {
