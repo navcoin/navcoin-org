@@ -126,6 +126,12 @@
     "imageURL": "images/xchange-me-logo.jpg"
   },
   {
+    "name": "LetsExchange",
+    "description": "No KYC required",
+    "url": "https://letsexchange.io",
+    "imageURL": "images/letsexchange-logo.png"
+  },
+  {
     "name": "Binance",
     "description": "Requires KYC",
     "url": "https://binance.com",
