@@ -3213,10 +3213,6 @@ figcaption {
     padding-left: 25%;
   }
 
-  .top-feature-spacer {
-    height: 65px;
-  }
-
   .navigation-bar-image {
     max-height: 48px;
     max-width: 48px;
@@ -3424,7 +3420,7 @@ figcaption {
   }
 
   .top-feature-spacer {
-    height: 65px;
+    height: 60px;
   }
 
   .feature-content {
