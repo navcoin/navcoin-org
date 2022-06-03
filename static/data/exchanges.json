@@ -138,6 +138,12 @@
     "imageURL": "images/bitrue-logo.png"
   },
   {
+    "name": "AtomicDEX-CE",
+    "description": "No KYC required",
+    "url": "https://komodian.org/products/atomicdex-desktop-ce/",
+    "imageURL": "images/AtomicDEX_Mark-logo.png"
+  },
+  {
     "name": "Binance",
     "description": "Requires KYC",
     "url": "https://binance.com",
