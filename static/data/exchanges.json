@@ -1,5 +1,11 @@
 [
   {
+    "name": "AtomicDEX-CE",
+    "description": "No KYC required",
+    "url": "https://komodian.org/products/atomicdex-desktop-ce/",
+    "imageURL": "images/AtomicDEX_Mark-logo.png"
+  },
+  {
     "name": "PancakeSwap",
     "description": "No KYC required",
     "url": "https://pancakeswap.finance",
@@ -138,12 +144,6 @@
     "imageURL": "images/bitrue-logo.png"
   },
   {
-    "name": "AtomicDEX-CE",
-    "description": "No KYC required",
-    "url": "https://komodian.org/products/atomicdex-desktop-ce/",
-    "imageURL": "images/AtomicDEX_Mark-logo.png"
-  },
-  {
     "name": "Binance",
     "description": "Requires KYC",
     "url": "https://binance.com",
@@ -196,5 +196,11 @@
     "description": "Requires KYC",
     "url": "https://coinswitch.co",
     "imageURL": "images/coinswitch-logo.svg"
+  },
+  {
+    "name": "CoinDCX",
+    "description": "Requires KYC",
+    "url": "https://coindcx.com",
+    "imageURL": "images/CoinDCX-logo.svg"
   }
 ]
