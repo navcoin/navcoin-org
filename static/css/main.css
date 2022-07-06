@@ -3250,8 +3250,8 @@ figcaption {
 
 @media screen and (min-width: 1440px) {
   .get-started-exchange-grid {
-    padding-right: 10%;
-    padding-left: 10%;
+    padding-right: 15%;
+    padding-left: 15%;
   }
 
   .learn-tabs-grid {
@@ -3361,7 +3361,7 @@ figcaption {
   .get-started-exchange-grid {
     padding-right: 25%;
     padding-left: 25%;
-    grid-row-gap: 50px;
+    grid-row-gap: 25px;
     -ms-grid-columns: 1fr 1fr;
     grid-template-columns: 1fr 1fr;
   }
