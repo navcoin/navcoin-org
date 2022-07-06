@@ -3359,11 +3359,11 @@ figcaption {
   }
 
   .get-started-exchange-grid {
-    padding-right: 10%;
-    padding-left: 10%;
+    padding-right: 15%;
+    padding-left: 15%;
     grid-row-gap: 50px;
-    -ms-grid-columns: 1fr 1fr 1fr 1fr;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
   }
 
   .info-content {
@@ -3868,8 +3868,8 @@ figcaption {
   }
 
   .get-started-exchange-grid {
-    padding-right: 5%;
-    padding-left: 5%;
+    padding-right: 10%;
+    padding-left: 10%;
   }
 
   .button-divider {
