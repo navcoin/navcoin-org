@@ -638,8 +638,8 @@ figcaption {
   grid-auto-columns: 1fr;
   grid-column-gap: 25px;
   grid-row-gap: 25px;
-  -ms-grid-columns: 1fr 1fr;
-  grid-template-columns: 1fr 1fr;
+  -ms-grid-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   -ms-grid-rows: auto;
   grid-template-rows: auto;
 }
@@ -3362,8 +3362,8 @@ figcaption {
     padding-right: 15%;
     padding-left: 15%;
     grid-row-gap: 50px;
-    -ms-grid-columns: 1fr 1fr;
-    grid-template-columns: 1fr 1fr;
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
   }
 
   .info-content {
