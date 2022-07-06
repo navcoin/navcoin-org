@@ -3209,8 +3209,8 @@ figcaption {
 
 @media screen and (min-width: 1280px) {
   .get-started-exchange-grid {
-    padding-right: 15%;
-    padding-left: 15%;
+    padding-right: 10%;
+    padding-left: 10%;
   }
 
   .navigation-bar-image {
@@ -3250,8 +3250,8 @@ figcaption {
 
 @media screen and (min-width: 1440px) {
   .get-started-exchange-grid {
-    padding-right: 15%;
-    padding-left: 15%;
+    padding-right: 10%;
+    padding-left: 10%;
   }
 
   .learn-tabs-grid {
@@ -3359,8 +3359,8 @@ figcaption {
   }
 
   .get-started-exchange-grid {
-    padding-right: 20%;
-    padding-left: 20%;
+    padding-right: 15%;
+    padding-left: 15%;
     grid-row-gap: 50px;
     -ms-grid-columns: 1fr 1fr;
     grid-template-columns: 1fr 1fr;
