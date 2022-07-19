@@ -624,8 +624,8 @@ figcaption {
   max-width: 100%;
   margin-right: auto;
   margin-left: auto;
-  padding-right: 20%;
-  padding-left: 20%;
+  padding-right: 10%;
+  padding-left: 10%;
   -webkit-box-pack: stretch;
   -webkit-justify-content: stretch;
   -ms-flex-pack: stretch;
@@ -638,8 +638,8 @@ figcaption {
   grid-auto-columns: 1fr;
   grid-column-gap: 25px;
   grid-row-gap: 25px;
-  -ms-grid-columns: 1fr 1fr 1fr;
-  grid-template-columns: 1fr 1fr 1fr;
+  -ms-grid-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   -ms-grid-rows: auto;
   grid-template-rows: auto;
 }
@@ -3209,8 +3209,8 @@ figcaption {
 
 @media screen and (min-width: 1280px) {
   .get-started-exchange-grid {
-    padding-right: 25%;
-    padding-left: 25%;
+    padding-right: 10%;
+    padding-left: 10%;
   }
 
   .navigation-bar-image {
@@ -3250,8 +3250,8 @@ figcaption {
 
 @media screen and (min-width: 1440px) {
   .get-started-exchange-grid {
-    padding-right: 30%;
-    padding-left: 30%;
+    padding-right: 15%;
+    padding-left: 15%;
   }
 
   .learn-tabs-grid {
@@ -3359,11 +3359,11 @@ figcaption {
   }
 
   .get-started-exchange-grid {
-    padding-right: 15%;
-    padding-left: 15%;
-    grid-row-gap: 50px;
-    -ms-grid-columns: 1fr 1fr 1fr;
-    grid-template-columns: 1fr 1fr 1fr;
+    padding-right: 25%;
+    padding-left: 25%;
+    grid-row-gap: 25px;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
   }
 
   .info-content {
@@ -3868,8 +3868,8 @@ figcaption {
   }
 
   .get-started-exchange-grid {
-    padding-right: 10%;
-    padding-left: 10%;
+    padding-right: 15%;
+    padding-left: 15%;
   }
 
   .button-divider {
