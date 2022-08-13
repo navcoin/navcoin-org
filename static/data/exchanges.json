@@ -30,22 +30,10 @@
     "imageURL": "images/bisq-logo.svg"
   },
   {
-    "name": "Godex",
-    "description": "No KYC required",
-    "url": "https://godex.io",
-    "imageURL": "images/godex-logo.png"
-  },
-  {
     "name": "Bitexlive",
     "description": "No KYC required",
     "url": "https://bitexlive.com",
     "imageURL": "images/bitexlive-logo.svg"
-  },
-  {
-    "name": "Exolix",
-    "description": "No KYC required",
-    "url": "https://exolix.com",
-    "imageURL": "images/exolix-logo.jpg"
   },
   {
     "name": "7b",
@@ -60,64 +48,10 @@
     "imageURL": "images/stakecube-logo.png"
   },
   {
-    "name": "ChangeNow",
-    "description": "No KYC required",
-    "url": "https://changenow.io",
-    "imageURL": "images/changenow-logo.svg"
-  },
-  {
-    "name": "SwapSpace",
-    "description": "No KYC required",
-    "url": "https://swapspace.co",
-    "imageURL": "images/swapspace-logo.svg"
-  },
-  {
-    "name": "SwapSwop",
-    "description": "No KYC required",
-    "url": "https://swapswop.io",
-    "imageURL": "images/swapswop-logo.png"
-  },
-  {
-    "name": "SimpleSwap",
-    "description": "No KYC required",
-    "url": "https://simpleswap.io",
-    "imageURL": "images/simpleswap-logo.png"
-  },
-  {
-    "name": "Swapzone",
-    "description": "No KYC required",
-    "url": "https://swapzone.io",
-    "imageURL": "images/swapzone-logo.svg"
-  },
-  {
-    "name": "changeangel",
-    "description": "No KYC required",
-    "url": "https://changeangel.io",
-    "imageURL": "images/changeangel-logo.jpg"
-  },
-  {
-    "name": "StealthEX",
-    "description": "No KYC required",
-    "url": "https://stealthex.io",
-    "imageURL": "images/stealthex-logo.svg"
-  },
-  {
     "name": "InstaSwap",
     "description": "No KYC required",
     "url": "https://instaswap.io",
     "imageURL": "images/instaswap-logo.png"
-  },
-  {
-    "name": "SWAP4.ME",
-    "description": "No KYC required",
-    "url": "https://swap4.me",
-    "imageURL": "images/swap4me-logo.svg"
-  },
-  {
-    "name": "EasyBit",
-    "description": "No KYC required",
-    "url": "https://easybit.com",
-    "imageURL": "images/easybit-logo.png"
   },
   {
     "name": "Switchain",
@@ -126,40 +60,16 @@
     "imageURL": "images/switchain-logo.svg"
   },
   {
-    "name": "Xchange.me",
-    "description": "No KYC required",
-    "url": "https://xchange.me",
-    "imageURL": "images/xchange-me-logo.jpg"
-  },
-  {
-    "name": "LetsExchange",
-    "description": "No KYC required",
-    "url": "https://letsexchange.io",
-    "imageURL": "images/letsexchange-logo.png"
-  },
-  {
     "name": "Bitrue",
     "description": "No KYC required",
     "url": "https://www.bitrue.com",
     "imageURL": "images/bitrue-logo.png"
   },
   {
-    "name": "Binance",
-    "description": "Requires KYC",
-    "url": "https://binance.com",
-    "imageURL": "images/binance-logo.svg"
-  },
-  {
     "name": "Bittrex",
     "description": "Requires KYC",
     "url": "https://bittrex.com",
     "imageURL": "images/bittrex-small-logo.png"
-  },
-  {
-    "name": "Guardarian",
-    "description": "Requires KYC",
-    "url": "https://guardarian.com",
-    "imageURL": "images/guardarian-logo.svg"
   },
   {
     "name": "Easy Crypto",
