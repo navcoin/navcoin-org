@@ -36,28 +36,10 @@
     "imageURL": "images/bitexlive-logo.svg"
   },
   {
-    "name": "7b",
-    "description": "No KYC required",
-    "url": "https://sevenb.io",
-    "imageURL": "images/7b-logo.svg"
-  },
-  {
     "name": "StakeCube",
     "description": "No KYC required",
     "url": "https://stakecube.net/crypto-exchange",
     "imageURL": "images/stakecube-logo.png"
-  },
-  {
-    "name": "InstaSwap",
-    "description": "No KYC required",
-    "url": "https://instaswap.io",
-    "imageURL": "images/instaswap-logo.png"
-  },
-  {
-    "name": "Switchain",
-    "description": "No KYC required",
-    "url": "https://switchain.com",
-    "imageURL": "images/switchain-logo.svg"
   },
   {
     "name": "Bitrue",
@@ -72,18 +54,6 @@
     "imageURL": "images/bittrex-small-logo.png"
   },
   {
-    "name": "Easy Crypto",
-    "description": "Requires KYC",
-    "url": "https://easycrypto.com/nz",
-    "imageURL": "images/easy-crypto-logo.svg"
-  },
-  {
-    "name": "BitPrime",
-    "description": "Requires KYC",
-    "url": "https://www.bitprime.co.nz",
-    "imageURL": "images/bitprime-logo.png"
-  },
-  {
     "name": "Crex24",
     "description": "Requires KYC",
     "url": "https://crex24.com",
@@ -96,21 +66,9 @@
     "imageURL": "images/coinmerce-logo.png"
   },
   {
-    "name": "Sequoir",
-    "description": "Requires KYC",
-    "url": "https://sequoir.com",
-    "imageURL": "images/sequoir-logo.jpg"
-  },
-  {
     "name": "CoinSwitch",
     "description": "Requires KYC",
     "url": "https://coinswitch.co",
     "imageURL": "images/coinswitch-logo.svg"
-  },
-  {
-    "name": "CoinDCX",
-    "description": "Requires KYC",
-    "url": "https://coindcx.com",
-    "imageURL": "images/CoinDCX-logo.svg"
-  }
+  } 
 ]
