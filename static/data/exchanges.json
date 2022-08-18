@@ -58,17 +58,5 @@
     "description": "Requires KYC",
     "url": "https://crex24.com",
     "imageURL": "images/crex24-logo.svg"
-  },
-  {
-    "name": "Coinmerce",
-    "description": "Requires KYC",
-    "url": "https://coinmerce.io",
-    "imageURL": "images/coinmerce-logo.png"
-  },
-  {
-    "name": "CoinSwitch",
-    "description": "Requires KYC",
-    "url": "https://coinswitch.co",
-    "imageURL": "images/coinswitch-logo.svg"
-  } 
+  }
 ]
