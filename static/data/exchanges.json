@@ -17,6 +17,12 @@
     "url": "https://atomicdex.io",
     "imageURL": "images/atomicdex-logo.svg"
   },
+    {
+    "name": "Bitrue",
+    "description": "No KYC required",
+    "url": "https://www.bitrue.com",
+    "imageURL": "images/bitrue-logo.png"
+  },
   {
     "name": "SouthXchange",
     "description": "No KYC required",
@@ -40,12 +46,6 @@
     "description": "No KYC required",
     "url": "https://stakecube.net/crypto-exchange",
     "imageURL": "images/stakecube-logo.png"
-  },
-  {
-    "name": "Bitrue",
-    "description": "No KYC required",
-    "url": "https://www.bitrue.com",
-    "imageURL": "images/bitrue-logo.png"
   },
   {
     "name": "Bittrex",
