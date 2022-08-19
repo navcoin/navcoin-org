@@ -17,6 +17,12 @@
     "url": "https://atomicdex.io",
     "imageURL": "images/atomicdex-logo.svg"
   },
+    {
+    "name": "Bitrue",
+    "description": "No KYC required",
+    "url": "https://www.bitrue.com",
+    "imageURL": "images/bitrue-logo.png"
+  },
   {
     "name": "SouthXchange",
     "description": "No KYC required",
@@ -42,12 +48,6 @@
     "imageURL": "images/stakecube-logo.png"
   },
   {
-    "name": "Bitrue",
-    "description": "No KYC required",
-    "url": "https://www.bitrue.com",
-    "imageURL": "images/bitrue-logo.png"
-  },
-  {
     "name": "Bittrex",
     "description": "Requires KYC",
     "url": "https://bittrex.com",
@@ -58,17 +58,5 @@
     "description": "Requires KYC",
     "url": "https://crex24.com",
     "imageURL": "images/crex24-logo.svg"
-  },
-  {
-    "name": "Coinmerce",
-    "description": "Requires KYC",
-    "url": "https://coinmerce.io",
-    "imageURL": "images/coinmerce-logo.png"
-  },
-  {
-    "name": "CoinSwitch",
-    "description": "Requires KYC",
-    "url": "https://coinswitch.co",
-    "imageURL": "images/coinswitch-logo.svg"
-  } 
+  }
 ]
