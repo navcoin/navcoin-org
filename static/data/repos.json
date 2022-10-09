@@ -1,0 +1,18 @@
+[
+	"navcoin/navcoin-core",
+	"navcoin/navcoin-org",
+	"navcoin/KnowledgeBase",
+
+	"aguycalled/nav-react",
+	"aguycalled/bitcore-lib",
+	"aguycalled/electrum",
+	"aguycalled/electrumx",
+	"aguycalled/electrum-client-js",
+	"aguycalled/ledger-app-nav",
+	"aguycalled/nav-ledger-loader",
+	"aguycalled/navcoin-js",
+	"aguycalled/wnav-react",
+
+	"sakdeniz/next",
+	"sakdeniz/next-mobile"
+]
