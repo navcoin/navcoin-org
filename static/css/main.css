@@ -2522,7 +2522,7 @@ figcaption {
 .protocol-contributor-content {
   display: -ms-grid;
   display: grid;
-  padding: 30px;
+  padding: 30px 20px;
   grid-auto-flow: row;
   grid-auto-columns: 1fr;
   grid-column-gap: 0px;
@@ -2566,6 +2566,76 @@ figcaption {
   background-color: #f0f0f0;
 }
 
+.protocol-contributor-showhide-btn {
+  margin: 3px;
+  display:inline-block;
+  position: relative;
+  width: auto;
+  padding: 0px 6px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #686868;
+  background-color: #ebebeb;
+  font-family: 'Gotham Rounded', sans-serif;
+  color: #050505;
+  font-size: 12px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.protocol-contributor-repos {
+  max-height: 28px;
+  overflow: hidden;
+  transition: max-height 0.5s;
+  -webkit-transition: max-height 0.5s;
+}
+
+.protocol-contributor-repos-expanded {
+  max-height: 1000px;
+}
+
+.protocol-contributor-paragraph {
+  font-family: 'Gotham Rounded', sans-serif;
+  margin-bottom: 0;
+  margin-top: 0px;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.protocol-contributor-button-repo {
+  margin: 3px;
+  display:inline-block;
+  position: relative;
+  width: auto;
+  padding: 0px 6px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #686868;
+  background-color: #ebebeb;
+  font-family: 'Gotham Rounded', sans-serif;
+  color: #050505;
+  font-size: 12px;
+  font-weight: normal;
+  text-align: center;
+}
 .protocol-contributor-title {
   margin-top: 0px;
   margin-bottom: 0px;
